@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 57 - That's Not How I Remember It",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We went straight to Bay 4 after the train arrived, didn't we?",
-      "src": "/audio/book-02/lesson-57/lines/01.wav",
+      "start": 0.35,
+      "end": 4.125,
       "duration": 3.775
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That's not how I remember it. I remember waiting at Bay 6 while you bought the day passes.",
-      "src": "/audio/book-02/lesson-57/lines/02.wav",
+      "start": 4.405,
+      "end": 10.855,
       "duration": 6.45
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "As I remember it, the board was already showing Bay 4 when we entered the station hall.",
-      "src": "/audio/book-02/lesson-57/lines/03.wav",
+      "start": 11.135,
+      "end": 16.81,
       "duration": 5.675
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I may be mixing up the first board with the later announcement, but an attendant definitely pointed me toward Bay 6.",
-      "src": "/audio/book-02/lesson-57/lines/04.wav",
+      "start": 17.09,
+      "end": 24.865,
       "duration": 7.775
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What happened before I went to the ticket machine?",
-      "src": "/audio/book-02/lesson-57/lines/05.wav",
+      "start": 25.145,
+      "end": 28.195,
       "duration": 3.05
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "The train had arrived at nine oh five. We checked the main board, and then you went to buy the passes.",
-      "src": "/audio/book-02/lesson-57/lines/06.wav",
+      "start": 28.475,
+      "end": 35.15,
       "duration": 6.675
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "While I was paying, were you waiting beside the shuttle sign?",
-      "src": "/audio/book-02/lesson-57/lines/07.wav",
+      "start": 35.43,
+      "end": 39.08,
       "duration": 3.65
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Yes. I took a photo because the bay number was partly hidden by a poster.",
-      "src": "/audio/book-02/lesson-57/lines/08.wav",
+      "start": 39.36,
+      "end": 44.86,
       "duration": 5.5
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What time does the photo show?",
-      "src": "/audio/book-02/lesson-57/lines/09.wav",
+      "start": 45.14,
+      "end": 47.115,
       "duration": 1.975
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Nine twelve, and the sign in the photo says Bay 6.",
-      "src": "/audio/book-02/lesson-57/lines/10.wav",
+      "start": 47.395,
+      "end": 51.495,
       "duration": 4.1
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Then my memory of going straight to Bay 4 can't be complete. What happened after the photo?",
-      "src": "/audio/book-02/lesson-57/lines/11.wav",
+      "start": 52.625,
+      "end": 58.775,
       "duration": 6.15
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "A service alert sounded while you were walking back. It moved the nine twenty-two shuttle from Bay 6 to Bay 4.",
-      "src": "/audio/book-02/lesson-57/lines/12.wav",
+      "start": 59.055,
+      "end": 66.63,
       "duration": 7.575
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That fits. By the time I returned, the board had changed, so Bay 4 is the part I remembered.",
-      "src": "/audio/book-02/lesson-57/lines/13.wav",
+      "start": 66.91,
+      "end": 73.21,
       "duration": 6.3
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "The alert in my phone history is time-stamped nine fourteen.",
-      "src": "/audio/book-02/lesson-57/lines/14.wav",
+      "start": 73.49,
+      "end": 78.24,
       "duration": 4.75
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And my pass receipt says nine eleven. The records show that you waited at Bay 6 while I was buying the passes.",
-      "src": "/audio/book-02/lesson-57/lines/15.wav",
+      "start": 78.52,
+      "end": 86.145,
       "duration": 7.625
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Then we both walked to Bay 4 after the alert and boarded at nine twenty-two.",
-      "src": "/audio/book-02/lesson-57/lines/16.wav",
+      "start": 86.425,
+      "end": 91.875,
       "duration": 5.45
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "We were both right about one part and incomplete about another.",
-      "src": "/audio/book-02/lesson-57/lines/17.wav",
+      "start": 92.155,
+      "end": 96.205,
       "duration": 4.05
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Exactly. My first version left out the change, and yours left out the original bay.",
-      "src": "/audio/book-02/lesson-57/lines/18.wav",
+      "start": 96.485,
+      "end": 102.71,
       "duration": 6.225
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Thanks for flagging that. What I meant was that Bay 4 was the only bay I saw after buying the passes.",
-      "src": "/audio/book-02/lesson-57/lines/19.wav",
+      "start": 102.99,
+      "end": 110.19,
       "duration": 7.2
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "To avoid confusion, let's write the final sequence with both bay numbers and the alert time.",
-      "src": "/audio/book-02/lesson-57/lines/20.wav",
+      "start": 110.47,
+      "end": 117.02,
       "duration": 6.55
     }
   ]

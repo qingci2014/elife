@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 2 - What Have You Been Up To?",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Thanks for getting back to me. It's nice to have more than five minutes this time.",
-      "src": "/audio/book-01/lesson-02/lines/01.wav",
+      "start": 0.35,
+      "end": 5.375,
       "duration": 5.025
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Definitely. We can finally catch up. What have you been up to since I left Riverton?",
-      "src": "/audio/book-01/lesson-02/lines/02.wav",
+      "start": 5.655,
+      "end": 10.98,
       "duration": 5.325
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Quite a lot. I've changed roles at the hospital, as you know, and I've taken a few short training courses.",
-      "src": "/audio/book-01/lesson-02/lines/03.wav",
+      "start": 11.26,
+      "end": 18.01,
       "duration": 6.75
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "When did you take the most recent one?",
-      "src": "/audio/book-01/lesson-02/lines/04.wav",
+      "start": 18.29,
+      "end": 20.79,
       "duration": 2.5
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Three months ago. It was a three-day course for hospital trainers.",
-      "src": "/audio/book-01/lesson-02/lines/05.wav",
+      "start": 21.07,
+      "end": 25.37,
       "duration": 4.3
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "How did that go?",
-      "src": "/audio/book-01/lesson-02/lines/06.wav",
+      "start": 25.65,
+      "end": 27.275,
       "duration": 1.625
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Really well. I met trainers from five other hospitals and came home with too many ideas.",
-      "src": "/audio/book-01/lesson-02/lines/07.wav",
+      "start": 27.555,
+      "end": 33.805,
       "duration": 6.25
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That sounds like you.",
-      "src": "/audio/book-01/lesson-02/lines/08.wav",
+      "start": 34.085,
+      "end": 35.81,
       "duration": 1.725
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Maybe. Are you still getting used to working from home?",
-      "src": "/audio/book-01/lesson-02/lines/09.wav",
+      "start": 36.09,
+      "end": 39.54,
       "duration": 3.45
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Not really. I've worked remotely on lots of different projects.",
-      "src": "/audio/book-01/lesson-02/lines/10.wav",
+      "start": 39.82,
+      "end": 43.97,
       "duration": 4.15
     },
     {
@@ -92,7 +103,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "When did you start?",
-      "src": "/audio/book-01/lesson-02/lines/11.wav",
+      "start": 44.25,
+      "end": 46.05,
       "duration": 1.8
     },
     {
@@ -100,7 +112,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "About two years ago, right after I left my old job.",
-      "src": "/audio/book-01/lesson-02/lines/12.wav",
+      "start": 46.33,
+      "end": 50.08,
       "duration": 3.75
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "What about Seattle? Have you been back since you moved back?",
-      "src": "/audio/book-01/lesson-02/lines/13.wav",
+      "start": 51.21,
+      "end": 54.76,
       "duration": 3.55
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Not yet. I still have friends there, but I don't miss the traffic. I don't commute anymore.",
-      "src": "/audio/book-01/lesson-02/lines/14.wav",
+      "start": 55.04,
+      "end": 60.515,
       "duration": 5.475
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "That's a big change.",
-      "src": "/audio/book-01/lesson-02/lines/15.wav",
+      "start": 60.795,
+      "end": 62.695,
       "duration": 1.9
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "It is. And I've taken more pictures since I moved back.",
-      "src": "/audio/book-01/lesson-02/lines/16.wav",
+      "start": 62.975,
+      "end": 66.6,
       "duration": 3.625
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Really? What have you photographed?",
-      "src": "/audio/book-01/lesson-02/lines/17.wav",
+      "start": 66.88,
+      "end": 69.33,
       "duration": 2.45
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Mostly places that have changed. Last Sunday, I photographed part of the old bookstore sign behind Corner Table.",
-      "src": "/audio/book-01/lesson-02/lines/18.wav",
+      "start": 69.61,
+      "end": 77.335,
       "duration": 7.725
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "I didn't know any of it was still there.",
-      "src": "/audio/book-01/lesson-02/lines/19.wav",
+      "start": 77.615,
+      "end": 80.015,
       "duration": 2.4
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Only a small part. Here—it's on my phone.",
-      "src": "/audio/book-01/lesson-02/lines/20.wav",
+      "start": 80.295,
+      "end": 83.195,
       "duration": 2.9
     },
     {
@@ -172,7 +193,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Oh, I like it. Have you ever thought about making this a project?",
-      "src": "/audio/book-01/lesson-02/lines/21.wav",
+      "start": 83.475,
+      "end": 87.65,
       "duration": 4.175
     },
     {
@@ -180,7 +202,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Not until now.",
-      "src": "/audio/book-01/lesson-02/lines/22.wav",
+      "start": 87.93,
+      "end": 89.505,
       "duration": 1.575
     },
     {
@@ -188,7 +211,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "What made you start taking these pictures?",
-      "src": "/audio/book-01/lesson-02/lines/23.wav",
+      "start": 89.785,
+      "end": 92.485,
       "duration": 2.7
     },
     {
@@ -196,7 +220,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Moving back. I used to walk past these places without thinking. Now I notice what's different.",
-      "src": "/audio/book-01/lesson-02/lines/24.wav",
+      "start": 92.765,
+      "end": 98.79,
       "duration": 6.025
     },
     {
@@ -204,7 +229,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Well, I'm glad we finally did this.",
-      "src": "/audio/book-01/lesson-02/lines/25.wav",
+      "start": 99.07,
+      "end": 101.72,
       "duration": 2.65
     },
     {
@@ -212,7 +238,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Me too. Eight years is a lot to fit into one lunch.",
-      "src": "/audio/book-01/lesson-02/lines/26.wav",
+      "start": 102.0,
+      "end": 105.65,
       "duration": 3.65
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 44 - We Need a Better Option",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The rehearsal showed that our small direction card isn't clear enough. We need a better option before the public event.",
-      "src": "/audio/book-02/lesson-44/lines/01.wav",
+      "start": 0.35,
+      "end": 8.25,
       "duration": 7.9
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Let's compare the three ideas by the same criteria: clarity, accessibility, cost, storage and staffing.",
-      "src": "/audio/book-02/lesson-44/lines/02.wav",
+      "start": 8.53,
+      "end": 15.555,
       "duration": 7.025
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Option one is a set of printed wall arrows that lead from the front doors to the side gallery. They cost about forty-five dollars.",
-      "src": "/audio/book-02/lesson-44/lines/03.wav",
+      "start": 15.835,
+      "end": 24.81,
       "duration": 8.975
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The advantage is a continuous route. The downside is that adhesive has to be approved, and the arrows are mostly single-use.",
-      "src": "/audio/book-02/lesson-44/lines/04.wav",
+      "start": 25.09,
+      "end": 33.79,
       "duration": 8.7
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Option two is two reusable standing signs: one next to the service desk and one that faces people leaving the elevator. The quote is one hundred eighty dollars, including one sample panel.",
-      "src": "/audio/book-02/lesson-44/lines/05.wav",
+      "start": 34.07,
+      "end": 45.845,
       "duration": 11.775
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "They can be moved, stored and used for later events. We'd have the large text printed on replaceable panels.",
-      "src": "/audio/book-02/lesson-44/lines/06.wav",
+      "start": 46.125,
+      "end": 53.65,
       "duration": 7.525
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Option three is a volunteer greeter who stays near the front doors.",
-      "src": "/audio/book-02/lesson-44/lines/07.wav",
+      "start": 53.93,
+      "end": 58.68,
       "duration": 4.75
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "A person can answer questions, but one greeter won't cover the whole afternoon. We'd need two volunteers per hour and a backup for breaks.",
-      "src": "/audio/book-02/lesson-44/lines/08.wav",
+      "start": 58.96,
+      "end": 67.26,
       "duration": 8.3
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The main trade-off is flexibility versus dependable coverage.",
-      "src": "/audio/book-02/lesson-44/lines/09.wav",
+      "start": 67.54,
+      "end": 72.065,
       "duration": 4.525
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What would you do?",
-      "src": "/audio/book-02/lesson-44/lines/10.wav",
+      "start": 73.195,
+      "end": 74.745,
       "duration": 1.55
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "If I were you, I'd choose the standing signs as the base plan. The safest option is the one that doesn't depend on continuous staffing or wall adhesive.",
-      "src": "/audio/book-02/lesson-44/lines/11.wav",
+      "start": 75.025,
+      "end": 84.6,
       "duration": 9.575
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I agree, but let's keep one greeter for the opening hour, when questions will be most frequent.",
-      "src": "/audio/book-02/lesson-44/lines/12.wav",
+      "start": 84.88,
+      "end": 90.805,
       "duration": 5.925
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Based on our criteria, the best fit is two standing signs plus one opening-hour greeter. The signs stay within the two-hundred-dollar wayfinding limit.",
-      "src": "/audio/book-02/lesson-44/lines/13.wav",
+      "start": 91.085,
+      "end": 101.535,
       "duration": 10.45
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "We should still test readability. I'm having one sample panel printed before the full order.",
-      "src": "/audio/book-02/lesson-44/lines/14.wav",
+      "start": 101.815,
+      "end": 107.865,
       "duration": 6.05
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And the payment record should be checked before anything is reordered. We were charged twice last time, even though the refund has now been issued.",
-      "src": "/audio/book-02/lesson-44/lines/15.wav",
+      "start": 108.145,
+      "end": 117.445,
       "duration": 9.3
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Good. I'll ask for one itemized quote and written approval before the full order is placed.",
-      "src": "/audio/book-02/lesson-44/lines/16.wav",
+      "start": 117.725,
+      "end": 123.7,
       "duration": 5.975
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The downside is storage. Where will the signs go afterward?",
-      "src": "/audio/book-02/lesson-44/lines/17.wav",
+      "start": 123.98,
+      "end": 128.28,
       "duration": 4.3
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "In the closet that is behind the service desk. Facilities confirmed that the lower shelf is available.",
-      "src": "/audio/book-02/lesson-44/lines/18.wav",
+      "start": 128.56,
+      "end": 135.785,
       "duration": 7.225
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Then we can revisit the layout if the sample is hard to read, but we don't need to reopen the whole decision.",
-      "src": "/audio/book-02/lesson-44/lines/19.wav",
+      "start": 136.065,
+      "end": 143.14,
       "duration": 7.075
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Agreed. I'll send a summary with the option, reasons, cost limit, sample test and owners.",
-      "src": "/audio/book-02/lesson-44/lines/20.wav",
+      "start": 143.42,
+      "end": 149.92,
       "duration": 6.5
     }
   ]

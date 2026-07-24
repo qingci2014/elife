@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 25 - Did You Get My Message?",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "Hi, Daniel. Did you get my message about the orientation guide?",
-      "src": "/audio/book-01/lesson-25/lines/01.wav",
+      "start": 0.35,
+      "end": 4.4,
       "duration": 4.05
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Yes, I saw the message this morning, but I haven't received the attachment yet.",
-      "src": "/audio/book-01/lesson-25/lines/02.wav",
+      "start": 4.68,
+      "end": 9.605,
       "duration": 4.925
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "That's odd. I've already sent it twice.",
-      "src": "/audio/book-01/lesson-25/lines/03.wav",
+      "start": 9.885,
+      "end": 12.635,
       "duration": 2.75
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The message arrived, but there wasn't a file attached. Could you check the version in your sent folder?",
-      "src": "/audio/book-01/lesson-25/lines/04.wav",
+      "start": 12.915,
+      "end": 19.14,
       "duration": 6.225
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "You're right. I attached the meeting notes, not the guide. I've just sent the correct file separately.",
-      "src": "/audio/book-01/lesson-25/lines/05.wav",
+      "start": 19.42,
+      "end": 24.795,
       "duration": 5.375
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "It hasn't appeared yet. I'll refresh my inbox and check my spam folder.",
-      "src": "/audio/book-01/lesson-25/lines/06.wav",
+      "start": 25.075,
+      "end": 29.95,
       "duration": 4.875
     },
     {
@@ -60,7 +67,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Okay, it's here now: “Orientation Guide, version three.”",
-      "src": "/audio/book-01/lesson-25/lines/07.wav",
+      "start": 31.08,
+      "end": 35.03,
       "duration": 3.95
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Great. Can you confirm you received all twelve pages?",
-      "src": "/audio/book-01/lesson-25/lines/08.wav",
+      "start": 35.31,
+      "end": 38.885,
       "duration": 3.575
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Yes, twelve pages. I've already opened it, and the comments are visible.",
-      "src": "/audio/book-01/lesson-25/lines/09.wav",
+      "start": 39.165,
+      "end": 43.64,
       "duration": 4.475
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Does page four show two comment boxes beside the welcome paragraph?",
-      "src": "/audio/book-01/lesson-25/lines/10.wav",
+      "start": 43.92,
+      "end": 48.47,
       "duration": 4.55
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Yes, both boxes are there, and I can read the full notes.",
-      "src": "/audio/book-01/lesson-25/lines/11.wav",
+      "start": 48.75,
+      "end": 52.5,
       "duration": 3.75
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Perfect. Could you update the welcome section by three this afternoon?",
-      "src": "/audio/book-01/lesson-25/lines/12.wav",
+      "start": 52.78,
+      "end": 57.13,
       "duration": 4.35
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Yes. I'll send it again as both a document and a PDF, so you can compare them.",
-      "src": "/audio/book-01/lesson-25/lines/13.wav",
+      "start": 57.41,
+      "end": 63.01,
       "duration": 5.6
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Thanks. If I haven't replied by four, please follow up. I may be in a meeting.",
-      "src": "/audio/book-01/lesson-25/lines/14.wav",
+      "start": 63.29,
+      "end": 67.765,
       "duration": 4.475
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Will do. I'll put “Updated welcome section” in the subject line.",
-      "src": "/audio/book-01/lesson-25/lines/15.wav",
+      "start": 68.045,
+      "end": 72.345,
       "duration": 4.3
     }
   ]

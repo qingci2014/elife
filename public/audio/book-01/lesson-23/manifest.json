@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 23 - The Wi-Fi Keeps Dropping",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Support agent",
       "text": "What problem are you having today?",
-      "src": "/audio/book-01/lesson-23/lines/01.wav",
+      "start": 0.35,
+      "end": 2.85,
       "duration": 2.5
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The Wi-Fi keeps dropping. It disconnects every twenty or thirty minutes, then comes back after about a minute.",
-      "src": "/audio/book-01/lesson-23/lines/02.wav",
+      "start": 3.13,
+      "end": 9.98,
       "duration": 6.85
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Support agent",
       "text": "Does it happen on one device or several devices?",
-      "src": "/audio/book-01/lesson-23/lines/03.wav",
+      "start": 10.26,
+      "end": 14.185,
       "duration": 3.925
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "It happens on both my laptop and phone. My client calls freeze, and large files stop uploading.",
-      "src": "/audio/book-01/lesson-23/lines/04.wav",
+      "start": 14.465,
+      "end": 20.965,
       "duration": 6.5
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Support agent",
       "text": "When did this start?",
-      "src": "/audio/book-01/lesson-23/lines/05.wav",
+      "start": 21.245,
+      "end": 23.12,
       "duration": 1.875
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Yesterday afternoon. It happened six times yesterday and three times this morning.",
-      "src": "/audio/book-01/lesson-23/lines/06.wav",
+      "start": 23.4,
+      "end": 29.15,
       "duration": 5.75
     },
     {
@@ -60,7 +67,8 @@
       "part": "B",
       "speaker": "Support agent",
       "text": "What have you tried so far?",
-      "src": "/audio/book-01/lesson-23/lines/07.wav",
+      "start": 30.28,
+      "end": 32.48,
       "duration": 2.2
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I've already tried restarting the router. First, I turned it off for thirty seconds. Then I turned it back on and waited for the lights to become steady.",
-      "src": "/audio/book-01/lesson-23/lines/08.wav",
+      "start": 32.76,
+      "end": 41.56,
       "duration": 8.8
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Support agent",
       "text": "Did that change anything?",
-      "src": "/audio/book-01/lesson-23/lines/09.wav",
+      "start": 41.84,
+      "end": 44.065,
       "duration": 2.225
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "No. The problem is still happening. I also moved closer to the router and tested both devices.",
-      "src": "/audio/book-01/lesson-23/lines/10.wav",
+      "start": 44.345,
+      "end": 50.545,
       "duration": 6.2
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Support agent",
       "text": "Thank you. The notes are helpful. I'll run a remote line test. Please don't unplug anything while it runs.",
-      "src": "/audio/book-01/lesson-23/lines/11.wav",
+      "start": 50.825,
+      "end": 58.05,
       "duration": 7.225
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Okay. What should I try next if the test doesn't find the problem?",
-      "src": "/audio/book-01/lesson-23/lines/12.wav",
+      "start": 58.33,
+      "end": 62.78,
       "duration": 4.45
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Support agent",
       "text": "I'll create a support ticket and arrange a technician visit rather than ask you to open the equipment.",
-      "src": "/audio/book-01/lesson-23/lines/13.wav",
+      "start": 63.06,
+      "end": 69.71,
       "duration": 6.65
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Could you confirm the ticket number and visit window by text?",
-      "src": "/audio/book-01/lesson-23/lines/14.wav",
+      "start": 69.99,
+      "end": 74.365,
       "duration": 4.375
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Support agent",
       "text": "Yes. The ticket is RV-4821, and the visit window is tomorrow from ten to noon.",
-      "src": "/audio/book-01/lesson-23/lines/15.wav",
+      "start": 74.645,
+      "end": 81.895,
       "duration": 7.25
     }
   ]

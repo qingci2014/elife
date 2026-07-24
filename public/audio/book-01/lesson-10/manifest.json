@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 10 - I Didn't Know You Two Knew Each Other",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Aisha? Hi. I didn't expect to see you here.",
-      "src": "/audio/book-01/lesson-10/lines/01.wav",
+      "start": 0.35,
+      "end": 3.2,
       "duration": 2.85
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Hi, Daniel. I was checking the events board when Lena came over.",
-      "src": "/audio/book-01/lesson-10/lines/02.wav",
+      "start": 3.48,
+      "end": 7.905,
       "duration": 4.425
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "And I recognized her from a workshop.",
-      "src": "/audio/book-01/lesson-10/lines/03.wav",
+      "start": 8.185,
+      "end": 10.86,
       "duration": 2.675
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Wait—I didn't know you two knew each other. How do you two know each other?",
-      "src": "/audio/book-01/lesson-10/lines/04.wav",
+      "start": 11.14,
+      "end": 15.59,
       "duration": 4.45
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "We met at a public poster-making workshop here.",
-      "src": "/audio/book-01/lesson-10/lines/05.wav",
+      "start": 15.87,
+      "end": 19.62,
       "duration": 3.75
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "When did you meet?",
-      "src": "/audio/book-01/lesson-10/lines/06.wav",
+      "start": 19.9,
+      "end": 21.45,
       "duration": 1.55
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Two weeks ago. Aisha was looking for Room 204 when I saw her in the lobby.",
-      "src": "/audio/book-01/lesson-10/lines/07.wav",
+      "start": 21.73,
+      "end": 27.33,
       "duration": 5.6
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "And Lena was putting up direction signs when I came in. I asked her where the class was.",
-      "src": "/audio/book-01/lesson-10/lines/08.wav",
+      "start": 27.61,
+      "end": 33.31,
       "duration": 5.7
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "One of my signs was pointing toward the wrong stairs, so my answer wasn't very helpful.",
-      "src": "/audio/book-01/lesson-10/lines/09.wav",
+      "start": 33.59,
+      "end": 39.59,
       "duration": 6.0
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "We were walking upstairs when we noticed the mistake.",
-      "src": "/audio/book-01/lesson-10/lines/10.wav",
+      "start": 39.87,
+      "end": 43.445,
       "duration": 3.575
     },
     {
@@ -93,7 +104,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What happened then?",
-      "src": "/audio/book-01/lesson-10/lines/11.wav",
+      "start": 43.725,
+      "end": 45.275,
       "duration": 1.55
     },
     {
@@ -101,7 +113,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "We fixed the sign and found the right room.",
-      "src": "/audio/book-01/lesson-10/lines/12.wav",
+      "start": 45.555,
+      "end": 48.305,
       "duration": 2.75
     },
     {
@@ -109,7 +122,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "How did that go?",
-      "src": "/audio/book-01/lesson-10/lines/13.wav",
+      "start": 48.585,
+      "end": 50.21,
       "duration": 1.625
     },
     {
@@ -117,7 +131,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Fine. We laughed about it and talked on the way. The workshop started a few minutes later.",
-      "src": "/audio/book-01/lesson-10/lines/14.wav",
+      "start": 50.49,
+      "end": 55.965,
       "duration": 5.475
     },
     {
@@ -125,7 +140,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So that's how you met.",
-      "src": "/audio/book-01/lesson-10/lines/15.wav",
+      "start": 56.245,
+      "end": 57.995,
       "duration": 1.75
     },
     {
@@ -133,7 +149,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Exactly.",
-      "src": "/audio/book-01/lesson-10/lines/16.wav",
+      "start": 58.275,
+      "end": 59.95,
       "duration": 1.675
     },
     {
@@ -141,7 +158,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What were you talking about?",
-      "src": "/audio/book-01/lesson-10/lines/17.wav",
+      "start": 60.23,
+      "end": 61.98,
       "duration": 1.75
     },
     {
@@ -149,7 +167,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Mostly design work and why I signed up for the class.",
-      "src": "/audio/book-01/lesson-10/lines/18.wav",
+      "start": 62.26,
+      "end": 66.26,
       "duration": 4.0
     },
     {
@@ -157,7 +176,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I asked about her freelance work, and she asked about the center. That was our whole conversation.",
-      "src": "/audio/book-01/lesson-10/lines/19.wav",
+      "start": 66.54,
+      "end": 73.065,
       "duration": 6.525
     },
     {
@@ -165,7 +185,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I was imagining a secret project that everyone knew about except me.",
-      "src": "/audio/book-01/lesson-10/lines/20.wav",
+      "start": 73.345,
+      "end": 78.02,
       "duration": 4.675
     },
     {
@@ -173,7 +194,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Sorry to disappoint you. We recognized each other, that's all.",
-      "src": "/audio/book-01/lesson-10/lines/21.wav",
+      "start": 78.3,
+      "end": 82.775,
       "duration": 4.475
     },
     {
@@ -181,7 +203,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "No secret project. Just one workshop, one wrong sign, and a short conversation.",
-      "src": "/audio/book-01/lesson-10/lines/22.wav",
+      "start": 83.055,
+      "end": 88.93,
       "duration": 5.875
     },
     {
@@ -189,7 +212,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Still—small world. My neighbor and my cousin met before I introduced them.",
-      "src": "/audio/book-01/lesson-10/lines/23.wav",
+      "start": 89.21,
+      "end": 94.46,
       "duration": 5.25
     },
     {
@@ -197,7 +221,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Now you know.",
-      "src": "/audio/book-01/lesson-10/lines/24.wav",
+      "start": 94.74,
+      "end": 96.565,
       "duration": 1.825
     }
   ]

@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { readFile, readdir } from "node:fs/promises";
+import { readFile, readdir, stat } from "node:fs/promises";
 import path from "node:path";
 import test from "node:test";
 import { fileURLToPath } from "node:url";
@@ -115,23 +115,32 @@ test("renders unwritten lessons as honest plan pages", async (t) => {
   assert.match(html, /最终证据/);
 });
 
-test("ships matching WAV manifests for the latest four lessons", async () => {
-  const audioRoot = new URL("../public/audio/book-03/", import.meta.url);
-
-  for (const number of [73, 74, 75, 76]) {
-    const lesson = `lesson-${number}`;
+test("ships shared-WAV segment manifests for all published lessons", async () => {
+  for (let number = 1; number <= 76; number += 1) {
+    const book = Math.ceil(number / 32);
+    const audioRoot = new URL(`../public/audio/book-${String(book).padStart(2, "0")}/`, import.meta.url);
+    const lesson = `lesson-${String(number).padStart(2, "0")}`;
     const manifest = JSON.parse(await readFile(new URL(`${lesson}/manifest.json`, audioRoot), "utf8"));
-    const dialogue = await readFile(new URL(`${lesson}/dialogue.wav`, audioRoot));
+    const dialogue = await stat(new URL(`${lesson}/dialogue.wav`, audioRoot));
+    const dialogueDuration = (dialogue.size - 44) / (manifest.sampleRate * 2);
 
-    assert.ok(manifest.lines.length >= 15, `${lesson} should include line audio metadata`);
-    assert.ok(dialogue.length > 44, `${lesson} should include a non-empty WAV dialogue`);
+    assert.equal(manifest.formatVersion, 2, `${lesson} should use segment manifests`);
+    assert.ok(manifest.lines.length > 0, `${lesson} should include line segment metadata`);
+    assert.ok(dialogue.size > 44, `${lesson} should include a non-empty WAV dialogue`);
+    let previousEnd = 0;
     for (const line of manifest.lines) {
-      const file = await readFile(new URL(`${lesson}/lines/${String(line.id).padStart(2, "0")}.wav`, audioRoot));
-      assert.ok(file.length > 44, `${lesson} line ${line.id} should include WAV audio`);
-      assert.equal(line.src, `/audio/book-03/${lesson}/lines/${String(line.id).padStart(2, "0")}.wav`);
+      assert.equal(typeof line.start, "number", `${lesson} line ${line.id} should include a start time`);
+      assert.equal(typeof line.end, "number", `${lesson} line ${line.id} should include an end time`);
+      assert.ok(line.start >= previousEnd, `${lesson} line ${line.id} should not overlap the previous line`);
+      assert.ok(line.end > line.start, `${lesson} line ${line.id} should have a positive segment`);
+      assert.ok(Math.abs(line.end - line.start - line.duration) < 0.002, `${lesson} line ${line.id} duration should match its segment`);
+      assert.equal(line.src, undefined, `${lesson} line ${line.id} should not duplicate the dialogue WAV`);
+      previousEnd = line.end;
     }
+    assert.ok(previousEnd <= dialogueDuration, `${lesson} final segment should stay within dialogue.wav`);
   }
 
+  const audioRoot = new URL("../public/audio/book-03/", import.meta.url);
   const lesson76 = JSON.parse(await readFile(new URL("lesson-76/manifest.json", audioRoot), "utf8"));
   assert.equal(lesson76.transfer?.speaker, "Carla");
   assert.equal(lesson76.voiceMap?.Carla, "af_nicole");

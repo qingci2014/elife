@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 21 - I've Had This Cough for a Week",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Nurse",
       "text": "What would you like help with today?",
-      "src": "/audio/book-01/lesson-21/lines/01.wav",
+      "start": 0.35,
+      "end": 2.775,
       "duration": 2.425
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I've had this cough for a week. It started last Monday.",
-      "src": "/audio/book-01/lesson-21/lines/02.wav",
+      "start": 3.055,
+      "end": 6.68,
       "duration": 3.625
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Nurse",
       "text": "Has it stayed the same?",
-      "src": "/audio/book-01/lesson-21/lines/03.wav",
+      "start": 6.96,
+      "end": 8.985,
       "duration": 2.025
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "No. It was dry for the first three days, but it's been worse since Friday.",
-      "src": "/audio/book-01/lesson-21/lines/04.wav",
+      "start": 9.265,
+      "end": 13.89,
       "duration": 4.625
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Nurse",
       "text": "When does it usually get worse?",
-      "src": "/audio/book-01/lesson-21/lines/05.wav",
+      "start": 14.17,
+      "end": 16.495,
       "duration": 2.325
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "It gets worse when I lie down at night. Warm drinks seem to make my throat feel better for a little while.",
-      "src": "/audio/book-01/lesson-21/lines/06.wav",
+      "start": 16.775,
+      "end": 23.625,
       "duration": 6.85
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Nurse",
       "text": "Have you had a fever?",
-      "src": "/audio/book-01/lesson-21/lines/07.wav",
+      "start": 23.905,
+      "end": 25.78,
       "duration": 1.875
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I haven't had a fever. I checked twice yesterday and once this morning.",
-      "src": "/audio/book-01/lesson-21/lines/08.wav",
+      "start": 26.06,
+      "end": 30.685,
       "duration": 4.625
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Nurse",
       "text": "Have you noticed any shortness of breath or chest pain?",
-      "src": "/audio/book-01/lesson-21/lines/09.wav",
+      "start": 31.815,
+      "end": 35.49,
       "duration": 3.675
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "No, I haven't noticed either of those.",
-      "src": "/audio/book-01/lesson-21/lines/10.wav",
+      "start": 35.77,
+      "end": 38.27,
       "duration": 2.5
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Nurse",
       "text": "Are you taking any medicines or supplements?",
-      "src": "/audio/book-01/lesson-21/lines/11.wav",
+      "start": 38.55,
+      "end": 41.7,
       "duration": 3.15
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Just my usual daily vitamin. I haven't taken anything specifically for the cough.",
-      "src": "/audio/book-01/lesson-21/lines/12.wav",
+      "start": 41.98,
+      "end": 47.805,
       "duration": 5.825
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Nurse",
       "text": "Is there anything else you want the clinician to know?",
-      "src": "/audio/book-01/lesson-21/lines/13.wav",
+      "start": 48.085,
+      "end": 51.71,
       "duration": 3.625
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That's everything I've noticed: one week, worse since Friday, mostly at night, no fever, and no trouble breathing.",
-      "src": "/audio/book-01/lesson-21/lines/14.wav",
+      "start": 51.99,
+      "end": 59.34,
       "duration": 7.35
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Nurse",
       "text": "Thank you. I'll add that to your appointment note. If your symptoms become severe or you develop an emergency warning sign, seek urgent help rather than waiting for this appointment.",
-      "src": "/audio/book-01/lesson-21/lines/15.wav",
+      "start": 59.62,
+      "end": 71.445,
       "duration": 11.825
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Understood. Thank you.",
-      "src": "/audio/book-01/lesson-21/lines/16.wav",
+      "start": 71.725,
+      "end": 73.625,
       "duration": 1.9
     }
   ]

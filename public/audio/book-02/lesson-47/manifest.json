@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 47 - You Shouldn't Have Had to Ask",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Aisha, I read your reply to Priya. You shouldn't have had to ask her to separate the original poster from the extra graphics.",
-      "src": "/audio/book-02/lesson-47/lines/01.wav",
+      "start": 0.35,
+      "end": 7.8,
       "duration": 7.45
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I appreciate you saying that. I was surprised that the email sounded as if I had already agreed to a Friday deadline.",
-      "src": "/audio/book-02/lesson-47/lines/02.wav",
+      "start": 8.08,
+      "end": 15.405,
       "duration": 7.325
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "That happened because I wrote that you could probably adapt the poster into three launch graphics. I should have checked with you first.",
-      "src": "/audio/book-02/lesson-47/lines/03.wav",
+      "start": 15.685,
+      "end": 24.185,
       "duration": 8.5
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "What did Priya know about the original agreement?",
-      "src": "/audio/book-02/lesson-47/lines/04.wav",
+      "start": 24.465,
+      "end": 27.79,
       "duration": 3.325
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "She knew you had offered one poster after the text and permissions were ready. I shouldn't have assumed that the extra versions would be a small extension.",
-      "src": "/audio/book-02/lesson-47/lines/05.wav",
+      "start": 28.07,
+      "end": 37.97,
       "duration": 9.9
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "They may look related, but each version still needs final wording, sizing and review. Your message put me in an awkward position.",
-      "src": "/audio/book-02/lesson-47/lines/06.wav",
+      "start": 38.25,
+      "end": 46.05,
       "duration": 7.8
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "You're right. That was my mistake. I could have handled it differently by asking you privately before mentioning your name.",
-      "src": "/audio/book-02/lesson-47/lines/07.wav",
+      "start": 46.33,
+      "end": 54.055,
       "duration": 7.725
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I know your intention was to help the center plan, but the impact was an expectation that I had to correct.",
-      "src": "/audio/book-02/lesson-47/lines/08.wav",
+      "start": 54.335,
+      "end": 61.435,
       "duration": 7.1
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Exactly. My intention doesn't remove that impact.",
-      "src": "/audio/book-02/lesson-47/lines/09.wav",
+      "start": 61.715,
+      "end": 65.69,
       "duration": 3.975
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What I should have done was tell Priya that only the poster was agreed and that any additional work needed a new conversation.",
-      "src": "/audio/book-02/lesson-47/lines/10.wav",
+      "start": 66.82,
+      "end": 74.52,
       "duration": 7.7
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Yes. I didn't need you to reject the request for me; I needed my availability not to be announced before I answered.",
-      "src": "/audio/book-02/lesson-47/lines/11.wav",
+      "start": 74.8,
+      "end": 82.175,
       "duration": 7.375
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I'm sorry I spoke for you. Here's how I'll correct it: I'll email Priya today, state that the Friday graphics were never agreed, and take responsibility for creating that impression.",
-      "src": "/audio/book-02/lesson-47/lines/12.wav",
+      "start": 82.455,
+      "end": 93.93,
       "duration": 11.475
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Please copy me so the record is clear.",
-      "src": "/audio/book-02/lesson-47/lines/13.wav",
+      "start": 94.21,
+      "end": 97.46,
       "duration": 3.25
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I will. I'll also ask future requesters to contact you directly rather than describing what you may be able to do.",
-      "src": "/audio/book-02/lesson-47/lines/14.wav",
+      "start": 97.74,
+      "end": 105.74,
       "duration": 8.0
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "That would help. I still want to make the original poster once the approved material is ready.",
-      "src": "/audio/book-02/lesson-47/lines/15.wav",
+      "start": 106.02,
+      "end": 111.595,
       "duration": 5.575
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Understood. I won't connect that commitment to any other deliverable.",
-      "src": "/audio/book-02/lesson-47/lines/16.wav",
+      "start": 111.875,
+      "end": 116.475,
       "duration": 4.6
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Thank you. I don't need a long explanation; I need the correction and a different process next time.",
-      "src": "/audio/book-02/lesson-47/lines/17.wav",
+      "start": 116.755,
+      "end": 122.88,
       "duration": 6.125
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "You'll have both. I'll send the correction before noon and forward you Priya's reply.",
-      "src": "/audio/book-02/lesson-47/lines/18.wav",
+      "start": 123.16,
+      "end": 128.285,
       "duration": 5.125
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Then we can move on without pretending the extra request was part of the original plan.",
-      "src": "/audio/book-02/lesson-47/lines/19.wav",
+      "start": 128.565,
+      "end": 134.415,
       "duration": 5.85
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 63 - I'm Not Completely Convinced",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The QR responses took less time to submit and included two useful later reflections. I think the two-stage method worked.",
-      "src": "/audio/book-02/lesson-63/lines/01.wav",
+      "start": 0.35,
+      "end": 8.925,
       "duration": 8.575
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I'm not completely convinced. What evidence supports the claim that the whole method worked?",
-      "src": "/audio/book-02/lesson-63/lines/02.wav",
+      "start": 9.205,
+      "end": 14.905,
       "duration": 5.7
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Let’s separate the results. All three testers completed the paper form and marked an exact route location.",
-      "src": "/audio/book-02/lesson-63/lines/03.wav",
+      "start": 15.185,
+      "end": 22.81,
       "duration": 7.625
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The average paper time was three minutes thirty-five seconds. Two testers skipped the open comment box.",
-      "src": "/audio/book-02/lesson-63/lines/04.wav",
+      "start": 23.09,
+      "end": 30.165,
       "duration": 7.075
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "And the QR form?",
-      "src": "/audio/book-02/lesson-63/lines/05.wav",
+      "start": 30.445,
+      "end": 32.795,
       "duration": 2.35
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Two testers completed it in about two minutes ten seconds. One stopped when the connection failed.",
-      "src": "/audio/book-02/lesson-63/lines/06.wav",
+      "start": 33.075,
+      "end": 39.8,
       "duration": 6.725
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The two completed QR responses added explanations that weren’t on paper. That suggests later reflection can add detail.",
-      "src": "/audio/book-02/lesson-63/lines/07.wav",
+      "start": 40.08,
+      "end": 48.98,
       "duration": 8.9
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "It suggests that for those two responses, but it doesn’t show that a QR follow-up would work reliably for everyone.",
-      "src": "/audio/book-02/lesson-63/lines/08.wav",
+      "start": 49.26,
+      "end": 56.635,
       "duration": 7.375
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Correct. The strongest evidence is about response type and prototype clarity, not visitor preference.",
-      "src": "/audio/book-02/lesson-63/lines/09.wav",
+      "start": 56.915,
+      "end": 64.24,
       "duration": 7.325
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I can see the limitation. Still, the later comments described why two locations felt confusing.",
-      "src": "/audio/book-02/lesson-63/lines/10.wav",
+      "start": 64.52,
+      "end": 71.47,
       "duration": 6.95
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I can see the case for an optional follow-up, but my concern is the failed connection and the tiny staff-only sample.",
-      "src": "/audio/book-02/lesson-63/lines/11.wav",
+      "start": 72.6,
+      "end": 80.075,
       "duration": 7.475
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Are you saying the QR prototype has no value?",
-      "src": "/audio/book-02/lesson-63/lines/12.wav",
+      "start": 80.355,
+      "end": 83.53,
       "duration": 3.175
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "No. I’m saying the evidence is narrower than your conclusion. One failure doesn’t prove the tool is unreliable, either.",
-      "src": "/audio/book-02/lesson-63/lines/13.wav",
+      "start": 83.81,
+      "end": 91.61,
       "duration": 7.8
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Then what would change your mind about testing the optional stage again?",
-      "src": "/audio/book-02/lesson-63/lines/14.wav",
+      "start": 91.89,
+      "end": 96.84,
       "duration": 4.95
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "A stable connection, clearer wording that paper is already complete, and testers who were not involved in planning the route.",
-      "src": "/audio/book-02/lesson-63/lines/15.wav",
+      "start": 97.12,
+      "end": 104.645,
       "duration": 7.525
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That seems fair. Would five independent testers be enough to justify another internal check?",
-      "src": "/audio/book-02/lesson-63/lines/16.wav",
+      "start": 104.925,
+      "end": 111.3,
       "duration": 6.375
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Enough to examine clarity and completion, perhaps. It still wouldn’t establish public preference.",
-      "src": "/audio/book-02/lesson-63/lines/17.wav",
+      "start": 111.58,
+      "end": 117.93,
       "duration": 6.35
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "So we seem to agree on the evidence: paper worked for all three; two QR responses added detail; one connection failed.",
-      "src": "/audio/book-02/lesson-63/lines/18.wav",
+      "start": 118.21,
+      "end": 127.16,
       "duration": 8.95
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And we still disagree about how much that supports a two-stage method.",
-      "src": "/audio/book-02/lesson-63/lines/19.wav",
+      "start": 127.44,
+      "end": 132.04,
       "duration": 4.6
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Exactly. Let’s carry that precise disagreement into the final decision instead of forcing agreement now.",
-      "src": "/audio/book-02/lesson-63/lines/20.wav",
+      "start": 132.32,
+      "end": 139.345,
       "duration": 7.025
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 1 - Long Time No See",
   "voiceMap": {
     "Maya": "af_heart",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Daniel? Is that you?",
-      "src": "/audio/book-01/lesson-01/lines/01.wav",
+      "start": 0.35,
+      "end": 2.475,
       "duration": 2.125
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Maya! Wow, long time no see.",
-      "src": "/audio/book-01/lesson-01/lines/02.wav",
+      "start": 2.755,
+      "end": 4.955,
       "duration": 2.2
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "I know. It's been ages. How have you been?",
-      "src": "/audio/book-01/lesson-01/lines/03.wav",
+      "start": 5.235,
+      "end": 8.235,
       "duration": 3.0
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Pretty good, actually. I moved back to the neighborhood last month.",
-      "src": "/audio/book-01/lesson-01/lines/04.wav",
+      "start": 8.515,
+      "end": 12.84,
       "duration": 4.325
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Really? I thought you were still living in Seattle.",
-      "src": "/audio/book-01/lesson-01/lines/05.wav",
+      "start": 13.12,
+      "end": 16.145,
       "duration": 3.025
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I was, but I left my old job two years ago. I work from home now, so I can live pretty much anywhere.",
-      "src": "/audio/book-01/lesson-01/lines/06.wav",
+      "start": 16.425,
+      "end": 23.3,
       "duration": 6.875
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That's a big change. Do you like being back?",
-      "src": "/audio/book-01/lesson-01/lines/07.wav",
+      "start": 23.58,
+      "end": 26.655,
       "duration": 3.075
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So far, yes. The area is really different now, though. This coffee shop used to be a bookstore.",
-      "src": "/audio/book-01/lesson-01/lines/08.wav",
+      "start": 26.935,
+      "end": 33.16,
       "duration": 6.225
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That's right. I used to spend hours there on weekends.",
-      "src": "/audio/book-01/lesson-01/lines/09.wav",
+      "start": 33.44,
+      "end": 36.99,
       "duration": 3.55
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Are you still working at the hospital?",
-      "src": "/audio/book-01/lesson-01/lines/10.wav",
+      "start": 37.27,
+      "end": 39.67,
       "duration": 2.4
     },
     {
@@ -93,7 +104,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Yes, but I don't work on the wards anymore. I moved into staff training last year.",
-      "src": "/audio/book-01/lesson-01/lines/11.wav",
+      "start": 39.95,
+      "end": 45.325,
       "duration": 5.375
     },
     {
@@ -101,7 +113,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That makes sense. You were always good at explaining things.",
-      "src": "/audio/book-01/lesson-01/lines/12.wav",
+      "start": 45.605,
+      "end": 49.305,
       "duration": 3.7
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Thanks. What about your photography? Do you still take pictures?",
-      "src": "/audio/book-01/lesson-01/lines/13.wav",
+      "start": 50.435,
+      "end": 54.31,
       "duration": 3.875
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Not as much as I used to, but I still take some on weekends.",
-      "src": "/audio/book-01/lesson-01/lines/14.wav",
+      "start": 54.59,
+      "end": 58.59,
       "duration": 4.0
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Barista",
       "text": "Large coffee for Daniel!",
-      "src": "/audio/book-01/lesson-01/lines/15.wav",
+      "start": 58.87,
+      "end": 61.145,
       "duration": 2.275
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That's me. Listen, I have to get going, but we should really catch up.",
-      "src": "/audio/book-01/lesson-01/lines/16.wav",
+      "start": 61.425,
+      "end": 65.725,
       "duration": 4.3
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Definitely. Are you free sometime next week?",
-      "src": "/audio/book-01/lesson-01/lines/17.wav",
+      "start": 66.005,
+      "end": 69.055,
       "duration": 3.05
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I think so. Let me check my schedule and get back to you.",
-      "src": "/audio/book-01/lesson-01/lines/18.wav",
+      "start": 69.335,
+      "end": 72.91,
       "duration": 3.575
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Sounds good. It was really nice seeing you.",
-      "src": "/audio/book-01/lesson-01/lines/19.wav",
+      "start": 73.19,
+      "end": 76.165,
       "duration": 2.975
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "You too. And this time, let's not wait another eight years.",
-      "src": "/audio/book-01/lesson-01/lines/20.wav",
+      "start": 76.445,
+      "end": 80.17,
       "duration": 3.725
     }
   ]

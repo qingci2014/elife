@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 43 - We Were Charged Twice",
   "voiceMap": {
     "Billing agent": "af_bella",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Hi, I'm calling about invoice 618. We were charged twice for the same service visit.",
-      "src": "/audio/book-02/lesson-43/lines/01.wav",
+      "start": 0.35,
+      "end": 7.425,
       "duration": 7.075
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "I'm sorry about that. Could you tell me what appears on the statement?",
-      "src": "/audio/book-02/lesson-43/lines/02.wav",
+      "start": 7.705,
+      "end": 12.28,
       "duration": 4.575
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Two charges of one hundred forty dollars were posted on Tuesday. They have different transaction numbers, but both refer to invoice 618.",
-      "src": "/audio/book-02/lesson-43/lines/03.wav",
+      "start": 12.56,
+      "end": 23.26,
       "duration": 10.7
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "And only one invoice was issued?",
-      "src": "/audio/book-02/lesson-43/lines/04.wav",
+      "start": 23.54,
+      "end": 26.215,
       "duration": 2.675
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Correct. This invoice was already paid by the first transaction. The itemized invoice lists one call-out fee, one hour of labor and standard fasteners. The total is one hundred forty dollars.",
-      "src": "/audio/book-02/lesson-43/lines/05.wav",
+      "start": 26.495,
+      "end": 40.42,
       "duration": 13.925
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "Let me check the payment record. Please hold for a moment.",
-      "src": "/audio/book-02/lesson-43/lines/06.wav",
+      "start": 40.7,
+      "end": 44.725,
       "duration": 4.025
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Of course.",
-      "src": "/audio/book-02/lesson-43/lines/07.wav",
+      "start": 45.005,
+      "end": 46.43,
       "duration": 1.425
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "Thank you for waiting. I can see that the first payment was processed normally. The second payment was processed during a terminal retry, but no second invoice or visit was created.",
-      "src": "/audio/book-02/lesson-43/lines/08.wav",
+      "start": 46.71,
+      "end": 59.01,
       "duration": 12.3
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "So the evidence shows one valid payment and one duplicate charge.",
-      "src": "/audio/book-02/lesson-43/lines/09.wav",
+      "start": 59.29,
+      "end": 63.84,
       "duration": 4.55
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Yes. A refund has been issued for the duplicate one hundred forty dollars.",
-      "src": "/audio/book-02/lesson-43/lines/10.wav",
+      "start": 64.97,
+      "end": 70.395,
       "duration": 5.425
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "When will it be credited to the arts center's card?",
-      "src": "/audio/book-02/lesson-43/lines/11.wav",
+      "start": 70.675,
+      "end": 74.075,
       "duration": 3.4
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "It should be credited within three to five business days. The exact posting time is controlled by the card provider.",
-      "src": "/audio/book-02/lesson-43/lines/12.wav",
+      "start": 74.355,
+      "end": 82.455,
       "duration": 8.1
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Could you confirm that in writing, including which transaction was refunded?",
-      "src": "/audio/book-02/lesson-43/lines/13.wav",
+      "start": 82.735,
+      "end": 87.785,
       "duration": 5.05
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Certainly. A confirmation email will be sent today. It will include the refunded transaction number, the amount, today's processing date and a refund reference.",
-      "src": "/audio/book-02/lesson-43/lines/14.wav",
+      "start": 88.065,
+      "end": 99.415,
       "duration": 11.35
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Will the original payment or invoice be changed?",
-      "src": "/audio/book-02/lesson-43/lines/15.wav",
+      "start": 99.695,
+      "end": 102.97,
       "duration": 3.275
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "No. The original invoice remains paid. Only the duplicate transaction is being reversed.",
-      "src": "/audio/book-02/lesson-43/lines/16.wav",
+      "start": 103.25,
+      "end": 110.075,
       "duration": 6.825
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Good. If the credit hasn't appeared after five business days, what should we provide?",
-      "src": "/audio/book-02/lesson-43/lines/17.wav",
+      "start": 110.355,
+      "end": 115.83,
       "duration": 5.475
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Reply to the confirmation email with the refund reference and a current statement screenshot. Please hide unrelated transactions and full card details.",
-      "src": "/audio/book-02/lesson-43/lines/18.wav",
+      "start": 116.11,
+      "end": 127.085,
       "duration": 10.975
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thank you. I'll wait for the written confirmation and follow up only if the stated window passes.",
-      "src": "/audio/book-02/lesson-43/lines/19.wav",
+      "start": 127.365,
+      "end": 133.665,
       "duration": 6.3
     }
   ],

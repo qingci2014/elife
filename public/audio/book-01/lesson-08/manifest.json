@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 8 - That's Not What I Meant",
   "voiceMap": {
     "Ben": "am_onyx",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "I thought you were taking care of the living room.",
-      "src": "/audio/book-01/lesson-08/lines/01.wav",
+      "start": 0.35,
+      "end": 3.275,
       "duration": 2.925
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "I did. I vacuumed, put the books away, and cleaned the coffee table.",
-      "src": "/audio/book-01/lesson-08/lines/02.wav",
+      "start": 3.555,
+      "end": 8.23,
       "duration": 4.675
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "It looks great, but that's not what I meant. We still need places for six people to sit.",
-      "src": "/audio/book-01/lesson-08/lines/03.wav",
+      "start": 8.51,
+      "end": 14.21,
       "duration": 5.7
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "Oh. I thought “take care of the living room” meant clean it.",
-      "src": "/audio/book-01/lesson-08/lines/04.wav",
+      "start": 14.49,
+      "end": 18.44,
       "duration": 3.95
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That's fair. Maybe I wasn't clear. What I meant was, could you set up the room for everyone?",
-      "src": "/audio/book-01/lesson-08/lines/05.wav",
+      "start": 18.72,
+      "end": 24.42,
       "duration": 5.7
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "So, are you saying we need two more chairs?",
-      "src": "/audio/book-01/lesson-08/lines/06.wav",
+      "start": 24.7,
+      "end": 28.025,
       "duration": 3.325
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Exactly. Do we have any folding chairs in the closet?",
-      "src": "/audio/book-01/lesson-08/lines/07.wav",
+      "start": 28.305,
+      "end": 32.005,
       "duration": 3.7
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "We have one. I can bring in a chair from the desk, too.",
-      "src": "/audio/book-01/lesson-08/lines/08.wav",
+      "start": 32.285,
+      "end": 36.26,
       "duration": 3.975
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That gives us six. Would you mind moving those boxes away from the window?",
-      "src": "/audio/book-01/lesson-08/lines/09.wav",
+      "start": 36.54,
+      "end": 41.315,
       "duration": 4.775
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "Not at all.",
-      "src": "/audio/book-01/lesson-08/lines/10.wav",
+      "start": 41.595,
+      "end": 42.82,
       "duration": 1.225
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Who's supposed to pick up the food—you or me?",
-      "src": "/audio/book-01/lesson-08/lines/11.wav",
+      "start": 43.95,
+      "end": 47.6,
       "duration": 3.65
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Me. You don't have to do that. Let me put it another way: you set up the room and put the drinks in the fridge, and I'll pick up the food.",
-      "src": "/audio/book-01/lesson-08/lines/12.wav",
+      "start": 47.88,
+      "end": 55.905,
       "duration": 8.025
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Sorry, I misunderstood. I thought I was picking up the food and you were getting the drinks.",
-      "src": "/audio/book-01/lesson-08/lines/13.wav",
+      "start": 56.185,
+      "end": 61.61,
       "duration": 5.425
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Then my first message really wasn't clear.",
-      "src": "/audio/book-01/lesson-08/lines/14.wav",
+      "start": 61.89,
+      "end": 64.915,
       "duration": 3.025
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Let me make sure I've got this right. I need to set up six seats, move the boxes, and put some water in the fridge. You're picking up the food.",
-      "src": "/audio/book-01/lesson-08/lines/15.wav",
+      "start": 65.195,
+      "end": 73.345,
       "duration": 8.15
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Right. We only need a little ice, so I'll get that on my way back.",
-      "src": "/audio/book-01/lesson-08/lines/16.wav",
+      "start": 73.625,
+      "end": 77.75,
       "duration": 4.125
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Good. I'll write it on the list this time.",
-      "src": "/audio/book-01/lesson-08/lines/17.wav",
+      "start": 78.03,
+      "end": 81.18,
       "duration": 3.15
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Please do. “Take care of it” is not much of a list.",
-      "src": "/audio/book-01/lesson-08/lines/18.wav",
+      "start": 81.46,
+      "end": 85.11,
       "duration": 3.65
     }
   ]

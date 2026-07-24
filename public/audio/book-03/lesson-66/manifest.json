@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 66 - What Matters Most to You?",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Northline wants to discuss a six-month trial, two days a week. My first reaction was, “I value independence, so I should say no.” That sounds more like a slogan than a decision.",
-      "src": "/audio/book-03/lesson-66/lines/01.wav",
+      "start": 0.35,
+      "end": 11.075,
       "duration": 10.725
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What matters most to you about independence? Choosing your schedule, choosing clients, controlling the final design, or something else?",
-      "src": "/audio/book-03/lesson-66/lines/02.wav",
+      "start": 11.355,
+      "end": 19.83,
       "duration": 8.475
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Decision authority matters most. I place a high value on being able to say whether a project fits my standards and capacity.",
-      "src": "/audio/book-03/lesson-66/lines/03.wav",
+      "start": 20.11,
+      "end": 28.585,
       "duration": 8.475
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "So it’s not that you dislike collaboration; it’s that collaboration without a clear voice would cost too much.",
-      "src": "/audio/book-03/lesson-66/lines/04.wav",
+      "start": 28.865,
+      "end": 35.99,
       "duration": 7.125
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Exactly. I also value creative exchange. Working alone gives me focus, but sometimes I miss seeing how another designer approaches the same problem.",
-      "src": "/audio/book-03/lesson-66/lines/05.wav",
+      "start": 36.27,
+      "end": 45.845,
       "duration": 9.575
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "And predictability?",
-      "src": "/audio/book-03/lesson-66/lines/06.wav",
+      "start": 46.125,
+      "end": 48.075,
       "duration": 1.95
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "To some extent, a regular two-day commitment could make income and planning steadier. But “regular” means very little until I know the fee, cancellation terms and who owns the client relationship.",
-      "src": "/audio/book-03/lesson-66/lines/07.wav",
+      "start": 48.355,
+      "end": 59.98,
       "duration": 11.625
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Can we agree on this much: all three values—authority, exchange and predictability—are legitimate, but the invitation doesn’t tell you how well the arrangement serves them?",
-      "src": "/audio/book-03/lesson-66/lines/08.wav",
+      "start": 60.26,
+      "end": 71.785,
       "duration": 11.525
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Yes. We seem to agree that I need terms before I can compare the invitation with my current work.",
-      "src": "/audio/book-03/lesson-66/lines/09.wav",
+      "start": 72.065,
+      "end": 78.29,
       "duration": 6.225
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Which value becomes the priority if the three conflict?",
-      "src": "/audio/book-03/lesson-66/lines/10.wav",
+      "start": 78.57,
+      "end": 82.245,
       "duration": 3.675
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "For me, the priority is sustainable control over commitments. If I lose the ability to protect existing clients or recovery time, extra predictability won’t feel stable in practice.",
-      "src": "/audio/book-03/lesson-66/lines/11.wav",
+      "start": 83.375,
+      "end": 95.225,
       "duration": 11.85
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "That’s more specific than “freedom.” Does creative exchange come second?",
-      "src": "/audio/book-03/lesson-66/lines/12.wav",
+      "start": 95.505,
+      "end": 100.28,
       "duration": 4.775
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "At this stage, yes, provided the group shares decisions rather than simply handing me overflow work. Predictable income comes third, but only because my current work is reasonably steady.",
-      "src": "/audio/book-03/lesson-66/lines/13.wav",
+      "start": 100.56,
+      "end": 112.06,
       "duration": 11.5
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Someone in a different financial position could rank those values differently without being less independent.",
-      "src": "/audio/book-03/lesson-66/lines/14.wav",
+      "start": 112.34,
+      "end": 119.365,
       "duration": 7.025
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I agree. When those values conflict, I ask which loss would be hardest to reverse. A lower fee for six months is measurable; giving up my existing client relationships could have a longer effect.",
-      "src": "/audio/book-03/lesson-66/lines/15.wav",
+      "start": 119.645,
+      "end": 131.52,
       "duration": 11.875
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "What are you still unsure about?",
-      "src": "/audio/book-03/lesson-66/lines/16.wav",
+      "start": 131.8,
+      "end": 134.0,
       "duration": 2.2
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "We still disagree—well, I disagree with my own first reaction—about whether any fixed schedule automatically reduces autonomy. It depends on who sets the schedule and whether I can leave the trial.",
-      "src": "/audio/book-03/lesson-66/lines/17.wav",
+      "start": 134.28,
+      "end": 146.23,
       "duration": 11.95
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "For now, let’s turn each value into a question for the call instead of deciding from the label “collective.”",
-      "src": "/audio/book-03/lesson-66/lines/18.wav",
+      "start": 146.51,
+      "end": 153.16,
       "duration": 6.65
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Good. We can revisit the ranking when I have written terms. I’ll ask about decision authority, existing clients, fee, time commitment, review points and exit conditions.",
-      "src": "/audio/book-03/lesson-66/lines/19.wav",
+      "start": 153.44,
+      "end": 163.415,
       "duration": 9.975
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "And you can summarize what matters without saying your values are universal: “At my current stage, I need an arrangement that protects…”",
-      "src": "/audio/book-03/lesson-66/lines/20.wav",
+      "start": 163.695,
+      "end": 172.17,
       "duration": 8.475
     }
   ]

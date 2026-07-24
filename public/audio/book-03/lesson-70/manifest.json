@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 70 - It Seems More Complicated Than That",
   "voiceMap": {
     "Marcus": "am_eric",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "The weekly overdue counts are ten, nine, eight, nine, seven, seven, six and six. The evidence seems to suggest improvement, but not a smooth decline.",
-      "src": "/audio/book-03/lesson-70/lines/01.wav",
+      "start": 0.35,
+      "end": 9.225,
       "duration": 8.875
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Agreed. It’s possible that shorter check-ins helped the team focus, especially because the team lead noticed that effect.",
-      "src": "/audio/book-03/lesson-70/lines/02.wav",
+      "start": 9.505,
+      "end": 17.455,
       "duration": 7.95
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "One likely explanation is the new owner list. Every action had one named person after week two, so unfinished work became easier to follow up.",
-      "src": "/audio/book-03/lesson-70/lines/03.wav",
+      "start": 17.735,
+      "end": 26.86,
       "duration": 9.125
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Why call that `likely` rather than simply `possible`?",
-      "src": "/audio/book-03/lesson-70/lines/04.wav",
+      "start": 27.14,
+      "end": 30.665,
       "duration": 3.525
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "The notes connect two recovered items directly to owner clarification. That is still limited evidence, but it links a mechanism to specific cases.",
-      "src": "/audio/book-03/lesson-70/lines/05.wav",
+      "start": 30.945,
+      "end": 40.145,
       "duration": 9.2
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "We can’t rule out the written agenda either. The team began circulating it before meetings in week three, and the count fell again afterward.",
-      "src": "/audio/book-03/lesson-70/lines/06.wav",
+      "start": 40.425,
+      "end": 49.175,
       "duration": 8.75
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "That doesn’t necessarily mean the agenda caused the fall. Week four rose from eight to nine even though the agenda was already in use.",
-      "src": "/audio/book-03/lesson-70/lines/07.wav",
+      "start": 49.455,
+      "end": 57.03,
       "duration": 7.575
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "True. The result may depend on how consistently the team used all three changes, not on whether a document technically existed.",
-      "src": "/audio/book-03/lesson-70/lines/08.wav",
+      "start": 57.31,
+      "end": 65.86,
       "duration": 8.55
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "There is also a workload note: incoming requests were lower in weeks seven and eight.",
-      "src": "/audio/book-03/lesson-70/lines/09.wav",
+      "start": 66.14,
+      "end": 71.39,
       "duration": 5.25
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Then lower workload is a plausible contributor to the final count of six. Do we know whether the size of the action items changed?",
-      "src": "/audio/book-03/lesson-70/lines/10.wav",
+      "start": 71.67,
+      "end": 80.07,
       "duration": 8.4
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "No. The log counts items, not effort, urgency or project importance. Six large overdue items could represent more work than ten small ones.",
-      "src": "/audio/book-03/lesson-70/lines/11.wav",
+      "start": 81.2,
+      "end": 90.1,
       "duration": 8.9
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "So the measurement choice matters. What can we still say with reasonable confidence?",
-      "src": "/audio/book-03/lesson-70/lines/12.wav",
+      "start": 90.38,
+      "end": 95.68,
       "duration": 5.3
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Over eight weeks, the recorded count fell from ten to six while meeting length, agenda use, ownership and follow-up changed. That trend is directly documented.",
-      "src": "/audio/book-03/lesson-70/lines/13.wav",
+      "start": 95.96,
+      "end": 105.31,
       "duration": 9.35
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "And what is more tentative?",
-      "src": "/audio/book-03/lesson-70/lines/14.wav",
+      "start": 105.59,
+      "end": 107.79,
       "duration": 2.2
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "The shorter format may have contributed, but the evidence cannot separate its effect from the other changes or lower late-period workload.",
-      "src": "/audio/book-03/lesson-70/lines/15.wav",
+      "start": 108.07,
+      "end": 116.145,
       "duration": 8.075
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Could the first week have been unusually bad?",
-      "src": "/audio/book-03/lesson-70/lines/16.wav",
+      "start": 116.425,
+      "end": 119.525,
       "duration": 3.1
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "We can’t rule that out because there is no earlier baseline. Comparing only week one and week eight may exaggerate a normal fluctuation.",
-      "src": "/audio/book-03/lesson-70/lines/17.wav",
+      "start": 119.805,
+      "end": 127.98,
       "duration": 8.175
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "That may be true. However, the middle weeks mostly move downward, so the pattern is not based on the endpoints alone.",
-      "src": "/audio/book-03/lesson-70/lines/18.wav",
+      "start": 128.26,
+      "end": 135.91,
       "duration": 7.65
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "A more accurate conclusion is: this team’s bundled process change was followed by fewer recorded overdue items, and shorter meetings are one plausible contributor.",
-      "src": "/audio/book-03/lesson-70/lines/19.wav",
+      "start": 136.19,
+      "end": 146.015,
       "duration": 9.825
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Good. We can revisit causal weight only if we obtain a longer baseline, stable workload measures or a comparison that changes one feature at a time.",
-      "src": "/audio/book-03/lesson-70/lines/20.wav",
+      "start": 146.295,
+      "end": 156.695,
       "duration": 10.4
     }
   ]

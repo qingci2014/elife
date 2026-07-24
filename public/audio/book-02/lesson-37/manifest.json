@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 37 - I'm Thinking of Making a Change",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "You sounded thoughtful in your message. What's going on?",
-      "src": "/audio/book-02/lesson-37/lines/01.wav",
+      "start": 0.35,
+      "end": 3.9,
       "duration": 3.55
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I'm thinking of making a change to the way I work. I've been considering joining a shared studio two days a week.",
-      "src": "/audio/book-02/lesson-37/lines/02.wav",
+      "start": 4.18,
+      "end": 11.13,
       "duration": 6.95
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "I thought you liked working from home.",
-      "src": "/audio/book-02/lesson-37/lines/03.wav",
+      "start": 11.41,
+      "end": 13.935,
       "duration": 2.525
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I do. I want to keep my home workspace, but lately I've found it hard to stop working in the evening. A separate desk might help me leave work at work.",
-      "src": "/audio/book-02/lesson-37/lines/04.wav",
+      "start": 14.215,
+      "end": 22.89,
       "duration": 8.675
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "So you're saying that you don't want to move your whole business. You just want some distance from it a couple of days a week.",
-      "src": "/audio/book-02/lesson-37/lines/05.wav",
+      "start": 23.17,
+      "end": 30.095,
       "duration": 6.925
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Exactly. I also miss talking to other designers. At home, I sometimes spend an hour trying to solve something that another person might explain in five minutes.",
-      "src": "/audio/book-02/lesson-37/lines/06.wav",
+      "start": 30.375,
+      "end": 40.525,
       "duration": 10.15
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What is making you hesitate?",
-      "src": "/audio/book-02/lesson-37/lines/07.wav",
+      "start": 40.805,
+      "end": 43.03,
       "duration": 2.225
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The monthly cost and the commute. I can't afford to pay for a desk that I rarely use, and I want to avoid adding travel on my busiest days.",
-      "src": "/audio/book-02/lesson-37/lines/08.wav",
+      "start": 43.31,
+      "end": 51.835,
       "duration": 8.525
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "What are the actual choices?",
-      "src": "/audio/book-02/lesson-37/lines/09.wav",
+      "start": 52.965,
+      "end": 55.115,
       "duration": 2.15
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Option one is a flexible monthly desk. I could choose any two days, use the meeting rooms, and keep working from home the rest of the week. Option two is to buy day passes only when I need a quiet place.",
-      "src": "/audio/book-02/lesson-37/lines/10.wav",
+      "start": 55.395,
+      "end": 67.545,
       "duration": 12.15
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Wait, how would the day passes work? Do you have to book far ahead?",
-      "src": "/audio/book-02/lesson-37/lines/11.wav",
+      "start": 67.825,
+      "end": 72.075,
       "duration": 4.25
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Usually one day ahead. They cost more per visit, but there is no monthly commitment.",
-      "src": "/audio/book-02/lesson-37/lines/12.wav",
+      "start": 72.355,
+      "end": 78.005,
       "duration": 5.65
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "And which option do you prefer?",
-      "src": "/audio/book-02/lesson-37/lines/13.wav",
+      "start": 78.285,
+      "end": 80.635,
       "duration": 2.35
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I'd rather test the space before signing up. I haven't decided whether to buy one day pass or accept their free trial day first.",
-      "src": "/audio/book-02/lesson-37/lines/14.wav",
+      "start": 80.915,
+      "end": 88.865,
       "duration": 7.95
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "The free day sounds like useful evidence, not a commitment.",
-      "src": "/audio/book-02/lesson-37/lines/15.wav",
+      "start": 89.145,
+      "end": 93.245,
       "duration": 4.1
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "That's how I see it. I plan to visit on Thursday, ask about busy hours, and try working there for an afternoon. Then I'll compare the real experience with the cost.",
-      "src": "/audio/book-02/lesson-37/lines/16.wav",
+      "start": 93.525,
+      "end": 103.25,
       "duration": 9.725
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Let me make sure I've got this right. You're considering a shared desk, but you haven't decided to rent one. First, you're going to test the space and gather information. Did I miss anything?",
-      "src": "/audio/book-02/lesson-37/lines/17.wav",
+      "start": 103.53,
+      "end": 114.905,
       "duration": 11.375
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Just one thing: if it makes my workday clearer, the change might be worth more than the desk itself.",
-      "src": "/audio/book-02/lesson-37/lines/18.wav",
+      "start": 115.185,
+      "end": 121.185,
       "duration": 6.0
     }
   ]

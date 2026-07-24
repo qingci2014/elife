@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 56 - That Came Across the Wrong Way",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The client can open the file now, but they wrote, “Your last note came across as if the access problem were my fault.”",
-      "src": "/audio/book-02/lesson-56/lines/01.wav",
+      "start": 0.35,
+      "end": 7.475,
       "duration": 7.125
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What exactly did you send?",
-      "src": "/audio/book-02/lesson-56/lines/02.wav",
+      "start": 7.755,
+      "end": 9.93,
       "duration": 2.175
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "“Use the third link. Ignore the other two. Don't request access again.”",
-      "src": "/audio/book-02/lesson-56/lines/03.wav",
+      "start": 10.21,
+      "end": 15.11,
       "duration": 4.9
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "The instructions are clear, but three commands in a row can come across as blame.",
-      "src": "/audio/book-02/lesson-56/lines/04.wav",
+      "start": 15.39,
+      "end": 20.59,
       "duration": 5.2
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I didn't mean it that way. I was trying to prevent another access request.",
-      "src": "/audio/book-02/lesson-56/lines/05.wav",
+      "start": 20.87,
+      "end": 26.045,
       "duration": 5.175
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Your intention matters, but it doesn't erase the effect. Which sentence caused the most trouble?",
-      "src": "/audio/book-02/lesson-56/lines/06.wav",
+      "start": 26.325,
+      "end": 32.2,
       "duration": 5.875
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The sentence that says, “Don't request access again.” It sounds as if the client did something wrong.",
-      "src": "/audio/book-02/lesson-56/lines/07.wav",
+      "start": 32.48,
+      "end": 38.93,
       "duration": 6.45
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Right. The strongest evidence is the client's own description, not a guess based on punctuation.",
-      "src": "/audio/book-02/lesson-56/lines/08.wav",
+      "start": 39.21,
+      "end": 45.835,
       "duration": 6.625
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I can't conclude that they're angry. They might simply be explaining how the message sounded.",
-      "src": "/audio/book-02/lesson-56/lines/09.wav",
+      "start": 46.115,
+      "end": 51.715,
       "duration": 5.6
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Good. What did you mean to say?",
-      "src": "/audio/book-02/lesson-56/lines/10.wav",
+      "start": 51.995,
+      "end": 54.245,
       "duration": 2.25
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "What I meant was, “You shouldn't need to request access again. If the link still doesn't open, please let me know.”",
-      "src": "/audio/book-02/lesson-56/lines/11.wav",
+      "start": 55.375,
+      "end": 62.1,
       "duration": 6.725
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Better. Start by acknowledging the effect before explaining.",
-      "src": "/audio/book-02/lesson-56/lines/12.wav",
+      "start": 62.38,
+      "end": 66.255,
       "duration": 3.875
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "“Thanks for flagging that. My last message came across more sharply than I intended.”",
-      "src": "/audio/book-02/lesson-56/lines/13.wav",
+      "start": 66.535,
+      "end": 72.085,
       "duration": 5.55
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Then identify the current file without making the client reconstruct your mistake.",
-      "src": "/audio/book-02/lesson-56/lines/14.wav",
+      "start": 72.365,
+      "end": 77.815,
       "duration": 5.45
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "“To avoid confusion, the third link is the only current link. The first message had no attachment, and the second link did not include your access.”",
-      "src": "/audio/book-02/lesson-56/lines/15.wav",
+      "start": 78.095,
+      "end": 87.07,
       "duration": 8.975
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Good. Could you reset the interaction with one clear next step?",
-      "src": "/audio/book-02/lesson-56/lines/16.wav",
+      "start": 87.35,
+      "end": 91.25,
       "duration": 3.9
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "“Could we reset and use the labeled version 3 link below? You shouldn't need any further permission.”",
-      "src": "/audio/book-02/lesson-56/lines/17.wav",
+      "start": 91.53,
+      "end": 97.68,
       "duration": 6.15
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Read the whole message aloud once.",
-      "src": "/audio/book-02/lesson-56/lines/18.wav",
+      "start": 97.96,
+      "end": 100.51,
       "duration": 2.55
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I tried reading it as the recipient, and it sounds calmer. I'll send this one repair and stop creating new links.",
-      "src": "/audio/book-02/lesson-56/lines/19.wav",
+      "start": 100.79,
+      "end": 107.79,
       "duration": 7.0
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Perfect. It accepts the effect, explains the evidence and leaves one usable action.",
-      "src": "/audio/book-02/lesson-56/lines/20.wav",
+      "start": 108.07,
+      "end": 114.045,
       "duration": 5.975
     }
   ],

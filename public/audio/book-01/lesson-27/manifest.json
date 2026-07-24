@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 27 - I'm Not Sure That Will Work",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "The guide looks close. I'd like to send it to everyone on Friday morning.",
-      "src": "/audio/book-01/lesson-27/lines/01.wav",
+      "start": 0.35,
+      "end": 4.725,
       "duration": 4.375
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I'm not sure that will work. The accessibility check won't be finished until Friday afternoon.",
-      "src": "/audio/book-01/lesson-27/lines/02.wav",
+      "start": 5.005,
+      "end": 11.18,
       "duration": 6.175
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "My concern is that a Monday release will put us behind schedule.",
-      "src": "/audio/book-01/lesson-27/lines/03.wav",
+      "start": 11.46,
+      "end": 15.735,
       "duration": 4.275
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "If we send it before the check, some staff may receive a file their screen reader can't use properly.",
-      "src": "/audio/book-01/lesson-27/lines/04.wav",
+      "start": 16.015,
+      "end": 22.64,
       "duration": 6.625
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "That's a fair point. Is there any chance we could finish the check earlier?",
-      "src": "/audio/book-01/lesson-27/lines/05.wav",
+      "start": 22.92,
+      "end": 27.245,
       "duration": 4.325
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Not carefully. We still have twelve pages and two file formats.",
-      "src": "/audio/book-01/lesson-27/lines/06.wav",
+      "start": 27.525,
+      "end": 32.15,
       "duration": 4.625
     },
     {
@@ -61,7 +68,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "What if we send it to a five-person review group on Thursday instead?",
-      "src": "/audio/book-01/lesson-27/lines/07.wav",
+      "start": 33.28,
+      "end": 37.98,
       "duration": 4.7
     },
     {
@@ -69,7 +77,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "That might work. The advantage is that we can test both files with a small group before the full release.",
-      "src": "/audio/book-01/lesson-27/lines/08.wav",
+      "start": 38.26,
+      "end": 44.735,
       "duration": 6.475
     },
     {
@@ -77,7 +86,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Will five people give us enough useful feedback?",
-      "src": "/audio/book-01/lesson-27/lines/09.wav",
+      "start": 45.015,
+      "end": 48.44,
       "duration": 3.425
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Yes, if the group includes people using both file formats and different devices.",
-      "src": "/audio/book-01/lesson-27/lines/10.wav",
+      "start": 48.72,
+      "end": 54.245,
       "duration": 5.525
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "If the reviewers reply by Friday noon, can we make the final changes that afternoon?",
-      "src": "/audio/book-01/lesson-27/lines/11.wav",
+      "start": 54.525,
+      "end": 59.775,
       "duration": 5.25
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Yes. Then we can release it to everyone at nine on Monday.",
-      "src": "/audio/book-01/lesson-27/lines/12.wav",
+      "start": 60.055,
+      "end": 64.055,
       "duration": 4.0
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I'd prefer that plan. It protects the check without losing another week.",
-      "src": "/audio/book-01/lesson-27/lines/13.wav",
+      "start": 64.335,
+      "end": 69.31,
       "duration": 4.975
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Agreed. Let's use the small review first and confirm the action items tomorrow.",
-      "src": "/audio/book-01/lesson-27/lines/14.wav",
+      "start": 69.59,
+      "end": 74.74,
       "duration": 5.15
     }
   ]

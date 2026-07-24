@@ -18,6 +18,10 @@
 /.vinext/
 /out/
 
+# Individual line WAVs are a local production cache. The website seeks into
+# each lesson's uncompressed dialogue.wav instead of deploying duplicate audio.
+/public/audio/**/lines/*.wav
+
 # misc
 .DS_Store
 *.pem

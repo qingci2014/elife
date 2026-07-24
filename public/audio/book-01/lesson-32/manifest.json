@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 32 - So, What's the Plan?",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "These show the old bookshop and three nearby stores. What if we save more neighborhood photos and short stories before they disappear?",
-      "src": "/audio/book-01/lesson-32/lines/01.wav",
+      "start": 0.35,
+      "end": 9.275,
       "duration": 8.925
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We could create a small then-and-now exhibit. I have recent photos of several of these streets.",
-      "src": "/audio/book-01/lesson-32/lines/02.wav",
+      "start": 9.555,
+      "end": 15.955,
       "duration": 6.4
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I like the idea, but I'm not sure thirty photo pairs and recorded interviews will be manageable for our first event.",
-      "src": "/audio/book-01/lesson-32/lines/03.wav",
+      "start": 16.235,
+      "end": 24.085,
       "duration": 7.85
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I feel disappointed when good material stays in boxes, but I don't need everything displayed at once.",
-      "src": "/audio/book-01/lesson-32/lines/04.wav",
+      "start": 24.365,
+      "end": 31.59,
       "duration": 7.225
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Then let's keep it manageable: twelve photo pairs and up to six short written stories.",
-      "src": "/audio/book-01/lesson-32/lines/05.wav",
+      "start": 31.87,
+      "end": 37.545,
       "duration": 5.675
     },
     {
@@ -53,7 +59,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "That might work. We can use one wall at the arts center if the dates and permissions are clear.",
-      "src": "/audio/book-01/lesson-32/lines/06.wav",
+      "start": 38.675,
+      "end": 44.825,
       "duration": 6.15
     },
     {
@@ -61,7 +68,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Some owners are unknown. We're not committing to public display yet.",
-      "src": "/audio/book-01/lesson-32/lines/07.wav",
+      "start": 45.105,
+      "end": 50.28,
       "duration": 5.175
     },
     {
@@ -69,7 +77,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "So, what's the plan?",
-      "src": "/audio/book-01/lesson-32/lines/08.wav",
+      "start": 50.56,
+      "end": 52.185,
       "duration": 1.625
     },
     {
@@ -77,7 +86,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "The first step is to check the space, contributors and image permissions.",
-      "src": "/audio/book-01/lesson-32/lines/09.wav",
+      "start": 52.465,
+      "end": 57.34,
       "duration": 4.875
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I'll contact two former neighbors, but I won't promise that their stories will be used.",
-      "src": "/audio/book-01/lesson-32/lines/10.wav",
+      "start": 57.62,
+      "end": 63.495,
       "duration": 5.875
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I'll select twelve candidate pairs. They're only candidates until everyone agrees.",
-      "src": "/audio/book-01/lesson-32/lines/11.wav",
+      "start": 63.775,
+      "end": 69.425,
       "duration": 5.65
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I'll check two early-fall Saturdays. Let's make sure everyone agrees before we announce a date.",
-      "src": "/audio/book-01/lesson-32/lines/12.wav",
+      "start": 69.705,
+      "end": 76.305,
       "duration": 6.6
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Good. If those checks work, we move ahead with a small exhibit—not a huge festival.",
-      "src": "/audio/book-01/lesson-32/lines/13.wav",
+      "start": 76.585,
+      "end": 82.835,
       "duration": 6.25
     }
   ]

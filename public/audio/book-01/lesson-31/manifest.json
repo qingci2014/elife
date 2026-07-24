@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 31 - I Was Only Kidding",
   "voiceMap": {
     "Grace": "af_sarah",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "These labels are much clearer than mine. At this rate, you can take over the whole café next week.",
-      "src": "/audio/book-01/lesson-31/lines/01.wav",
+      "start": 0.35,
+      "end": 6.775,
       "duration": 6.425
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Are you serious? I can help with the boxes, but I don't want to manage the café.",
-      "src": "/audio/book-01/lesson-31/lines/02.wav",
+      "start": 7.055,
+      "end": 12.505,
       "duration": 5.45
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "No, I was only kidding. I meant you're much better at organizing labels than I am.",
-      "src": "/audio/book-01/lesson-31/lines/03.wav",
+      "start": 12.785,
+      "end": 18.335,
       "duration": 5.55
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I thought you meant you wanted me to cover more work. You asked me about the front counter last month, so it sounded possible.",
-      "src": "/audio/book-01/lesson-31/lines/04.wav",
+      "start": 18.615,
+      "end": 26.565,
       "duration": 7.95
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "Did it sound as if I had already made the decision for you?",
-      "src": "/audio/book-01/lesson-31/lines/05.wav",
+      "start": 26.845,
+      "end": 30.62,
       "duration": 3.775
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Yes, and that was the part I wanted to check.",
-      "src": "/audio/book-01/lesson-31/lines/06.wav",
+      "start": 30.9,
+      "end": 34.475,
       "duration": 3.575
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "I didn't realize it sounded like a real request. That came out wrong.",
-      "src": "/audio/book-01/lesson-31/lines/07.wav",
+      "start": 34.755,
+      "end": 39.655,
       "duration": 4.9
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I don't mind a joke. I just need to know when a real responsibility is being offered.",
-      "src": "/audio/book-01/lesson-31/lines/08.wav",
+      "start": 40.785,
+      "end": 46.71,
       "duration": 5.925
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Owen",
       "text": "That's fair. I should've made the exaggeration clearer, or explained it immediately.",
-      "src": "/audio/book-01/lesson-31/lines/09.wav",
+      "start": 46.99,
+      "end": 52.29,
       "duration": 5.3
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Thanks for clearing that up.",
-      "src": "/audio/book-01/lesson-31/lines/10.wav",
+      "start": 52.57,
+      "end": 55.095,
       "duration": 2.525
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Owen",
       "text": "And to be completely clear: I'm not asking you to manage anything. I'm only thanking you for fixing the labels.",
-      "src": "/audio/book-01/lesson-31/lines/11.wav",
+      "start": 55.375,
+      "end": 62.5,
       "duration": 7.125
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Good. Then I'll finish this last box, and you can keep your café.",
-      "src": "/audio/book-01/lesson-31/lines/12.wav",
+      "start": 62.78,
+      "end": 67.53,
       "duration": 4.75
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Owen",
       "text": "Now that one sounded like a joke.",
-      "src": "/audio/book-01/lesson-31/lines/13.wav",
+      "start": 67.81,
+      "end": 70.485,
       "duration": 2.675
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "It was—and I smiled before I said it.",
-      "src": "/audio/book-01/lesson-31/lines/14.wav",
+      "start": 70.765,
+      "end": 74.315,
       "duration": 3.55
     }
   ]

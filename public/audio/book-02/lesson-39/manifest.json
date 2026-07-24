@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 39 - If Everything Goes to Plan",
   "voiceMap": {
     "Casey": "af_jessica",
@@ -14,7 +15,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "If everything goes to plan, we'll run the rehearsal Friday from two to four in the side gallery.",
-      "src": "/audio/book-02/lesson-39/lines/01.wav",
+      "start": 0.35,
+      "end": 6.75,
       "duration": 6.4
     },
     {
@@ -22,7 +24,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What has to happen before we go ahead?",
-      "src": "/audio/book-02/lesson-39/lines/02.wav",
+      "start": 7.03,
+      "end": 9.63,
       "duration": 2.6
     },
     {
@@ -30,7 +33,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The portable printer has to arrive by Thursday at five, and the gallery has to remain free. As soon as the printer arrives, I'll test one sample card and send you a photo of the result.",
-      "src": "/audio/book-02/lesson-39/lines/03.wav",
+      "start": 9.91,
+      "end": 22.26,
       "duration": 12.35
     },
     {
@@ -38,7 +42,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "What are you using for the rehearsal? None of the unapproved photographs, right?",
-      "src": "/audio/book-02/lesson-39/lines/04.wav",
+      "start": 22.54,
+      "end": 27.415,
       "duration": 4.875
     },
     {
@@ -46,7 +51,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Right. We'll use three photos I took myself and blank cards with invented names. Unless we have the right permissions, candidate material stays out of the room.",
-      "src": "/audio/book-02/lesson-39/lines/05.wav",
+      "start": 27.695,
+      "end": 38.32,
       "duration": 10.625
     },
     {
@@ -54,7 +60,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "Good. If the printer works, what will each person test?",
-      "src": "/audio/book-02/lesson-39/lines/06.wav",
+      "start": 38.6,
+      "end": 42.275,
       "duration": 3.675
     },
     {
@@ -62,7 +69,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Daniel will check image size, I'll time the setup, and Aisha will review whether the sample cards are easy to read. You can test the visitor route when you arrive at three.",
-      "src": "/audio/book-02/lesson-39/lines/07.wav",
+      "start": 42.555,
+      "end": 53.855,
       "duration": 11.3
     },
     {
@@ -70,7 +78,8 @@
       "part": "A",
       "speaker": "Owen",
       "text": "That's specific enough. What could still change?",
-      "src": "/audio/book-02/lesson-39/lines/08.wav",
+      "start": 54.135,
+      "end": 57.535,
       "duration": 3.4
     },
     {
@@ -78,7 +87,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "The delivery window is the main risk. If the printer doesn't arrive by five Thursday, we'll switch to Plan B.",
-      "src": "/audio/book-02/lesson-39/lines/09.wav",
+      "start": 58.665,
+      "end": 66.34,
       "duration": 7.675
     },
     {
@@ -86,7 +96,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Our backup plan is to rehearse the layout with plain paper at the same time. We'll test the wall positions, timing and visitor route, then test print quality next week.",
-      "src": "/audio/book-02/lesson-39/lines/10.wav",
+      "start": 66.62,
+      "end": 77.445,
       "duration": 10.825
     },
     {
@@ -94,7 +105,8 @@
       "part": "B",
       "speaker": "Owen",
       "text": "So the whole rehearsal isn't canceled because one tool is late.",
-      "src": "/audio/book-02/lesson-39/lines/11.wav",
+      "start": 77.725,
+      "end": 82.125,
       "duration": 4.4
     },
     {
@@ -102,7 +114,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Exactly. We only postpone the printing step. Either way, the room, start time and permission boundary stay the same.",
-      "src": "/audio/book-02/lesson-39/lines/12.wav",
+      "start": 82.405,
+      "end": 90.505,
       "duration": 8.1
     },
     {
@@ -110,7 +123,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "What if the gallery becomes unavailable?",
-      "src": "/audio/book-02/lesson-39/lines/13.wav",
+      "start": 90.785,
+      "end": 93.435,
       "duration": 2.65
     },
     {
@@ -118,7 +132,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Then we won't move the materials somewhere unsuitable. I'll contact everyone by noon Friday, and we'll choose a new date.",
-      "src": "/audio/book-02/lesson-39/lines/14.wav",
+      "start": 93.715,
+      "end": 101.665,
       "duration": 7.95
     },
     {
@@ -126,7 +141,8 @@
       "part": "B",
       "speaker": "Owen",
       "text": "That gives us two different decisions: printer late means Plan B; room unavailable means postpone.",
-      "src": "/audio/book-02/lesson-39/lines/15.wav",
+      "start": 101.945,
+      "end": 108.995,
       "duration": 7.05
     },
     {
@@ -134,7 +150,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I'll put that in the update. If people know the trigger, they won't have to guess which plan we're following.",
-      "src": "/audio/book-02/lesson-39/lines/16.wav",
+      "start": 109.275,
+      "end": 115.325,
       "duration": 6.05
     },
     {
@@ -142,7 +159,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Good. As soon as I receive either confirmation, I'll update the shared note. Until then, Friday is planned, not guaranteed.",
-      "src": "/audio/book-02/lesson-39/lines/17.wav",
+      "start": 115.605,
+      "end": 124.28,
       "duration": 8.675
     }
   ],

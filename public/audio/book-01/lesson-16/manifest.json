@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 16 - Can I Move My Appointment?",
   "voiceMap": {
     "Lena": "af_kore",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "Northside Salon. How can I help?",
-      "src": "/audio/book-01/lesson-16/lines/01.wav",
+      "start": 0.35,
+      "end": 4.225,
       "duration": 3.875
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Hi, I'm calling about my appointment with Rosa on Thursday at four thirty. It's under Lena Ortiz.",
-      "src": "/audio/book-01/lesson-16/lines/02.wav",
+      "start": 4.505,
+      "end": 11.83,
       "duration": 7.325
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "Let me check. Yes, I see it here.",
-      "src": "/audio/book-01/lesson-16/lines/03.wav",
+      "start": 12.11,
+      "end": 16.185,
       "duration": 4.075
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "My work schedule has changed. Can I move my appointment?",
-      "src": "/audio/book-01/lesson-16/lines/04.wav",
+      "start": 16.465,
+      "end": 20.49,
       "duration": 4.025
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "Certainly. Rosa has an opening at five on Thursday.",
-      "src": "/audio/book-01/lesson-16/lines/05.wav",
+      "start": 20.77,
+      "end": 26.92,
       "duration": 6.15
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The earliest I can do is five thirty. Do you have anything available after that?",
-      "src": "/audio/book-01/lesson-16/lines/06.wav",
+      "start": 27.2,
+      "end": 33.0,
       "duration": 5.8
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "Not on Thursday. She has eleven twenty or two forty on Friday.",
-      "src": "/audio/book-01/lesson-16/lines/07.wav",
+      "start": 33.28,
+      "end": 40.405,
       "duration": 7.125
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Friday at eleven twenty works for me.",
-      "src": "/audio/book-01/lesson-16/lines/08.wav",
+      "start": 40.685,
+      "end": 43.535,
       "duration": 2.85
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "Great. I'll move it to Friday, the eleventh, at eleven twenty.",
-      "src": "/audio/book-01/lesson-16/lines/09.wav",
+      "start": 43.815,
+      "end": 50.315,
       "duration": 6.5
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Just to check, that's Friday at eleven twenty with Rosa, right?",
-      "src": "/audio/book-01/lesson-16/lines/10.wav",
+      "start": 50.595,
+      "end": 54.945,
       "duration": 4.35
     },
     {
@@ -92,7 +103,8 @@
       "part": "A",
       "speaker": "Receptionist",
       "text": "That's right.",
-      "src": "/audio/book-01/lesson-16/lines/11.wav",
+      "start": 55.225,
+      "end": 57.05,
       "duration": 1.825
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Could you confirm the new time by text?",
-      "src": "/audio/book-01/lesson-16/lines/12.wav",
+      "start": 58.18,
+      "end": 60.955,
       "duration": 2.775
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Receptionist",
       "text": "Yes. It should arrive in a moment. Your reference number will stay the same.",
-      "src": "/audio/book-01/lesson-16/lines/13.wav",
+      "start": 61.235,
+      "end": 68.535,
       "duration": 7.3
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thank you. Should I use the same front entrance?",
-      "src": "/audio/book-01/lesson-16/lines/14.wav",
+      "start": 68.815,
+      "end": 71.865,
       "duration": 3.05
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Receptionist",
       "text": "Yes. Please arrive five minutes early.",
-      "src": "/audio/book-01/lesson-16/lines/15.wav",
+      "start": 72.145,
+      "end": 75.645,
       "duration": 3.5
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Got it: Friday at eleven twenty, with Rosa, and I should arrive by eleven fifteen.",
-      "src": "/audio/book-01/lesson-16/lines/16.wav",
+      "start": 75.925,
+      "end": 81.85,
       "duration": 5.925
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Receptionist",
       "text": "Exactly. Is there anything else I can help with?",
-      "src": "/audio/book-01/lesson-16/lines/17.wav",
+      "start": 82.13,
+      "end": 87.505,
       "duration": 5.375
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "No, that's everything. Thanks for your help.",
-      "src": "/audio/book-01/lesson-16/lines/18.wav",
+      "start": 87.785,
+      "end": 90.71,
       "duration": 2.925
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Receptionist",
       "text": "You're welcome. See you Friday.",
-      "src": "/audio/book-01/lesson-16/lines/19.wav",
+      "start": 90.99,
+      "end": 94.165,
       "duration": 3.175
     }
   ]

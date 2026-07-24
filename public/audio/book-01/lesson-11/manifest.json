@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 11 - You Should Come With Us",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Lena and I are going to an outdoor concert on Sunday. You should come with us.",
-      "src": "/audio/book-01/lesson-11/lines/01.wav",
+      "start": 0.35,
+      "end": 5.7,
       "duration": 5.35
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I'd love to, but I have a project due Monday morning.",
-      "src": "/audio/book-01/lesson-11/lines/02.wav",
+      "start": 5.98,
+      "end": 9.43,
       "duration": 3.45
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "You could join us later. The music starts at six, but it goes until nine.",
-      "src": "/audio/book-01/lesson-11/lines/03.wav",
+      "start": 9.71,
+      "end": 14.86,
       "duration": 5.15
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I might be able to come after I finish the first draft. Where is it?",
-      "src": "/audio/book-01/lesson-11/lines/04.wav",
+      "start": 15.14,
+      "end": 19.615,
       "duration": 4.475
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "On the lawn behind the Harbor Street Arts Center. Would you like to join us if you're free?",
-      "src": "/audio/book-01/lesson-11/lines/05.wav",
+      "start": 19.895,
+      "end": 25.595,
       "duration": 5.7
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I'd like to. Let me see if I can get most of the work done on Saturday.",
-      "src": "/audio/book-01/lesson-11/lines/06.wav",
+      "start": 25.875,
+      "end": 30.525,
       "duration": 4.65
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "No pressure. We just need a clear answer before we leave on Sunday.",
-      "src": "/audio/book-01/lesson-11/lines/07.wav",
+      "start": 30.805,
+      "end": 35.505,
       "duration": 4.7
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's fair. I'll message you by three on Sunday afternoon.",
-      "src": "/audio/book-01/lesson-11/lines/08.wav",
+      "start": 35.785,
+      "end": 39.61,
       "duration": 3.825
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Perfect. And if work takes longer, maybe another time.",
-      "src": "/audio/book-01/lesson-11/lines/09.wav",
+      "start": 39.89,
+      "end": 43.99,
       "duration": 4.1
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Hi, you two. I'm afraid I can't make it tonight. The project is taking longer than I expected, and I don't want to arrive for only the last few minutes.",
-      "src": "/audio/book-01/lesson-11/lines/10.wav",
+      "start": 45.12,
+      "end": 54.645,
       "duration": 9.525
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "No problem. Thanks for letting us know before we leave.",
-      "src": "/audio/book-01/lesson-11/lines/11.wav",
+      "start": 54.925,
+      "end": 58.975,
       "duration": 4.05
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Absolutely. Maybe another time.",
-      "src": "/audio/book-01/lesson-11/lines/12.wav",
+      "start": 59.255,
+      "end": 61.905,
       "duration": 2.65
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Thanks for understanding. I hope you have a great evening.",
-      "src": "/audio/book-01/lesson-11/lines/13.wav",
+      "start": 62.185,
+      "end": 65.785,
       "duration": 3.6
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Thanks. Good luck with the project.",
-      "src": "/audio/book-01/lesson-11/lines/14.wav",
+      "start": 66.065,
+      "end": 68.815,
       "duration": 2.75
     }
   ]

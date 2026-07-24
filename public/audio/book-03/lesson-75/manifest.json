@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 75 - That's Not How It Was Explained to Me",
   "voiceMap": {
     "Ben": "am_onyx",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That’s not how it was explained to me. The group update says, “Maya won’t be joining because her schedule is too full.” That reads as a completed decision.",
-      "src": "/audio/book-03/lesson-75/lines/01.wav",
+      "start": 0.35,
+      "end": 10.175,
       "duration": 9.825
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "I understand why. Carla’s original note asked whether you would be open to a ten-minute talk and said there was no pressure. She also said she could contact you directly.",
-      "src": "/audio/book-03/lesson-75/lines/02.wav",
+      "start": 10.455,
+      "end": 20.23,
       "duration": 9.775
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What exactly did you say in reply?",
-      "src": "/audio/book-03/lesson-75/lines/03.wav",
+      "start": 20.51,
+      "end": 23.135,
       "duration": 2.625
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "I wrote, “Her hospital training calendar is unusually full, so please don’t count on her. If you still need an answer, ask her directly next week.”",
-      "src": "/audio/book-03/lesson-75/lines/04.wav",
+      "start": 23.415,
+      "end": 32.515,
       "duration": 9.1
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Then I was told that I had declined, but your message actually combined a warning not to plan around me with permission to contact me later.",
-      "src": "/audio/book-03/lesson-75/lines/05.wav",
+      "start": 32.795,
+      "end": 41.72,
       "duration": 8.925
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "Yes, although “please don’t count on her” may have been understood as the main answer. The direct-contact sentence came second and sounded optional.",
-      "src": "/audio/book-03/lesson-75/lines/06.wav",
+      "start": 42.0,
+      "end": 50.925,
       "duration": 8.925
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "According to Carla’s group summary, my schedule was the reason for a final decision. The original source says only that she wanted to know whether I was open to being asked.",
-      "src": "/audio/book-03/lesson-75/lines/07.wav",
+      "start": 51.205,
+      "end": 62.005,
       "duration": 10.8
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "The reply cites your full calendar, but it doesn’t report a decision you made. I haven’t found any sentence where you accepted or declined.",
-      "src": "/audio/book-03/lesson-75/lines/08.wav",
+      "start": 62.285,
+      "end": 70.585,
       "duration": 8.3
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Can we trace “won’t be joining” back to an exact sentence?",
-      "src": "/audio/book-03/lesson-75/lines/09.wav",
+      "start": 70.865,
+      "end": 74.74,
       "duration": 3.875
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "No. It appears to come from Carla’s interpretation of my warning, not from a direct reply by you.",
-      "src": "/audio/book-03/lesson-75/lines/10.wav",
+      "start": 75.02,
+      "end": 81.32,
       "duration": 6.3
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "I may have described Carla as changing your words, but that suggests intent we haven’t established. A more accurate version is that her summary made the status more final.",
-      "src": "/audio/book-03/lesson-75/lines/11.wav",
+      "start": 82.45,
+      "end": 93.325,
       "duration": 10.875
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "I agree. And I may have phrased my reply as if I had authority to set the expectation. That explains why the second sentence was easy to overlook.",
-      "src": "/audio/book-03/lesson-75/lines/12.wav",
+      "start": 93.605,
+      "end": 103.13,
       "duration": 9.525
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "If we write, “Carla misunderstood,” we will repeat the same problem by claiming to know her mental process.",
-      "src": "/audio/book-03/lesson-75/lines/13.wav",
+      "start": 103.41,
+      "end": 110.01,
       "duration": 6.6
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Then let’s write only what the record supports: I replied out of concern, but I wasn’t authorized to answer for you.",
-      "src": "/audio/book-03/lesson-75/lines/14.wav",
+      "start": 110.29,
+      "end": 117.49,
       "duration": 7.2
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "We also need the current status. I haven’t accepted or declined, and I don’t want the group to wait while we discuss it.",
-      "src": "/audio/book-03/lesson-75/lines/15.wav",
+      "start": 117.77,
+      "end": 125.27,
       "duration": 7.5
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "The role may already be filled. Could the correction say there is no need to reopen it, but future invitations should come directly to you?",
-      "src": "/audio/book-03/lesson-75/lines/16.wav",
+      "start": 125.55,
+      "end": 133.95,
       "duration": 8.4
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Yes. If the role is still open, Carla can send the details directly by Tuesday. I will answer her myself after checking my schedule.",
-      "src": "/audio/book-03/lesson-75/lines/17.wav",
+      "start": 134.23,
+      "end": 143.13,
       "duration": 8.9
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "I’ll send the correction to Carla privately first, not to the whole group. She can update the group only if the status still matters.",
-      "src": "/audio/book-03/lesson-75/lines/18.wav",
+      "start": 143.41,
+      "end": 150.91,
       "duration": 7.5
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Read it back: “Ben replied before checking with Maya. Maya has not accepted or declined. Please contact her directly if an answer is still needed; otherwise no change is required.”",
-      "src": "/audio/book-03/lesson-75/lines/19.wav",
+      "start": 151.19,
+      "end": 163.64,
       "duration": 12.45
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "That keeps behavior, authority and status clear. It corrects the version without asking Carla to defend her intention or sharing our private conversation.",
-      "src": "/audio/book-03/lesson-75/lines/20.wav",
+      "start": 163.92,
+      "end": 173.52,
       "duration": 9.6
     }
   ]

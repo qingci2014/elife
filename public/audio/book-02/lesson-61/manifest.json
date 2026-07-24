@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 61 - Which One Makes More Sense?",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We have three feedback methods: a large-print paper checklist, a QR form, or a short facilitated debrief. Which one makes more sense for this rehearsal?",
-      "src": "/audio/book-02/lesson-61/lines/01.wav",
+      "start": 0.35,
+      "end": 10.9,
       "duration": 10.55
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Before we choose, what are our criteria?",
-      "src": "/audio/book-02/lesson-61/lines/02.wav",
+      "start": 11.18,
+      "end": 14.305,
       "duration": 3.125
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "No personal device should be required, comments should identify an exact location, and collection should finish within fifteen minutes.",
-      "src": "/audio/book-02/lesson-61/lines/03.wav",
+      "start": 14.585,
+      "end": 24.035,
       "duration": 9.45
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We also have only one facilitator. Compared with paper, the QR form is cheaper and faster to submit.",
-      "src": "/audio/book-02/lesson-61/lines/04.wav",
+      "start": 24.315,
+      "end": 31.765,
       "duration": 7.45
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "That’s true, but it requires a phone and a stable connection. The paper checklist works without either.",
-      "src": "/audio/book-02/lesson-61/lines/05.wav",
+      "start": 32.045,
+      "end": 38.47,
       "duration": 6.425
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "The paper version costs eighteen dollars to print and takes about three minutes per tester. Its main advantage is that people can mark the route map directly.",
-      "src": "/audio/book-02/lesson-61/lines/06.wav",
+      "start": 38.75,
+      "end": 49.225,
       "duration": 10.475
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The downside is later data entry. With the QR form, the results would already be organized by location.",
-      "src": "/audio/book-02/lesson-61/lines/07.wav",
+      "start": 49.505,
+      "end": 57.355,
       "duration": 7.85
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The facilitated debrief could produce more detailed explanations, whereas a checklist might produce shorter answers.",
-      "src": "/audio/book-02/lesson-61/lines/08.wav",
+      "start": 57.635,
+      "end": 65.035,
       "duration": 7.4
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "It takes about five minutes per person, though. Three separate conversations would use the whole fifteen-minute collection window.",
-      "src": "/audio/book-02/lesson-61/lines/09.wav",
+      "start": 65.315,
+      "end": 73.665,
       "duration": 8.35
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "And a group debrief would be quicker, but one person’s comments might influence the others.",
-      "src": "/audio/book-02/lesson-61/lines/10.wav",
+      "start": 73.945,
+      "end": 79.645,
       "duration": 5.7
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "So the paper checklist meets the device and location criteria better than the QR form.",
-      "src": "/audio/book-02/lesson-61/lines/11.wav",
+      "start": 80.775,
+      "end": 86.7,
       "duration": 5.925
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "The QR form performs better on cost and data entry. Neither option is better on every criterion.",
-      "src": "/audio/book-02/lesson-61/lines/12.wav",
+      "start": 86.98,
+      "end": 94.58,
       "duration": 7.6
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Exactly. Our top priority is collecting location-specific comments without requiring a personal device.",
-      "src": "/audio/book-02/lesson-61/lines/13.wav",
+      "start": 94.86,
+      "end": 102.835,
       "duration": 7.975
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "That rules out using QR as the only method for this rehearsal.",
-      "src": "/audio/book-02/lesson-61/lines/14.wav",
+      "start": 103.115,
+      "end": 107.965,
       "duration": 4.85
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "What about the debrief? It gives richer detail than paper.",
-      "src": "/audio/book-02/lesson-61/lines/15.wav",
+      "start": 108.245,
+      "end": 112.145,
       "duration": 3.9
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Yes, but it leaves no time margin. We need to allow time for instructions and one late tester.",
-      "src": "/audio/book-02/lesson-61/lines/16.wav",
+      "start": 112.425,
+      "end": 119.225,
       "duration": 6.8
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Because the checklist meets the two highest-priority criteria, it makes more sense as the default.",
-      "src": "/audio/book-02/lesson-61/lines/17.wav",
+      "start": 119.505,
+      "end": 125.855,
       "duration": 6.35
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Therefore, my recommendation is paper for the rehearsal, with one optional spoken follow-up question.",
-      "src": "/audio/book-02/lesson-61/lines/18.wav",
+      "start": 126.135,
+      "end": 132.985,
       "duration": 6.85
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "On balance, that is the best available option for this thirty-minute session, not necessarily for the public event.",
-      "src": "/audio/book-02/lesson-61/lines/19.wav",
+      "start": 133.265,
+      "end": 141.09,
       "duration": 7.825
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Agreed. Let’s confirm the printing cost and large-print layout before we treat the recommendation as final.",
-      "src": "/audio/book-02/lesson-61/lines/20.wav",
+      "start": 141.37,
+      "end": 147.895,
       "duration": 6.525
     }
   ]

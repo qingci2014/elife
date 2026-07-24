@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 3 - I'm Running Late",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Are you close? We're meeting at Corner Table at 6:15, right?",
-      "src": "/audio/book-01/lesson-03/lines/01.wav",
+      "start": 0.35,
+      "end": 4.7,
       "duration": 4.35
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Yes, but I'm running late. I'm still on my way—I'm on the bus, but traffic isn't moving.",
-      "src": "/audio/book-01/lesson-03/lines/02.wav",
+      "start": 4.98,
+      "end": 10.53,
       "duration": 5.55
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "How far away are you?",
-      "src": "/audio/book-01/lesson-03/lines/03.wav",
+      "start": 10.81,
+      "end": 12.71,
       "duration": 1.9
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I should be there around 6:35. Maybe 6:40. I'm sorry.",
-      "src": "/audio/book-01/lesson-03/lines/04.wav",
+      "start": 12.99,
+      "end": 17.915,
       "duration": 4.925
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "That only gives us a few minutes. I'm helping with an evening workshop at 7:00.",
-      "src": "/audio/book-01/lesson-03/lines/05.wav",
+      "start": 18.195,
+      "end": 24.845,
       "duration": 6.65
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Right, I forgot. We don't have to meet at the café. Can we meet at the arts center instead?",
-      "src": "/audio/book-01/lesson-03/lines/06.wav",
+      "start": 25.125,
+      "end": 30.775,
       "duration": 5.65
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "That works for me. I can stay here. Can you get here by 6:30?",
-      "src": "/audio/book-01/lesson-03/lines/07.wav",
+      "start": 31.055,
+      "end": 35.58,
       "duration": 4.525
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Let me check the route and get back to you in a minute.",
-      "src": "/audio/book-01/lesson-03/lines/08.wav",
+      "start": 35.86,
+      "end": 39.06,
       "duration": 3.2
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "The next stop is on Harbor Street. I'll get off there and walk. I should be at the north entrance in about twenty minutes.",
-      "src": "/audio/book-01/lesson-03/lines/09.wav",
+      "start": 40.19,
+      "end": 47.565,
       "duration": 7.375
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Great. I'll wait here, then. Text me when you're five minutes away.",
-      "src": "/audio/book-01/lesson-03/lines/10.wav",
+      "start": 47.845,
+      "end": 52.245,
       "duration": 4.4
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Okay. Sorry I didn't message sooner.",
-      "src": "/audio/book-01/lesson-03/lines/11.wav",
+      "start": 52.525,
+      "end": 55.0,
       "duration": 2.475
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thanks for telling me. Please let me know earlier next time.",
-      "src": "/audio/book-01/lesson-03/lines/12.wav",
+      "start": 55.28,
+      "end": 59.23,
       "duration": 3.95
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "You're right. Sorry about that.",
-      "src": "/audio/book-01/lesson-03/lines/13.wav",
+      "start": 59.51,
+      "end": 61.46,
       "duration": 1.95
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Update: I'm five minutes away.",
-      "src": "/audio/book-01/lesson-03/lines/14.wav",
+      "start": 61.74,
+      "end": 64.065,
       "duration": 2.325
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Got it. I'm heading downstairs now.",
-      "src": "/audio/book-01/lesson-03/lines/15.wav",
+      "start": 64.345,
+      "end": 66.845,
       "duration": 2.5
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Just to check, you mean the north entrance on Harbor Street?",
-      "src": "/audio/book-01/lesson-03/lines/16.wav",
+      "start": 67.125,
+      "end": 70.75,
       "duration": 3.625
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Exactly—not the main entrance by the parking lot. We can talk in the lobby before my workshop starts.",
-      "src": "/audio/book-01/lesson-03/lines/17.wav",
+      "start": 71.03,
+      "end": 77.98,
       "duration": 6.95
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Got it. Thanks for changing the plan. See you in five.",
-      "src": "/audio/book-01/lesson-03/lines/18.wav",
+      "start": 78.26,
+      "end": 81.66,
       "duration": 3.4
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "See you soon.",
-      "src": "/audio/book-01/lesson-03/lines/19.wav",
+      "start": 81.94,
+      "end": 83.465,
       "duration": 1.525
     }
   ]

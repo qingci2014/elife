@@ -7,11 +7,13 @@ type AudioLine = {
   part: "A" | "B";
   speaker: string;
   text: string;
-  src: string;
+  start: number;
+  end: number;
   duration: number;
 };
 
 type AudioManifest = {
+  formatVersion: 2;
   title: string;
   fullSrc: string;
   lines: AudioLine[];
@@ -46,6 +48,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
   const fullAudioRef = useRef<HTMLAudioElement>(null);
   const lineAudioRef = useRef<HTMLAudioElement>(null);
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const finishingRef = useRef(false);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -91,6 +94,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
   function stopShadowing() {
     clearFollowTimer();
     lineAudioRef.current?.pause();
+    finishingRef.current = false;
     setRunning(false);
     setWaiting(false);
   }
@@ -107,23 +111,33 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
     setCurrentIndex(index);
     setWaiting(false);
     setRunning(true);
+    finishingRef.current = false;
 
     window.requestAnimationFrame(() => {
       const audio = lineAudioRef.current;
       if (!audio) return;
-      audio.src = manifest.lines[index].src;
-      audio.playbackRate = rate;
-      audio.currentTime = 0;
-      audio.play().catch(() => setRunning(false));
+      const startPlayback = () => {
+        audio.playbackRate = rate;
+        audio.currentTime = manifest.lines[index].start;
+        audio.play().catch(() => setRunning(false));
+      };
+      if (audio.readyState >= HTMLMediaElement.HAVE_METADATA) startPlayback();
+      else audio.addEventListener("loadedmetadata", startPlayback, { once: true });
     });
   }
 
-  function handleLineEnded() {
+  function finishLine() {
     if (!manifest) return;
+    if (finishingRef.current) return;
+    finishingRef.current = true;
     const audio = lineAudioRef.current;
     if (loopLine && audio) {
-      audio.currentTime = 0;
-      void audio.play();
+      audio.pause();
+      audio.currentTime = manifest.lines[currentIndex].start;
+      window.requestAnimationFrame(() => {
+        finishingRef.current = false;
+        void audio.play();
+      });
       return;
     }
     if (currentIndex >= manifest.lines.length - 1) {
@@ -136,6 +150,16 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
     const followTime = Math.max(2200, Math.round((line.duration / rate) * 1100));
     setWaiting(true);
     timerRef.current = setTimeout(() => playLine(currentIndex + 1), followTime);
+  }
+
+  function handleLineProgress() {
+    const audio = lineAudioRef.current;
+    const line = manifest?.lines[currentIndex];
+    if (!audio || !line || !running || waiting) return;
+    if (audio.currentTime + 0.015 >= line.end) {
+      audio.pause();
+      finishLine();
+    }
   }
 
   const currentLine = manifest?.lines[currentIndex];
@@ -221,7 +245,13 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
             </span>
           </div>
 
-          <audio onEnded={handleLineEnded} preload="metadata" ref={lineAudioRef} />
+          <audio
+            onEnded={finishLine}
+            onTimeUpdate={handleLineProgress}
+            preload="metadata"
+            ref={lineAudioRef}
+            src={manifest?.fullSrc}
+          />
 
           <div className="shadow-script">
             {manifest?.lines.map((line, index) => (

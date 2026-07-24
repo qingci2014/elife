@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 13 - A Table for Two",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -14,7 +15,8 @@
       "part": "A",
       "speaker": "Host",
       "text": "Good evening. How many?",
-      "src": "/audio/book-01/lesson-13/lines/01.wav",
+      "start": 0.35,
+      "end": 2.175,
       "duration": 1.825
     },
     {
@@ -22,7 +24,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "A table for two, please. We have a reservation under Lena Ortiz for seven.",
-      "src": "/audio/book-01/lesson-13/lines/02.wav",
+      "start": 2.455,
+      "end": 8.055,
       "duration": 5.6
     },
     {
@@ -30,7 +33,8 @@
       "part": "A",
       "speaker": "Host",
       "text": "Yes, I have it here. Right this way.",
-      "src": "/audio/book-01/lesson-13/lines/03.wav",
+      "start": 8.335,
+      "end": 10.86,
       "duration": 2.525
     },
     {
@@ -38,7 +42,8 @@
       "part": "A",
       "speaker": "Server",
       "text": "Would you like still or sparkling water?",
-      "src": "/audio/book-01/lesson-13/lines/04.wav",
+      "start": 11.14,
+      "end": 14.19,
       "duration": 3.05
     },
     {
@@ -46,7 +51,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Still water, please. Could we have two glasses?",
-      "src": "/audio/book-01/lesson-13/lines/05.wav",
+      "start": 14.47,
+      "end": 17.995,
       "duration": 3.525
     },
     {
@@ -54,7 +60,8 @@
       "part": "A",
       "speaker": "Server",
       "text": "Of course. Are you ready to order?",
-      "src": "/audio/book-01/lesson-13/lines/06.wav",
+      "start": 18.275,
+      "end": 21.2,
       "duration": 2.925
     },
     {
@@ -62,7 +69,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I think so. I'd like the tomato soup to start and the grilled chicken as my main.",
-      "src": "/audio/book-01/lesson-13/lines/07.wav",
+      "start": 21.48,
+      "end": 26.83,
       "duration": 5.35
     },
     {
@@ -70,7 +78,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Does the chicken come with a side?",
-      "src": "/audio/book-01/lesson-13/lines/08.wav",
+      "start": 27.11,
+      "end": 29.935,
       "duration": 2.825
     },
     {
@@ -78,7 +87,8 @@
       "part": "A",
       "speaker": "Server",
       "text": "Yes. It comes with potatoes or a green salad.",
-      "src": "/audio/book-01/lesson-13/lines/09.wav",
+      "start": 30.215,
+      "end": 34.04,
       "duration": 3.825
     },
     {
@@ -86,7 +96,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Great. I'd like the chicken with the salad, please. Could I have the dressing on the side?",
-      "src": "/audio/book-01/lesson-13/lines/10.wav",
+      "start": 34.32,
+      "end": 39.695,
       "duration": 5.375
     },
     {
@@ -94,7 +105,8 @@
       "part": "A",
       "speaker": "Server",
       "text": "Certainly. I'm sorry, but we've just sold the last bowl of tomato soup.",
-      "src": "/audio/book-01/lesson-13/lines/11.wav",
+      "start": 39.975,
+      "end": 45.075,
       "duration": 5.1
     },
     {
@@ -102,7 +114,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Oh. What other starters do you have?",
-      "src": "/audio/book-01/lesson-13/lines/12.wav",
+      "start": 45.355,
+      "end": 47.755,
       "duration": 2.4
     },
     {
@@ -110,7 +123,8 @@
       "part": "A",
       "speaker": "Server",
       "text": "We have a small plate of roasted vegetables and some garlic bread.",
-      "src": "/audio/book-01/lesson-13/lines/13.wav",
+      "start": 48.035,
+      "end": 52.81,
       "duration": 4.775
     },
     {
@@ -118,7 +132,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Then I'll have the roasted vegetables. That's all for now.",
-      "src": "/audio/book-01/lesson-13/lines/14.wav",
+      "start": 53.09,
+      "end": 56.865,
       "duration": 3.775
     },
     {
@@ -126,7 +141,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The food looks great. Could we have some more water when you have a moment?",
-      "src": "/audio/book-01/lesson-13/lines/15.wav",
+      "start": 57.995,
+      "end": 62.62,
       "duration": 4.625
     },
     {
@@ -134,7 +150,8 @@
       "part": "B",
       "speaker": "Server",
       "text": "Sure. Is everything else okay?",
-      "src": "/audio/book-01/lesson-13/lines/16.wav",
+      "start": 62.9,
+      "end": 65.5,
       "duration": 2.6
     },
     {
@@ -142,7 +159,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Yes, thank you. The vegetables were a good choice.",
-      "src": "/audio/book-01/lesson-13/lines/17.wav",
+      "start": 65.78,
+      "end": 69.055,
       "duration": 3.275
     },
     {
@@ -150,7 +168,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "And this salad is bigger than I expected.",
-      "src": "/audio/book-01/lesson-13/lines/18.wav",
+      "start": 69.335,
+      "end": 72.71,
       "duration": 3.375
     },
     {
@@ -158,7 +177,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Do you want help with it?",
-      "src": "/audio/book-01/lesson-13/lines/19.wav",
+      "start": 72.99,
+      "end": 74.79,
       "duration": 1.8
     },
     {
@@ -166,7 +186,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Actually, could you do me a favor and take one of these potatoes? I could really use your help.",
-      "src": "/audio/book-01/lesson-13/lines/20.wav",
+      "start": 75.07,
+      "end": 80.945,
       "duration": 5.875
     },
     {
@@ -174,7 +195,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "That's a serious request, but I accept.",
-      "src": "/audio/book-01/lesson-13/lines/21.wav",
+      "start": 81.225,
+      "end": 84.05,
       "duration": 2.825
     },
     {
@@ -182,7 +204,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I really appreciate it.",
-      "src": "/audio/book-01/lesson-13/lines/22.wav",
+      "start": 84.33,
+      "end": 86.905,
       "duration": 2.575
     },
     {
@@ -190,7 +213,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Happy to help.",
-      "src": "/audio/book-01/lesson-13/lines/23.wav",
+      "start": 87.185,
+      "end": 88.735,
       "duration": 1.55
     },
     {
@@ -198,7 +222,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "When we're ready, could we get the check, please?",
-      "src": "/audio/book-01/lesson-13/lines/24.wav",
+      "start": 89.015,
+      "end": 92.29,
       "duration": 3.275
     },
     {
@@ -206,7 +231,8 @@
       "part": "B",
       "speaker": "Server",
       "text": "Of course. I'll bring it over.",
-      "src": "/audio/book-01/lesson-13/lines/25.wav",
+      "start": 92.57,
+      "end": 95.17,
       "duration": 2.6
     }
   ]

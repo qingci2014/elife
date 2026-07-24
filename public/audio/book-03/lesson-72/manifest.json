@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 72 - That's a Fair Point, However…",
   "voiceMap": {
     "Ben": "am_onyx",
@@ -14,7 +15,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "My objection is practical. The team saved about thirteen minutes per meeting, most survey respondents preferred the shorter format and overdue items declined. Why wait for perfect evidence before recommending fifteen-minute check-ins?",
-      "src": "/audio/book-03/lesson-72/lines/01.wav",
+      "start": 0.35,
+      "end": 14.4,
       "duration": 14.05
     },
     {
@@ -22,7 +24,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That’s a fair point; however, our disagreement is not between action and perfection. It is between a general rule and a limited pilot.",
-      "src": "/audio/book-03/lesson-72/lines/02.wav",
+      "start": 14.68,
+      "end": 23.805,
       "duration": 9.125
     },
     {
@@ -30,7 +33,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "I agree that the time saving is directly documented. Even so, the evidence comes from one twelve-person support team using several new practices together.",
-      "src": "/audio/book-03/lesson-72/lines/03.wav",
+      "start": 24.085,
+      "end": 33.76,
       "duration": 9.675
     },
     {
@@ -38,7 +42,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "But if the bundle works, does it matter which part caused the result?",
-      "src": "/audio/book-03/lesson-72/lines/04.wav",
+      "start": 34.04,
+      "end": 38.465,
       "duration": 4.425
     },
     {
@@ -46,7 +51,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "A possible objection to our caution is that teams often adopt bundles, not isolated variables. We can accept that and still ask which conditions belong in the recommendation.",
-      "src": "/audio/book-03/lesson-72/lines/05.wav",
+      "start": 38.745,
+      "end": 50.87,
       "duration": 12.125
     },
     {
@@ -54,7 +60,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "The evidence still supports testing shorter check-ins with a written agenda, named owners and follow-up. It does not support removing those conditions and keeping only the number fifteen.",
-      "src": "/audio/book-03/lesson-72/lines/06.wav",
+      "start": 51.15,
+      "end": 61.725,
       "duration": 10.575
     },
     {
@@ -62,7 +69,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "So you are not saying meeting length had no effect.",
-      "src": "/audio/book-03/lesson-72/lines/07.wav",
+      "start": 62.005,
+      "end": 65.68,
       "duration": 3.675
     },
     {
@@ -70,7 +78,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Correct. I would qualify that by saying shorter meetings are one plausible contributor whose independent effect is unknown.",
-      "src": "/audio/book-03/lesson-72/lines/08.wav",
+      "start": 65.96,
+      "end": 74.26,
       "duration": 8.3
     },
     {
@@ -78,7 +87,8 @@
       "part": "A",
       "speaker": "Ben",
       "text": "What about staff preference? Seven of nine respondents said follow-up felt clearer, and six found the meetings less tiring.",
-      "src": "/audio/book-03/lesson-72/lines/09.wav",
+      "start": 74.54,
+      "end": 82.29,
       "duration": 7.75
     },
     {
@@ -86,7 +96,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "That supports respondent experience. The three people who did not answer could have different views, and perceived clarity is not the same as completed action.",
-      "src": "/audio/book-03/lesson-72/lines/10.wav",
+      "start": 82.57,
+      "end": 91.495,
       "duration": 8.925
     },
     {
@@ -94,7 +105,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Then what recommendation survives all those limits?",
-      "src": "/audio/book-03/lesson-72/lines/11.wav",
+      "start": 92.625,
+      "end": 96.6,
       "duration": 3.975
     },
     {
@@ -102,7 +114,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Overall, the most defensible conclusion is that a team with similar daily check-ins could test a shorter, structured format and measure time, ownership, completion and workload before continuing.",
-      "src": "/audio/book-03/lesson-72/lines/12.wav",
+      "start": 96.88,
+      "end": 109.78,
       "duration": 12.9
     },
     {
@@ -110,7 +123,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "The pilot should have a baseline longer than one week, a fixed review date and no assumption that fifteen minutes suits every task.",
-      "src": "/audio/book-03/lesson-72/lines/13.wav",
+      "start": 110.06,
+      "end": 117.66,
       "duration": 7.6
     },
     {
@@ -118,7 +132,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "I can support that, but I still think your briefing should lead with the thirteen minutes saved. Otherwise, people may miss the practical benefit.",
-      "src": "/audio/book-03/lesson-72/lines/14.wav",
+      "start": 117.94,
+      "end": 126.565,
       "duration": 8.625
     },
     {
@@ -126,7 +141,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "We seem to agree that time saving matters. We still disagree about whether it should lead the message or sit beside ownership and outcome measures.",
-      "src": "/audio/book-03/lesson-72/lines/15.wav",
+      "start": 126.845,
+      "end": 136.445,
       "duration": 9.6
     },
     {
@@ -134,7 +150,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "For now, let’s present all three in one sentence and state the sample limit immediately afterward.",
-      "src": "/audio/book-03/lesson-72/lines/16.wav",
+      "start": 136.725,
+      "end": 142.5,
       "duration": 5.775
     },
     {
@@ -142,7 +159,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "What would make you support a broader recommendation later?",
-      "src": "/audio/book-03/lesson-72/lines/17.wav",
+      "start": 142.78,
+      "end": 146.905,
       "duration": 4.125
     },
     {
@@ -150,7 +168,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Similar patterns across several teams, clearer workload measures and evidence that shorter check-ins did not shift unfinished discussion into extra messages.",
-      "src": "/audio/book-03/lesson-72/lines/18.wav",
+      "start": 147.185,
+      "end": 157.91,
       "duration": 10.725
     },
     {
@@ -158,7 +177,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "I’ll summarize what we’ve decided: recommend a measured pilot, not a universal rule; include the full process bundle; and record both time saved and work completed.",
-      "src": "/audio/book-03/lesson-72/lines/19.wav",
+      "start": 158.19,
+      "end": 167.715,
       "duration": 9.525
     },
     {
@@ -166,7 +186,8 @@
       "part": "B",
       "speaker": "Ben",
       "text": "Fair enough. My counterargument changed the emphasis, while your evidence limits changed the scope. That is a better result than pretending one side won.",
-      "src": "/audio/book-03/lesson-72/lines/20.wav",
+      "start": 167.995,
+      "end": 177.395,
       "duration": 9.4
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 41 - The One Next to the Elevator",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Facilities asked for the exact location before they send anyone. Which rail did you mean?",
-      "src": "/audio/book-02/lesson-41/lines/01.wav",
+      "start": 0.35,
+      "end": 6.75,
       "duration": 6.4
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The one next to the elevator, on the wall that faces the service desk.",
-      "src": "/audio/book-02/lesson-41/lines/02.wav",
+      "start": 7.03,
+      "end": 11.73,
       "duration": 4.7
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "There are two rails near the elevator. Do you mean the long one that runs toward the front doors?",
-      "src": "/audio/book-02/lesson-41/lines/03.wav",
+      "start": 12.01,
+      "end": 18.235,
       "duration": 6.225
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "No, the shorter one that ends beside the side-gallery entrance. Its left bracket moves slightly when the empty rail is touched.",
-      "src": "/audio/book-02/lesson-41/lines/04.wav",
+      "start": 18.515,
+      "end": 27.19,
       "duration": 8.675
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "That's the one above the narrow bench, right?",
-      "src": "/audio/book-02/lesson-41/lines/05.wav",
+      "start": 27.47,
+      "end": 30.345,
       "duration": 2.875
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Exactly. The long rail above the brochure table looks secure. I didn't test it; I only compared the brackets visually.",
-      "src": "/audio/book-02/lesson-41/lines/06.wav",
+      "start": 30.625,
+      "end": 38.425,
       "duration": 7.8
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Good distinction. We should report what we observed, not diagnose the cause.",
-      "src": "/audio/book-02/lesson-41/lines/07.wav",
+      "start": 38.705,
+      "end": 43.855,
       "duration": 5.15
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Agreed. The place where we noticed the movement is about one meter to the right of the elevator doors.",
-      "src": "/audio/book-02/lesson-41/lines/08.wav",
+      "start": 44.135,
+      "end": 50.535,
       "duration": 6.4
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "And no photographs or sample cards were hanging there?",
-      "src": "/audio/book-02/lesson-41/lines/09.wav",
+      "start": 50.815,
+      "end": 54.515,
       "duration": 3.7
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "None. We had already removed our own test materials before we noticed it.",
-      "src": "/audio/book-02/lesson-41/lines/10.wav",
+      "start": 54.795,
+      "end": 59.57,
       "duration": 4.775
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Who handles this kind of request?",
-      "src": "/audio/book-02/lesson-41/lines/11.wav",
+      "start": 60.7,
+      "end": 63.225,
       "duration": 2.525
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "The staff member who checked the gallery floor last week gave me a card. I think his name is Sam.",
-      "src": "/audio/book-02/lesson-41/lines/12.wav",
+      "start": 63.505,
+      "end": 69.93,
       "duration": 6.425
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Sam is the facilities coordinator who manages contractor visits. I'll send the report to him, but I want to make the location impossible to confuse.",
-      "src": "/audio/book-02/lesson-41/lines/13.wav",
+      "start": 70.21,
+      "end": 80.585,
       "duration": 10.375
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Add the floor-plan code: Lobby Wall L-2. It's the rail that is next to the elevator and above the narrow bench.",
-      "src": "/audio/book-02/lesson-41/lines/14.wav",
+      "start": 80.865,
+      "end": 88.565,
       "duration": 7.7
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Let me make sure I've got this right. L-2 is the short rail that faces the service desk. The left bracket is the part that moved. The long rail above the brochure table is not the reported one.",
-      "src": "/audio/book-02/lesson-41/lines/15.wav",
+      "start": 88.845,
+      "end": 102.07,
       "duration": 13.225
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Correct.",
-      "src": "/audio/book-02/lesson-41/lines/16.wav",
+      "start": 102.35,
+      "end": 103.55,
       "duration": 1.2
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What would you do—close the whole lobby or just keep that rail unused?",
-      "src": "/audio/book-02/lesson-41/lines/17.wav",
+      "start": 103.83,
+      "end": 108.455,
       "duration": 4.625
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "If I were you, I'd ask Sam. The safest option is to keep that rail unused until facilities gives instructions; we don't need to decide the building response ourselves.",
-      "src": "/audio/book-02/lesson-41/lines/18.wav",
+      "start": 108.735,
+      "end": 120.285,
       "duration": 11.55
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "That's sensible. I'll mark only L-2 as unavailable and ask Sam to confirm the next step.",
-      "src": "/audio/book-02/lesson-41/lines/19.wav",
+      "start": 120.565,
+      "end": 127.09,
       "duration": 6.525
     }
   ]

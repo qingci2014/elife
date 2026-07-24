@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 30 - You Could've Told Me",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Lena, you could've told me before you said I would help Owen move the display panels on Saturday.",
-      "src": "/audio/book-01/lesson-30/lines/01.wav",
+      "start": 0.35,
+      "end": 6.6,
       "duration": 6.25
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "You're right. I should've checked with you. I saw your message saying, “I should be free,” and I treated it as a yes.",
-      "src": "/audio/book-01/lesson-30/lines/02.wav",
+      "start": 6.88,
+      "end": 13.805,
       "duration": 6.925
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I meant that Saturday looked possible, not that I had agreed. Owen's message made it sound final.",
-      "src": "/audio/book-01/lesson-30/lines/03.wav",
+      "start": 14.085,
+      "end": 20.61,
       "duration": 6.525
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I didn't mean to put you in an awkward position, but I did. That was my mistake.",
-      "src": "/audio/book-01/lesson-30/lines/04.wav",
+      "start": 20.89,
+      "end": 26.44,
       "duration": 5.55
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Thank you for saying that. I'm frustrated because I had already promised Maya I would meet her that morning.",
-      "src": "/audio/book-01/lesson-30/lines/05.wav",
+      "start": 26.72,
+      "end": 33.27,
       "duration": 6.55
     },
     {
@@ -52,7 +58,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I'm sorry I committed your time without asking. How can I make this right?",
-      "src": "/audio/book-01/lesson-30/lines/06.wav",
+      "start": 34.4,
+      "end": 39.45,
       "duration": 5.05
     },
     {
@@ -60,7 +67,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Please tell Owen I hadn't confirmed and that I'm not available Saturday morning.",
-      "src": "/audio/book-01/lesson-30/lines/07.wav",
+      "start": 39.73,
+      "end": 45.03,
       "duration": 5.3
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I'll call him now, and I'll find another volunteer. I won't ask you to explain my mistake.",
-      "src": "/audio/book-01/lesson-30/lines/08.wav",
+      "start": 45.31,
+      "end": 51.51,
       "duration": 6.2
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. I could help for one hour Sunday afternoon, but please check with me before you offer that.",
-      "src": "/audio/book-01/lesson-30/lines/09.wav",
+      "start": 51.79,
+      "end": 57.865,
       "duration": 6.075
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Absolutely. I'll send you the exact time first. Nothing is confirmed until you reply.",
-      "src": "/audio/book-01/lesson-30/lines/10.wav",
+      "start": 58.145,
+      "end": 64.545,
       "duration": 6.4
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That works. The main thing is that I get to confirm my own availability.",
-      "src": "/audio/book-01/lesson-30/lines/11.wav",
+      "start": 64.825,
+      "end": 69.725,
       "duration": 4.9
     }
   ]

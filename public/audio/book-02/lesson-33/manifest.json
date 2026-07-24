@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 33 - You Won't Believe What Happened",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "You won't believe what happened at the arts center this morning.",
-      "src": "/audio/book-02/lesson-33/lines/01.wav",
+      "start": 0.35,
+      "end": 4.025,
       "duration": 3.675
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "That sounds promising. Were you checking the exhibit wall?",
-      "src": "/audio/book-02/lesson-33/lines/02.wav",
+      "start": 4.305,
+      "end": 8.355,
       "duration": 4.05
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Yes. It all started when Lena and I went into the side gallery to measure the wall. The room was quiet, and a maintenance worker was moving a supply cart in the hallway.",
-      "src": "/audio/book-02/lesson-33/lines/03.wav",
+      "start": 8.635,
+      "end": 19.685,
       "duration": 11.05
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Okay. What went wrong?",
-      "src": "/audio/book-02/lesson-33/lines/04.wav",
+      "start": 19.965,
+      "end": 22.315,
       "duration": 2.35
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "At first, nothing. Lena held one end of the tape measure while I wrote down the numbers. There was a display panel on wheels a few feet behind us, but neither of us was using it.",
-      "src": "/audio/book-02/lesson-33/lines/05.wav",
+      "start": 22.595,
+      "end": 33.72,
       "duration": 11.125
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I already don't trust that panel.",
-      "src": "/audio/book-02/lesson-33/lines/06.wav",
+      "start": 34.0,
+      "end": 36.9,
       "duration": 2.9
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "You shouldn't. A few minutes later, the maintenance worker pushed the cart past the open door. One of the cart wheels caught the edge of a floor mat, and the cart bumped the door.",
-      "src": "/audio/book-02/lesson-33/lines/07.wav",
+      "start": 37.18,
+      "end": 47.73,
       "duration": 10.55
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "And the door hit the panel?",
-      "src": "/audio/book-02/lesson-33/lines/08.wav",
+      "start": 48.01,
+      "end": 50.56,
       "duration": 2.55
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Not exactly. The door stopped before it reached the panel. We looked at each other, laughed, and went back to measuring. Then the panel started rolling by itself. The floor was slightly uneven, and one wheel lock was open.",
-      "src": "/audio/book-02/lesson-33/lines/09.wav",
+      "start": 50.84,
+      "end": 64.54,
       "duration": 13.7
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Please tell me it didn't hit anything.",
-      "src": "/audio/book-02/lesson-33/lines/10.wav",
+      "start": 64.82,
+      "end": 67.82,
       "duration": 3.0
     },
     {
@@ -92,7 +103,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Just as I was about to take a reference photo of the empty wall, Lena shouted, “Daniel, behind you!” I turned around and caught the panel about six inches before it reached the supply cart.",
-      "src": "/audio/book-02/lesson-33/lines/11.wav",
+      "start": 68.1,
+      "end": 80.45,
       "duration": 12.35
     },
     {
@@ -100,7 +112,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "So you saved the day.",
-      "src": "/audio/book-02/lesson-33/lines/12.wav",
+      "start": 80.73,
+      "end": 83.255,
       "duration": 2.525
     },
     {
@@ -108,7 +121,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I saved a box of paper cups. Lena locked all four wheels, and we checked the floor before we finished. In the end, nothing was damaged, nobody was hurt, and we got the measurements.",
-      "src": "/audio/book-02/lesson-33/lines/13.wav",
+      "start": 83.535,
+      "end": 95.46,
       "duration": 11.925
     },
     {
@@ -116,7 +130,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "What about the exhibit materials?",
-      "src": "/audio/book-02/lesson-33/lines/14.wav",
+      "start": 95.74,
+      "end": 98.615,
       "duration": 2.875
     },
     {
@@ -124,7 +139,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "They weren't there. We're still reviewing candidates, and we're not committing to public display yet. The first step is still permission.",
-      "src": "/audio/book-02/lesson-33/lines/15.wav",
+      "start": 98.895,
+      "end": 106.695,
       "duration": 7.8
     },
     {
@@ -132,7 +148,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Good. So the only thing that escaped was the panel.",
-      "src": "/audio/book-02/lesson-33/lines/16.wav",
+      "start": 106.975,
+      "end": 110.725,
       "duration": 3.75
     },
     {
@@ -140,7 +157,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "For about three seconds, yes. Lena says the next project checklist needs one more line: “Check the wheels.”",
-      "src": "/audio/book-02/lesson-33/lines/17.wav",
+      "start": 111.005,
+      "end": 118.28,
       "duration": 7.275
     }
   ]

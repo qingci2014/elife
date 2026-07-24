@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 40 - What Would You Do?",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I have enough information now, but I still keep going in circles. What would you do?",
-      "src": "/audio/book-02/lesson-40/lines/01.wav",
+      "start": 0.35,
+      "end": 5.7,
       "duration": 5.35
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Before I answer, what are the two real options?",
-      "src": "/audio/book-02/lesson-40/lines/02.wav",
+      "start": 5.98,
+      "end": 9.28,
       "duration": 3.3
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I can accept a one-month flexible desk, or I can keep working entirely from home and buy occasional day passes. I'm thinking of taking the month because yesterday I stopped work on time and had two useful conversations with other designers.",
-      "src": "/audio/book-02/lesson-40/lines/03.wav",
+      "start": 9.56,
+      "end": 23.76,
       "duration": 14.2
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What is the main trade-off?",
-      "src": "/audio/book-02/lesson-40/lines/04.wav",
+      "start": 24.04,
+      "end": 26.04,
       "duration": 2.0
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Routine versus flexibility. The monthly desk may help me build a better routine, but I can't afford to keep it if I use it less than six times. Day passes cost more per visit, but I won't pay in weeks when I stay home.",
-      "src": "/audio/book-02/lesson-40/lines/05.wav",
+      "start": 26.32,
+      "end": 39.32,
       "duration": 13.0
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "If I were you, I'd treat the month as a measured trial, not a permanent change.",
-      "src": "/audio/book-02/lesson-40/lines/06.wav",
+      "start": 39.6,
+      "end": 44.675,
       "duration": 5.075
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "That's what I'm leaning toward. Nothing's set in stone after the first month.",
-      "src": "/audio/book-02/lesson-40/lines/07.wav",
+      "start": 44.955,
+      "end": 49.905,
       "duration": 4.95
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What would make the trial worthwhile?",
-      "src": "/audio/book-02/lesson-40/lines/08.wav",
+      "start": 50.185,
+      "end": 52.585,
       "duration": 2.4
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "If I use the desk at least six times, finish by six on most studio days, and still find the conversations useful, I'll consider another month.",
-      "src": "/audio/book-02/lesson-40/lines/09.wav",
+      "start": 53.715,
+      "end": 62.415,
       "duration": 8.7
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "And if everything doesn't go to plan?",
-      "src": "/audio/book-02/lesson-40/lines/10.wav",
+      "start": 62.695,
+      "end": 65.295,
       "duration": 2.6
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "If client work keeps me at home, I'll switch back to day passes. Unless I use the desk four times by the middle of the month, I won't renew automatically.",
-      "src": "/audio/book-02/lesson-40/lines/11.wav",
+      "start": 65.575,
+      "end": 74.525,
       "duration": 8.95
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "So you're saying that four visits is the early warning point, and six visits is the full-month target.",
-      "src": "/audio/book-02/lesson-40/lines/12.wav",
+      "start": 74.805,
+      "end": 81.205,
       "duration": 6.4
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Exactly. Either way, I'm keeping my home workspace. The studio is another tool, not a move.",
-      "src": "/audio/book-02/lesson-40/lines/13.wav",
+      "start": 81.485,
+      "end": 87.685,
       "duration": 6.2
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "When will you review the decision?",
-      "src": "/audio/book-02/lesson-40/lines/14.wav",
+      "start": 87.965,
+      "end": 90.265,
       "duration": 2.3
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I'll check the numbers after two weeks and again two days before renewal. As soon as I finish each studio day, I'll note the hours, the work I completed, and whether the location actually helped.",
-      "src": "/audio/book-02/lesson-40/lines/15.wav",
+      "start": 90.545,
+      "end": 101.82,
       "duration": 11.275
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Let me make sure I've got this right. You're accepting one trial month. You'll track use and work boundaries, review at two points, and return to day passes if the desk isn't useful. Did I miss anything?",
-      "src": "/audio/book-02/lesson-40/lines/16.wav",
+      "start": 102.1,
+      "end": 114.55,
       "duration": 12.45
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "One thing: this is my decision, not a promise to prove your advice was right.",
-      "src": "/audio/book-02/lesson-40/lines/17.wav",
+      "start": 114.83,
+      "end": 119.955,
       "duration": 5.125
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Fair. My advice can be wrong; your evidence gets the final vote.",
-      "src": "/audio/book-02/lesson-40/lines/18.wav",
+      "start": 120.235,
+      "end": 124.71,
       "duration": 4.475
     }
   ]

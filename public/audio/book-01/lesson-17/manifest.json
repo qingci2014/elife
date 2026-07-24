@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 17 - Is This Seat Taken?",
   "voiceMap": {
     "Grace": "af_sarah",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Excuse me, is this seat taken?",
-      "src": "/audio/book-01/lesson-17/lines/01.wav",
+      "start": 0.35,
+      "end": 3.45,
       "duration": 3.1
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "No, it's free.",
-      "src": "/audio/book-01/lesson-17/lines/02.wav",
+      "start": 3.73,
+      "end": 5.68,
       "duration": 1.95
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Do you mind if I sit here?",
-      "src": "/audio/book-01/lesson-17/lines/03.wav",
+      "start": 5.96,
+      "end": 8.51,
       "duration": 2.55
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "Not at all. Go ahead. I'll move my bag.",
-      "src": "/audio/book-01/lesson-17/lines/04.wav",
+      "start": 8.79,
+      "end": 13.165,
       "duration": 4.375
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Thank you. Could I put my coat above us?",
-      "src": "/audio/book-01/lesson-17/lines/05.wav",
+      "start": 13.445,
+      "end": 16.67,
       "duration": 3.225
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "Sure. There's plenty of space.",
-      "src": "/audio/book-01/lesson-17/lines/06.wav",
+      "start": 16.95,
+      "end": 19.85,
       "duration": 2.9
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "Is the aisle seat comfortable enough? This part of the train is a little narrow.",
-      "src": "/audio/book-01/lesson-17/lines/07.wav",
+      "start": 20.13,
+      "end": 27.705,
       "duration": 7.575
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "It's fine, thanks. I'll keep my small bag under the seat so it doesn't block the aisle.",
-      "src": "/audio/book-01/lesson-17/lines/08.wav",
+      "start": 27.985,
+      "end": 33.835,
       "duration": 5.85
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "It's busier than usual today.",
-      "src": "/audio/book-01/lesson-17/lines/09.wav",
+      "start": 34.115,
+      "end": 36.99,
       "duration": 2.875
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "It is. I think a conference is starting downtown.",
-      "src": "/audio/book-01/lesson-17/lines/10.wav",
+      "start": 37.27,
+      "end": 42.42,
       "duration": 5.15
     },
     {
@@ -92,7 +103,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That explains all the suitcases.",
-      "src": "/audio/book-01/lesson-17/lines/11.wav",
+      "start": 42.7,
+      "end": 45.775,
       "duration": 3.075
     },
     {
@@ -100,7 +112,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "I take this train twice a week, and I can usually find an empty row.",
-      "src": "/audio/book-01/lesson-17/lines/12.wav",
+      "start": 46.055,
+      "end": 52.93,
       "duration": 6.875
     },
     {
@@ -108,7 +121,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "The last time I took it was last month. The later morning service is normally quieter.",
-      "src": "/audio/book-01/lesson-17/lines/13.wav",
+      "start": 53.21,
+      "end": 59.685,
       "duration": 6.475
     },
     {
@@ -116,7 +130,8 @@
       "part": "A",
       "speaker": "Nora",
       "text": "I guess everyone had the same idea today.",
-      "src": "/audio/book-01/lesson-17/lines/14.wav",
+      "start": 59.965,
+      "end": 64.165,
       "duration": 4.2
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Nora",
       "text": "Are you getting off at Central Station too?",
-      "src": "/audio/book-01/lesson-17/lines/15.wav",
+      "start": 65.295,
+      "end": 69.345,
       "duration": 4.05
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Yes. I'm meeting a friend near the west entrance. How about you?",
-      "src": "/audio/book-01/lesson-17/lines/16.wav",
+      "start": 69.625,
+      "end": 74.3,
       "duration": 4.675
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Nora",
       "text": "I'm changing there for the airport line.",
-      "src": "/audio/book-01/lesson-17/lines/17.wav",
+      "start": 74.58,
+      "end": 78.155,
       "duration": 3.575
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Then you have one more train after this.",
-      "src": "/audio/book-01/lesson-17/lines/18.wav",
+      "start": 78.435,
+      "end": 81.56,
       "duration": 3.125
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Nora",
       "text": "Unfortunately, yes.",
-      "src": "/audio/book-01/lesson-17/lines/19.wav",
+      "start": 81.84,
+      "end": 84.59,
       "duration": 2.75
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Well, I'll let you get back to your podcast.",
-      "src": "/audio/book-01/lesson-17/lines/20.wav",
+      "start": 84.87,
+      "end": 88.245,
       "duration": 3.375
     },
     {
@@ -172,7 +193,8 @@
       "part": "B",
       "speaker": "Nora",
       "text": "And I'll let you get back to your book. It was nice talking with you.",
-      "src": "/audio/book-01/lesson-17/lines/21.wav",
+      "start": 88.525,
+      "end": 94.05,
       "duration": 5.525
     },
     {
@@ -180,7 +202,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "You too. Have a good trip.",
-      "src": "/audio/book-01/lesson-17/lines/22.wav",
+      "start": 94.33,
+      "end": 96.955,
       "duration": 2.625
     },
     {
@@ -188,7 +211,8 @@
       "part": "B",
       "speaker": "Nora",
       "text": "Thanks. You too.",
-      "src": "/audio/book-01/lesson-17/lines/23.wav",
+      "start": 97.235,
+      "end": 99.16,
       "duration": 1.925
     }
   ]

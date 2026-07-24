@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 59 - If We'd Left Earlier…",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "The 5:10 direct train has gone. We reached the platform at 5:13.",
-      "src": "/audio/book-02/lesson-59/lines/01.wav",
+      "start": 0.35,
+      "end": 6.15,
       "duration": 5.8
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "If we’d left when the host gave the early-exit reminder at 4:05, we would’ve caught the 4:25 tram.",
-      "src": "/audio/book-02/lesson-59/lines/02.wav",
+      "start": 6.43,
+      "end": 14.53,
       "duration": 8.1
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Yes, but at the time we didn’t know the final Q&A would continue until 4:15.",
-      "src": "/audio/book-02/lesson-59/lines/03.wav",
+      "start": 14.81,
+      "end": 21.51,
       "duration": 6.7
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Looking back, staying until 4:18 left us only seven minutes to reach the tram stop.",
-      "src": "/audio/book-02/lesson-59/lines/04.wav",
+      "start": 21.79,
+      "end": 27.715,
       "duration": 5.925
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I don’t regret hearing the last answer, but it had a transport consequence. We walked out at 4:20 and missed the tram.",
-      "src": "/audio/book-02/lesson-59/lines/05.wav",
+      "start": 27.995,
+      "end": 36.07,
       "duration": 8.075
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The journey app shows that there was a 4:30 local bus from the stop beside the center.",
-      "src": "/audio/book-02/lesson-59/lines/06.wav",
+      "start": 36.35,
+      "end": 42.3,
       "duration": 5.95
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That bus wasn’t on our paper map. If we’d checked the live board before leaving, we would’ve taken it.",
-      "src": "/audio/book-02/lesson-59/lines/07.wav",
+      "start": 42.58,
+      "end": 49.255,
       "duration": 6.675
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "It was due here at 5:02, so it would have given us eight minutes for the connection.",
-      "src": "/audio/book-02/lesson-59/lines/08.wav",
+      "start": 49.535,
+      "end": 55.21,
       "duration": 5.675
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That would have changed the result. Simply walking faster after 4:20 probably wouldn’t have been enough.",
-      "src": "/audio/book-02/lesson-59/lines/09.wav",
+      "start": 55.49,
+      "end": 62.865,
       "duration": 7.375
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Agreed. The useful alternatives were leaving at 4:05 or checking live departures before we walked to the tram.",
-      "src": "/audio/book-02/lesson-59/lines/10.wav",
+      "start": 63.145,
+      "end": 71.145,
       "duration": 8.0
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "We should also record what we knew at the time. The printed program said the workshop ended at four.",
-      "src": "/audio/book-02/lesson-59/lines/11.wav",
+      "start": 72.275,
+      "end": 78.925,
       "duration": 6.65
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And the paper map showed only the tram route. We chose that route with incomplete information.",
-      "src": "/audio/book-02/lesson-59/lines/12.wav",
+      "start": 79.205,
+      "end": 85.555,
       "duration": 6.35
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "It doesn’t help to blame either of us for not using a bus we didn’t know about.",
-      "src": "/audio/book-02/lesson-59/lines/13.wav",
+      "start": 85.835,
+      "end": 91.135,
       "duration": 5.3
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Right. Still, we could have checked a live source when the session ran late.",
-      "src": "/audio/book-02/lesson-59/lines/14.wav",
+      "start": 91.415,
+      "end": 95.665,
       "duration": 4.25
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "That’s a fair process lesson. It’s different from saying one person caused the whole problem.",
-      "src": "/audio/book-02/lesson-59/lines/15.wav",
+      "start": 95.945,
+      "end": 102.245,
       "duration": 6.3
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Let’s write it precisely: the Q&A overran, we left at 4:20, and our old map omitted the 4:30 bus.",
-      "src": "/audio/book-02/lesson-59/lines/16.wav",
+      "start": 102.525,
+      "end": 110.75,
       "duration": 8.225
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Then add the counterfactual: if we’d checked live departures at the door, we would’ve seen a workable connection.",
-      "src": "/audio/book-02/lesson-59/lines/17.wav",
+      "start": 111.03,
+      "end": 118.205,
       "duration": 7.175
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "For the next trip, our trigger can be “ten minutes behind plan means check live options.”",
-      "src": "/audio/book-02/lesson-59/lines/18.wav",
+      "start": 118.485,
+      "end": 124.11,
       "duration": 5.625
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Good. Now we need another way home, not another argument about the train that has already left.",
-      "src": "/audio/book-02/lesson-59/lines/19.wav",
+      "start": 124.39,
+      "end": 130.99,
       "duration": 6.6
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I’ll open the current departure board, and we’ll compare the remaining routes against our actual priorities.",
-      "src": "/audio/book-02/lesson-59/lines/20.wav",
+      "start": 131.27,
+      "end": 137.795,
       "duration": 6.525
     }
   ]

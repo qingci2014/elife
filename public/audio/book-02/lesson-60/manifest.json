@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 60 - We Need Another Way Home",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We need another way home. The board gives us a coach connection, a ferry-and-bus route, or the 9:10 direct train.",
-      "src": "/audio/book-02/lesson-60/lines/01.wav",
+      "start": 0.35,
+      "end": 8.45,
       "duration": 8.1
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Let’s state our priorities first. Our top priority is arriving before nine, and we can spend no more than twenty-five dollars extra.",
-      "src": "/audio/book-02/lesson-60/lines/02.wav",
+      "start": 8.73,
+      "end": 17.555,
       "duration": 8.825
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I’d also prefer no more than one transfer. The ferry route has one transfer and arrives at 8:40.",
-      "src": "/audio/book-02/lesson-60/lines/03.wav",
+      "start": 17.835,
+      "end": 24.96,
       "duration": 7.125
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "But the status line says the 6:10 ferry is canceled because of high winds. That rules out the ferry route.",
-      "src": "/audio/book-02/lesson-60/lines/04.wav",
+      "start": 25.24,
+      "end": 32.815,
       "duration": 7.575
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Our current tickets are valid on the 9:10 direct train at no extra charge, but it doesn’t arrive until 10:25.",
-      "src": "/audio/book-02/lesson-60/lines/05.wav",
+      "start": 33.095,
+      "end": 41.67,
       "duration": 8.575
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "So it fails our arrival-time priority. It can be the backup if the earlier connection stops working.",
-      "src": "/audio/book-02/lesson-60/lines/06.wav",
+      "start": 41.95,
+      "end": 49.15,
       "duration": 7.2
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The best available option is the 5:40 coach to Lake Junction, followed by the 6:35 regional train.",
-      "src": "/audio/book-02/lesson-60/lines/07.wav",
+      "start": 49.43,
+      "end": 57.43,
       "duration": 8.0
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "It reaches Riverton at 8:05 and costs twelve dollars extra. That fits all three limits.",
-      "src": "/audio/book-02/lesson-60/lines/08.wav",
+      "start": 57.71,
+      "end": 64.385,
       "duration": 6.675
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We need to allow time for the transfer slip. The note says to collect it from Bay 3 before boarding.",
-      "src": "/audio/book-02/lesson-60/lines/09.wav",
+      "start": 64.665,
+      "end": 71.44,
       "duration": 6.775
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "And boarding closes at 5:35, so our decision deadline is earlier than the 5:40 departure time.",
-      "src": "/audio/book-02/lesson-60/lines/10.wav",
+      "start": 71.72,
+      "end": 79.47,
       "duration": 7.75
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That’s not how I remembered the first notice. I thought the coach left from Bay 5.",
-      "src": "/audio/book-02/lesson-60/lines/11.wav",
+      "start": 80.6,
+      "end": 86.3,
       "duration": 5.7
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "The record now shows Bay 7. You may be mixing up the coach bay with the slip counter at Bay 3.",
-      "src": "/audio/book-02/lesson-60/lines/12.wav",
+      "start": 86.58,
+      "end": 93.505,
       "duration": 6.925
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "You’re right. Looking back, I combined two numbers from the same announcement.",
-      "src": "/audio/book-02/lesson-60/lines/13.wav",
+      "start": 93.785,
+      "end": 98.385,
       "duration": 4.6
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Is it usually enough to collect one transfer slip for both of us, or do we each need one?",
-      "src": "/audio/book-02/lesson-60/lines/14.wav",
+      "start": 98.665,
+      "end": 104.915,
       "duration": 6.25
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "It depends on the ticket, so let’s not assume. We need to confirm the connection at the service desk.",
-      "src": "/audio/book-02/lesson-60/lines/15.wav",
+      "start": 105.195,
+      "end": 111.445,
       "duration": 6.25
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I’ll ask whether the coach is still on time, whether we need two slips, and whether twelve dollars is the total supplement.",
-      "src": "/audio/book-02/lesson-60/lines/16.wav",
+      "start": 111.725,
+      "end": 119.65,
       "duration": 7.925
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I’ll confirm Bay 7 and the 5:35 boarding cutoff. If we’d kept relying on the first number we remembered, we would’ve waited at the wrong bay.",
-      "src": "/audio/book-02/lesson-60/lines/17.wav",
+      "start": 119.93,
+      "end": 130.105,
       "duration": 10.175
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "The desk confirms two slips, twelve dollars total, Bay 7, and a 5:35 cutoff. The regional train is still due at 6:35.",
-      "src": "/audio/book-02/lesson-60/lines/18.wav",
+      "start": 130.385,
+      "end": 140.535,
       "duration": 10.15
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Then the coach connection is our main plan, and the 9:10 direct train is our backup.",
-      "src": "/audio/book-02/lesson-60/lines/19.wav",
+      "start": 140.815,
+      "end": 146.69,
       "duration": 5.875
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Agreed. Let’s collect the slips now and be at Bay 7 by 5:28 rather than using every minute of the margin.",
-      "src": "/audio/book-02/lesson-60/lines/20.wav",
+      "start": 146.97,
+      "end": 155.245,
       "duration": 8.275
     }
   ],

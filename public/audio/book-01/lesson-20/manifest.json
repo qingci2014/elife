@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 20 - The Room Isn't Ready Yet",
   "voiceMap": {
     "Front desk agent": "af_bella",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Front desk agent",
       "text": "Welcome. How can I help?",
-      "src": "/audio/book-01/lesson-20/lines/01.wav",
+      "start": 0.35,
+      "end": 2.75,
       "duration": 2.4
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Hi. We have a reservation under Lena Ortiz for a standard room with a desk.",
-      "src": "/audio/book-01/lesson-20/lines/02.wav",
+      "start": 3.03,
+      "end": 8.43,
       "duration": 5.4
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Front desk agent",
       "text": "I found it. I'm sorry, but the room isn't ready yet. Housekeeping has been delayed.",
-      "src": "/audio/book-01/lesson-20/lines/03.wav",
+      "start": 8.71,
+      "end": 14.835,
       "duration": 6.125
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I understand, but we were told it would be ready by three. I have an online call in ten minutes.",
-      "src": "/audio/book-01/lesson-20/lines/04.wav",
+      "start": 15.115,
+      "end": 21.715,
       "duration": 6.6
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Front desk agent",
       "text": "I'm sorry about that. We can offer two options.",
-      "src": "/audio/book-01/lesson-20/lines/05.wav",
+      "start": 21.995,
+      "end": 25.77,
       "duration": 3.775
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Before we decide, is there somewhere we can leave our bags?",
-      "src": "/audio/book-01/lesson-20/lines/06.wav",
+      "start": 26.05,
+      "end": 30.175,
       "duration": 4.125
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Front desk agent",
       "text": "Yes. Luggage storage is beside the front desk.",
-      "src": "/audio/book-01/lesson-20/lines/07.wav",
+      "start": 30.455,
+      "end": 34.255,
       "duration": 3.8
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Front desk agent",
       "text": "You can wait for the original room, which should be ready by four. Or we can offer another room now. It's quieter, but it doesn't have a desk.",
-      "src": "/audio/book-01/lesson-20/lines/08.wav",
+      "start": 35.385,
+      "end": 44.61,
       "duration": 9.225
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "If we wait, when will it be ready at the latest?",
-      "src": "/audio/book-01/lesson-20/lines/09.wav",
+      "start": 44.89,
+      "end": 48.09,
       "duration": 3.2
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Front desk agent",
       "text": "By four. You may use the work lounge for your call.",
-      "src": "/audio/book-01/lesson-20/lines/10.wav",
+      "start": 48.37,
+      "end": 52.12,
       "duration": 3.75
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Where is the lounge?",
-      "src": "/audio/book-01/lesson-20/lines/11.wav",
+      "start": 52.4,
+      "end": 54.125,
       "duration": 1.725
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Front desk agent",
       "text": "Take the elevator to the second floor and follow the signs for the courtyard. The lounge is across from the elevator.",
-      "src": "/audio/book-01/lesson-20/lines/12.wav",
+      "start": 54.405,
+      "end": 62.38,
       "duration": 7.975
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "We'd prefer to keep the original room because we need the desk. We'll store the bags and use the lounge until four.",
-      "src": "/audio/book-01/lesson-20/lines/13.wav",
+      "start": 62.66,
+      "end": 70.56,
       "duration": 7.9
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Front desk agent",
       "text": "That works. I'll text you as soon as the room is ready.",
-      "src": "/audio/book-01/lesson-20/lines/14.wav",
+      "start": 70.84,
+      "end": 74.94,
       "duration": 4.1
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Could you confirm that the room still has a desk?",
-      "src": "/audio/book-01/lesson-20/lines/15.wav",
+      "start": 75.22,
+      "end": 78.345,
       "duration": 3.125
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Front desk agent",
       "text": "Yes—standard room, courtyard side, with a desk.",
-      "src": "/audio/book-01/lesson-20/lines/16.wav",
+      "start": 78.625,
+      "end": 82.675,
       "duration": 4.05
     }
   ]

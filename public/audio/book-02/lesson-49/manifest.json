@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 49 - I've Been Working on It",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "How is the greeter briefing going? Priya needs an internal-review copy tomorrow afternoon.",
-      "src": "/audio/book-02/lesson-49/lines/01.wav",
+      "start": 0.35,
+      "end": 6.275,
       "duration": 5.925
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I've been working on it since Monday. I've been checking the arrival steps against Sam's logistics note and the wayfinding plan.",
-      "src": "/audio/book-02/lesson-49/lines/02.wav",
+      "start": 6.555,
+      "end": 14.855,
       "duration": 8.3
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "What have you completed so far?",
-      "src": "/audio/book-02/lesson-49/lines/03.wav",
+      "start": 15.135,
+      "end": 17.385,
       "duration": 2.25
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So far, I've drafted the welcome section, the entrance directions and the service-desk position. I've also turned the first-hour duties into a five-step sequence.",
-      "src": "/audio/book-02/lesson-49/lines/04.wav",
+      "start": 17.665,
+      "end": 28.04,
       "duration": 10.375
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Have you added the break handoff?",
-      "src": "/audio/book-02/lesson-49/lines/05.wav",
+      "start": 28.32,
+      "end": 30.645,
       "duration": 2.325
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Not yet. I'm still waiting on the backup-greeter contact and the confirmed time when the accessible side entrance will open.",
-      "src": "/audio/book-02/lesson-49/lines/06.wav",
+      "start": 30.925,
+      "end": 38.675,
       "duration": 7.75
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Does that stop the whole draft?",
-      "src": "/audio/book-02/lesson-49/lines/07.wav",
+      "start": 38.955,
+      "end": 41.18,
       "duration": 2.225
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "No. The main blocker is only the final handoff box. The rest is ready for a content check.",
-      "src": "/audio/book-02/lesson-49/lines/08.wav",
+      "start": 41.46,
+      "end": 47.96,
       "duration": 6.5
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Good. Sometimes “waiting” makes an update sound as if nothing has moved.",
-      "src": "/audio/book-02/lesson-49/lines/09.wav",
+      "start": 48.24,
+      "end": 53.215,
       "duration": 4.975
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's why I'm separating the completed sections from the open inputs.",
-      "src": "/audio/book-02/lesson-49/lines/10.wav",
+      "start": 53.495,
+      "end": 58.12,
       "duration": 4.625
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What evidence can Priya review today?",
-      "src": "/audio/book-02/lesson-49/lines/11.wav",
+      "start": 59.25,
+      "end": 61.6,
       "duration": 2.35
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I've uploaded version 0.6 to the internal folder. It has one page, five numbered steps and role-based contacts instead of personal numbers.",
-      "src": "/audio/book-02/lesson-49/lines/12.wav",
+      "start": 61.88,
+      "end": 72.63,
       "duration": 10.75
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "And what have you been doing about the missing information?",
-      "src": "/audio/book-02/lesson-49/lines/13.wav",
+      "start": 72.91,
+      "end": 76.46,
       "duration": 3.55
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I've asked Sam to confirm the entrance time, and Priya is checking which volunteer can cover the first break.",
-      "src": "/audio/book-02/lesson-49/lines/14.wav",
+      "start": 76.74,
+      "end": 83.415,
       "duration": 6.675
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "When will you know whether those inputs are available?",
-      "src": "/audio/book-02/lesson-49/lines/15.wav",
+      "start": 83.695,
+      "end": 87.045,
       "duration": 3.35
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Sam said he'd reply by three today. Priya will update the volunteer field by ten tomorrow.",
-      "src": "/audio/book-02/lesson-49/lines/16.wav",
+      "start": 87.325,
+      "end": 93.5,
       "duration": 6.175
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I see your point about keeping the review moving, but a blank contact box won't work for the final version.",
-      "src": "/audio/book-02/lesson-49/lines/17.wav",
+      "start": 93.78,
+      "end": 100.855,
       "duration": 7.075
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Agreed. What I can agree to is a review draft today with a clearly marked placeholder. If we need the final PDF, we'll need both inputs first.",
-      "src": "/audio/book-02/lesson-49/lines/18.wav",
+      "start": 101.135,
+      "end": 111.11,
       "duration": 9.975
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What's your next checkpoint?",
-      "src": "/audio/book-02/lesson-49/lines/19.wav",
+      "start": 111.39,
+      "end": 113.315,
       "duration": 1.925
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I'll post another status update at three thirty: completed changes, remaining blocker and whether tomorrow's four o'clock review is still on track.",
-      "src": "/audio/book-02/lesson-49/lines/20.wav",
+      "start": 113.595,
+      "end": 123.42,
       "duration": 9.825
     },
     {
@@ -172,7 +193,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Perfect. That gives us progress, evidence, a dependency and a next update—not just “I've been working on it.”",
-      "src": "/audio/book-02/lesson-49/lines/21.wav",
+      "start": 123.7,
+      "end": 131.15,
       "duration": 7.45
     }
   ]

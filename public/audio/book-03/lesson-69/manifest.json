@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 69 - Where Did That Claim Come From?",
   "voiceMap": {
     "Marcus": "am_eric",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "The post has been shared hundreds of times, but where did that claim come from?",
-      "src": "/audio/book-03/lesson-69/lines/01.wav",
+      "start": 0.35,
+      "end": 5.2,
       "duration": 4.85
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "According to WorkBright Daily, “a recent study proves that fifteen-minute meetings cut missed deadlines by forty percent.” It links to a QuickWork newsletter.",
-      "src": "/audio/book-03/lesson-69/lines/02.wav",
+      "start": 5.48,
+      "end": 14.405,
       "duration": 8.925
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Does the newsletter report a study?",
-      "src": "/audio/book-03/lesson-69/lines/03.wav",
+      "start": 14.685,
+      "end": 17.31,
       "duration": 2.625
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "Not directly. The claim appears to come from a paragraph titled “Short meetings, better delivery.” The post cites QuickWork, but the newsletter cites a ClearDay customer story.",
-      "src": "/audio/book-03/lesson-69/lines/04.wav",
+      "start": 17.59,
+      "end": 27.79,
       "duration": 10.2
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Can we trace that back to the customer story?",
-      "src": "/audio/book-03/lesson-69/lines/05.wav",
+      "start": 28.07,
+      "end": 31.17,
       "duration": 3.1
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "Yes. The original source says one twelve-person support team changed its daily check-in from thirty minutes to fifteen for eight weeks.",
-      "src": "/audio/book-03/lesson-69/lines/06.wav",
+      "start": 31.45,
+      "end": 39.025,
       "duration": 7.575
     },
     {
@@ -60,7 +67,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "What result does it actually report?",
-      "src": "/audio/book-03/lesson-69/lines/07.wav",
+      "start": 39.305,
+      "end": 41.98,
       "duration": 2.675
     },
     {
@@ -68,7 +76,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "The team’s overdue action items fell from ten in the first week to six in the eighth week. That is a forty percent reduction in one count.",
-      "src": "/audio/book-03/lesson-69/lines/08.wav",
+      "start": 42.26,
+      "end": 50.26,
       "duration": 8.0
     },
     {
@@ -76,7 +85,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "That is not the same as “missed deadlines fell by forty percent.” An overdue action item could be smaller than a project deadline.",
-      "src": "/audio/book-03/lesson-69/lines/09.wav",
+      "start": 50.54,
+      "end": 59.24,
       "duration": 8.7
     },
     {
@@ -84,7 +94,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "Agreed. I also haven’t found evidence that meeting length was the only change.",
-      "src": "/audio/book-03/lesson-69/lines/10.wav",
+      "start": 59.52,
+      "end": 64.395,
       "duration": 4.875
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "What else changed?",
-      "src": "/audio/book-03/lesson-69/lines/11.wav",
+      "start": 65.525,
+      "end": 67.275,
       "duration": 1.75
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "The customer story says the team introduced a written agenda, named an owner for every action and reviewed unfinished items the next day.",
-      "src": "/audio/book-03/lesson-69/lines/12.wav",
+      "start": 67.555,
+      "end": 75.78,
       "duration": 8.225
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Then the original record reports several changes together. Does it use the word `prove`?",
-      "src": "/audio/book-03/lesson-69/lines/13.wav",
+      "start": 76.06,
+      "end": 81.91,
       "duration": 5.85
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "No. It says the team lead “believed the shorter format helped maintain focus.” That is an attributed interpretation, not a controlled causal result.",
-      "src": "/audio/book-03/lesson-69/lines/14.wav",
+      "start": 82.19,
+      "end": 90.965,
       "duration": 8.775
     },
     {
@@ -124,7 +139,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "How did QuickWork summarize it?",
-      "src": "/audio/book-03/lesson-69/lines/15.wav",
+      "start": 91.245,
+      "end": 93.595,
       "duration": 2.35
     },
     {
@@ -132,7 +148,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "“A support team reduced overdue work by forty percent after switching to shorter meetings.” It kept one team and `after`, but omitted the agenda and owner list.",
-      "src": "/audio/book-03/lesson-69/lines/16.wav",
+      "start": 93.875,
+      "end": 103.4,
       "duration": 9.525
     },
     {
@@ -140,7 +157,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "WorkBright then changed `overdue work` to `missed deadlines`, one support team to a general rule, and `after` to `proves that`.",
-      "src": "/audio/book-03/lesson-69/lines/17.wav",
+      "start": 103.68,
+      "end": 112.005,
       "duration": 8.325
     },
     {
@@ -148,7 +166,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "We seem to agree that the numerical calculation is traceable, while the population, measure and causal strength expanded at each step.",
-      "src": "/audio/book-03/lesson-69/lines/18.wav",
+      "start": 112.285,
+      "end": 120.21,
       "duration": 7.925
     },
     {
@@ -156,7 +175,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "For now, let’s label the sources precisely: social claim, newsletter summary and customer story—not post, article and study as if they were equivalent.",
-      "src": "/audio/book-03/lesson-69/lines/19.wav",
+      "start": 120.49,
+      "end": 131.065,
       "duration": 10.575
     },
     {
@@ -164,7 +184,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "I’ll summarize what we’ve found: the earliest record describes one team, eight weeks, bundled process changes and a drop from ten to six overdue action items. I haven’t found a study showing that fifteen-minute meetings alone cut missed deadlines across other teams, organizations or kinds of work.",
-      "src": "/audio/book-03/lesson-69/lines/20.wav",
+      "start": 131.345,
+      "end": 147.645,
       "duration": 16.3
     }
   ]

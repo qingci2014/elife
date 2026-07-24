@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 24 - I Locked Myself Out",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -12,7 +13,8 @@
       "part": "A",
       "speaker": "Property manager",
       "text": "Maple Court after-hours line. What's the problem?",
-      "src": "/audio/book-01/lesson-24/lines/01.wav",
+      "start": 0.35,
+      "end": 3.775,
       "duration": 3.425
     },
     {
@@ -20,7 +22,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Hi, I locked myself out. I'm outside the main entrance on Pine Street.",
-      "src": "/audio/book-01/lesson-24/lines/02.wav",
+      "start": 4.055,
+      "end": 8.78,
       "duration": 4.725
     },
     {
@@ -28,7 +31,8 @@
       "part": "A",
       "speaker": "Property manager",
       "text": "Are you locked out of the building or just your apartment?",
-      "src": "/audio/book-01/lesson-24/lines/03.wav",
+      "start": 9.06,
+      "end": 12.335,
       "duration": 3.275
     },
     {
@@ -36,7 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Both. I left my keys and building fob inside. The door closed behind me when I took the recycling downstairs.",
-      "src": "/audio/book-01/lesson-24/lines/04.wav",
+      "start": 12.615,
+      "end": 20.415,
       "duration": 7.8
     },
     {
@@ -44,7 +49,8 @@
       "part": "A",
       "speaker": "Property manager",
       "text": "Have you tried contacting anyone in the building?",
-      "src": "/audio/book-01/lesson-24/lines/05.wav",
+      "start": 20.695,
+      "end": 23.77,
       "duration": 3.075
     },
     {
@@ -52,7 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Yes. I've already tried calling my neighbor Aisha, but she's away tonight. I haven't tried to force the door or climb anywhere.",
-      "src": "/audio/book-01/lesson-24/lines/06.wav",
+      "start": 24.05,
+      "end": 32.075,
       "duration": 8.025
     },
     {
@@ -60,7 +67,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Could someone let me in?",
-      "src": "/audio/book-01/lesson-24/lines/07.wav",
+      "start": 33.205,
+      "end": 34.98,
       "duration": 1.775
     },
     {
@@ -68,7 +76,8 @@
       "part": "B",
       "speaker": "Property manager",
       "text": "I can send the on-call maintenance worker. It should take about twenty-five minutes.",
-      "src": "/audio/book-01/lesson-24/lines/08.wav",
+      "start": 35.26,
+      "end": 40.635,
       "duration": 5.375
     },
     {
@@ -76,7 +85,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Okay. My phone battery is at fifteen percent. Is there any information you need before I save the battery?",
-      "src": "/audio/book-01/lesson-24/lines/09.wav",
+      "start": 40.915,
+      "end": 48.415,
       "duration": 7.5
     },
     {
@@ -84,7 +94,8 @@
       "part": "B",
       "speaker": "Property manager",
       "text": "Please confirm your full name and show the worker photo ID. Don't send the ID number by text.",
-      "src": "/audio/book-01/lesson-24/lines/10.wav",
+      "start": 48.695,
+      "end": 55.52,
       "duration": 6.825
     },
     {
@@ -92,7 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Daniel Reed. I have my photo ID with me. I'll wait under the covered entrance.",
-      "src": "/audio/book-01/lesson-24/lines/11.wav",
+      "start": 55.8,
+      "end": 61.125,
       "duration": 5.325
     },
     {
@@ -100,7 +112,8 @@
       "part": "B",
       "speaker": "Property manager",
       "text": "Good. The worker will call when arriving. If your situation becomes unsafe, call local emergency services.",
-      "src": "/audio/book-01/lesson-24/lines/12.wav",
+      "start": 61.405,
+      "end": 68.83,
       "duration": 7.425
     },
     {
@@ -108,7 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Understood. So someone should be here in about twenty-five minutes, and I'll show photo ID.",
-      "src": "/audio/book-01/lesson-24/lines/13.wav",
+      "start": 69.11,
+      "end": 75.235,
       "duration": 6.125
     },
     {
@@ -116,7 +130,8 @@
       "part": "B",
       "speaker": "Property manager",
       "text": "Correct.",
-      "src": "/audio/book-01/lesson-24/lines/14.wav",
+      "start": 75.515,
+      "end": 76.74,
       "duration": 1.225
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 12 - I Owe You One",
   "voiceMap": {
     "Aisha": "af_nova",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Hi, Daniel. Could you do me a favor?",
-      "src": "/audio/book-01/lesson-12/lines/01.wav",
+      "start": 0.35,
+      "end": 3.0,
       "duration": 2.65
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Sure. What's up?",
-      "src": "/audio/book-01/lesson-12/lines/02.wav",
+      "start": 3.28,
+      "end": 4.805,
       "duration": 1.525
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I was walking to Riverside Park when one of my paper bags tore. Nothing broke, but I'm holding fruit, cups and two containers. I could really use your help.",
-      "src": "/audio/book-01/lesson-12/lines/03.wav",
+      "start": 5.085,
+      "end": 15.41,
       "duration": 10.325
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Of course. Where are you?",
-      "src": "/audio/book-01/lesson-12/lines/04.wav",
+      "start": 15.69,
+      "end": 17.54,
       "duration": 1.85
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "At the bus stop on Pine Street, near the pharmacy. Could you bring an empty tote bag?",
-      "src": "/audio/book-01/lesson-12/lines/05.wav",
+      "start": 17.82,
+      "end": 23.795,
       "duration": 5.975
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "No problem. I can do that. I'm leaving now.",
-      "src": "/audio/book-01/lesson-12/lines/06.wav",
+      "start": 24.075,
+      "end": 27.075,
       "duration": 3.0
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Thanks. Aisha might get to the park before us. Would you mind texting her? Tell her we're running about ten minutes late.",
-      "src": "/audio/book-01/lesson-12/lines/07.wav",
+      "start": 27.355,
+      "end": 34.905,
       "duration": 7.55
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I'll text her now. We could ask her to save a table.",
-      "src": "/audio/book-01/lesson-12/lines/08.wav",
+      "start": 35.185,
+      "end": 38.51,
       "duration": 3.325
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Good idea. I really appreciate it.",
-      "src": "/audio/book-01/lesson-12/lines/09.wav",
+      "start": 38.79,
+      "end": 41.34,
       "duration": 2.55
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Happy to help. I should be there in five minutes. Let me know if you need anything else.",
-      "src": "/audio/book-01/lesson-12/lines/10.wav",
+      "start": 41.62,
+      "end": 46.995,
       "duration": 5.375
     },
     {
@@ -93,7 +104,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The bag is all I need. See you soon.",
-      "src": "/audio/book-01/lesson-12/lines/11.wav",
+      "start": 47.275,
+      "end": 49.975,
       "duration": 2.7
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I'm glad you made it. I was setting out the food when Daniel's message arrived.",
-      "src": "/audio/book-01/lesson-12/lines/12.wav",
+      "start": 51.105,
+      "end": 56.18,
       "duration": 5.075
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thanks for waiting. And Daniel, thanks for helping me out. I owe you one.",
-      "src": "/audio/book-01/lesson-12/lines/13.wav",
+      "start": 56.46,
+      "end": 61.135,
       "duration": 4.675
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Don't worry about it. Carrying a tote bag for one block isn't a major rescue.",
-      "src": "/audio/book-01/lesson-12/lines/14.wav",
+      "start": 61.415,
+      "end": 66.69,
       "duration": 5.275
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "It looked important from the message.",
-      "src": "/audio/book-01/lesson-12/lines/15.wav",
+      "start": 66.97,
+      "end": 69.82,
       "duration": 2.85
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "It was important. Next time, I'm going to pack everything in one tote bag.",
-      "src": "/audio/book-01/lesson-12/lines/16.wav",
+      "start": 70.1,
+      "end": 75.35,
       "duration": 5.25
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good plan. I'm glad the apples made it.",
-      "src": "/audio/book-01/lesson-12/lines/17.wav",
+      "start": 75.63,
+      "end": 78.33,
       "duration": 2.7
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "And our table. The new plan worked.",
-      "src": "/audio/book-01/lesson-12/lines/18.wav",
+      "start": 78.61,
+      "end": 81.56,
       "duration": 2.95
     }
   ]

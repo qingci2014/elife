@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 35 - She Said She'd Call",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Daniel, did you get my message? I've just sent you a short summary.",
-      "src": "/audio/book-02/lesson-35/lines/01.wav",
+      "start": 0.35,
+      "end": 5.2,
       "duration": 4.85
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I haven't seen it yet. My phone was on silent. What happened?",
-      "src": "/audio/book-02/lesson-35/lines/02.wav",
+      "start": 5.48,
+      "end": 9.455,
       "duration": 3.975
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Mrs. Flores left me a voicemail about the old bicycle-shop photograph. She said she'd call again after six. She told me that she was interested in talking about the people in the picture.",
-      "src": "/audio/book-02/lesson-35/lines/03.wav",
+      "start": 9.735,
+      "end": 21.61,
       "duration": 11.875
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's encouraging. Did she approve the photograph for the exhibit?",
-      "src": "/audio/book-02/lesson-35/lines/04.wav",
+      "start": 21.89,
+      "end": 26.04,
       "duration": 4.15
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "No. According to her message, she wanted to speak with her brother first. She asked whether we were still collecting short stories, and she wanted to know when you were free this week.",
-      "src": "/audio/book-02/lesson-35/lines/05.wav",
+      "start": 26.32,
+      "end": 37.195,
       "duration": 10.875
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So she expressed interest, but she didn't give us permission to display anything.",
-      "src": "/audio/book-02/lesson-35/lines/06.wav",
+      "start": 37.475,
+      "end": 42.4,
       "duration": 4.925
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Exactly. She also said that the original photograph belonged to her brother, not to her.",
-      "src": "/audio/book-02/lesson-35/lines/07.wav",
+      "start": 42.68,
+      "end": 49.18,
       "duration": 6.5
     },
     {
@@ -69,7 +77,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Sorry, I caught only the last part. What did she ask?",
-      "src": "/audio/book-02/lesson-35/lines/08.wav",
+      "start": 50.31,
+      "end": 53.935,
       "duration": 3.625
     },
     {
@@ -77,7 +86,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "She asked whether we were still collecting stories. She also wanted to know when I was free this week.",
-      "src": "/audio/book-02/lesson-35/lines/09.wav",
+      "start": 54.215,
+      "end": 60.615,
       "duration": 6.4
     },
     {
@@ -85,7 +95,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "And she said we could use the photograph after she spoke with her brother?",
-      "src": "/audio/book-02/lesson-35/lines/10.wav",
+      "start": 60.895,
+      "end": 65.495,
       "duration": 4.6
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Not quite. She said she was interested in talking. She didn't promise permission after that conversation.",
-      "src": "/audio/book-02/lesson-35/lines/11.wav",
+      "start": 65.775,
+      "end": 73.25,
       "duration": 7.475
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thanks for correcting me. I'll pass that on to Aisha so she knows not to include the photograph when she starts the poster draft.",
-      "src": "/audio/book-02/lesson-35/lines/12.wav",
+      "start": 73.53,
+      "end": 81.88,
       "duration": 8.35
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. Tell her that the photo is still only a candidate.",
-      "src": "/audio/book-02/lesson-35/lines/13.wav",
+      "start": 82.16,
+      "end": 85.61,
       "duration": 3.45
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Before that, could one of you answer Mrs. Flores's questions? She asked if we were still collecting stories.",
-      "src": "/audio/book-02/lesson-35/lines/14.wav",
+      "start": 85.89,
+      "end": 93.215,
       "duration": 7.325
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Yes, up to six short stories for the first stage.",
-      "src": "/audio/book-02/lesson-35/lines/15.wav",
+      "start": 93.495,
+      "end": 96.895,
       "duration": 3.4
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And I'm free Thursday between four and five. I'll call her then if that works for her.",
-      "src": "/audio/book-02/lesson-35/lines/16.wav",
+      "start": 97.175,
+      "end": 102.925,
       "duration": 5.75
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I'll send that reply now. I'll say that we're still collecting stories, that you're available Thursday, and that no image will be displayed without the owner's permission.",
-      "src": "/audio/book-02/lesson-35/lines/17.wav",
+      "start": 103.205,
+      "end": 113.68,
       "duration": 10.475
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Perfect. The message stays accurate, and the boundary stays clear.",
-      "src": "/audio/book-02/lesson-35/lines/18.wav",
+      "start": 113.96,
+      "end": 118.435,
       "duration": 4.475
     }
   ]

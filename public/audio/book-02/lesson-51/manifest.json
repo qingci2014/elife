@@ -1,4 +1,5 @@
 {
+  "formatVersion": 2,
   "title": "Lesson 51 - The Feedback Wasn't Very Clear",
   "voiceMap": {
     "Daniel": "am_fenrir",
@@ -13,7 +14,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Thanks for reviewing it. Could you be more specific about what feels cold in the opening?",
-      "src": "/audio/book-02/lesson-51/lines/01.wav",
+      "start": 0.35,
+      "end": 5.95,
       "duration": 5.6
     },
     {
@@ -21,7 +23,8 @@
       "part": "A",
       "speaker": "Priya",
       "text": "The heading says “Greeter Instructions,” and the first line begins with a rule. It doesn't explain why the role matters.",
-      "src": "/audio/book-02/lesson-51/lines/02.wav",
+      "start": 6.23,
+      "end": 13.08,
       "duration": 6.85
     },
     {
@@ -29,7 +32,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What would “warmer” look like in practice?",
-      "src": "/audio/book-02/lesson-51/lines/03.wav",
+      "start": 13.36,
+      "end": 15.86,
       "duration": 2.5
     },
     {
@@ -37,7 +41,8 @@
       "part": "A",
       "speaker": "Priya",
       "text": "Keep the instructions, but start with one welcome line: “Thanks for helping visitors find the side gallery confidently.”",
-      "src": "/audio/book-02/lesson-51/lines/04.wav",
+      "start": 16.14,
+      "end": 23.14,
       "duration": 7.0
     },
     {
@@ -45,7 +50,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's clear. Can you give me an example of what feels impractical in the middle?",
-      "src": "/audio/book-02/lesson-51/lines/05.wav",
+      "start": 23.42,
+      "end": 28.345,
       "duration": 4.925
     },
     {
@@ -53,7 +59,8 @@
       "part": "A",
       "speaker": "Priya",
       "text": "The break handoff is a paragraph. A volunteer scanning a phone may not see the sequence quickly.",
-      "src": "/audio/book-02/lesson-51/lines/06.wav",
+      "start": 28.625,
+      "end": 34.325,
       "duration": 5.7
     },
     {
@@ -61,7 +68,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Are you suggesting that I turn it into numbered steps?",
-      "src": "/audio/book-02/lesson-51/lines/07.wav",
+      "start": 34.605,
+      "end": 38.055,
       "duration": 3.45
     },
     {
@@ -69,7 +77,8 @@
       "part": "A",
       "speaker": "Priya",
       "text": "Yes—who contacts the backup, where the handoff happens and when the first person can leave.",
-      "src": "/audio/book-02/lesson-51/lines/08.wav",
+      "start": 38.335,
+      "end": 43.435,
       "duration": 5.1
     },
     {
@@ -77,7 +86,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So the change you're asking for is a three-step handoff, not more information.",
-      "src": "/audio/book-02/lesson-51/lines/09.wav",
+      "start": 43.715,
+      "end": 48.915,
       "duration": 5.2
     },
     {
@@ -85,7 +95,8 @@
       "part": "A",
       "speaker": "Priya",
       "text": "Exactly.",
-      "src": "/audio/book-02/lesson-51/lines/10.wav",
+      "start": 49.195,
+      "end": 50.545,
       "duration": 1.35
     },
     {
@@ -93,7 +104,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Your third note says the contacts feel busy. Is the issue the number of contacts or the layout?",
-      "src": "/audio/book-02/lesson-51/lines/11.wav",
+      "start": 51.675,
+      "end": 58.225,
       "duration": 6.55
     },
     {
@@ -101,7 +113,8 @@
       "part": "B",
       "speaker": "Priya",
       "text": "The layout. The names, roles and extensions are all in one sentence.",
-      "src": "/audio/book-02/lesson-51/lines/12.wav",
+      "start": 58.505,
+      "end": 62.855,
       "duration": 4.35
     },
     {
@@ -109,7 +122,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Would a small table with the columns “Situation,” “Contact role” and “Extension” solve it?",
-      "src": "/audio/book-02/lesson-51/lines/13.wav",
+      "start": 63.135,
+      "end": 69.26,
       "duration": 6.125
     },
     {
@@ -117,7 +131,8 @@
       "part": "B",
       "speaker": "Priya",
       "text": "Yes. Keep the three roles, but separate them visually.",
-      "src": "/audio/book-02/lesson-51/lines/14.wav",
+      "start": 69.54,
+      "end": 72.99,
       "duration": 3.45
     },
     {
@@ -125,7 +140,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Let me summarize the feedback to make sure I've got it right. You suggested adding one purpose line, asked me to turn the handoff paragraph into three numbered steps, and recommended a three-row contact table.",
-      "src": "/audio/book-02/lesson-51/lines/15.wav",
+      "start": 73.27,
+      "end": 86.82,
       "duration": 13.55
     },
     {
@@ -133,7 +149,8 @@
       "part": "B",
       "speaker": "Priya",
       "text": "Correct. I also pointed out that none of those changes adds new scope.",
-      "src": "/audio/book-02/lesson-51/lines/16.wav",
+      "start": 87.1,
+      "end": 91.275,
       "duration": 4.175
     },
     {
@@ -141,7 +158,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. That's specific enough to act on. I'll revise those three locations and leave the approved content unchanged.",
-      "src": "/audio/book-02/lesson-51/lines/17.wav",
+      "start": 91.555,
+      "end": 99.33,
       "duration": 7.775
     },
     {
@@ -149,7 +167,8 @@
       "part": "B",
       "speaker": "Priya",
       "text": "When can I see the new version?",
-      "src": "/audio/book-02/lesson-51/lines/18.wav",
+      "start": 99.61,
+      "end": 102.11,
       "duration": 2.5
     },
     {
@@ -157,7 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "By two tomorrow. Lena can check the wording at three, and Sam can verify the access and contact details before final sign-off.",
-      "src": "/audio/book-02/lesson-51/lines/19.wav",
+      "start": 102.39,
+      "end": 111.29,
       "duration": 8.9
     },
     {
@@ -165,7 +185,8 @@
       "part": "B",
       "speaker": "Priya",
       "text": "That works. Please show the changes in comments so we can verify that each note was addressed.",
-      "src": "/audio/book-02/lesson-51/lines/20.wav",
+      "start": 111.57,
+      "end": 116.92,
       "duration": 5.35
     }
   ],
