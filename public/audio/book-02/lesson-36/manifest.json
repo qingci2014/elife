@@ -1,0 +1,180 @@
+{
+  "title": "Lesson 36 - Wait, How Did That Happen?",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-36/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "You won't believe what happened with the Harbor Street photograph. It all started when I took a copy to Mrs. Flores on Tuesday.",
+      "src": "/audio/book-02/lesson-36/lines/01.wav",
+      "duration": 8.2
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The woman who had expressed interest in sharing a story?",
+      "src": "/audio/book-02/lesson-36/lines/02.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Right. At first, she didn't recognize the people, but she said her brother might. A few minutes later, she called him, and he identified the man beside the bicycle.",
+      "src": "/audio/book-02/lesson-36/lines/03.wav",
+      "duration": 10.425
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "So the family gave us permission to use the photo?",
+      "src": "/audio/book-02/lesson-36/lines/04.wav",
+      "duration": 3.5
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "No. They only identified one person. We're not committing to public display yet.",
+      "src": "/audio/book-02/lesson-36/lines/05.wav",
+      "duration": 6.15
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Good distinction. What happened next?",
+      "src": "/audio/book-02/lesson-36/lines/06.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I put our copy back in its archive sleeve. Just as I was about to leave, Mrs. Flores handed me another envelope with a note for Owen.",
+      "src": "/audio/book-02/lesson-36/lines/07.wav",
+      "duration": 9.175
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Wait, how did that envelope end up here at the arts center?",
+      "src": "/audio/book-02/lesson-36/lines/08.wav",
+      "duration": 3.8
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "That's the confusing part. I left it at the café front desk on my way home.",
+      "src": "/audio/book-02/lesson-36/lines/09.wav",
+      "duration": 5.775
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "But Owen brought an envelope here this morning. He said a customer had left it at the café.",
+      "src": "/audio/book-02/lesson-36/lines/10.wav",
+      "duration": 6.15
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me make sure I've got this right. Grace delivered one envelope to the café on Tuesday. Before that, Mrs. Flores had put a note for Owen inside it. Then, sometime later, a customer left a different envelope there.",
+      "src": "/audio/book-02/lesson-36/lines/11.wav",
+      "duration": 13.975
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Almost. Owen's envelope was the same one. The customer had picked it up by mistake, noticed Owen's name, and returned it the next morning.",
+      "src": "/audio/book-02/lesson-36/lines/12.wav",
+      "duration": 9.45
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "The customer had taken it before Owen saw it?",
+      "src": "/audio/book-02/lesson-36/lines/13.wav",
+      "duration": 2.925
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Exactly.",
+      "src": "/audio/book-02/lesson-36/lines/14.wav",
+      "duration": 1.975
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "And what was inside?",
+      "src": "/audio/book-02/lesson-36/lines/15.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "A copy of a second photograph and Mrs. Flores's note. According to the note, her brother thought the bicycle shop owner might know more. She asked whether we wanted an introduction.",
+      "src": "/audio/book-02/lesson-36/lines/16.wav",
+      "duration": 11.575
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "So, you're saying that we now have a possible contact, not a confirmed story or permission.",
+      "src": "/audio/book-02/lesson-36/lines/17.wav",
+      "duration": 5.95
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Correct.",
+      "src": "/audio/book-02/lesson-36/lines/18.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "In the end, the envelope returned, we gained one lead, and no original photograph was lost.",
+      "src": "/audio/book-02/lesson-36/lines/19.wav",
+      "duration": 6.5
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Did I miss anything?",
+      "src": "/audio/book-02/lesson-36/lines/20.wav",
+      "duration": 1.7
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "One thing: I already replied that we'd like an introduction, but I made no promise about the exhibit.",
+      "src": "/audio/book-02/lesson-36/lines/21.wav",
+      "duration": 7.175
+    }
+  ]
+}

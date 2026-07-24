@@ -1,0 +1,147 @@
+{
+  "title": "Lesson 33 - You Won't Believe What Happened",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-33/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "You won't believe what happened at the arts center this morning.",
+      "src": "/audio/book-02/lesson-33/lines/01.wav",
+      "duration": 3.675
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "That sounds promising. Were you checking the exhibit wall?",
+      "src": "/audio/book-02/lesson-33/lines/02.wav",
+      "duration": 4.05
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes. It all started when Lena and I went into the side gallery to measure the wall. The room was quiet, and a maintenance worker was moving a supply cart in the hallway.",
+      "src": "/audio/book-02/lesson-33/lines/03.wav",
+      "duration": 11.05
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Okay. What went wrong?",
+      "src": "/audio/book-02/lesson-33/lines/04.wav",
+      "duration": 2.35
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "At first, nothing. Lena held one end of the tape measure while I wrote down the numbers. There was a display panel on wheels a few feet behind us, but neither of us was using it.",
+      "src": "/audio/book-02/lesson-33/lines/05.wav",
+      "duration": 11.125
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I already don't trust that panel.",
+      "src": "/audio/book-02/lesson-33/lines/06.wav",
+      "duration": 2.9
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "You shouldn't. A few minutes later, the maintenance worker pushed the cart past the open door. One of the cart wheels caught the edge of a floor mat, and the cart bumped the door.",
+      "src": "/audio/book-02/lesson-33/lines/07.wav",
+      "duration": 10.55
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "And the door hit the panel?",
+      "src": "/audio/book-02/lesson-33/lines/08.wav",
+      "duration": 2.55
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Not exactly. The door stopped before it reached the panel. We looked at each other, laughed, and went back to measuring. Then the panel started rolling by itself. The floor was slightly uneven, and one wheel lock was open.",
+      "src": "/audio/book-02/lesson-33/lines/09.wav",
+      "duration": 13.7
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Please tell me it didn't hit anything.",
+      "src": "/audio/book-02/lesson-33/lines/10.wav",
+      "duration": 3.0
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Just as I was about to take a reference photo of the empty wall, Lena shouted, “Daniel, behind you!” I turned around and caught the panel about six inches before it reached the supply cart.",
+      "src": "/audio/book-02/lesson-33/lines/11.wav",
+      "duration": 12.35
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "So you saved the day.",
+      "src": "/audio/book-02/lesson-33/lines/12.wav",
+      "duration": 2.525
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I saved a box of paper cups. Lena locked all four wheels, and we checked the floor before we finished. In the end, nothing was damaged, nobody was hurt, and we got the measurements.",
+      "src": "/audio/book-02/lesson-33/lines/13.wav",
+      "duration": 11.925
+    },
+    {
+      "id": 14,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "What about the exhibit materials?",
+      "src": "/audio/book-02/lesson-33/lines/14.wav",
+      "duration": 2.875
+    },
+    {
+      "id": 15,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "They weren't there. We're still reviewing candidates, and we're not committing to public display yet. The first step is still permission.",
+      "src": "/audio/book-02/lesson-33/lines/15.wav",
+      "duration": 7.8
+    },
+    {
+      "id": 16,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Good. So the only thing that escaped was the panel.",
+      "src": "/audio/book-02/lesson-33/lines/16.wav",
+      "duration": 3.75
+    },
+    {
+      "id": 17,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "For about three seconds, yes. Lena says the next project checklist needs one more line: “Check the wheels.”",
+      "src": "/audio/book-02/lesson-33/lines/17.wav",
+      "duration": 7.275
+    }
+  ]
+}

@@ -24,9 +24,10 @@ function formatTime(seconds: number) {
   return `${minutes}:${remainder}`;
 }
 
-export function LessonAudioPlayer({ lessonNumber }: { lessonNumber: number }) {
+export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: number; bookNumber: number }) {
   const lessonKey = `lesson-${lessonNumber.toString().padStart(2, "0")}`;
-  const manifestUrl = `/audio/book-01/${lessonKey}/manifest.json`;
+  const bookKey = `book-${bookNumber.toString().padStart(2, "0")}`;
+  const manifestUrl = `/audio/${bookKey}/${lessonKey}/manifest.json`;
   const [manifest, setManifest] = useState<AudioManifest | null>(null);
   const [loadError, setLoadError] = useState(false);
   const [mode, setMode] = useState<"dialogue" | "shadow">("dialogue");
@@ -180,7 +181,7 @@ export function LessonAudioPlayer({ lessonNumber }: { lessonNumber: number }) {
             onPlay={() => stopShadowing()}
             preload="metadata"
             ref={fullAudioRef}
-            src={manifest?.fullSrc ?? `/audio/book-01/${lessonKey}/dialogue.wav`}
+            src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.wav`}
           >
             你的浏览器不支持音频播放。
           </audio>
