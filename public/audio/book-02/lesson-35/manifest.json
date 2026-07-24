@@ -6,14 +6,14 @@
     "Lena": "af_kore"
   },
   "sampleRate": 24000,
-  "fullSrc": "/audio/book-02/lesson-35/dialogue.mp3",
+  "fullSrc": "/audio/book-02/lesson-35/dialogue.wav",
   "lines": [
     {
       "id": 1,
       "part": "A",
       "speaker": "Grace",
       "text": "Daniel, did you get my message? I've just sent you a short summary.",
-      "src": "/audio/book-02/lesson-35/lines/01.mp3",
+      "src": "/audio/book-02/lesson-35/lines/01.wav",
       "duration": 4.85
     },
     {
@@ -21,7 +21,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I haven't seen it yet. My phone was on silent. What happened?",
-      "src": "/audio/book-02/lesson-35/lines/02.mp3",
+      "src": "/audio/book-02/lesson-35/lines/02.wav",
       "duration": 3.975
     },
     {
@@ -29,7 +29,7 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Mrs. Flores left me a voicemail about the old bicycle-shop photograph. She said she'd call again after six. She told me that she was interested in talking about the people in the picture.",
-      "src": "/audio/book-02/lesson-35/lines/03.mp3",
+      "src": "/audio/book-02/lesson-35/lines/03.wav",
       "duration": 11.875
     },
     {
@@ -37,7 +37,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's encouraging. Did she approve the photograph for the exhibit?",
-      "src": "/audio/book-02/lesson-35/lines/04.mp3",
+      "src": "/audio/book-02/lesson-35/lines/04.wav",
       "duration": 4.15
     },
     {
@@ -45,7 +45,7 @@
       "part": "A",
       "speaker": "Grace",
       "text": "No. According to her message, she wanted to speak with her brother first. She asked whether we were still collecting short stories, and she wanted to know when you were free this week.",
-      "src": "/audio/book-02/lesson-35/lines/05.mp3",
+      "src": "/audio/book-02/lesson-35/lines/05.wav",
       "duration": 10.875
     },
     {
@@ -53,7 +53,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So she expressed interest, but she didn't give us permission to display anything.",
-      "src": "/audio/book-02/lesson-35/lines/06.mp3",
+      "src": "/audio/book-02/lesson-35/lines/06.wav",
       "duration": 4.925
     },
     {
@@ -61,7 +61,7 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Exactly. She also said that the original photograph belonged to her brother, not to her.",
-      "src": "/audio/book-02/lesson-35/lines/07.mp3",
+      "src": "/audio/book-02/lesson-35/lines/07.wav",
       "duration": 6.5
     },
     {
@@ -69,7 +69,7 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Sorry, I caught only the last part. What did she ask?",
-      "src": "/audio/book-02/lesson-35/lines/08.mp3",
+      "src": "/audio/book-02/lesson-35/lines/08.wav",
       "duration": 3.625
     },
     {
@@ -77,7 +77,7 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "She asked whether we were still collecting stories. She also wanted to know when I was free this week.",
-      "src": "/audio/book-02/lesson-35/lines/09.mp3",
+      "src": "/audio/book-02/lesson-35/lines/09.wav",
       "duration": 6.4
     },
     {
@@ -85,7 +85,7 @@
       "part": "B",
       "speaker": "Lena",
       "text": "And she said we could use the photograph after she spoke with her brother?",
-      "src": "/audio/book-02/lesson-35/lines/10.mp3",
+      "src": "/audio/book-02/lesson-35/lines/10.wav",
       "duration": 4.6
     },
     {
@@ -93,7 +93,7 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Not quite. She said she was interested in talking. She didn't promise permission after that conversation.",
-      "src": "/audio/book-02/lesson-35/lines/11.mp3",
+      "src": "/audio/book-02/lesson-35/lines/11.wav",
       "duration": 7.475
     },
     {
@@ -101,7 +101,7 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thanks for correcting me. I'll pass that on to Aisha so she knows not to include the photograph when she starts the poster draft.",
-      "src": "/audio/book-02/lesson-35/lines/12.mp3",
+      "src": "/audio/book-02/lesson-35/lines/12.wav",
       "duration": 8.35
     },
     {
@@ -109,7 +109,7 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. Tell her that the photo is still only a candidate.",
-      "src": "/audio/book-02/lesson-35/lines/13.mp3",
+      "src": "/audio/book-02/lesson-35/lines/13.wav",
       "duration": 3.45
     },
     {
@@ -117,7 +117,7 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Before that, could one of you answer Mrs. Flores's questions? She asked if we were still collecting stories.",
-      "src": "/audio/book-02/lesson-35/lines/14.mp3",
+      "src": "/audio/book-02/lesson-35/lines/14.wav",
       "duration": 7.325
     },
     {
@@ -125,7 +125,7 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Yes, up to six short stories for the first stage.",
-      "src": "/audio/book-02/lesson-35/lines/15.mp3",
+      "src": "/audio/book-02/lesson-35/lines/15.wav",
       "duration": 3.4
     },
     {
@@ -133,7 +133,7 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And I'm free Thursday between four and five. I'll call her then if that works for her.",
-      "src": "/audio/book-02/lesson-35/lines/16.mp3",
+      "src": "/audio/book-02/lesson-35/lines/16.wav",
       "duration": 5.75
     },
     {
@@ -141,7 +141,7 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I'll send that reply now. I'll say that we're still collecting stories, that you're available Thursday, and that no image will be displayed without the owner's permission.",
-      "src": "/audio/book-02/lesson-35/lines/17.mp3",
+      "src": "/audio/book-02/lesson-35/lines/17.wav",
       "duration": 10.475
     },
     {
@@ -149,7 +149,7 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Perfect. The message stays accurate, and the boundary stays clear.",
-      "src": "/audio/book-02/lesson-35/lines/18.mp3",
+      "src": "/audio/book-02/lesson-35/lines/18.wav",
       "duration": 4.475
     }
   ]
