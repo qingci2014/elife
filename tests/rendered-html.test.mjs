@@ -1,6 +1,8 @@
 import assert from "node:assert/strict";
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
+import path from "node:path";
 import test from "node:test";
+import { fileURLToPath } from "node:url";
 
 const workerUrl = new URL("../dist/server/index.js", import.meta.url);
 workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
@@ -111,4 +113,44 @@ test("renders unwritten lessons as honest plan pages", async (t) => {
   assert.match(html, /现实任务/);
   assert.match(html, /语言骨架/);
   assert.match(html, /最终证据/);
+});
+
+test("ships matching WAV manifests for the latest four lessons", async () => {
+  const audioRoot = new URL("../public/audio/book-02/", import.meta.url);
+
+  for (const number of [37, 38, 39, 40]) {
+    const lesson = `lesson-${number}`;
+    const manifest = JSON.parse(await readFile(new URL(`${lesson}/manifest.json`, audioRoot), "utf8"));
+    const dialogue = await readFile(new URL(`${lesson}/dialogue.wav`, audioRoot));
+
+    assert.ok(manifest.lines.length >= 15, `${lesson} should include line audio metadata`);
+    assert.ok(dialogue.length > 44, `${lesson} should include a non-empty WAV dialogue`);
+    for (const line of manifest.lines) {
+      const file = await readFile(new URL(`${lesson}/lines/${String(line.id).padStart(2, "0")}.wav`, audioRoot));
+      assert.ok(file.length > 44, `${lesson} line ${line.id} should include WAV audio`);
+      assert.equal(line.src, `/audio/book-02/${lesson}/lines/${String(line.id).padStart(2, "0")}.wav`);
+    }
+  }
+
+  const lesson39 = JSON.parse(await readFile(new URL("lesson-39/manifest.json", audioRoot), "utf8"));
+  assert.equal(lesson39.transfer?.speaker, "Casey");
+  assert.equal(lesson39.transfer?.src, "/audio/book-02/lesson-39/transfer.wav");
+  assert.ok((await readFile(new URL("lesson-39/transfer.wav", audioRoot))).length > 44);
+});
+
+test("does not ship MP3 files", async () => {
+  const publicRoot = fileURLToPath(new URL("../public/", import.meta.url));
+  const pending = [publicRoot];
+  const mp3Files = [];
+
+  while (pending.length) {
+    const directory = pending.pop();
+    for (const entry of await readdir(directory, { withFileTypes: true })) {
+      const target = path.join(directory, entry.name);
+      if (entry.isDirectory()) pending.push(target);
+      if (entry.isFile() && entry.name.toLowerCase().endsWith(".mp3")) mp3Files.push(target);
+    }
+  }
+
+  assert.deepEqual(mp3Files, []);
 });

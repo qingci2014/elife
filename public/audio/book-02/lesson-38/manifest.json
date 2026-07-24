@@ -1,0 +1,155 @@
+{
+  "title": "Lesson 38 - Nothing's Set in Stone",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-38/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "How did the studio respond?",
+      "src": "/audio/book-02/lesson-38/lines/01.wav",
+      "duration": 2.175
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The plan is to try the space on Thursday afternoon. I'm meeting the manager at one thirty for a short orientation, so that part is confirmed.",
+      "src": "/audio/book-02/lesson-38/lines/02.wav",
+      "duration": 9.225
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "And you're working there for the rest of the day?",
+      "src": "/audio/book-02/lesson-38/lines/03.wav",
+      "duration": 2.55
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Probably, but nothing's set in stone after two. I may have a client call at three, and the small phone room might already be booked.",
+      "src": "/audio/book-02/lesson-38/lines/04.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So you're saying that the orientation is fixed, but the full afternoon depends on the phone room.",
+      "src": "/audio/book-02/lesson-38/lines/05.wav",
+      "duration": 6.175
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Right. If it isn't available, I'm going to take the call from home and return to the studio another day.",
+      "src": "/audio/book-02/lesson-38/lines/06.wav",
+      "duration": 6.375
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "When will you know?",
+      "src": "/audio/book-02/lesson-38/lines/07.wav",
+      "duration": 1.575
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The manager is checking the room schedule tomorrow morning. I'll know more by noon.",
+      "src": "/audio/book-02/lesson-38/lines/08.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What about the day pass you mentioned yesterday?",
+      "src": "/audio/book-02/lesson-38/lines/09.wav",
+      "duration": 2.95
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The studio is giving me the trial day for free, so I'm not buying a pass yet. After Thursday, I might buy two individual passes before I consider a monthly desk.",
+      "src": "/audio/book-02/lesson-38/lines/10.wav",
+      "duration": 10.4
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me make sure I've got this right. You're meeting the manager at one thirty. You're going to test the desk and internet. You may stay all afternoon, but that depends on the phone room. Did I miss anything?",
+      "src": "/audio/book-02/lesson-38/lines/11.wav",
+      "duration": 12.2
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The access code. They're sending it Thursday morning, and I'll call the front desk if it doesn't arrive by eleven.",
+      "src": "/audio/book-02/lesson-38/lines/12.wav",
+      "duration": 6.625
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. Are you going to tell your client that the location may change?",
+      "src": "/audio/book-02/lesson-38/lines/13.wav",
+      "duration": 4.15
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Yes. I'll send a short update now: “Our three o'clock call is confirmed. I may join from a shared studio, but the time and link won't change.”",
+      "src": "/audio/book-02/lesson-38/lines/14.wav",
+      "duration": 8.25
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Clear and useful. You don't need to describe every possibility.",
+      "src": "/audio/book-02/lesson-38/lines/15.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Exactly. The plan is flexible, not mysterious. Tomorrow I'll confirm the room; on Thursday I'll test the space; after that I'll decide whether another visit is useful.",
+      "src": "/audio/book-02/lesson-38/lines/16.wav",
+      "duration": 10.15
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That sounds more reliable than pretending the whole week is fixed.",
+      "src": "/audio/book-02/lesson-38/lines/17.wav",
+      "duration": 4.175
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I used to think a good plan had no question marks. Now I think a good plan shows where the question marks are.",
+      "src": "/audio/book-02/lesson-38/lines/18.wav",
+      "duration": 6.725
+    }
+  ]
+}

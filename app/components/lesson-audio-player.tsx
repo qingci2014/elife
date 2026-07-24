@@ -15,6 +15,13 @@ type AudioManifest = {
   title: string;
   fullSrc: string;
   lines: AudioLine[];
+  transfer?: {
+    title: string;
+    instruction: string;
+    speaker: string;
+    src: string;
+    duration: number;
+  };
 };
 
 const rates = [0.75, 0.9, 1, 1.15, 1.25];
@@ -42,14 +49,6 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
 
   useEffect(() => {
     const controller = new AbortController();
-    clearFollowTimer();
-    lineAudioRef.current?.pause();
-    fullAudioRef.current?.pause();
-    setManifest(null);
-    setLoadError(false);
-    setCurrentIndex(0);
-    setRunning(false);
-    setWaiting(false);
 
     fetch(manifestUrl, { signal: controller.signal })
       .then((response) => {
@@ -62,9 +61,14 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
       });
 
     const savedRate = Number(window.localStorage.getItem("english-audio-rate"));
-    if (rates.includes(savedRate)) setRate(savedRate);
+    const restoreRateTimer = window.setTimeout(() => {
+      if (rates.includes(savedRate)) setRate(savedRate);
+    }, 0);
 
-    return () => controller.abort();
+    return () => {
+      window.clearTimeout(restoreRateTimer);
+      controller.abort();
+    };
   }, [manifestUrl]);
 
   useEffect(() => {
@@ -174,18 +178,30 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
       {loadError ? <p className="audio-error">音频信息加载失败，请刷新页面后重试。</p> : null}
 
       {mode === "dialogue" ? (
-        <div className="dialogue-player">
-          <p>先完整听一遍，不看译文；第二遍再对照课文。</p>
-          <audio
-            controls
-            onPlay={() => stopShadowing()}
-            preload="metadata"
-            ref={fullAudioRef}
-            src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.wav`}
-          >
-            你的浏览器不支持音频播放。
-          </audio>
-        </div>
+        <>
+          <div className="dialogue-player">
+            <p>先完整听一遍，不看译文；第二遍再对照课文。</p>
+            <audio
+              controls
+              onPlay={() => stopShadowing()}
+              preload="metadata"
+              ref={fullAudioRef}
+              src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.wav`}
+            >
+              你的浏览器不支持音频播放。
+            </audio>
+          </div>
+          {manifest?.transfer ? (
+            <div className="dialogue-player transfer-player">
+              <p className="eyebrow">UNFAMILIAR VOICE TRANSFER</p>
+              <h3>{manifest.transfer.title}</h3>
+              <p>{manifest.transfer.instruction}</p>
+              <audio controls preload="metadata" src={manifest.transfer.src}>
+                你的浏览器不支持音频播放。
+              </audio>
+            </div>
+          ) : null}
+        </>
       ) : (
         <div className="shadow-player">
           <div className="shadow-controls">

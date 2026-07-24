@@ -1,0 +1,156 @@
+{
+  "title": "Lesson 39 - If Everything Goes to Plan",
+  "voiceMap": {
+    "Casey": "af_jessica",
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore",
+    "Owen": "am_adam"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-39/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "If everything goes to plan, we'll run the rehearsal Friday from two to four in the side gallery.",
+      "src": "/audio/book-02/lesson-39/lines/01.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What has to happen before we go ahead?",
+      "src": "/audio/book-02/lesson-39/lines/02.wav",
+      "duration": 2.6
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "The portable printer has to arrive by Thursday at five, and the gallery has to remain free. As soon as the printer arrives, I'll test one sample card and send you a photo of the result.",
+      "src": "/audio/book-02/lesson-39/lines/03.wav",
+      "duration": 12.35
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "What are you using for the rehearsal? None of the unapproved photographs, right?",
+      "src": "/audio/book-02/lesson-39/lines/04.wav",
+      "duration": 4.875
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Right. We'll use three photos I took myself and blank cards with invented names. Unless we have the right permissions, candidate material stays out of the room.",
+      "src": "/audio/book-02/lesson-39/lines/05.wav",
+      "duration": 10.625
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Good. If the printer works, what will each person test?",
+      "src": "/audio/book-02/lesson-39/lines/06.wav",
+      "duration": 3.675
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Daniel will check image size, I'll time the setup, and Aisha will review whether the sample cards are easy to read. You can test the visitor route when you arrive at three.",
+      "src": "/audio/book-02/lesson-39/lines/07.wav",
+      "duration": 11.3
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "That's specific enough. What could still change?",
+      "src": "/audio/book-02/lesson-39/lines/08.wav",
+      "duration": 3.4
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "The delivery window is the main risk. If the printer doesn't arrive by five Thursday, we'll switch to Plan B.",
+      "src": "/audio/book-02/lesson-39/lines/09.wav",
+      "duration": 7.675
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Our backup plan is to rehearse the layout with plain paper at the same time. We'll test the wall positions, timing and visitor route, then test print quality next week.",
+      "src": "/audio/book-02/lesson-39/lines/10.wav",
+      "duration": 10.825
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "So the whole rehearsal isn't canceled because one tool is late.",
+      "src": "/audio/book-02/lesson-39/lines/11.wav",
+      "duration": 4.4
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Exactly. We only postpone the printing step. Either way, the room, start time and permission boundary stay the same.",
+      "src": "/audio/book-02/lesson-39/lines/12.wav",
+      "duration": 8.1
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What if the gallery becomes unavailable?",
+      "src": "/audio/book-02/lesson-39/lines/13.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Then we won't move the materials somewhere unsuitable. I'll contact everyone by noon Friday, and we'll choose a new date.",
+      "src": "/audio/book-02/lesson-39/lines/14.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "That gives us two different decisions: printer late means Plan B; room unavailable means postpone.",
+      "src": "/audio/book-02/lesson-39/lines/15.wav",
+      "duration": 7.05
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "I'll put that in the update. If people know the trigger, they won't have to guess which plan we're following.",
+      "src": "/audio/book-02/lesson-39/lines/16.wav",
+      "duration": 6.05
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Good. As soon as I receive either confirmation, I'll update the shared note. Until then, Friday is planned, not guaranteed.",
+      "src": "/audio/book-02/lesson-39/lines/17.wav",
+      "duration": 8.675
+    }
+  ],
+  "transfer": {
+    "title": "供应商送货时间更新",
+    "instruction": "先听两遍，只记录原时间、新可能时间、确定与未确定信息，以及下一次更新时间。",
+    "speaker": "Casey",
+    "src": "/audio/book-02/lesson-39/transfer.wav",
+    "duration": 20.5
+  }
+}
