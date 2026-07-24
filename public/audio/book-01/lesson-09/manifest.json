@@ -1,0 +1,123 @@
+{
+  "title": "Lesson 9 - Are You Free Friday?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-09/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Hey, Daniel, are you free Friday evening? I'm going to walk around Riverside Market after work. Would you like to come?",
+      "src": "/audio/book-01/lesson-09/lines/01.wav",
+      "duration": 7.275
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I'd like to, but I'm meeting a client online at five thirty. We booked the call last week, and it's scheduled to end at seven.",
+      "src": "/audio/book-01/lesson-09/lines/02.wav",
+      "duration": 8.175
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Okay. How about seven fifteen instead?",
+      "src": "/audio/book-01/lesson-09/lines/03.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I can do that, but the market closes at eight. That gives us less than an hour. Let's choose a time when neither of us is rushing.",
+      "src": "/audio/book-01/lesson-09/lines/04.wav",
+      "duration": 8.35
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Agreed. Do you have any plans for Saturday?",
+      "src": "/audio/book-01/lesson-09/lines/05.wav",
+      "duration": 3.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I'm picking up an order at eleven, but I'm free after that.",
+      "src": "/audio/book-01/lesson-09/lines/06.wav",
+      "duration": 3.75
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Great. I'm going to run a few errands in the morning. How about lunch at twelve thirty?",
+      "src": "/audio/book-01/lesson-09/lines/07.wav",
+      "duration": 5.125
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That works for me. Let's make it twelve thirty at the café near Maple Court.",
+      "src": "/audio/book-01/lesson-09/lines/08.wav",
+      "duration": 5.0
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Perfect. I'll put it in my calendar now.",
+      "src": "/audio/book-01/lesson-09/lines/09.wav",
+      "duration": 3.2
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "One errand is taking longer than I expected. Can we meet at one instead?",
+      "src": "/audio/book-01/lesson-09/lines/10.wav",
+      "duration": 5.2
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me check. Yes, one is fine. I'll book a table for one o'clock.",
+      "src": "/audio/book-01/lesson-09/lines/11.wav",
+      "duration": 4.4
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Thanks. Does the same café still work for you?",
+      "src": "/audio/book-01/lesson-09/lines/12.wav",
+      "duration": 3.6
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Yes. We're meeting there at one.",
+      "src": "/audio/book-01/lesson-09/lines/13.wav",
+      "duration": 2.0
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Great. See you then.",
+      "src": "/audio/book-01/lesson-09/lines/14.wav",
+      "duration": 2.225
+    }
+  ]
+}

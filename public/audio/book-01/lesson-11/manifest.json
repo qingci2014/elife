@@ -1,0 +1,124 @@
+{
+  "title": "Lesson 11 - You Should Come With Us",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-11/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Lena and I are going to an outdoor concert on Sunday. You should come with us.",
+      "src": "/audio/book-01/lesson-11/lines/01.wav",
+      "duration": 5.35
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I'd love to, but I have a project due Monday morning.",
+      "src": "/audio/book-01/lesson-11/lines/02.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "You could join us later. The music starts at six, but it goes until nine.",
+      "src": "/audio/book-01/lesson-11/lines/03.wav",
+      "duration": 5.15
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I might be able to come after I finish the first draft. Where is it?",
+      "src": "/audio/book-01/lesson-11/lines/04.wav",
+      "duration": 4.475
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "On the lawn behind the Harbor Street Arts Center. Would you like to join us if you're free?",
+      "src": "/audio/book-01/lesson-11/lines/05.wav",
+      "duration": 5.7
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I'd like to. Let me see if I can get most of the work done on Saturday.",
+      "src": "/audio/book-01/lesson-11/lines/06.wav",
+      "duration": 4.65
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "No pressure. We just need a clear answer before we leave on Sunday.",
+      "src": "/audio/book-01/lesson-11/lines/07.wav",
+      "duration": 4.7
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That's fair. I'll message you by three on Sunday afternoon.",
+      "src": "/audio/book-01/lesson-11/lines/08.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Perfect. And if work takes longer, maybe another time.",
+      "src": "/audio/book-01/lesson-11/lines/09.wav",
+      "duration": 4.1
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Hi, you two. I'm afraid I can't make it tonight. The project is taking longer than I expected, and I don't want to arrive for only the last few minutes.",
+      "src": "/audio/book-01/lesson-11/lines/10.wav",
+      "duration": 9.525
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "No problem. Thanks for letting us know before we leave.",
+      "src": "/audio/book-01/lesson-11/lines/11.wav",
+      "duration": 4.05
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Absolutely. Maybe another time.",
+      "src": "/audio/book-01/lesson-11/lines/12.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Thanks for understanding. I hope you have a great evening.",
+      "src": "/audio/book-01/lesson-11/lines/13.wav",
+      "duration": 3.6
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Thanks. Good luck with the project.",
+      "src": "/audio/book-01/lesson-11/lines/14.wav",
+      "duration": 2.75
+    }
+  ]
+}
