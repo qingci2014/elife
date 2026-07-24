@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 74 - If We Hadn't Been So Busy…",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-74/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Now that we’ve read everything, I can see the chain. If I hadn’t replied before talking to you, you wouldn’t feel that your choice had been taken away now.",
+      "src": "/audio/book-03/lesson-74/lines/01.wav",
+      "duration": 9.025
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Yes. And if Carla hadn’t turned “don’t count on her” into “Maya won’t be joining,” the group wouldn’t currently have a final answer that I never gave.",
+      "src": "/audio/book-03/lesson-74/lines/02.wav",
+      "duration": 9.075
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "That’s a fair point; however, I wrote the phrase that made that summary possible. I can’t treat her wording as the whole cause.",
+      "src": "/audio/book-03/lesson-74/lines/03.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I agree that several steps mattered. Even so, your reply is the step we can address inside our relationship.",
+      "src": "/audio/book-03/lesson-74/lines/04.wav",
+      "duration": 7.55
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "If I were less quick to solve problems for people, I might have forwarded the invitation instead of deciding what would reduce pressure.",
+      "src": "/audio/book-03/lesson-74/lines/05.wav",
+      "duration": 8.05
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That feels more precise. It explains how a present habit affected one past action, but I don’t want us to turn your whole personality into the problem.",
+      "src": "/audio/book-03/lesson-74/lines/06.wav",
+      "duration": 9.675
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Then I’d put it more narrowly: if I weren’t so used to responding immediately, I might have paused on this message.",
+      "src": "/audio/book-03/lesson-74/lines/07.wav",
+      "duration": 6.675
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That sounds fair. I have a pattern too. If I hadn’t said yes to so many requests recently, you might not have been as worried about sending me another one.",
+      "src": "/audio/book-03/lesson-74/lines/08.wav",
+      "duration": 9.875
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Maybe, but that doesn’t make my choice your fault. At the time, I knew you felt overloaded; I did not know that you wanted every request forwarded unchanged.",
+      "src": "/audio/book-03/lesson-74/lines/09.wav",
+      "duration": 9.425
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "And you didn’t ask. Looking back, I can see that I had complained about pressure without explaining the boundary I actually wanted.",
+      "src": "/audio/book-03/lesson-74/lines/10.wav",
+      "duration": 8.3
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "A possible objection is that we’re building a perfect solution with information we only have now. What could we reasonably have done then?",
+      "src": "/audio/book-03/lesson-74/lines/11.wav",
+      "duration": 8.325
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "You could have sent one line: “Carla asked about Thursday; do you want the message now or tomorrow?” That would have protected both rest and choice.",
+      "src": "/audio/book-03/lesson-74/lines/12.wav",
+      "duration": 8.675
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "I may not have thought of that exact wording, but I could have avoided answering about your availability. That option was available to me at the time.",
+      "src": "/audio/book-03/lesson-74/lines/13.wav",
+      "duration": 8.95
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "For my part, I could have said, “Please reduce reminders, but don’t answer invitations for me.” I had enough information to state that earlier.",
+      "src": "/audio/book-03/lesson-74/lines/14.wav",
+      "duration": 9.275
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "The evidence still supports a shared condition: we were both moving too quickly because the week was crowded.",
+      "src": "/audio/book-03/lesson-74/lines/15.wav",
+      "duration": 6.6
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "I would qualify that by saying the pressure was shared, while the actions were separate. Busy schedules did not send the reply; you did, and my vague boundary did not help.",
+      "src": "/audio/book-03/lesson-74/lines/16.wav",
+      "duration": 11.125
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Overall, the most defensible conclusion is not “If we hadn’t been busy, none of this would have happened.” We can’t know that.",
+      "src": "/audio/book-03/lesson-74/lines/17.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Right. A better conclusion is that time pressure made our existing habits more likely to shape the exchange.",
+      "src": "/audio/book-03/lesson-74/lines/18.wav",
+      "duration": 7.1
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "If we change those habits now, this misunderstanding won’t have to become our normal way of handling requests.",
+      "src": "/audio/book-03/lesson-74/lines/19.wav",
+      "duration": 7.15
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then the useful question is not who caused everything. It is which past choice still affects us now, which present habit influenced it and what we will do differently next time.",
+      "src": "/audio/book-03/lesson-74/lines/20.wav",
+      "duration": 10.9
+    }
+  ]
+}

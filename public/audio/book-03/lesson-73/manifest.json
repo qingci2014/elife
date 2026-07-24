@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 73 - You Might Have Misunderstood Me",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-73/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Ben, I need to ask about the careers evening. The group update says I won’t be joining because my schedule is too full. Did you answer for me?",
+      "src": "/audio/book-03/lesson-73/lines/01.wav",
+      "duration": 9.375
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I replied to Carla, yes, but you might have misunderstood what I meant. I wasn’t trying to make the decision for you.",
+      "src": "/audio/book-03/lesson-73/lines/02.wav",
+      "duration": 6.75
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "The observable part is that she asked about my availability and you replied before I had seen the invitation. The effect is that the group now thinks I declined.",
+      "src": "/audio/book-03/lesson-73/lines/03.wav",
+      "duration": 10.775
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "That’s a fair point; however, my message may have been summarized more strongly than I wrote it. I said they shouldn’t count on you and could ask you directly next week.",
+      "src": "/audio/book-03/lesson-73/lines/04.wav",
+      "duration": 9.475
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "You may have intended to leave the choice open, but “don’t count on her” could have sounded like an answer.",
+      "src": "/audio/book-03/lesson-73/lines/05.wav",
+      "duration": 6.275
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I may have phrased that badly. I was trying to reduce pressure because you said last weekend that you needed fewer requests this month.",
+      "src": "/audio/book-03/lesson-73/lines/06.wav",
+      "duration": 8.175
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I did say that. Even so, needing fewer requests doesn’t mean I want someone else to accept or decline them for me.",
+      "src": "/audio/book-03/lesson-73/lines/07.wav",
+      "duration": 7.3
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I agree that I should have asked first. I thought forwarding another request might make you feel responsible for saying yes.",
+      "src": "/audio/book-03/lesson-73/lines/08.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That explains your reasoning, but it doesn’t change the impact. I felt excluded from a decision about my own time and work.",
+      "src": "/audio/book-03/lesson-73/lines/09.wav",
+      "duration": 7.8
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I can see that now. My attempt to protect your time may have taken away the choice I meant to protect.",
+      "src": "/audio/book-03/lesson-73/lines/10.wav",
+      "duration": 6.475
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "I also noticed myself thinking, “He must believe I can’t manage my schedule.” That conclusion might have gone beyond the evidence.",
+      "src": "/audio/book-03/lesson-73/lines/11.wav",
+      "duration": 8.325
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "I don’t believe that. You could have read the group update as a judgment about your ability to manage your own commitments, especially without seeing my original message.",
+      "src": "/audio/book-03/lesson-73/lines/12.wav",
+      "duration": 9.65
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Maybe. But whatever you intended, the effect reached the group, so I now need to correct the record.",
+      "src": "/audio/book-03/lesson-73/lines/13.wav",
+      "duration": 6.3
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Agreed. A possible objection is that the role may already have been offered to someone else. Even if it has, the wording can still be corrected.",
+      "src": "/audio/book-03/lesson-73/lines/14.wav",
+      "duration": 8.575
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Before we decide what Carla understood, can we compare her question, your reply and the group update word for word?",
+      "src": "/audio/book-03/lesson-73/lines/15.wav",
+      "duration": 7.2
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Yes. The evidence still supports one clear point: I responded about your availability without getting your permission first.",
+      "src": "/audio/book-03/lesson-73/lines/16.wav",
+      "duration": 7.625
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "And it supports another: I inferred a broader belief about me that you hadn’t actually stated.",
+      "src": "/audio/book-03/lesson-73/lines/17.wav",
+      "duration": 6.325
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "I would qualify that by saying your inference was understandable, not irrational. The message created room for it.",
+      "src": "/audio/book-03/lesson-73/lines/18.wav",
+      "duration": 7.45
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That distinction helps. I’m responsible for checking my inference; you’re responsible for replying on my behalf without asking.",
+      "src": "/audio/book-03/lesson-73/lines/19.wav",
+      "duration": 8.0
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Let’s read the three messages before we plan the correction. We can separate what was written, what may have been understood and what needs repair now.",
+      "src": "/audio/book-03/lesson-73/lines/20.wav",
+      "duration": 8.625
+    }
+  ]
+}

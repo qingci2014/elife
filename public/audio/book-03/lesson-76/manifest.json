@@ -1,0 +1,179 @@
+{
+  "title": "Lesson 76 - I Need You to Hear Me Out",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Carla": "af_nicole",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-76/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I need you to hear me out for two minutes before we solve the next step. After that, I want to hear your concern without interrupting.",
+      "src": "/audio/book-03/lesson-76/lines/01.wav",
+      "duration": 8.175
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Okay. I’ll listen first. If I start explaining my intention, remind me to wait until you finish.",
+      "src": "/audio/book-03/lesson-76/lines/02.wav",
+      "duration": 6.525
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What I need you to understand is that the problem wasn’t only the possible school talk. When you answered about my availability, I felt that my right to choose had become another problem for you to manage.",
+      "src": "/audio/book-03/lesson-76/lines/03.wav",
+      "duration": 12.475
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I’m hearing that the action affected how you saw your place in the decision, not just whether the invitation stayed open.",
+      "src": "/audio/book-03/lesson-76/lines/04.wav",
+      "duration": 7.375
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Yes. I’m not asking you to agree that you wanted control. We’ve already established that you didn’t intend that. I’m asking you to recognize why the effect felt larger than one email.",
+      "src": "/audio/book-03/lesson-76/lines/05.wav",
+      "duration": 11.625
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "That’s a fair point; however, I also need you to hear why I hesitated to send the request. Recently, you’ve said yes before checking your calendar and then felt trapped.",
+      "src": "/audio/book-03/lesson-76/lines/06.wav",
+      "duration": 10.125
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I agree that I’ve done that. Even so, concern about my pattern doesn’t authorize a decision on my behalf.",
+      "src": "/audio/book-03/lesson-76/lines/07.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Understood. Let me reflect it back: I can name the pattern privately, but the invitation and final answer still belong to you.",
+      "src": "/audio/book-03/lesson-76/lines/08.wav",
+      "duration": 7.85
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Exactly. And I will take responsibility for answering by a clear time instead of leaving you to guess whether I’ve seen it.",
+      "src": "/audio/book-03/lesson-76/lines/09.wav",
+      "duration": 7.85
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Then we both have a future action, but they are not identical apologies. Mine is not to speak for you; yours is to make the status visible.",
+      "src": "/audio/book-03/lesson-76/lines/10.wav",
+      "duration": 8.825
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "From now on, if a request is addressed to one of us, the other person forwards it unchanged unless there is explicit permission to reply.",
+      "src": "/audio/book-03/lesson-76/lines/11.wav",
+      "duration": 9.175
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "If I’m worried about your workload, I can say that to you privately before your response deadline. I won’t send my concern as your answer.",
+      "src": "/audio/book-03/lesson-76/lines/12.wav",
+      "duration": 8.35
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "If I haven’t replied by the agreed time, you can tell the sender, “I can’t confirm for Maya; please contact her directly.” You still won’t accept or decline.",
+      "src": "/audio/book-03/lesson-76/lines/13.wav",
+      "duration": 10.275
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Can we agree that urgent logistics are different only when we have given specific permission in advance?",
+      "src": "/audio/book-03/lesson-76/lines/14.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Yes. No general permission and no assumption based on being married. We name the exact request and time window.",
+      "src": "/audio/book-03/lesson-76/lines/15.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Looking back, if we had used that rule, this invitation wouldn’t still be affecting how we talk about trust now.",
+      "src": "/audio/book-03/lesson-76/lines/16.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "And if I were more consistent about response deadlines, you might have felt less pressure to close the question then. That explains part of the situation; it doesn’t transfer your action to me.",
+      "src": "/audio/book-03/lesson-76/lines/17.wav",
+      "duration": 11.775
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Before we close this, what did you decide about Thursday?",
+      "src": "/audio/book-03/lesson-76/lines/18.wav",
+      "duration": 4.15
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "I checked my calendar and sent Carla a direct reply. I declined the Thursday talk and said I’m open to a future invitation. I chose the same outcome through the right process.",
+      "src": "/audio/book-03/lesson-76/lines/19.wav",
+      "duration": 11.375
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "I hear the boundary, I accept my part and I know the next step. The repair is not that we now agree on every interpretation; it is that neither of us has to guess what happens with the next request.",
+      "src": "/audio/book-03/lesson-76/lines/20.wav",
+      "duration": 11.625
+    }
+  ],
+  "transfer": {
+    "title": "学校邀请状态后续留言（陌生美式女声）",
+    "instruction": "先听两遍，不看文字稿；记录当前角色状态、Carla如何理解Ben的原回复、她没有评论什么，以及未来邀请的联系规则。",
+    "speaker": "Carla",
+    "src": "/audio/book-03/lesson-76/transfer.wav",
+    "duration": 44.625
+  }
+}
