@@ -1,0 +1,155 @@
+{
+  "title": "Lesson 42 - I'm Having It Fixed Tomorrow",
+  "voiceMap": {
+    "Lena": "af_kore",
+    "Sam": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-42/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "Thanks for the precise report. The contractor knows which rail you mean. We can have it inspected tomorrow morning.",
+      "src": "/audio/book-02/lesson-42/lines/01.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Good. I'm having it fixed tomorrow only if the work is within the approved scope. What exactly will the contractor do first?",
+      "src": "/audio/book-02/lesson-42/lines/02.wav",
+      "duration": 8.475
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "She'll check the rail, both brackets and the wall anchors. If only the loose bracket needs adjustment, she'll secure it during the visit.",
+      "src": "/audio/book-02/lesson-42/lines/03.wav",
+      "duration": 8.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Are we getting the whole rail replaced?",
+      "src": "/audio/book-02/lesson-42/lines/04.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "No. We're getting the rail checked. Replacement is not included unless the inspection shows that adjustment is not enough.",
+      "src": "/audio/book-02/lesson-42/lines/05.wav",
+      "duration": 7.825
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "That distinction needs to be in the confirmation. Does the quote include the inspection and the adjustment?",
+      "src": "/audio/book-02/lesson-42/lines/06.wav",
+      "duration": 7.3
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "Yes. The quote is one hundred forty dollars. It includes the call-out fee, up to one hour of labor and standard fasteners worth up to twenty-five dollars.",
+      "src": "/audio/book-02/lesson-42/lines/07.wav",
+      "duration": 9.95
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "How much will that cost if a special bracket is needed?",
+      "src": "/audio/book-02/lesson-42/lines/08.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "We don't know until the inspection. There won't be any extra charge unless we approve it first.",
+      "src": "/audio/book-02/lesson-42/lines/09.wav",
+      "duration": 6.075
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "I need approval before any work takes the total above one hundred forty dollars.",
+      "src": "/audio/book-02/lesson-42/lines/10.wav",
+      "duration": 5.725
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "Understood. I'll ask the contractor to stop after the inspection and call me with a revised amount if anything additional is needed.",
+      "src": "/audio/book-02/lesson-42/lines/11.wav",
+      "duration": 8.575
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "And the appointment is confirmed for what time?",
+      "src": "/audio/book-02/lesson-42/lines/12.wav",
+      "duration": 3.05
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "She is arriving between nine and ten. The lobby rail will remain unused until she finishes and facilities signs off.",
+      "src": "/audio/book-02/lesson-42/lines/13.wav",
+      "duration": 8.075
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "What would you do if the revised amount were much higher?",
+      "src": "/audio/book-02/lesson-42/lines/14.wav",
+      "duration": 3.5
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "If I were you, I'd ask for the written findings and compare repair with replacement. The main trade-off is immediate access versus a larger unplanned cost.",
+      "src": "/audio/book-02/lesson-42/lines/15.wav",
+      "duration": 10.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "The safest option is to authorize only the current scope tomorrow. We can revisit anything else if the inspection provides new evidence.",
+      "src": "/audio/book-02/lesson-42/lines/16.wav",
+      "duration": 9.475
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "Agreed. I'll send a note that says: inspect L-2, adjust the loose bracket if standard work is enough, and get approval before the total exceeds one hundred forty dollars.",
+      "src": "/audio/book-02/lesson-42/lines/17.wav",
+      "duration": 11.3
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Please also request an itemized invoice. Then we'll know what was inspected, what was done and what was charged.",
+      "src": "/audio/book-02/lesson-42/lines/18.wav",
+      "duration": 7.875
+    }
+  ]
+}

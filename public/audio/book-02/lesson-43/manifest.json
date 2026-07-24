@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 43 - We Were Charged Twice",
+  "voiceMap": {
+    "Billing agent": "af_bella",
+    "Harper": "bf_emma",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-43/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Hi, I'm calling about invoice 618. We were charged twice for the same service visit.",
+      "src": "/audio/book-02/lesson-43/lines/01.wav",
+      "duration": 7.075
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Billing agent",
+      "text": "I'm sorry about that. Could you tell me what appears on the statement?",
+      "src": "/audio/book-02/lesson-43/lines/02.wav",
+      "duration": 4.575
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Two charges of one hundred forty dollars were posted on Tuesday. They have different transaction numbers, but both refer to invoice 618.",
+      "src": "/audio/book-02/lesson-43/lines/03.wav",
+      "duration": 10.7
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Billing agent",
+      "text": "And only one invoice was issued?",
+      "src": "/audio/book-02/lesson-43/lines/04.wav",
+      "duration": 2.675
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Correct. This invoice was already paid by the first transaction. The itemized invoice lists one call-out fee, one hour of labor and standard fasteners. The total is one hundred forty dollars.",
+      "src": "/audio/book-02/lesson-43/lines/05.wav",
+      "duration": 13.925
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Billing agent",
+      "text": "Let me check the payment record. Please hold for a moment.",
+      "src": "/audio/book-02/lesson-43/lines/06.wav",
+      "duration": 4.025
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Of course.",
+      "src": "/audio/book-02/lesson-43/lines/07.wav",
+      "duration": 1.425
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Billing agent",
+      "text": "Thank you for waiting. I can see that the first payment was processed normally. The second payment was processed during a terminal retry, but no second invoice or visit was created.",
+      "src": "/audio/book-02/lesson-43/lines/08.wav",
+      "duration": 12.3
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "So the evidence shows one valid payment and one duplicate charge.",
+      "src": "/audio/book-02/lesson-43/lines/09.wav",
+      "duration": 4.55
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Billing agent",
+      "text": "Yes. A refund has been issued for the duplicate one hundred forty dollars.",
+      "src": "/audio/book-02/lesson-43/lines/10.wav",
+      "duration": 5.425
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "When will it be credited to the arts center's card?",
+      "src": "/audio/book-02/lesson-43/lines/11.wav",
+      "duration": 3.4
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Billing agent",
+      "text": "It should be credited within three to five business days. The exact posting time is controlled by the card provider.",
+      "src": "/audio/book-02/lesson-43/lines/12.wav",
+      "duration": 8.1
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Could you confirm that in writing, including which transaction was refunded?",
+      "src": "/audio/book-02/lesson-43/lines/13.wav",
+      "duration": 5.05
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Billing agent",
+      "text": "Certainly. A confirmation email will be sent today. It will include the refunded transaction number, the amount, today's processing date and a refund reference.",
+      "src": "/audio/book-02/lesson-43/lines/14.wav",
+      "duration": 11.35
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Will the original payment or invoice be changed?",
+      "src": "/audio/book-02/lesson-43/lines/15.wav",
+      "duration": 3.275
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Billing agent",
+      "text": "No. The original invoice remains paid. Only the duplicate transaction is being reversed.",
+      "src": "/audio/book-02/lesson-43/lines/16.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Good. If the credit hasn't appeared after five business days, what should we provide?",
+      "src": "/audio/book-02/lesson-43/lines/17.wav",
+      "duration": 5.475
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Billing agent",
+      "text": "Reply to the confirmation email with the refund reference and a current statement screenshot. Please hide unrelated transactions and full card details.",
+      "src": "/audio/book-02/lesson-43/lines/18.wav",
+      "duration": 10.975
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Thank you. I'll wait for the written confirmation and follow up only if the stated window passes.",
+      "src": "/audio/book-02/lesson-43/lines/19.wav",
+      "duration": 6.3
+    }
+  ],
+  "transfer": {
+    "title": "退款跟进留言（清晰英式英语）",
+    "instruction": "先听两遍，记录发票、金额、卡片末四位、参考号、到账窗口和超期后的动作。",
+    "speaker": "Harper",
+    "src": "/audio/book-02/lesson-43/transfer.wav",
+    "duration": 26.875
+  }
+}

@@ -118,7 +118,7 @@ test("renders unwritten lessons as honest plan pages", async (t) => {
 test("ships matching WAV manifests for the latest four lessons", async () => {
   const audioRoot = new URL("../public/audio/book-02/", import.meta.url);
 
-  for (const number of [37, 38, 39, 40]) {
+  for (const number of [41, 42, 43, 44]) {
     const lesson = `lesson-${number}`;
     const manifest = JSON.parse(await readFile(new URL(`${lesson}/manifest.json`, audioRoot), "utf8"));
     const dialogue = await readFile(new URL(`${lesson}/dialogue.wav`, audioRoot));
@@ -132,10 +132,10 @@ test("ships matching WAV manifests for the latest four lessons", async () => {
     }
   }
 
-  const lesson39 = JSON.parse(await readFile(new URL("lesson-39/manifest.json", audioRoot), "utf8"));
-  assert.equal(lesson39.transfer?.speaker, "Casey");
-  assert.equal(lesson39.transfer?.src, "/audio/book-02/lesson-39/transfer.wav");
-  assert.ok((await readFile(new URL("lesson-39/transfer.wav", audioRoot))).length > 44);
+  const lesson43 = JSON.parse(await readFile(new URL("lesson-43/manifest.json", audioRoot), "utf8"));
+  assert.equal(lesson43.transfer?.speaker, "Harper");
+  assert.equal(lesson43.transfer?.src, "/audio/book-02/lesson-43/transfer.wav");
+  assert.ok((await readFile(new URL("lesson-43/transfer.wav", audioRoot))).length > 44);
 });
 
 test("does not ship MP3 files", async () => {

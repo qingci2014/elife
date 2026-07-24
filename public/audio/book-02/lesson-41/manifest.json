@@ -1,0 +1,163 @@
+{
+  "title": "Lesson 41 - The One Next to the Elevator",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-41/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Facilities asked for the exact location before they send anyone. Which rail did you mean?",
+      "src": "/audio/book-02/lesson-41/lines/01.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The one next to the elevator, on the wall that faces the service desk.",
+      "src": "/audio/book-02/lesson-41/lines/02.wav",
+      "duration": 4.7
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "There are two rails near the elevator. Do you mean the long one that runs toward the front doors?",
+      "src": "/audio/book-02/lesson-41/lines/03.wav",
+      "duration": 6.225
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "No, the shorter one that ends beside the side-gallery entrance. Its left bracket moves slightly when the empty rail is touched.",
+      "src": "/audio/book-02/lesson-41/lines/04.wav",
+      "duration": 8.675
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "That's the one above the narrow bench, right?",
+      "src": "/audio/book-02/lesson-41/lines/05.wav",
+      "duration": 2.875
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Exactly. The long rail above the brochure table looks secure. I didn't test it; I only compared the brackets visually.",
+      "src": "/audio/book-02/lesson-41/lines/06.wav",
+      "duration": 7.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Good distinction. We should report what we observed, not diagnose the cause.",
+      "src": "/audio/book-02/lesson-41/lines/07.wav",
+      "duration": 5.15
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Agreed. The place where we noticed the movement is about one meter to the right of the elevator doors.",
+      "src": "/audio/book-02/lesson-41/lines/08.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "And no photographs or sample cards were hanging there?",
+      "src": "/audio/book-02/lesson-41/lines/09.wav",
+      "duration": 3.7
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "None. We had already removed our own test materials before we noticed it.",
+      "src": "/audio/book-02/lesson-41/lines/10.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Who handles this kind of request?",
+      "src": "/audio/book-02/lesson-41/lines/11.wav",
+      "duration": 2.525
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "The staff member who checked the gallery floor last week gave me a card. I think his name is Sam.",
+      "src": "/audio/book-02/lesson-41/lines/12.wav",
+      "duration": 6.425
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Sam is the facilities coordinator who manages contractor visits. I'll send the report to him, but I want to make the location impossible to confuse.",
+      "src": "/audio/book-02/lesson-41/lines/13.wav",
+      "duration": 10.375
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Add the floor-plan code: Lobby Wall L-2. It's the rail that is next to the elevator and above the narrow bench.",
+      "src": "/audio/book-02/lesson-41/lines/14.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Let me make sure I've got this right. L-2 is the short rail that faces the service desk. The left bracket is the part that moved. The long rail above the brochure table is not the reported one.",
+      "src": "/audio/book-02/lesson-41/lines/15.wav",
+      "duration": 13.225
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Correct.",
+      "src": "/audio/book-02/lesson-41/lines/16.wav",
+      "duration": 1.2
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "What would you do—close the whole lobby or just keep that rail unused?",
+      "src": "/audio/book-02/lesson-41/lines/17.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "If I were you, I'd ask Sam. The safest option is to keep that rail unused until facilities gives instructions; we don't need to decide the building response ourselves.",
+      "src": "/audio/book-02/lesson-41/lines/18.wav",
+      "duration": 11.55
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "That's sensible. I'll mark only L-2 as unavailable and ask Sam to confirm the next step.",
+      "src": "/audio/book-02/lesson-41/lines/19.wav",
+      "duration": 6.525
+    }
+  ]
+}
