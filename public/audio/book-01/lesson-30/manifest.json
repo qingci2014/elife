@@ -1,0 +1,99 @@
+{
+  "title": "Lesson 30 - You Could've Told Me",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-30/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Lena, you could've told me before you said I would help Owen move the display panels on Saturday.",
+      "src": "/audio/book-01/lesson-30/lines/01.wav",
+      "duration": 6.25
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "You're right. I should've checked with you. I saw your message saying, “I should be free,” and I treated it as a yes.",
+      "src": "/audio/book-01/lesson-30/lines/02.wav",
+      "duration": 6.925
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I meant that Saturday looked possible, not that I had agreed. Owen's message made it sound final.",
+      "src": "/audio/book-01/lesson-30/lines/03.wav",
+      "duration": 6.525
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "I didn't mean to put you in an awkward position, but I did. That was my mistake.",
+      "src": "/audio/book-01/lesson-30/lines/04.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Thank you for saying that. I'm frustrated because I had already promised Maya I would meet her that morning.",
+      "src": "/audio/book-01/lesson-30/lines/05.wav",
+      "duration": 6.55
+    },
+    {
+      "id": 6,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "I'm sorry I committed your time without asking. How can I make this right?",
+      "src": "/audio/book-01/lesson-30/lines/06.wav",
+      "duration": 5.05
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Please tell Owen I hadn't confirmed and that I'm not available Saturday morning.",
+      "src": "/audio/book-01/lesson-30/lines/07.wav",
+      "duration": 5.3
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "I'll call him now, and I'll find another volunteer. I won't ask you to explain my mistake.",
+      "src": "/audio/book-01/lesson-30/lines/08.wav",
+      "duration": 6.2
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. I could help for one hour Sunday afternoon, but please check with me before you offer that.",
+      "src": "/audio/book-01/lesson-30/lines/09.wav",
+      "duration": 6.075
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Absolutely. I'll send you the exact time first. Nothing is confirmed until you reply.",
+      "src": "/audio/book-01/lesson-30/lines/10.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That works. The main thing is that I get to confirm my own availability.",
+      "src": "/audio/book-01/lesson-30/lines/11.wav",
+      "duration": 4.9
+    }
+  ]
+}

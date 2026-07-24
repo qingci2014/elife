@@ -1887,7 +1887,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 严肃不等于大声",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>Can we <strong>TALK</strong> / about <strong>SATURDAY</strong>?<br>I feel <strong>LEFT OUT</strong> / when a plan is confirmed / before we discuss it.<br>What would <strong>HELP</strong> / is a quick message first.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用稳定音量读“主题—事件—感受—需要—请求”。回听时检查是否错误重读 <strong>you</strong>，使句子听起来像在审判对方。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听Maya如何把事件、感受和具体需要分开表达，并与Ben共同形成可执行的改变。</p>\n</blockquote>\n<blockquote>\n<p>Can we <strong>TALK</strong> / about <strong>SATURDAY</strong>?<br>I feel <strong>LEFT OUT</strong> / when a plan is confirmed / before we discuss it.<br>What would <strong>HELP</strong> / is a quick message first.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用稳定音量读“主题—事件—感受—需要—请求”。回听时检查是否错误重读 <strong>you</strong>，使句子听起来像在审判对方。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1952,7 +1952,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 缩略形式和负责的重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>You <strong>COULD&#39;VE TOLD ME</strong> / before you confirmed it.<br>I <strong>SHOULD&#39;VE CHECKED</strong> / with you.<br>I&#39;m sorry / I committed <strong>YOUR TIME</strong> / without asking.</p>\n</blockquote>\n<h3>录音</h3>\n<p>分别录“指出具体遗漏”和“承认具体责任”。避免用夸张重音把 <strong>you</strong> 变成人格攻击，也不要把道歉尾音读成不耐烦。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听不满、承认错误、道歉、补救和重新确认边界之间的语气变化。</p>\n</blockquote>\n<blockquote>\n<p>You <strong>COULD&#39;VE TOLD ME</strong> / before you confirmed it.<br>I <strong>SHOULD&#39;VE CHECKED</strong> / with you.<br>I&#39;m sorry / I committed <strong>YOUR TIME</strong> / without asking.</p>\n</blockquote>\n<h3>录音</h3>\n<p>分别录“指出具体遗漏”和“承认具体责任”。避免用夸张重音把 <strong>you</strong> 变成人格攻击，也不要把道歉尾音读成不耐烦。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -2017,7 +2017,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 认真确认与明显夸张",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>Are you <strong>SERIOUS</strong>? <em>(真正确认，句尾上扬)</em><br>You&#39;ll finish <strong>THREE HUNDRED BOXES</strong> before lunch? <em>(夸张信息突出)</em><br>I was only <strong>KIDDING</strong>. / I meant the labels look professional.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录一组“不确定—确认—解释—修复”。不要只靠夸张表演；即使语调信号清楚，也要练习用语言确认。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听玩笑、真实请求和解释修复的语调差异。</p>\n</blockquote>\n<blockquote>\n<p>Are you <strong>SERIOUS</strong>? <em>(真正确认，句尾上扬)</em><br>You&#39;ll finish <strong>THREE HUNDRED BOXES</strong> before lunch? <em>(夸张信息突出)</em><br>I was only <strong>KIDDING</strong>. / I meant the labels look professional.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录一组“不确定—确认—解释—修复”。不要只靠夸张表演；即使语调信号清楚，也要练习用语言确认。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -2082,7 +2082,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 用重音区分决定和边界",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>Here&#39;s what we&#39;ve <strong>DECIDED</strong>.<br>We&#39;re not committing to <strong>PUBLIC DISPLAY</strong> yet.<br>The <strong>FIRST STEP</strong> / is to check permissions.<br>Let&#39;s keep it <strong>MANAGEABLE</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用“想法—限制—决定—第一步—未决定项”五个意群录60—90秒。回听时确认 <strong>candidate / confirmed / public</strong> 没有混在一起。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听提议、担忧、缩小范围、权限边界和最终行动计划。</p>\n</blockquote>\n<blockquote>\n<p>Here&#39;s what we&#39;ve <strong>DECIDED</strong>.<br>We&#39;re not committing to <strong>PUBLIC DISPLAY</strong> yet.<br>The <strong>FIRST STEP</strong> / is to check permissions.<br>Let&#39;s keep it <strong>MANAGEABLE</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用“想法—限制—决定—第一步—未决定项”五个意群录60—90秒。回听时确认 <strong>candidate / confirmed / public</strong> 没有混在一起。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -2092,7 +2092,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-8",
         "title": "8. Make It Yours",
-        "html": "<h3>结业表现记录</h3>\n<p>用同一张陌生卡完成两次。第一次允许看功能提示，隔三天第二次只看情境信息。按四项各0—2分记录：</p>\n<table>\n<thead>\n<tr>\n<th>指标</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>任务完成</td>\n<td>无明确结果</td>\n<td>部分完成</td>\n<td>计划、问题、解决和确认完整</td>\n</tr>\n<tr>\n<td>可理解度</td>\n<td>多处无法理解</td>\n<td>大意清楚</td>\n<td>关键信息清楚、可跟进</td>\n</tr>\n<tr>\n<td>互动</td>\n<td>只背独白</td>\n<td>有简单回应</td>\n<td>能追问、澄清、修复</td>\n</tr>\n<tr>\n<td>语言调用</td>\n<td>依赖原句提示</td>\n<td>能调用部分词块</td>\n<td>能在新情境中组合多个单元功能</td>\n</tr>\n</tbody></table>\n<p>总分只用于个人比较，不等同CEFR成绩。第二次若能减少提示并保持任务完成，才说明开始形成延迟调用。</p>\n<h3>接入第二册前</h3>\n<p>整理自己的三类证据：一段陌生任务录音、一封后续消息、一张自评表。正式音频和陌生声音测评完成前，不把第一册标为完整听力成品。</p>\n<hr>\n"
+        "html": "<h3>结业表现记录</h3>\n<p>用同一张陌生卡完成两次。第一次允许看功能提示，隔三天第二次只看情境信息。按四项各0—2分记录：</p>\n<table>\n<thead>\n<tr>\n<th>指标</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>任务完成</td>\n<td>无明确结果</td>\n<td>部分完成</td>\n<td>计划、问题、解决和确认完整</td>\n</tr>\n<tr>\n<td>可理解度</td>\n<td>多处无法理解</td>\n<td>大意清楚</td>\n<td>关键信息清楚、可跟进</td>\n</tr>\n<tr>\n<td>互动</td>\n<td>只背独白</td>\n<td>有简单回应</td>\n<td>能追问、澄清、修复</td>\n</tr>\n<tr>\n<td>语言调用</td>\n<td>依赖原句提示</td>\n<td>能调用部分词块</td>\n<td>能在新情境中组合多个单元功能</td>\n</tr>\n</tbody></table>\n<p>总分只用于个人比较，不等同CEFR成绩。第二次若能减少提示并保持任务完成，才说明开始形成延迟调用。</p>\n<h3>接入第二册前</h3>\n<p>整理自己的三类证据：一段陌生任务录音、一封后续消息、一张自评表。第一册正文配音已经完成，但陌生声音迁移测评仍需单独进行；不要把熟悉课文听懂等同于真实新场景达标。</p>\n<hr>\n"
       },
       {
         "id": "section-9",

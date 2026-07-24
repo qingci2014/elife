@@ -1,0 +1,123 @@
+{
+  "title": "Lesson 31 - I Was Only Kidding",
+  "voiceMap": {
+    "Grace": "af_sarah",
+    "Owen": "am_adam"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-31/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "These labels are much clearer than mine. At this rate, you can take over the whole café next week.",
+      "src": "/audio/book-01/lesson-31/lines/01.wav",
+      "duration": 6.425
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Are you serious? I can help with the boxes, but I don't want to manage the café.",
+      "src": "/audio/book-01/lesson-31/lines/02.wav",
+      "duration": 5.45
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "No, I was only kidding. I meant you're much better at organizing labels than I am.",
+      "src": "/audio/book-01/lesson-31/lines/03.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I thought you meant you wanted me to cover more work. You asked me about the front counter last month, so it sounded possible.",
+      "src": "/audio/book-01/lesson-31/lines/04.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Did it sound as if I had already made the decision for you?",
+      "src": "/audio/book-01/lesson-31/lines/05.wav",
+      "duration": 3.775
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Yes, and that was the part I wanted to check.",
+      "src": "/audio/book-01/lesson-31/lines/06.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "I didn't realize it sounded like a real request. That came out wrong.",
+      "src": "/audio/book-01/lesson-31/lines/07.wav",
+      "duration": 4.9
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I don't mind a joke. I just need to know when a real responsibility is being offered.",
+      "src": "/audio/book-01/lesson-31/lines/08.wav",
+      "duration": 5.925
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "That's fair. I should've made the exaggeration clearer, or explained it immediately.",
+      "src": "/audio/book-01/lesson-31/lines/09.wav",
+      "duration": 5.3
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Thanks for clearing that up.",
+      "src": "/audio/book-01/lesson-31/lines/10.wav",
+      "duration": 2.525
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "And to be completely clear: I'm not asking you to manage anything. I'm only thanking you for fixing the labels.",
+      "src": "/audio/book-01/lesson-31/lines/11.wav",
+      "duration": 7.125
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Good. Then I'll finish this last box, and you can keep your café.",
+      "src": "/audio/book-01/lesson-31/lines/12.wav",
+      "duration": 4.75
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Now that one sounded like a joke.",
+      "src": "/audio/book-01/lesson-31/lines/13.wav",
+      "duration": 2.675
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "It was—and I smiled before I said it.",
+      "src": "/audio/book-01/lesson-31/lines/14.wav",
+      "duration": 3.55
+    }
+  ]
+}

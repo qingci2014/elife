@@ -1,0 +1,99 @@
+{
+  "title": "Lesson 29 - Can We Talk?",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-29/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Can we talk about Saturday for a minute?",
+      "src": "/audio/book-01/lesson-29/lines/01.wav",
+      "duration": 2.6
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Sure. Is this about the sleepover?",
+      "src": "/audio/book-01/lesson-29/lines/02.wav",
+      "duration": 3.0
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Yes. I feel left out when a family plan is confirmed before we discuss it. I heard about this one after you had already told our daughter it was happening.",
+      "src": "/audio/book-01/lesson-29/lines/03.wav",
+      "duration": 9.775
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I checked the shared calendar and didn't see anything there, so I thought Saturday was free.",
+      "src": "/audio/book-01/lesson-29/lines/04.wav",
+      "duration": 5.5
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What happened was that I hadn't added my morning training session yet. I know the calendar wasn't complete, but I still need us to check with each other before we confirm an overnight plan.",
+      "src": "/audio/book-01/lesson-29/lines/05.wav",
+      "duration": 11.6
+    },
+    {
+      "id": 6,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "I understand. Are you asking me not to make plans with her friends?",
+      "src": "/audio/book-01/lesson-29/lines/06.wav",
+      "duration": 4.675
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "No. I'm not asking you to stop making plans. What would help is a quick message before either of us says yes.",
+      "src": "/audio/book-01/lesson-29/lines/07.wav",
+      "duration": 7.025
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "That sounds workable. I also need us to add work commitments as soon as we know about them.",
+      "src": "/audio/book-01/lesson-29/lines/08.wav",
+      "duration": 5.95
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Fair. I'll add the training tonight. Could we move the sleepover to Sunday?",
+      "src": "/audio/book-01/lesson-29/lines/09.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Yes. I'll check with the other parent before I confirm it.",
+      "src": "/audio/book-01/lesson-29/lines/10.wav",
+      "duration": 4.0
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Thank you. So the change is: update the calendar, send a message, then confirm.",
+      "src": "/audio/book-01/lesson-29/lines/11.wav",
+      "duration": 5.4
+    }
+  ]
+}

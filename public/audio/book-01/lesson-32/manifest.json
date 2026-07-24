@@ -1,0 +1,116 @@
+{
+  "title": "Lesson 32 - So, What's the Plan?",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-32/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "These show the old bookshop and three nearby stores. What if we save more neighborhood photos and short stories before they disappear?",
+      "src": "/audio/book-01/lesson-32/lines/01.wav",
+      "duration": 8.925
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "We could create a small then-and-now exhibit. I have recent photos of several of these streets.",
+      "src": "/audio/book-01/lesson-32/lines/02.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "I like the idea, but I'm not sure thirty photo pairs and recorded interviews will be manageable for our first event.",
+      "src": "/audio/book-01/lesson-32/lines/03.wav",
+      "duration": 7.85
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I feel disappointed when good material stays in boxes, but I don't need everything displayed at once.",
+      "src": "/audio/book-01/lesson-32/lines/04.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Then let's keep it manageable: twelve photo pairs and up to six short written stories.",
+      "src": "/audio/book-01/lesson-32/lines/05.wav",
+      "duration": 5.675
+    },
+    {
+      "id": 6,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "That might work. We can use one wall at the arts center if the dates and permissions are clear.",
+      "src": "/audio/book-01/lesson-32/lines/06.wav",
+      "duration": 6.15
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Some owners are unknown. We're not committing to public display yet.",
+      "src": "/audio/book-01/lesson-32/lines/07.wav",
+      "duration": 5.175
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "So, what's the plan?",
+      "src": "/audio/book-01/lesson-32/lines/08.wav",
+      "duration": 1.625
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "The first step is to check the space, contributors and image permissions.",
+      "src": "/audio/book-01/lesson-32/lines/09.wav",
+      "duration": 4.875
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I'll contact two former neighbors, but I won't promise that their stories will be used.",
+      "src": "/audio/book-01/lesson-32/lines/10.wav",
+      "duration": 5.875
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "I'll select twelve candidate pairs. They're only candidates until everyone agrees.",
+      "src": "/audio/book-01/lesson-32/lines/11.wav",
+      "duration": 5.65
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "I'll check two early-fall Saturdays. Let's make sure everyone agrees before we announce a date.",
+      "src": "/audio/book-01/lesson-32/lines/12.wav",
+      "duration": 6.6
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Good. If those checks work, we move ahead with a small exhibit—not a huge festival.",
+      "src": "/audio/book-01/lesson-32/lines/13.wav",
+      "duration": 6.25
+    }
+  ]
+}
