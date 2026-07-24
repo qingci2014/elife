@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 55 - I Forgot to Attach It",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-55/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I sent the preview ten minutes ago, but the client says there was no file. I forgot to attach the PDF.",
+      "src": "/audio/book-02/lesson-55/lines/01.wav",
+      "duration": 6.875
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Did you remember to include the shared link?",
+      "src": "/audio/book-02/lesson-55/lines/02.wav",
+      "duration": 2.75
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Yes, I remembered to paste it below my message. But the client says access is denied.",
+      "src": "/audio/book-02/lesson-55/lines/03.wav",
+      "duration": 5.675
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Did you grant view access to the client's address?",
+      "src": "/audio/book-02/lesson-55/lines/04.wav",
+      "duration": 3.1
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I don't remember changing the access settings. I opened the link before sending it, so I thought it worked.",
+      "src": "/audio/book-02/lesson-55/lines/05.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "You were already signed in. Try opening it in a private window.",
+      "src": "/audio/book-02/lesson-55/lines/06.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I've tried that now. It asks me to sign in to my own workspace, so the client can't use it with the access I sent.",
+      "src": "/audio/book-02/lesson-55/lines/07.wav",
+      "duration": 7.075
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Stop editing the slides for a minute to check the recipient address and permission level.",
+      "src": "/audio/book-02/lesson-55/lines/08.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Good point. I don't want to stop editing completely; I just need to pause and verify the delivery.",
+      "src": "/audio/book-02/lesson-55/lines/09.wav",
+      "duration": 6.175
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Exactly. You're stopping to check one detail, not stopping the work for good.",
+      "src": "/audio/book-02/lesson-55/lines/10.wav",
+      "duration": 4.975
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The address is correct. I've granted that named account view access and tested the link while signed out.",
+      "src": "/audio/book-02/lesson-55/lines/11.wav",
+      "duration": 6.6
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What about the attachment?",
+      "src": "/audio/book-02/lesson-55/lines/12.wav",
+      "duration": 1.875
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I've attached a read-only PDF as a backup. I also remembered to rename the file “approved preview v3.”",
+      "src": "/audio/book-02/lesson-55/lines/13.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Your email subject still says “Draft 2.”",
+      "src": "/audio/book-02/lesson-55/lines/14.wav",
+      "duration": 2.95
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "You're right. I stopped using vague file names last month, but I forgot to update the subject line this time.",
+      "src": "/audio/book-02/lesson-55/lines/15.wav",
+      "duration": 6.75
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Try adding one sentence that identifies the only current version.",
+      "src": "/audio/book-02/lesson-55/lines/16.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "How about: “The attached PDF and the link below both contain approved preview version 3”?",
+      "src": "/audio/book-02/lesson-55/lines/17.wav",
+      "duration": 6.1
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Clear. Also acknowledge the earlier mistakes rather than asking the client to search again.",
+      "src": "/audio/book-02/lesson-55/lines/18.wav",
+      "duration": 5.825
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I'll write: “Sorry—the previous message had no attachment, and the link did not include your access. Both issues are fixed below.”",
+      "src": "/audio/book-02/lesson-55/lines/19.wav",
+      "duration": 7.825
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. Send it once, then check the sent copy and wait for confirmation instead of creating another version.",
+      "src": "/audio/book-02/lesson-55/lines/20.wav",
+      "duration": 6.675
+    }
+  ]
+}

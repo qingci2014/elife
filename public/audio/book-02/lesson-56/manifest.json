@@ -1,0 +1,179 @@
+{
+  "title": "Lesson 56 - That Came Across the Wrong Way",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Maya": "af_heart",
+    "Quinn": "bf_lily"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-56/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The client can open the file now, but they wrote, “Your last note came across as if the access problem were my fault.”",
+      "src": "/audio/book-02/lesson-56/lines/01.wav",
+      "duration": 7.125
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What exactly did you send?",
+      "src": "/audio/book-02/lesson-56/lines/02.wav",
+      "duration": 2.175
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "“Use the third link. Ignore the other two. Don't request access again.”",
+      "src": "/audio/book-02/lesson-56/lines/03.wav",
+      "duration": 4.9
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "The instructions are clear, but three commands in a row can come across as blame.",
+      "src": "/audio/book-02/lesson-56/lines/04.wav",
+      "duration": 5.2
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I didn't mean it that way. I was trying to prevent another access request.",
+      "src": "/audio/book-02/lesson-56/lines/05.wav",
+      "duration": 5.175
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Your intention matters, but it doesn't erase the effect. Which sentence caused the most trouble?",
+      "src": "/audio/book-02/lesson-56/lines/06.wav",
+      "duration": 5.875
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The sentence that says, “Don't request access again.” It sounds as if the client did something wrong.",
+      "src": "/audio/book-02/lesson-56/lines/07.wav",
+      "duration": 6.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Right. The strongest evidence is the client's own description, not a guess based on punctuation.",
+      "src": "/audio/book-02/lesson-56/lines/08.wav",
+      "duration": 6.625
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I can't conclude that they're angry. They might simply be explaining how the message sounded.",
+      "src": "/audio/book-02/lesson-56/lines/09.wav",
+      "duration": 5.6
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Good. What did you mean to say?",
+      "src": "/audio/book-02/lesson-56/lines/10.wav",
+      "duration": 2.25
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "What I meant was, “You shouldn't need to request access again. If the link still doesn't open, please let me know.”",
+      "src": "/audio/book-02/lesson-56/lines/11.wav",
+      "duration": 6.725
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Better. Start by acknowledging the effect before explaining.",
+      "src": "/audio/book-02/lesson-56/lines/12.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "“Thanks for flagging that. My last message came across more sharply than I intended.”",
+      "src": "/audio/book-02/lesson-56/lines/13.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then identify the current file without making the client reconstruct your mistake.",
+      "src": "/audio/book-02/lesson-56/lines/14.wav",
+      "duration": 5.45
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "“To avoid confusion, the third link is the only current link. The first message had no attachment, and the second link did not include your access.”",
+      "src": "/audio/book-02/lesson-56/lines/15.wav",
+      "duration": 8.975
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Good. Could you reset the interaction with one clear next step?",
+      "src": "/audio/book-02/lesson-56/lines/16.wav",
+      "duration": 3.9
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "“Could we reset and use the labeled version 3 link below? You shouldn't need any further permission.”",
+      "src": "/audio/book-02/lesson-56/lines/17.wav",
+      "duration": 6.15
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Read the whole message aloud once.",
+      "src": "/audio/book-02/lesson-56/lines/18.wav",
+      "duration": 2.55
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I tried reading it as the recipient, and it sounds calmer. I'll send this one repair and stop creating new links.",
+      "src": "/audio/book-02/lesson-56/lines/19.wav",
+      "duration": 7.0
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Perfect. It accepts the effect, explains the evidence and leaves one usable action.",
+      "src": "/audio/book-02/lesson-56/lines/20.wav",
+      "duration": 5.975
+    }
+  ],
+  "transfer": {
+    "title": "客户留言（陌生英式女声）",
+    "instruction": "先听两遍，记录可打开的文件、产生责怪感的原句、语气限定、旧链接状态、无需重发的内容和回复期限。",
+    "speaker": "Quinn",
+    "src": "/audio/book-02/lesson-56/transfer.wav",
+    "duration": 23.125
+  }
+}

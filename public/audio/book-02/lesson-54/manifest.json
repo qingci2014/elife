@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 54 - The Review That Changed My Mind",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-54/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Which booth were you planning to book?",
+      "src": "/audio/book-02/lesson-54/lines/01.wav",
+      "duration": 2.4
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The Courtyard Booth. The review that worried me said the Street Booth was “impossible to use for calls.”",
+      "src": "/audio/book-02/lesson-54/lines/02.wav",
+      "duration": 6.25
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Who wrote it, and when did they use the room?",
+      "src": "/audio/book-02/lesson-54/lines/03.wav",
+      "duration": 2.75
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "A reviewer who held a call there at four thirty on a Friday. They heard delivery carts outside for twenty minutes.",
+      "src": "/audio/book-02/lesson-54/lines/04.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That's a specific experience, but “impossible” sounds broader than the evidence.",
+      "src": "/audio/book-02/lesson-54/lines/05.wav",
+      "duration": 5.275
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Another reviewer who used the same booth on Tuesday morning said it was quiet and the wired connection was stable.",
+      "src": "/audio/book-02/lesson-54/lines/06.wav",
+      "duration": 7.2
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "So the two reviews may describe different times rather than a contradiction.",
+      "src": "/audio/book-02/lesson-54/lines/07.wav",
+      "duration": 4.9
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The room where the first person had trouble faces the loading area. That part can be checked.",
+      "src": "/audio/book-02/lesson-54/lines/08.wav",
+      "duration": 5.925
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What does the official facilities page say?",
+      "src": "/audio/book-02/lesson-54/lines/09.wav",
+      "duration": 2.85
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "It confirms a wired connection and a delivery window from three to five on weekdays.",
+      "src": "/audio/book-02/lesson-54/lines/10.wav",
+      "duration": 5.925
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "What about the Courtyard Booth?",
+      "src": "/audio/book-02/lesson-54/lines/11.wav",
+      "duration": 2.15
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "It is farther from the loading area, but it uses Wi-Fi only. One person called it perfectly reliable after a single Sunday visit.",
+      "src": "/audio/book-02/lesson-54/lines/12.wav",
+      "duration": 8.625
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That's one person's experience. It doesn't prove the connection is always reliable.",
+      "src": "/audio/book-02/lesson-54/lines/13.wav",
+      "duration": 5.525
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Right. My presentation is on Tuesday at ten, which is outside the delivery window.",
+      "src": "/audio/book-02/lesson-54/lines/14.wav",
+      "duration": 5.675
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Which detail matters most for your call?",
+      "src": "/audio/book-02/lesson-54/lines/15.wav",
+      "duration": 2.775
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The wired connection. I have to share a large visual file, and the call only lasts forty-five minutes.",
+      "src": "/audio/book-02/lesson-54/lines/16.wav",
+      "duration": 6.725
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then the review that changed your mind didn't give you the answer; it helped you find the delivery schedule.",
+      "src": "/audio/book-02/lesson-54/lines/17.wav",
+      "duration": 6.45
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Exactly. Based on the details that matter to me, the Street Booth is the better fit for Tuesday morning.",
+      "src": "/audio/book-02/lesson-54/lines/18.wav",
+      "duration": 6.625
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "What needs to happen next?",
+      "src": "/audio/book-02/lesson-54/lines/19.wav",
+      "duration": 2.05
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Here's what we agreed with the workspace: I own the booking, due by five today. It depends on the booth still being available, and the only open point is whether I need an adapter for the wired port.",
+      "src": "/audio/book-02/lesson-54/lines/20.wav",
+      "duration": 11.15
+    }
+  ]
+}

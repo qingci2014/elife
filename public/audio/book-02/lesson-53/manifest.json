@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 53 - That Can't Be Right",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-53/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I just got an email saying my trial has expired and I need to restore access today. That can't be right.",
+      "src": "/audio/book-02/lesson-53/lines/01.wav",
+      "duration": 6.75
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What makes you say that? It could be an automatic reminder.",
+      "src": "/audio/book-02/lesson-53/lines/02.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "My official dashboard says the trial is active until Friday next week. It also says automatic renewal is off.",
+      "src": "/audio/book-02/lesson-53/lines/03.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Then the claim that it has already expired can't match the account record.",
+      "src": "/audio/book-02/lesson-53/lines/04.wav",
+      "duration": 4.75
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The sender address is odd too. Earlier messages used the workspace's official domain, but this one adds the word “pass” to the address.",
+      "src": "/audio/book-02/lesson-53/lines/05.wav",
+      "duration": 8.575
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That might be a warning sign, but the address alone doesn't prove who sent it.",
+      "src": "/audio/book-02/lesson-53/lines/06.wav",
+      "duration": 4.825
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The email has a button marked “Restore Membership.” It says I have two hours to use it.",
+      "src": "/audio/book-02/lesson-53/lines/07.wav",
+      "duration": 5.75
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "The deadline might be there to create pressure. Still, don't guess at the sender's intention.",
+      "src": "/audio/book-02/lesson-53/lines/08.wav",
+      "duration": 5.9
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "So the strongest evidence is the official dashboard, not the email design.",
+      "src": "/audio/book-02/lesson-53/lines/09.wav",
+      "duration": 5.35
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Right. The message must be using information that conflicts with your current account, but we still need an official check.",
+      "src": "/audio/book-02/lesson-53/lines/10.wav",
+      "duration": 7.45
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I've opened the workspace app from my usual bookmark. There are no payment requests or access warnings.",
+      "src": "/audio/book-02/lesson-53/lines/11.wav",
+      "duration": 6.35
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Can you contact support inside the app?",
+      "src": "/audio/book-02/lesson-53/lines/12.wav",
+      "duration": 2.7
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Yes. The help notice says staff never ask trial users to restore access through an email button.",
+      "src": "/audio/book-02/lesson-53/lines/13.wav",
+      "duration": 6.325
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "In that case, this can't be a genuine renewal notice from the workspace system.",
+      "src": "/audio/book-02/lesson-53/lines/14.wav",
+      "duration": 5.225
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "It might be a misleading message, or it might have been sent to the wrong address. We can't tell which from this screen.",
+      "src": "/audio/book-02/lesson-53/lines/15.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Exactly. State what the evidence supports and stop there.",
+      "src": "/audio/book-02/lesson-53/lines/16.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Here's what we agreed: I won't use the email link, I'll report the message through the app, and support owns the account check.",
+      "src": "/audio/book-02/lesson-53/lines/17.wav",
+      "duration": 7.1
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "When is that due?",
+      "src": "/audio/book-02/lesson-53/lines/18.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I'll report it now. The final answer depends on the support ticket. The only open point is where the message came from.",
+      "src": "/audio/book-02/lesson-53/lines/19.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Good. You can act safely without pretending you know more than the evidence shows.",
+      "src": "/audio/book-02/lesson-53/lines/20.wav",
+      "duration": 5.0
+    }
+  ]
+}
