@@ -1627,7 +1627,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 跟进时突出主题和状态",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>Did you get my message / about the <strong>GUIDE</strong>?<br>I&#39;ve just sent / the <strong>CORRECT FILE</strong>.<br>I haven&#39;t seen / the <strong>ATTACHMENT</strong> yet.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录三组“主题—当前状态—下一步”。回听时检查对方能否听清文件名称、版本和时间，而不是只听到 <strong>it</strong>。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听“收到消息但没收到附件”与“文件已经打开”的状态差异。</p>\n</blockquote>\n<blockquote>\n<p>Did you get my message / about the <strong>GUIDE</strong>?<br>I&#39;ve just sent / the <strong>CORRECT FILE</strong>.<br>I haven&#39;t seen / the <strong>ATTACHMENT</strong> yet.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录三组“主题—当前状态—下一步”。回听时检查对方能否听清文件名称、版本和时间，而不是只听到 <strong>it</strong>。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1692,7 +1692,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 重音决定核对还是责备",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>I <strong>THOUGHT</strong> you were handling it. <em>(强调原先理解)</em><br>I thought you were handling the <strong>LOG</strong>. <em>(强调具体任务)</em><br>So <strong>YOU&#39;RE</strong> handling the check / and <strong>I&#39;M</strong> handling the records, right? <em>(对比分工)</em></p>\n</blockquote>\n<h3>录音</h3>\n<p>先读一次核对版，再读一次明显责备版。回听并说明：哪一版更容易让对方继续解释？随后补上证据和补救步骤。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听双方如何先核对原约定，再修复责任遗漏，而不是互相推责。</p>\n</blockquote>\n<blockquote>\n<p>I <strong>THOUGHT</strong> you were handling it. <em>(强调原先理解)</em><br>I thought you were handling the <strong>LOG</strong>. <em>(强调具体任务)</em><br>So <strong>YOU&#39;RE</strong> handling the check / and <strong>I&#39;M</strong> handling the records, right? <em>(对比分工)</em></p>\n</blockquote>\n<h3>录音</h3>\n<p>先读一次核对版，再读一次明显责备版。回听并说明：哪一版更容易让对方继续解释？随后补上证据和补救步骤。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1757,7 +1757,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 保留意见后不要停太久",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>I&#39;m not sure that will <strong>WORK</strong>. / The check won&#39;t be finished.<br>If we send it <strong>FRIDAY</strong>, / some staff may get an unchecked file.<br>What if we use / a <strong>SMALL REVIEW GROUP</strong> instead?</p>\n</blockquote>\n<h3>录音</h3>\n<p>把“保留—理由—结果—替代”录成四个相连意群。回听时检查第一句后是否迅速出现事实，而不是留下只有否定的长停顿。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听委婉提出担忧、说明原因、提出替代方案和达成一致的语气变化。</p>\n</blockquote>\n<blockquote>\n<p>I&#39;m not sure that will <strong>WORK</strong>. / The check won&#39;t be finished.<br>If we send it <strong>FRIDAY</strong>, / some staff may get an unchecked file.<br>What if we use / a <strong>SMALL REVIEW GROUP</strong> instead?</p>\n</blockquote>\n<h3>录音</h3>\n<p>把“保留—理由—结果—替代”录成四个相连意群。回听时检查第一句后是否迅速出现事实，而不是留下只有否定的长停顿。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1822,7 +1822,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 用停顿分开五个行动项",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p><strong>DANIEL</strong> / finishes the text / by <strong>ELEVEN</strong>.<br><strong>AISHA</strong> / checks both files / by <strong>ONE</strong>.<br><strong>MARCUS</strong> / sends them to reviewers / by <strong>TWO</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>读一遍行动项总结，每项之间停半秒。回听时检查负责人、动作和时间是否比连接词更突出。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听任务负责人、依赖关系、截止时间和会议总结中的关键词。</p>\n</blockquote>\n<blockquote>\n<p><strong>DANIEL</strong> / finishes the text / by <strong>ELEVEN</strong>.<br><strong>AISHA</strong> / checks both files / by <strong>ONE</strong>.<br><strong>MARCUS</strong> / sends them to reviewers / by <strong>TWO</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>读一遍行动项总结，每项之间停半秒。回听时检查负责人、动作和时间是否比连接词更突出。</p>\n<hr>\n"
       },
       {
         "id": "section-7",

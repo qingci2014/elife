@@ -1,0 +1,140 @@
+{
+  "title": "Lesson 28 - Let's Go Over It Once More",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir",
+    "Marcus": "am_eric"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-28/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "Before we finish, let's go over it once more.",
+      "src": "/audio/book-01/lesson-28/lines/01.wav",
+      "duration": 3.15
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Here's what we've decided. I'll finish the text changes by eleven today and send both file formats to Aisha.",
+      "src": "/audio/book-01/lesson-28/lines/02.wav",
+      "duration": 7.525
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I've already prepared the layout. Once Daniel's files arrive, I'll complete the accessibility check by one.",
+      "src": "/audio/book-01/lesson-28/lines/03.wav",
+      "duration": 6.8
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "Good. Who's responsible for sending the files to the review group?",
+      "src": "/audio/book-01/lesson-28/lines/04.wav",
+      "duration": 4.025
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I thought you were handling that after my check.",
+      "src": "/audio/book-01/lesson-28/lines/05.wav",
+      "duration": 3.55
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "You're right. I'll send them to the five reviewers by two.",
+      "src": "/audio/book-01/lesson-28/lines/06.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "The feedback deadline is noon tomorrow, correct?",
+      "src": "/audio/book-01/lesson-28/lines/07.wav",
+      "duration": 3.05
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Correct. If all five reviewers reply by noon, Daniel and Aisha can make the final changes Friday afternoon.",
+      "src": "/audio/book-01/lesson-28/lines/08.wav",
+      "duration": 6.575
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "And if someone hasn't replied yet?",
+      "src": "/audio/book-01/lesson-28/lines/09.wav",
+      "duration": 3.025
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "I'll follow up at eleven thirty. At noon, we'll use the feedback we've received and record anything still missing.",
+      "src": "/audio/book-01/lesson-28/lines/10.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Then the full release is Monday at nine.",
+      "src": "/audio/book-01/lesson-28/lines/11.wav",
+      "duration": 2.625
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Should the summary name the final version too, so nobody opens yesterday's file?",
+      "src": "/audio/book-01/lesson-28/lines/12.wav",
+      "duration": 5.6
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Yes. I'll include the version number and links to both formats.",
+      "src": "/audio/book-01/lesson-28/lines/13.wav",
+      "duration": 3.925
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Exactly. I'll send a summary after this call. Is there anything I've missed?",
+      "src": "/audio/book-01/lesson-28/lines/14.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Add that I confirm both the document and PDF before you contact the reviewers.",
+      "src": "/audio/book-01/lesson-28/lines/15.wav",
+      "duration": 5.575
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Got it. Six action items, clear owners or handoffs, and clear deadlines.",
+      "src": "/audio/book-01/lesson-28/lines/16.wav",
+      "duration": 4.55
+    }
+  ]
+}

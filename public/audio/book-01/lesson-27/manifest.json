@@ -1,0 +1,124 @@
+{
+  "title": "Lesson 27 - I'm Not Sure That Will Work",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir",
+    "Marcus": "am_eric"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-27/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "The guide looks close. I'd like to send it to everyone on Friday morning.",
+      "src": "/audio/book-01/lesson-27/lines/01.wav",
+      "duration": 4.375
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I'm not sure that will work. The accessibility check won't be finished until Friday afternoon.",
+      "src": "/audio/book-01/lesson-27/lines/02.wav",
+      "duration": 6.175
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "My concern is that a Monday release will put us behind schedule.",
+      "src": "/audio/book-01/lesson-27/lines/03.wav",
+      "duration": 4.275
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "If we send it before the check, some staff may receive a file their screen reader can't use properly.",
+      "src": "/audio/book-01/lesson-27/lines/04.wav",
+      "duration": 6.625
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "That's a fair point. Is there any chance we could finish the check earlier?",
+      "src": "/audio/book-01/lesson-27/lines/05.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Not carefully. We still have twelve pages and two file formats.",
+      "src": "/audio/book-01/lesson-27/lines/06.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What if we send it to a five-person review group on Thursday instead?",
+      "src": "/audio/book-01/lesson-27/lines/07.wav",
+      "duration": 4.7
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "That might work. The advantage is that we can test both files with a small group before the full release.",
+      "src": "/audio/book-01/lesson-27/lines/08.wav",
+      "duration": 6.475
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Will five people give us enough useful feedback?",
+      "src": "/audio/book-01/lesson-27/lines/09.wav",
+      "duration": 3.425
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Yes, if the group includes people using both file formats and different devices.",
+      "src": "/audio/book-01/lesson-27/lines/10.wav",
+      "duration": 5.525
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "If the reviewers reply by Friday noon, can we make the final changes that afternoon?",
+      "src": "/audio/book-01/lesson-27/lines/11.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Yes. Then we can release it to everyone at nine on Monday.",
+      "src": "/audio/book-01/lesson-27/lines/12.wav",
+      "duration": 4.0
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I'd prefer that plan. It protects the check without losing another week.",
+      "src": "/audio/book-01/lesson-27/lines/13.wav",
+      "duration": 4.975
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Agreed. Let's use the small review first and confirm the action items tomorrow.",
+      "src": "/audio/book-01/lesson-27/lines/14.wav",
+      "duration": 5.15
+    }
+  ]
+}

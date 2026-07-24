@@ -1,0 +1,115 @@
+{
+  "title": "Lesson 26 - I Thought You Were Handling It",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-26/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Aisha, the permission log is still incomplete. I thought you were handling it.",
+      "src": "/audio/book-01/lesson-26/lines/01.wav",
+      "duration": 4.925
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I thought that was your part. I was supposed to prepare the visuals, but I understood “copy” to include the captions and permission notes.",
+      "src": "/audio/book-01/lesson-26/lines/02.wav",
+      "duration": 7.725
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I was writing the captions when Marcus sent the meeting summary. Maybe I read “visuals” too narrowly.",
+      "src": "/audio/book-01/lesson-26/lines/03.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "And maybe I wasn't clear when I said the images were ready. I meant the layout was ready, not the records.",
+      "src": "/audio/book-01/lesson-26/lines/04.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So we may have misunderstood each other. Let's check the note before we decide.",
+      "src": "/audio/book-01/lesson-26/lines/05.wav",
+      "duration": 5.1
+    },
+    {
+      "id": 6,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Here it is: “Daniel—copy and captions. Aisha—visuals and source files.” It doesn't name the permission log.",
+      "src": "/audio/book-01/lesson-26/lines/06.wav",
+      "duration": 6.8
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Then the assignment wasn't complete. Let's fix it now. What still needs to be done?",
+      "src": "/audio/book-01/lesson-26/lines/07.wav",
+      "duration": 5.35
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Three records. I'll contact the image owners and update the log by two.",
+      "src": "/audio/book-01/lesson-26/lines/08.wav",
+      "duration": 4.925
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "I'll do the final check by three and flag anything missing.",
+      "src": "/audio/book-01/lesson-26/lines/09.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "So you're handling the final check, and I'm handling the three records, right?",
+      "src": "/audio/book-01/lesson-26/lines/10.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Right. I'll also add both steps to the shared task list.",
+      "src": "/audio/book-01/lesson-26/lines/11.wav",
+      "duration": 3.675
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Good. I'll mark each record complete as soon as the owner replies.",
+      "src": "/audio/book-01/lesson-26/lines/12.wav",
+      "duration": 4.65
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Then I won't start the final check until all three are marked.",
+      "src": "/audio/book-01/lesson-26/lines/13.wav",
+      "duration": 3.825
+    }
+  ]
+}
