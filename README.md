@@ -22,4 +22,17 @@ npm run build
 npm test
 ```
 
+## EdgeOne 发布
+
+公开 Git 仓库：`https://github.com/qingci2014/elife`
+
+EdgeOne 项目接入 `main` 分支后，每次发布按以下顺序进行：
+
+1. 更新内容并提交到本地 Git；
+2. 双击 `publish-edgeone.cmd`；
+3. 脚本先运行完整测试，再确认工作区没有遗漏，最后通过 HTTP/1.1 推送 `main`；
+4. EdgeOne 检测到新提交后自动构建和部署。
+
+脚本不会自动暂存或提交文件，避免把无关改动带到线上。
+
 网站页面结构和写作规范见上级目录的 `website-workflow.md`。
