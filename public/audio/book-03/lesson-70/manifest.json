@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 70 - It Seems More Complicated Than That",
+  "voiceMap": {
+    "Marcus": "am_eric",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-70/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "The weekly overdue counts are ten, nine, eight, nine, seven, seven, six and six. The evidence seems to suggest improvement, but not a smooth decline.",
+      "src": "/audio/book-03/lesson-70/lines/01.wav",
+      "duration": 8.875
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Agreed. It’s possible that shorter check-ins helped the team focus, especially because the team lead noticed that effect.",
+      "src": "/audio/book-03/lesson-70/lines/02.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "One likely explanation is the new owner list. Every action had one named person after week two, so unfinished work became easier to follow up.",
+      "src": "/audio/book-03/lesson-70/lines/03.wav",
+      "duration": 9.125
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Why call that `likely` rather than simply `possible`?",
+      "src": "/audio/book-03/lesson-70/lines/04.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "The notes connect two recovered items directly to owner clarification. That is still limited evidence, but it links a mechanism to specific cases.",
+      "src": "/audio/book-03/lesson-70/lines/05.wav",
+      "duration": 9.2
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "We can’t rule out the written agenda either. The team began circulating it before meetings in week three, and the count fell again afterward.",
+      "src": "/audio/book-03/lesson-70/lines/06.wav",
+      "duration": 8.75
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "That doesn’t necessarily mean the agenda caused the fall. Week four rose from eight to nine even though the agenda was already in use.",
+      "src": "/audio/book-03/lesson-70/lines/07.wav",
+      "duration": 7.575
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "True. The result may depend on how consistently the team used all three changes, not on whether a document technically existed.",
+      "src": "/audio/book-03/lesson-70/lines/08.wav",
+      "duration": 8.55
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "There is also a workload note: incoming requests were lower in weeks seven and eight.",
+      "src": "/audio/book-03/lesson-70/lines/09.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Then lower workload is a plausible contributor to the final count of six. Do we know whether the size of the action items changed?",
+      "src": "/audio/book-03/lesson-70/lines/10.wav",
+      "duration": 8.4
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "No. The log counts items, not effort, urgency or project importance. Six large overdue items could represent more work than ten small ones.",
+      "src": "/audio/book-03/lesson-70/lines/11.wav",
+      "duration": 8.9
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "So the measurement choice matters. What can we still say with reasonable confidence?",
+      "src": "/audio/book-03/lesson-70/lines/12.wav",
+      "duration": 5.3
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Over eight weeks, the recorded count fell from ten to six while meeting length, agenda use, ownership and follow-up changed. That trend is directly documented.",
+      "src": "/audio/book-03/lesson-70/lines/13.wav",
+      "duration": 9.35
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "And what is more tentative?",
+      "src": "/audio/book-03/lesson-70/lines/14.wav",
+      "duration": 2.2
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "The shorter format may have contributed, but the evidence cannot separate its effect from the other changes or lower late-period workload.",
+      "src": "/audio/book-03/lesson-70/lines/15.wav",
+      "duration": 8.075
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Could the first week have been unusually bad?",
+      "src": "/audio/book-03/lesson-70/lines/16.wav",
+      "duration": 3.1
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "We can’t rule that out because there is no earlier baseline. Comparing only week one and week eight may exaggerate a normal fluctuation.",
+      "src": "/audio/book-03/lesson-70/lines/17.wav",
+      "duration": 8.175
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That may be true. However, the middle weeks mostly move downward, so the pattern is not based on the endpoints alone.",
+      "src": "/audio/book-03/lesson-70/lines/18.wav",
+      "duration": 7.65
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "A more accurate conclusion is: this team’s bundled process change was followed by fewer recorded overdue items, and shorter meetings are one plausible contributor.",
+      "src": "/audio/book-03/lesson-70/lines/19.wav",
+      "duration": 9.825
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Good. We can revisit causal weight only if we obtain a longer baseline, stable workload measures or a comparison that changes one feature at a time.",
+      "src": "/audio/book-03/lesson-70/lines/20.wav",
+      "duration": 10.4
+    }
+  ]
+}

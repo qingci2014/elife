@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 71 - Here's the Evidence I Found",
+  "voiceMap": {
+    "Marcus": "am_eric",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-71/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "Here’s the evidence I found: an eight-week log, an observer note covering three meetings and a pulse survey completed by nine of the twelve team members.",
+      "src": "/audio/book-03/lesson-71/lines/01.wav",
+      "duration": 8.625
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Before choosing evidence, what exact claim are we trying to support?",
+      "src": "/audio/book-03/lesson-71/lines/02.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "“The bundled process made action ownership more visible in this support team.” That is narrower than saying it improved all performance.",
+      "src": "/audio/book-03/lesson-71/lines/03.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Good. The evidence most relevant to ownership is the log showing that every new action had a named owner from week two onward.",
+      "src": "/audio/book-03/lesson-71/lines/04.wav",
+      "duration": 8.5
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "The observer note, written by a facilitator who attended weeks three, five and seven, records that owners were stated aloud for fourteen of fifteen new actions.",
+      "src": "/audio/book-03/lesson-71/lines/05.wav",
+      "duration": 9.375
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Those two sources describe the process from different angles: the stored record and what happened in meetings.",
+      "src": "/audio/book-03/lesson-71/lines/06.wav",
+      "duration": 6.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "The participants who answered the survey also reported greater clarity: seven of nine agreed that they knew who would follow up after the shorter check-ins.",
+      "src": "/audio/book-03/lesson-71/lines/07.wav",
+      "duration": 8.725
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Useful, but it is self-report. It supports perceived clarity among respondents, not proof that every owner completed the action.",
+      "src": "/audio/book-03/lesson-71/lines/08.wav",
+      "duration": 8.725
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Marcus",
+      "text": "Should we include the drop from ten to six overdue items?",
+      "src": "/audio/book-03/lesson-71/lines/09.wav",
+      "duration": 3.775
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "As context, yes. It is an outcome recorded during the same period, but it cannot isolate ownership from shorter meetings, the agenda, review or workload.",
+      "src": "/audio/book-03/lesson-71/lines/10.wav",
+      "duration": 10.85
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "What evidence is not relevant enough for this briefing?",
+      "src": "/audio/book-03/lesson-71/lines/11.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "The survey item saying six people found the meetings “less tiring.” That matters to experience, but it does not directly support action visibility.",
+      "src": "/audio/book-03/lesson-71/lines/12.wav",
+      "duration": 10.075
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "And the average meeting length falling from twenty-nine to sixteen minutes?",
+      "src": "/audio/book-03/lesson-71/lines/13.wav",
+      "duration": 4.275
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "It confirms that the format changed, but shorter duration alone does not show clearer ownership. We can mention it only to describe the bundle.",
+      "src": "/audio/book-03/lesson-71/lines/14.wav",
+      "duration": 9.5
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Taken together, these findings support a limited conclusion: owners were more consistently named and most survey respondents perceived follow-up as clearer.",
+      "src": "/audio/book-03/lesson-71/lines/15.wav",
+      "duration": 9.225
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Add the outcome carefully: recorded overdue items also declined, although the sources cannot tell us how much ownership contributed.",
+      "src": "/audio/book-03/lesson-71/lines/16.wav",
+      "duration": 8.875
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "The main limitation affecting the conclusion is that all three sources concern the same twelve-person team.",
+      "src": "/audio/book-03/lesson-71/lines/17.wav",
+      "duration": 6.6
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "There are two more: only three meetings were observed, and three team members did not answer the survey.",
+      "src": "/audio/book-03/lesson-71/lines/18.wav",
+      "duration": 6.2
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Marcus",
+      "text": "Then I’ll use one sentence per evidence type—record, observation and self-report—followed immediately by the shared sample limit.",
+      "src": "/audio/book-03/lesson-71/lines/19.wav",
+      "duration": 7.9
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Exactly. Strong evidence communication makes the relevance visible and the limitation hard to miss.",
+      "src": "/audio/book-03/lesson-71/lines/20.wav",
+      "duration": 7.125
+    }
+  ]
+}
