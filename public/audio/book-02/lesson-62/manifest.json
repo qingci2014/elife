@@ -1,0 +1,172 @@
+{
+  "title": "Lesson 62 - Suppose We Tried This",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-62/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Suppose we tried a two-stage method: a three-question paper checklist at the exit and an optional QR follow-up later.",
+      "src": "/audio/book-02/lesson-62/lines/01.wav",
+      "duration": 8.375
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "What would the second stage add that the paper form doesn’t already collect?",
+      "src": "/audio/book-02/lesson-62/lines/02.wav",
+      "duration": 4.9
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "If people had another twenty-four hours, they might remember a detail after leaving the building.",
+      "src": "/audio/book-02/lesson-62/lines/03.wav",
+      "duration": 6.075
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "That might work if the QR form asked only two reflection questions. A second full checklist would create duplicate work.",
+      "src": "/audio/book-02/lesson-62/lines/04.wav",
+      "duration": 8.525
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "What if someone used only the paper form?",
+      "src": "/audio/book-02/lesson-62/lines/05.wav",
+      "duration": 3.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Their response would still be complete. The QR stage would be optional, not a missing half of the process.",
+      "src": "/audio/book-02/lesson-62/lines/06.wav",
+      "duration": 6.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "If we used one anonymous symbol on both forms, we could compare immediate and later comments without collecting names.",
+      "src": "/audio/book-02/lesson-62/lines/07.wav",
+      "duration": 8.225
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "One possible consequence is that people could think the symbol identifies them.",
+      "src": "/audio/book-02/lesson-62/lines/08.wav",
+      "duration": 5.45
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Then we would need a short privacy note explaining that the three symbols are random and contain no personal information.",
+      "src": "/audio/book-02/lesson-62/lines/09.wav",
+      "duration": 8.225
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Or we could avoid linking the forms at all. We would lose the comparison, but the process would be simpler.",
+      "src": "/audio/book-02/lesson-62/lines/10.wav",
+      "duration": 7.025
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I’d prefer the simpler version. If we added tracking before we knew we needed it, we would create an unnecessary privacy concern.",
+      "src": "/audio/book-02/lesson-62/lines/11.wav",
+      "duration": 8.375
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Fair point. Suppose the paper form collected the route location, and the optional QR form collected only later reflections.",
+      "src": "/audio/book-02/lesson-62/lines/12.wav",
+      "duration": 8.45
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "In that case, we wouldn’t try to match one person’s two responses. We would compare the kinds of detail each method produces.",
+      "src": "/audio/book-02/lesson-62/lines/13.wav",
+      "duration": 8.65
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The downside is extra analysis time. We would have two small sets of comments instead of one.",
+      "src": "/audio/book-02/lesson-62/lines/14.wav",
+      "duration": 6.4
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "We could test it by making one paper prototype and one two-question QR prototype, then asking three staff members to use both.",
+      "src": "/audio/book-02/lesson-62/lines/15.wav",
+      "duration": 9.05
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "If the same testers used both, we could inspect the response types, but we couldn’t measure natural format preference.",
+      "src": "/audio/book-02/lesson-62/lines/16.wav",
+      "duration": 8.125
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Exactly. The test would answer “What detail does each form invite?” not “Which method would visitors choose?”",
+      "src": "/audio/book-02/lesson-62/lines/17.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That’s a useful limit. I’ll draft the two prototypes, but I won’t publish or distribute them.",
+      "src": "/audio/book-02/lesson-62/lines/18.wav",
+      "duration": 5.95
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "If the drafts stay anonymous and use only generic route content, I’ll review the questions tomorrow.",
+      "src": "/audio/book-02/lesson-62/lines/19.wav",
+      "duration": 7.2
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Good. We’re agreeing to examine a prototype, not to adopt a two-stage public system.",
+      "src": "/audio/book-02/lesson-62/lines/20.wav",
+      "duration": 5.575
+    }
+  ]
+}

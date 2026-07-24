@@ -1,0 +1,180 @@
+{
+  "title": "Lesson 64 - Can We Agree on This Much?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah",
+    "Rowan": "bf_alice"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-64/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "We’ve compared the options, explored the two-stage idea and reviewed the small test. Can we agree on this much: the paper prototype worked as a complete device-free response?",
+      "src": "/audio/book-02/lesson-64/lines/01.wav",
+      "duration": 11.7
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes. All three testers completed it and marked an exact location.",
+      "src": "/audio/book-02/lesson-64/lines/02.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I agree with that observation. We also agree that two completed QR responses added later explanations.",
+      "src": "/audio/book-02/lesson-64/lines/03.wav",
+      "duration": 7.475
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "And one QR attempt stopped during a connection failure. Those are the shared facts.",
+      "src": "/audio/book-02/lesson-64/lines/04.wav",
+      "duration": 5.9
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "We still disagree about how strongly those facts support an optional digital stage.",
+      "src": "/audio/book-02/lesson-64/lines/05.wav",
+      "duration": 5.575
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Right. I’m open to another internal check, but I’m not agreeing to public adoption.",
+      "src": "/audio/book-02/lesson-64/lines/06.wav",
+      "duration": 5.575
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "For now, let’s test question clarity and completion with five independent staff members.",
+      "src": "/audio/book-02/lesson-64/lines/07.wav",
+      "duration": 6.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The paper form would remain the complete default, and the QR questions would be clearly optional and unlinked.",
+      "src": "/audio/book-02/lesson-64/lines/08.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "No names, contact details or candidate-material comments. We should also test the connection before anyone begins.",
+      "src": "/audio/book-02/lesson-64/lines/09.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Good. That gives us a limited purpose, defined materials and a technical check.",
+      "src": "/audio/book-02/lesson-64/lines/10.wav",
+      "duration": 6.025
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "I’ll summarize what we’ve decided. I own the two prototype drafts, due Tuesday at noon.",
+      "src": "/audio/book-02/lesson-64/lines/11.wav",
+      "duration": 5.85
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I’ll review the privacy wording by three on Tuesday. That review depends on seeing the final questions.",
+      "src": "/audio/book-02/lesson-64/lines/12.wav",
+      "duration": 6.925
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I’ll run the five-person internal check on Thursday and record completion, time, location detail and any interruption.",
+      "src": "/audio/book-02/lesson-64/lines/13.wav",
+      "duration": 8.65
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What result would make us revisit the optional stage?",
+      "src": "/audio/book-02/lesson-64/lines/14.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "If the wording is understood, the connection is stable and at least four testers complete it, I’ll support discussing a later visitor trial.",
+      "src": "/audio/book-02/lesson-64/lines/15.wav",
+      "duration": 8.2
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "That would still be a discussion, not automatic approval.",
+      "src": "/audio/book-02/lesson-64/lines/16.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Understood. We seem to agree that the test can inform another decision, not make the public decision itself.",
+      "src": "/audio/book-02/lesson-64/lines/17.wav",
+      "duration": 7.275
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "We still disagree about whether QR is likely to be worth keeping, and the new evidence may narrow that gap.",
+      "src": "/audio/book-02/lesson-64/lines/18.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "The only open point is what happens after the internal report. We can revisit that when the report exists.",
+      "src": "/audio/book-02/lesson-64/lines/19.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Then I’ll send one decision record today with the agreement, the disagreement, the owners and the review condition.",
+      "src": "/audio/book-02/lesson-64/lines/20.wav",
+      "duration": 7.225
+    }
+  ],
+  "transfer": {
+    "title": "内部测试者留言（陌生英式女声）",
+    "instruction": "先听两遍，记录纸质表的作用、二维码补充内容、连接影响、结论边界和下一次说明重点。",
+    "speaker": "Rowan",
+    "src": "/audio/book-02/lesson-64/transfer.wav",
+    "duration": 30.65
+  }
+}
