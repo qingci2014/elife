@@ -1,0 +1,163 @@
+{
+  "title": "Lesson 14 - This Isn't What I Ordered",
+  "voiceMap": {
+    "Clerk": "am_puck",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-14/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "Pickup for Daniel?",
+      "src": "/audio/book-01/lesson-14/lines/01.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That's me. Thanks. Let me check the order before I go.",
+      "src": "/audio/book-01/lesson-14/lines/02.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "Sure.",
+      "src": "/audio/book-01/lesson-14/lines/03.wav",
+      "duration": 1.175
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I'm sorry to bother you, but there seems to be a mistake. This isn't what I ordered.",
+      "src": "/audio/book-01/lesson-14/lines/04.wav",
+      "duration": 5.275
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "Oh, I'm sorry. What did you order?",
+      "src": "/audio/book-01/lesson-14/lines/05.wav",
+      "duration": 2.45
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I ordered one vegetable sandwich without cheese and one chicken sandwich. I got two chicken sandwiches.",
+      "src": "/audio/book-01/lesson-14/lines/06.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "You're right. The label says one vegetable sandwich, no cheese.",
+      "src": "/audio/book-01/lesson-14/lines/07.wav",
+      "duration": 4.125
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I was also expecting a bottle of still water, but this is sparkling water.",
+      "src": "/audio/book-01/lesson-14/lines/08.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "I see both errors on the receipt. We can replace the sandwich and the water.",
+      "src": "/audio/book-01/lesson-14/lines/09.wav",
+      "duration": 5.025
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Could you fix that, please? Aisha is waiting upstairs.",
+      "src": "/audio/book-01/lesson-14/lines/10.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "Of course. The sandwich will take about six minutes. The water will only take a moment.",
+      "src": "/audio/book-01/lesson-14/lines/11.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Okay. How long will the whole order take?",
+      "src": "/audio/book-01/lesson-14/lines/12.wav",
+      "duration": 2.55
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Clerk",
+      "text": "No more than seven minutes.",
+      "src": "/audio/book-01/lesson-14/lines/13.wav",
+      "duration": 2.0
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Clerk",
+      "text": "Daniel? Here is the vegetable sandwich without cheese and one bottle of still water. Could you check them?",
+      "src": "/audio/book-01/lesson-14/lines/14.wav",
+      "duration": 6.675
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Vegetable, no cheese; still water. Yes, that's right. Thanks for helping me out.",
+      "src": "/audio/book-01/lesson-14/lines/15.wav",
+      "duration": 5.15
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Clerk",
+      "text": "I'm sorry about the mix-up.",
+      "src": "/audio/book-01/lesson-14/lines/16.wav",
+      "duration": 2.0
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "No problem. You fixed it quickly. I owe you one—well, not literally. It was your order to fix.",
+      "src": "/audio/book-01/lesson-14/lines/17.wav",
+      "duration": 6.25
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Clerk",
+      "text": "Fair point. Happy to help, anyway.",
+      "src": "/audio/book-01/lesson-14/lines/18.wav",
+      "duration": 2.45
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Thanks. Now I can take lunch upstairs before Aisha calls to ask where it is.",
+      "src": "/audio/book-01/lesson-14/lines/19.wav",
+      "duration": 4.95
+    }
+  ]
+}

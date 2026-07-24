@@ -1,0 +1,147 @@
+{
+  "title": "Lesson 15 - Do You Have This in a Medium?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Sales associate": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-15/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Sales associate",
+      "text": "Hi. How can I help?",
+      "src": "/audio/book-01/lesson-15/lines/01.wav",
+      "duration": 2.125
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I'd like to exchange this jacket. I bought a small, but the sleeves are too short.",
+      "src": "/audio/book-01/lesson-15/lines/02.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Sales associate",
+      "text": "No problem. Do you have the receipt?",
+      "src": "/audio/book-01/lesson-15/lines/03.wav",
+      "duration": 3.0
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Yes, and I haven't removed the tags. Do you have this in a medium?",
+      "src": "/audio/book-01/lesson-15/lines/04.wav",
+      "duration": 4.4
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Sales associate",
+      "text": "We have the same color in a medium. We also have a more fitted cut in medium. Both have longer sleeves.",
+      "src": "/audio/book-01/lesson-15/lines/05.wav",
+      "duration": 7.45
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Could I try both of them on?",
+      "src": "/audio/book-01/lesson-15/lines/06.wav",
+      "duration": 2.675
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Sales associate",
+      "text": "Of course. The fitting rooms are behind you.",
+      "src": "/audio/book-01/lesson-15/lines/07.wav",
+      "duration": 3.375
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Sales associate",
+      "text": "How does the standard medium fit?",
+      "src": "/audio/book-01/lesson-15/lines/08.wav",
+      "duration": 2.725
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The sleeves are long enough, but the body is too loose. It feels bigger than I need.",
+      "src": "/audio/book-01/lesson-15/lines/09.wav",
+      "duration": 5.275
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Sales associate",
+      "text": "And the more fitted medium?",
+      "src": "/audio/book-01/lesson-15/lines/10.wav",
+      "duration": 2.275
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "This one fits better. The sleeves are longer than the first jacket's, and the body isn't as loose as the standard medium.",
+      "src": "/audio/book-01/lesson-15/lines/11.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Sales associate",
+      "text": "That cut is twelve dollars more expensive.",
+      "src": "/audio/book-01/lesson-15/lines/12.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I saw that. Is the navy one the same price?",
+      "src": "/audio/book-01/lesson-15/lines/13.wav",
+      "duration": 3.625
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Sales associate",
+      "text": "Yes, but we only have navy in small and large today.",
+      "src": "/audio/book-01/lesson-15/lines/14.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Then the gray medium is the best option. It's comfortable enough, and the sleeves are the right length. I'll take this one.",
+      "src": "/audio/book-01/lesson-15/lines/15.wav",
+      "duration": 7.025
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Sales associate",
+      "text": "Great. I'll process the exchange. You only need to pay the twelve-dollar difference.",
+      "src": "/audio/book-01/lesson-15/lines/16.wav",
+      "duration": 5.9
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Thanks. I'm glad I kept the receipt.",
+      "src": "/audio/book-01/lesson-15/lines/17.wav",
+      "duration": 3.05
+    }
+  ]
+}

@@ -847,7 +847,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — I'd like与Could we的轻重",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>自然点餐时，功能词通常较轻，食物和数量最清楚：</p>\n<blockquote>\n<p>I&#39;d like the <strong>GRILLED CHICKEN</strong>.<br>Could we have <strong>TWO GLASSES</strong> of water?<br>Does that come with <strong>RICE</strong>?</p>\n</blockquote>\n<p><strong>I&#39;d</strong> 是 <strong>I would</strong> 的缩略形式。不要把它逐词读得过重：</p>\n<blockquote>\n<p>I&#39;d like / the chicken / with a green salad.</p>\n</blockquote>\n<p>请求结尾的 <strong>please</strong> 不需要特别重；礼貌主要来自完整表达和合作语调。</p>\n<h3>录音</h3>\n<p>读下面订单两遍。第二遍不要逐词停顿：</p>\n<blockquote>\n<p>A table for two, please. We have a reservation under Wang. I&#39;d like the baked fish, and could we have a basket of garlic bread? Does the fish come with rice? Great. That&#39;s all for now.</p>\n</blockquote>\n<p>回听：姓名、人数、菜名和数量是否最清楚？</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听点餐请求中的礼貌语气、数量表达，以及服务员说明售罄时的处理方式。</p>\n</blockquote>\n<p>自然点餐时，功能词通常较轻，食物和数量最清楚：</p>\n<blockquote>\n<p>I&#39;d like the <strong>GRILLED CHICKEN</strong>.<br>Could we have <strong>TWO GLASSES</strong> of water?<br>Does that come with <strong>RICE</strong>?</p>\n</blockquote>\n<p><strong>I&#39;d</strong> 是 <strong>I would</strong> 的缩略形式。不要把它逐词读得过重：</p>\n<blockquote>\n<p>I&#39;d like / the chicken / with a green salad.</p>\n</blockquote>\n<p>请求结尾的 <strong>please</strong> 不需要特别重；礼貌主要来自完整表达和合作语调。</p>\n<h3>录音</h3>\n<p>读下面订单两遍。第二遍不要逐词停顿：</p>\n<blockquote>\n<p>A table for two, please. We have a reservation under Wang. I&#39;d like the baked fish, and could we have a basket of garlic bread? Does the fish come with rice? Great. That&#39;s all for now.</p>\n</blockquote>\n<p>回听：姓名、人数、菜名和数量是否最清楚？</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -912,7 +912,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 对比词要清楚",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>纠错时，把不同的两项读清楚，比把整句读得很重更有效：</p>\n<blockquote>\n<p>I ordered a <strong>VEGETABLE</strong> sandwich, but I got <strong>CHICKEN</strong>.<br>I was expecting <strong>STILL</strong> water, but this is <strong>SPARKLING</strong>.</p>\n</blockquote>\n<p>如果重音落在 <strong>you</strong> 上，容易听起来像直接责怪个人：</p>\n<blockquote>\n<p><strong>YOU</strong> gave me the wrong order.</p>\n</blockquote>\n<p>本课优先使用问题导向的表达，并用下降但不过分尖锐的语调结束：</p>\n<blockquote>\n<p>There seems to be a <strong>MISTAKE</strong>. ↘</p>\n</blockquote>\n<h3>录音</h3>\n<p>自选两组对比信息，录30—45秒：先说明原订单，再说明实际收到的内容，最后请求解决和询问时间。回听时检查，对比项目是否一听就清楚。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听Daniel如何先说明事实、再请求修正，而不是把投诉说成指责。</p>\n</blockquote>\n<p>纠错时，把不同的两项读清楚，比把整句读得很重更有效：</p>\n<blockquote>\n<p>I ordered a <strong>VEGETABLE</strong> sandwich, but I got <strong>CHICKEN</strong>.<br>I was expecting <strong>STILL</strong> water, but this is <strong>SPARKLING</strong>.</p>\n</blockquote>\n<p>如果重音落在 <strong>you</strong> 上，容易听起来像直接责怪个人：</p>\n<blockquote>\n<p><strong>YOU</strong> gave me the wrong order.</p>\n</blockquote>\n<p>本课优先使用问题导向的表达，并用下降但不过分尖锐的语调结束：</p>\n<blockquote>\n<p>There seems to be a <strong>MISTAKE</strong>. ↘</p>\n</blockquote>\n<h3>录音</h3>\n<p>自选两组对比信息，录30—45秒：先说明原订单，再说明实际收到的内容，最后请求解决和询问时间。回听时检查，对比项目是否一听就清楚。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -977,7 +977,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 比较信息的重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>比较时，把真正变化的词读重：</p>\n<blockquote>\n<p>The sleeves are <strong>LONGER</strong>, but the body is <strong>LOOSER</strong>.<br>This one fits <strong>BETTER</strong>.<br>It&#39;s twelve dollars <strong>MORE EXPENSIVE</strong>.</p>\n</blockquote>\n<p><strong>Do you have this in a medium?</strong> 中，<strong>medium</strong> 是最重要的新信息：</p>\n<blockquote>\n<p>Do you have this in a <strong>MEDIUM</strong>?</p>\n</blockquote>\n<h3>录音</h3>\n<p>看第3部分三张产品卡，录45—60秒。比较尺码、袖长和价格，最后选择。回听时检查：听者能否不看表格也知道你拒绝了哪一件、选择了哪一件？</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听尺码、松紧、长短和价格比较中的重读词。</p>\n</blockquote>\n<p>比较时，把真正变化的词读重：</p>\n<blockquote>\n<p>The sleeves are <strong>LONGER</strong>, but the body is <strong>LOOSER</strong>.<br>This one fits <strong>BETTER</strong>.<br>It&#39;s twelve dollars <strong>MORE EXPENSIVE</strong>.</p>\n</blockquote>\n<p><strong>Do you have this in a medium?</strong> 中，<strong>medium</strong> 是最重要的新信息：</p>\n<blockquote>\n<p>Do you have this in a <strong>MEDIUM</strong>?</p>\n</blockquote>\n<h3>录音</h3>\n<p>看第3部分三张产品卡，录45—60秒。比较尺码、袖长和价格，最后选择。回听时检查：听者能否不看表格也知道你拒绝了哪一件、选择了哪一件？</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1042,7 +1042,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 听清日期和数字",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>电话里最危险的往往不是生词，而是相近数字。把对比位置读重：</p>\n<blockquote>\n<p>not <strong>THURSDAY</strong>—<strong>FRIDAY</strong><br>not eleven <strong>TWELVE</strong>—eleven <strong>TWENTY</strong><br>reference N-S—<strong>SIX ZERO FOUR EIGHT</strong></p>\n</blockquote>\n<p>不要只说 <strong>the eleventh</strong>；日期容易混淆时，同时给星期和日期：</p>\n<blockquote>\n<p><strong>Friday, the eleventh, at eleven twenty.</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>读三组信息，每组第二遍先故意说错一项，再立即自我修正：</p>\n<ol>\n<li>Thursday at 4:30 → Friday at 11:20</li>\n<li>Tuesday the 8th at 2:15 → Wednesday the 9th at 2:50</li>\n<li>Reference BK-3056 → BK-3506</li>\n</ol>\n<p>回听时检查：纠正前后是否一听就能区分？</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听日期、时间和姓名，并用逐句模式练习最后的复述确认。</p>\n</blockquote>\n<p>电话里最危险的往往不是生词，而是相近数字。把对比位置读重：</p>\n<blockquote>\n<p>not <strong>THURSDAY</strong>—<strong>FRIDAY</strong><br>not eleven <strong>TWELVE</strong>—eleven <strong>TWENTY</strong><br>reference N-S—<strong>SIX ZERO FOUR EIGHT</strong></p>\n</blockquote>\n<p>不要只说 <strong>the eleventh</strong>；日期容易混淆时，同时给星期和日期：</p>\n<blockquote>\n<p><strong>Friday, the eleventh, at eleven twenty.</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>读三组信息，每组第二遍先故意说错一项，再立即自我修正：</p>\n<ol>\n<li>Thursday at 4:30 → Friday at 11:20</li>\n<li>Tuesday the 8th at 2:15 → Wednesday the 9th at 2:50</li>\n<li>Reference BK-3056 → BK-3506</li>\n</ol>\n<p>回听时检查：纠正前后是否一听就能区分？</p>\n<hr>\n"
       },
       {
         "id": "section-7",

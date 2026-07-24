@@ -1,0 +1,163 @@
+{
+  "title": "Lesson 16 - Can I Move My Appointment?",
+  "voiceMap": {
+    "Lena": "af_kore",
+    "Receptionist": "af_nicole"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-16/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "Northside Salon. How can I help?",
+      "src": "/audio/book-01/lesson-16/lines/01.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Hi, I'm calling about my appointment with Rosa on Thursday at four thirty. It's under Lena Ortiz.",
+      "src": "/audio/book-01/lesson-16/lines/02.wav",
+      "duration": 7.325
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "Let me check. Yes, I see it here.",
+      "src": "/audio/book-01/lesson-16/lines/03.wav",
+      "duration": 4.075
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "My work schedule has changed. Can I move my appointment?",
+      "src": "/audio/book-01/lesson-16/lines/04.wav",
+      "duration": 4.025
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "Certainly. Rosa has an opening at five on Thursday.",
+      "src": "/audio/book-01/lesson-16/lines/05.wav",
+      "duration": 6.15
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "The earliest I can do is five thirty. Do you have anything available after that?",
+      "src": "/audio/book-01/lesson-16/lines/06.wav",
+      "duration": 5.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "Not on Thursday. She has eleven twenty or two forty on Friday.",
+      "src": "/audio/book-01/lesson-16/lines/07.wav",
+      "duration": 7.125
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Friday at eleven twenty works for me.",
+      "src": "/audio/book-01/lesson-16/lines/08.wav",
+      "duration": 2.85
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "Great. I'll move it to Friday, the eleventh, at eleven twenty.",
+      "src": "/audio/book-01/lesson-16/lines/09.wav",
+      "duration": 6.5
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Just to check, that's Friday at eleven twenty with Rosa, right?",
+      "src": "/audio/book-01/lesson-16/lines/10.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Receptionist",
+      "text": "That's right.",
+      "src": "/audio/book-01/lesson-16/lines/11.wav",
+      "duration": 1.825
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Could you confirm the new time by text?",
+      "src": "/audio/book-01/lesson-16/lines/12.wav",
+      "duration": 2.775
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Receptionist",
+      "text": "Yes. It should arrive in a moment. Your reference number will stay the same.",
+      "src": "/audio/book-01/lesson-16/lines/13.wav",
+      "duration": 7.3
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Thank you. Should I use the same front entrance?",
+      "src": "/audio/book-01/lesson-16/lines/14.wav",
+      "duration": 3.05
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Receptionist",
+      "text": "Yes. Please arrive five minutes early.",
+      "src": "/audio/book-01/lesson-16/lines/15.wav",
+      "duration": 3.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Got it: Friday at eleven twenty, with Rosa, and I should arrive by eleven fifteen.",
+      "src": "/audio/book-01/lesson-16/lines/16.wav",
+      "duration": 5.925
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Receptionist",
+      "text": "Exactly. Is there anything else I can help with?",
+      "src": "/audio/book-01/lesson-16/lines/17.wav",
+      "duration": 5.375
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "No, that's everything. Thanks for your help.",
+      "src": "/audio/book-01/lesson-16/lines/18.wav",
+      "duration": 2.925
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Receptionist",
+      "text": "You're welcome. See you Friday.",
+      "src": "/audio/book-01/lesson-16/lines/19.wav",
+      "duration": 3.175
+    }
+  ]
+}

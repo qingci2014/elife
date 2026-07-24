@@ -1,0 +1,213 @@
+{
+  "title": "Lesson 13 - A Table for Two",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Host": "am_puck",
+    "Lena": "af_kore",
+    "Server": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-13/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Host",
+      "text": "Good evening. How many?",
+      "src": "/audio/book-01/lesson-13/lines/01.wav",
+      "duration": 1.825
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "A table for two, please. We have a reservation under Lena Ortiz for seven.",
+      "src": "/audio/book-01/lesson-13/lines/02.wav",
+      "duration": 5.6
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Host",
+      "text": "Yes, I have it here. Right this way.",
+      "src": "/audio/book-01/lesson-13/lines/03.wav",
+      "duration": 2.525
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Server",
+      "text": "Would you like still or sparkling water?",
+      "src": "/audio/book-01/lesson-13/lines/04.wav",
+      "duration": 3.05
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Still water, please. Could we have two glasses?",
+      "src": "/audio/book-01/lesson-13/lines/05.wav",
+      "duration": 3.525
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Server",
+      "text": "Of course. Are you ready to order?",
+      "src": "/audio/book-01/lesson-13/lines/06.wav",
+      "duration": 2.925
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "I think so. I'd like the tomato soup to start and the grilled chicken as my main.",
+      "src": "/audio/book-01/lesson-13/lines/07.wav",
+      "duration": 5.35
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Does the chicken come with a side?",
+      "src": "/audio/book-01/lesson-13/lines/08.wav",
+      "duration": 2.825
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Server",
+      "text": "Yes. It comes with potatoes or a green salad.",
+      "src": "/audio/book-01/lesson-13/lines/09.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Great. I'd like the chicken with the salad, please. Could I have the dressing on the side?",
+      "src": "/audio/book-01/lesson-13/lines/10.wav",
+      "duration": 5.375
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Server",
+      "text": "Certainly. I'm sorry, but we've just sold the last bowl of tomato soup.",
+      "src": "/audio/book-01/lesson-13/lines/11.wav",
+      "duration": 5.1
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Oh. What other starters do you have?",
+      "src": "/audio/book-01/lesson-13/lines/12.wav",
+      "duration": 2.4
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Server",
+      "text": "We have a small plate of roasted vegetables and some garlic bread.",
+      "src": "/audio/book-01/lesson-13/lines/13.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 14,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Then I'll have the roasted vegetables. That's all for now.",
+      "src": "/audio/book-01/lesson-13/lines/14.wav",
+      "duration": 3.775
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The food looks great. Could we have some more water when you have a moment?",
+      "src": "/audio/book-01/lesson-13/lines/15.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Server",
+      "text": "Sure. Is everything else okay?",
+      "src": "/audio/book-01/lesson-13/lines/16.wav",
+      "duration": 2.6
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Yes, thank you. The vegetables were a good choice.",
+      "src": "/audio/book-01/lesson-13/lines/17.wav",
+      "duration": 3.275
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "And this salad is bigger than I expected.",
+      "src": "/audio/book-01/lesson-13/lines/18.wav",
+      "duration": 3.375
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Do you want help with it?",
+      "src": "/audio/book-01/lesson-13/lines/19.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Actually, could you do me a favor and take one of these potatoes? I could really use your help.",
+      "src": "/audio/book-01/lesson-13/lines/20.wav",
+      "duration": 5.875
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "That's a serious request, but I accept.",
+      "src": "/audio/book-01/lesson-13/lines/21.wav",
+      "duration": 2.825
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I really appreciate it.",
+      "src": "/audio/book-01/lesson-13/lines/22.wav",
+      "duration": 2.575
+    },
+    {
+      "id": 23,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Happy to help.",
+      "src": "/audio/book-01/lesson-13/lines/23.wav",
+      "duration": 1.55
+    },
+    {
+      "id": 24,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "When we're ready, could we get the check, please?",
+      "src": "/audio/book-01/lesson-13/lines/24.wav",
+      "duration": 3.275
+    },
+    {
+      "id": 25,
+      "part": "B",
+      "speaker": "Server",
+      "text": "Of course. I'll bring it over.",
+      "src": "/audio/book-01/lesson-13/lines/25.wav",
+      "duration": 2.6
+    }
+  ]
+}
