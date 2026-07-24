@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 67 - There Has to Be a Balance",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-67/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The fixed-day model gives you Tuesday and Wednesday from nine to four, a monthly fee and no requests on the other three weekdays. That sounds predictable.",
+      "src": "/audio/book-03/lesson-67/lines/01.wav",
+      "duration": 10.425
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "It is predictable, although two full days could make deadlines for existing clients bunch together on Monday and Thursday.",
+      "src": "/audio/book-03/lesson-67/lines/02.wav",
+      "duration": 7.55
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The flexible model gives you sixty hours a month, mostly remote, with at least forty-eight hours’ notice for meetings.",
+      "src": "/audio/book-03/lesson-67/lines/03.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "That protects location choice, but the hours could spread across every week. There has to be a balance between flexibility on paper and being mentally available all the time.",
+      "src": "/audio/book-03/lesson-67/lines/04.wav",
+      "duration": 10.35
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What are you actually trying to protect?",
+      "src": "/audio/book-03/lesson-67/lines/05.wav",
+      "duration": 2.45
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I need two uninterrupted design blocks each week so that complex work doesn’t get divided into tiny pieces. I also need evenings that are not treated as emergency capacity.",
+      "src": "/audio/book-03/lesson-67/lines/06.wav",
+      "duration": 11.55
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "The reason you prefer protected blocks is that switching between projects costs attention, not just minutes.",
+      "src": "/audio/book-03/lesson-67/lines/07.wav",
+      "duration": 7.075
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Exactly. Even though the flexible model looks easier to fit around current work, it could create more switching if meetings move every week.",
+      "src": "/audio/book-03/lesson-67/lines/08.wav",
+      "duration": 8.475
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Could a monthly cap solve that?",
+      "src": "/audio/book-03/lesson-67/lines/09.wav",
+      "duration": 2.125
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Only partly. In order to make the cap meaningful, I’d have to know whether messages, revisions and internal meetings all count toward the sixty hours.",
+      "src": "/audio/book-03/lesson-67/lines/10.wav",
+      "duration": 8.875
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What would make the fixed-day model workable?",
+      "src": "/audio/book-03/lesson-67/lines/11.wav",
+      "duration": 2.75
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "A review after six weeks, permission to protect two existing client commitments, and a rule that unused hours don’t become evening requests. The trade-off is less weekday flexibility in exchange for clearer boundaries.",
+      "src": "/audio/book-03/lesson-67/lines/12.wav",
+      "duration": 13.15
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "And the flexible model?",
+      "src": "/audio/book-03/lesson-67/lines/13.wav",
+      "duration": 1.875
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I would need two defined availability windows and a weekly hour ceiling so that “flexible” didn’t mean “always reachable.” The trade-off is more scheduling freedom but more coordination.",
+      "src": "/audio/book-03/lesson-67/lines/14.wav",
+      "duration": 10.975
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Which arrangement better supports the values you ranked yesterday?",
+      "src": "/audio/book-03/lesson-67/lines/15.wav",
+      "duration": 4.15
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The fixed days support predictability and recovery better, while the flexible hours protect location choice. Although creative exchange matters, it won’t be sustainable if I arrive at every shared review already overloaded.",
+      "src": "/audio/book-03/lesson-67/lines/16.wav",
+      "duration": 13.1
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "So the purpose of a trial would be to test the workload pattern, not to prove that collective work suits you forever.",
+      "src": "/audio/book-03/lesson-67/lines/17.wav",
+      "duration": 7.55
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Yes. Looking back at my workspace experiment, what helped was a clear review point and no automatic continuation. I’d use the same principle here without assuming the two situations are identical.",
+      "src": "/audio/book-03/lesson-67/lines/18.wav",
+      "duration": 11.875
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What will you propose?",
+      "src": "/audio/book-03/lesson-67/lines/19.wav",
+      "duration": 1.75
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I’ll ask whether the fixed-day model could be tested for six weeks within the larger six-month discussion, with written scope, counted hours and an exit review. That is a question, not an acceptance.",
+      "src": "/audio/book-03/lesson-67/lines/20.wav",
+      "duration": 11.375
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Lesson 68 - People Make Assumptions",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Grace": "af_sarah",
+    "Jordan": "am_echo",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-68/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The first comment says, “Freelancers choose independence because they dislike structure.” People sometimes assume that, but my work has plenty of structure.",
+      "src": "/audio/book-03/lesson-68/lines/01.wav",
+      "duration": 9.3
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "A more accurate way to put it is that some freelancers want control over which structure they accept. Your schedules, briefs and deadlines haven’t disappeared.",
+      "src": "/audio/book-03/lesson-68/lines/02.wav",
+      "duration": 9.925
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "What is the second comment?",
+      "src": "/audio/book-03/lesson-68/lines/03.wav",
+      "duration": 2.625
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "“A collective would give you stable income.” That may be true for some arrangements, but this one has no agreed fee, minimum workload or cancellation policy.",
+      "src": "/audio/book-03/lesson-68/lines/04.wav",
+      "duration": 9.6
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "So stability depends on the terms, not the word `collective`.",
+      "src": "/audio/book-03/lesson-68/lines/05.wav",
+      "duration": 4.25
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Exactly. The third says, “If you need so many boundaries, you probably aren’t a team player.” In my case, clear boundaries are what would let me contribute reliably without neglecting existing commitments.",
+      "src": "/audio/book-03/lesson-68/lines/06.wav",
+      "duration": 11.725
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I wouldn’t generalize from one person’s preferred boundaries to their ability to collaborate. The better question is whether the boundaries are compatible with the team’s actual needs.",
+      "src": "/audio/book-03/lesson-68/lines/07.wav",
+      "duration": 11.575
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "And asking is not demanding that every condition be accepted.",
+      "src": "/audio/book-03/lesson-68/lines/08.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The fourth comment assumes that requesting a six-week draft means I have basically decided to join.",
+      "src": "/audio/book-03/lesson-68/lines/09.wav",
+      "duration": 6.775
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Can we agree on this much: reading a draft creates information, not consent?",
+      "src": "/audio/book-03/lesson-68/lines/10.wav",
+      "duration": 5.65
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Yes. We seem to agree that no work begins unless both sides later accept written terms. We still disagree—Northline and I may still disagree—about schedule, fee or client boundaries after reading them.",
+      "src": "/audio/book-03/lesson-68/lines/11.wav",
+      "duration": 12.175
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "For now, let’s keep the next step small: receive the discussion draft, check it against your value map and ask questions.",
+      "src": "/audio/book-03/lesson-68/lines/12.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "You can revisit the trial only when the counted hours, decision rights, fee, review point and exit terms are clear.",
+      "src": "/audio/book-03/lesson-68/lines/13.wav",
+      "duration": 8.275
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The last comment says, “People who care about balance are less ambitious.” That one bothers me most.",
+      "src": "/audio/book-03/lesson-68/lines/14.wav",
+      "duration": 6.475
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "It may describe a particular speaker’s definition of ambition, but it doesn’t show what another person is willing to build over time.",
+      "src": "/audio/book-03/lesson-68/lines/15.wav",
+      "duration": 8.25
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Looking back, many turning points involve changing a definition, as Maya did with useful work. A changed definition is not evidence of less commitment.",
+      "src": "/audio/book-03/lesson-68/lines/16.wav",
+      "duration": 10.7
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "For me, ambition includes producing work I can sustain and stand behind. Although growth matters, constant availability is not the only evidence of it.",
+      "src": "/audio/book-03/lesson-68/lines/17.wav",
+      "duration": 9.925
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then your response can follow one pattern: name the assumption, acknowledge the limited possibility, add the missing condition and give your case without making a new generalization.",
+      "src": "/audio/book-03/lesson-68/lines/18.wav",
+      "duration": 11.95
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I’ll summarize what we’ve decided: you are willing to read one nonbinding draft; you have not accepted an arrangement; and your reasons belong to your current circumstances.",
+      "src": "/audio/book-03/lesson-68/lines/19.wav",
+      "duration": 11.4
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Good. I’ll reply with that wording and six questions. If the draft cannot protect the minimum conditions, I can decline without claiming that collectives never work.",
+      "src": "/audio/book-03/lesson-68/lines/20.wav",
+      "duration": 9.95
+    }
+  ],
+  "transfer": {
+    "title": "职业选择说明（陌生美式男声）",
+    "instruction": "先听两遍，记录别人作出的假设、说话者真正比较的条件、不能推广的个人经历和更准确的替代说法。",
+    "speaker": "Jordan",
+    "src": "/audio/book-03/lesson-68/transfer.wav",
+    "duration": 30.175
+  }
+}

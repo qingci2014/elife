@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 65 - That Was a Turning Point",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-65/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "My draft begins, “I moved from bedside nursing into staff training, and that was a turning point.” It sounds accurate, but also too neat.",
+      "src": "/audio/book-03/lesson-65/lines/01.wav",
+      "duration": 9.075
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Maybe because it starts with the result. What had been happening before the move became possible?",
+      "src": "/audio/book-03/lesson-65/lines/02.wav",
+      "duration": 6.275
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I had worked on the ward for years, and I used to think the most useful part of my job had to happen beside a patient.",
+      "src": "/audio/book-03/lesson-65/lines/03.wav",
+      "duration": 7.375
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Was that belief already changing before you applied for the training role?",
+      "src": "/audio/book-03/lesson-65/lines/04.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Slowly. New staff would ask me how to organize unfamiliar tasks or how to explain a concern clearly. I would talk through the process, then ask them to explain it back in their own words.",
+      "src": "/audio/book-03/lesson-65/lines/05.wav",
+      "duration": 12.425
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So teaching was already part of your work, even though it wasn’t in your title.",
+      "src": "/audio/book-03/lesson-65/lines/06.wav",
+      "duration": 5.1
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Exactly. By the time a supervisor asked me to help with an orientation session, I had already noticed that I enjoyed making complicated procedures easier to follow.",
+      "src": "/audio/book-03/lesson-65/lines/07.wav",
+      "duration": 10.75
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What happened in that session?",
+      "src": "/audio/book-03/lesson-65/lines/08.wav",
+      "duration": 1.975
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "One participant asked a question that several people had been avoiding. We changed the example, and the whole room became more willing to speak. That was when I realized training could prevent confusion before it reached a busy shift.",
+      "src": "/audio/book-03/lesson-65/lines/09.wav",
+      "duration": 14.55
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That sounds like the moment. But did you decide to change jobs immediately?",
+      "src": "/audio/book-03/lesson-65/lines/10.wav",
+      "duration": 5.0
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "No. At the time, I thought leaving the ward might mean giving up the part of nursing that mattered most to me. I had also built routines and relationships there.",
+      "src": "/audio/book-03/lesson-65/lines/11.wav",
+      "duration": 10.025
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What changed your mind?",
+      "src": "/audio/book-03/lesson-65/lines/12.wav",
+      "duration": 1.775
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "I spoke with people in both roles, observed two more sessions and wrote down what I would gain and what I would miss. The orientation was a turning point, but the decision developed over several months.",
+      "src": "/audio/book-03/lesson-65/lines/13.wav",
+      "duration": 12.7
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That distinction matters. Otherwise, the story makes one inspiring afternoon look responsible for everything.",
+      "src": "/audio/book-03/lesson-65/lines/14.wav",
+      "duration": 7.65
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Right. When the coordinator position opened, I applied because I could see a connection between my old experience and the new work. I wasn’t trying to escape one identity and become a completely different person.",
+      "src": "/audio/book-03/lesson-65/lines/15.wav",
+      "duration": 13.525
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "How has the change affected you since then?",
+      "src": "/audio/book-03/lesson-65/lines/16.wav",
+      "duration": 2.725
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "It changed the way I define useful work. I still value direct care, but now I also notice what clear preparation can prevent. I ask better questions before building a training session, and I’m less likely to assume that silence means everyone understands.",
+      "src": "/audio/book-03/lesson-65/lines/17.wav",
+      "duration": 16.925
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Looking back, what would you say the turning point really was?",
+      "src": "/audio/book-03/lesson-65/lines/18.wav",
+      "duration": 3.55
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "It was the first time I saw teaching as part of the same purpose, not a step away from it. The session opened a possibility; the later conversations, observations and application turned that possibility into a choice.",
+      "src": "/audio/book-03/lesson-65/lines/19.wav",
+      "duration": 14.5
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That gives you a stronger ending: one moment changed what you could imagine, while the careful steps afterward changed what you actually did.",
+      "src": "/audio/book-03/lesson-65/lines/20.wav",
+      "duration": 8.85
+    }
+  ]
+}
