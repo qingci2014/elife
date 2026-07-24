@@ -1107,7 +1107,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — Excuse me与许可语调",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>礼貌开场的 <strong>Excuse me</strong> 通常短而轻，真正信息落在座位和动作上：</p>\n<blockquote>\n<p>Excuse me— / is this <strong>SEAT TAKEN</strong>?<br>Do you mind if I <strong>SIT HERE</strong>?</p>\n</blockquote>\n<p>许可回应要让方向明确：</p>\n<blockquote>\n<p><strong>NO</strong>, not at all. / <strong>GO AHEAD</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>分别录“允许”和“不允许”两个版本。回听时确认：即使不看文字，也不会把你的回应理解反。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听陌生人如何礼貌开场、保持简短交流并自然结束。</p>\n</blockquote>\n<p>礼貌开场的 <strong>Excuse me</strong> 通常短而轻，真正信息落在座位和动作上：</p>\n<blockquote>\n<p>Excuse me— / is this <strong>SEAT TAKEN</strong>?<br>Do you mind if I <strong>SIT HERE</strong>?</p>\n</blockquote>\n<p>许可回应要让方向明确：</p>\n<blockquote>\n<p><strong>NO</strong>, not at all. / <strong>GO AHEAD</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>分别录“允许”和“不允许”两个版本。回听时确认：即使不看文字，也不会把你的回应理解反。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1172,7 +1172,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 线路、方向和站名的重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>路线中四类信息要比功能词清楚：</p>\n<blockquote>\n<p><strong>BLUE LINE</strong> / toward <strong>AIRPORT</strong><br>change at <strong>CENTRAL</strong> / for the <strong>GREEN LINE</strong><br>get off at <strong>MUSEUM SQUARE</strong> / Exit <strong>C</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>把路线分成四个意群读两遍。第二遍故意把一个方向说错，再立即纠正。回听时确认错误与更正都清楚。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听线路、方向、站数和出口，并用逐句模式练习完整复述路线。</p>\n</blockquote>\n<p>路线中四类信息要比功能词清楚：</p>\n<blockquote>\n<p><strong>BLUE LINE</strong> / toward <strong>AIRPORT</strong><br>change at <strong>CENTRAL</strong> / for the <strong>GREEN LINE</strong><br>get off at <strong>MUSEUM SQUARE</strong> / Exit <strong>C</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>把路线分成四个意群读两遍。第二遍故意把一个方向说错，再立即纠正。回听时确认错误与更正都清楚。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1237,7 +1237,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — train's与关键信息重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p><strong>The train&#39;s been delayed</strong> 中的 <strong>&#39;s</strong> 很轻，重点落在结果：</p>\n<blockquote>\n<p>The train&#39;s been <strong>DELAYED</strong>.<br>moved to Platform <strong>SEVEN</strong><br>estimated arrival: <strong>TWELVE OH FIVE</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>先读原信息，再读变化：</p>\n<blockquote>\n<p>10:20, Platform 4 → 10:55, Platform 7<br>arrival 11:30 → estimated arrival 12:05</p>\n</blockquote>\n<p>回听时确认：旧信息和新信息不会被听反。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听延误时间、站台变化、预计到达时间和方案比较。</p>\n</blockquote>\n<p><strong>The train&#39;s been delayed</strong> 中的 <strong>&#39;s</strong> 很轻，重点落在结果：</p>\n<blockquote>\n<p>The train&#39;s been <strong>DELAYED</strong>.<br>moved to Platform <strong>SEVEN</strong><br>estimated arrival: <strong>TWELVE OH FIVE</strong></p>\n</blockquote>\n<h3>录音</h3>\n<p>先读原信息，再读变化：</p>\n<blockquote>\n<p>10:20, Platform 4 → 10:55, Platform 7<br>arrival 11:30 → estimated arrival 12:05</p>\n</blockquote>\n<p>回听时确认：旧信息和新信息不会被听反。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1302,7 +1302,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 坚定但不攻击的重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>把重音放在可核对的承诺和需求上：</p>\n<blockquote>\n<p>We were told it would be ready by <strong>THREE</strong>.<br>We need a room with a <strong>DESK</strong>.<br>We&#39;d prefer to <strong>KEEP THE ORIGINAL ROOM</strong>.</p>\n</blockquote>\n<p>避免把 <strong>you</strong> 读得很重，变成人身归责：</p>\n<blockquote>\n<p><strong>YOU</strong> said it was ready.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录两个版本：先说明问题，再比较方案并选择。回听时确认语气既清楚又没有把前台人员当作问题本身。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听前台怎样承认问题、提供选项，以及Lena怎样确认最终安排。</p>\n</blockquote>\n<p>把重音放在可核对的承诺和需求上：</p>\n<blockquote>\n<p>We were told it would be ready by <strong>THREE</strong>.<br>We need a room with a <strong>DESK</strong>.<br>We&#39;d prefer to <strong>KEEP THE ORIGINAL ROOM</strong>.</p>\n</blockquote>\n<p>避免把 <strong>you</strong> 读得很重，变成人身归责：</p>\n<blockquote>\n<p><strong>YOU</strong> said it was ready.</p>\n</blockquote>\n<h3>录音</h3>\n<p>录两个版本：先说明问题，再比较方案并选择。回听时确认语气既清楚又没有把前台人员当作问题本身。</p>\n<hr>\n"
       },
       {
         "id": "section-7",

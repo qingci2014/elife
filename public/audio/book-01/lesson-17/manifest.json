@@ -1,0 +1,195 @@
+{
+  "title": "Lesson 17 - Is This Seat Taken?",
+  "voiceMap": {
+    "Grace": "af_sarah",
+    "Nora": "af_nicole"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-17/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Excuse me, is this seat taken?",
+      "src": "/audio/book-01/lesson-17/lines/01.wav",
+      "duration": 3.1
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "No, it's free.",
+      "src": "/audio/book-01/lesson-17/lines/02.wav",
+      "duration": 1.95
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Do you mind if I sit here?",
+      "src": "/audio/book-01/lesson-17/lines/03.wav",
+      "duration": 2.55
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "Not at all. Go ahead. I'll move my bag.",
+      "src": "/audio/book-01/lesson-17/lines/04.wav",
+      "duration": 4.375
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Thank you. Could I put my coat above us?",
+      "src": "/audio/book-01/lesson-17/lines/05.wav",
+      "duration": 3.225
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "Sure. There's plenty of space.",
+      "src": "/audio/book-01/lesson-17/lines/06.wav",
+      "duration": 2.9
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "Is the aisle seat comfortable enough? This part of the train is a little narrow.",
+      "src": "/audio/book-01/lesson-17/lines/07.wav",
+      "duration": 7.575
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "It's fine, thanks. I'll keep my small bag under the seat so it doesn't block the aisle.",
+      "src": "/audio/book-01/lesson-17/lines/08.wav",
+      "duration": 5.85
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "It's busier than usual today.",
+      "src": "/audio/book-01/lesson-17/lines/09.wav",
+      "duration": 2.875
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "It is. I think a conference is starting downtown.",
+      "src": "/audio/book-01/lesson-17/lines/10.wav",
+      "duration": 5.15
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "That explains all the suitcases.",
+      "src": "/audio/book-01/lesson-17/lines/11.wav",
+      "duration": 3.075
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "I take this train twice a week, and I can usually find an empty row.",
+      "src": "/audio/book-01/lesson-17/lines/12.wav",
+      "duration": 6.875
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "The last time I took it was last month. The later morning service is normally quieter.",
+      "src": "/audio/book-01/lesson-17/lines/13.wav",
+      "duration": 6.475
+    },
+    {
+      "id": 14,
+      "part": "A",
+      "speaker": "Nora",
+      "text": "I guess everyone had the same idea today.",
+      "src": "/audio/book-01/lesson-17/lines/14.wav",
+      "duration": 4.2
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Nora",
+      "text": "Are you getting off at Central Station too?",
+      "src": "/audio/book-01/lesson-17/lines/15.wav",
+      "duration": 4.05
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Yes. I'm meeting a friend near the west entrance. How about you?",
+      "src": "/audio/book-01/lesson-17/lines/16.wav",
+      "duration": 4.675
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Nora",
+      "text": "I'm changing there for the airport line.",
+      "src": "/audio/book-01/lesson-17/lines/17.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Then you have one more train after this.",
+      "src": "/audio/book-01/lesson-17/lines/18.wav",
+      "duration": 3.125
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Nora",
+      "text": "Unfortunately, yes.",
+      "src": "/audio/book-01/lesson-17/lines/19.wav",
+      "duration": 2.75
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Well, I'll let you get back to your podcast.",
+      "src": "/audio/book-01/lesson-17/lines/20.wav",
+      "duration": 3.375
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Nora",
+      "text": "And I'll let you get back to your book. It was nice talking with you.",
+      "src": "/audio/book-01/lesson-17/lines/21.wav",
+      "duration": 5.525
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "You too. Have a good trip.",
+      "src": "/audio/book-01/lesson-17/lines/22.wav",
+      "duration": 2.625
+    },
+    {
+      "id": 23,
+      "part": "B",
+      "speaker": "Nora",
+      "text": "Thanks. You too.",
+      "src": "/audio/book-01/lesson-17/lines/23.wav",
+      "duration": 1.925
+    }
+  ]
+}

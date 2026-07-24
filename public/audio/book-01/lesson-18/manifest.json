@@ -1,0 +1,188 @@
+{
+  "title": "Lesson 18 - Which Line Should We Take?",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart",
+    "Station attendant": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-18/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Excuse me, which line should we take for the City History Museum?",
+      "src": "/audio/book-01/lesson-18/lines/01.wav",
+      "duration": 4.4
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "Take the Blue Line toward Airport.",
+      "src": "/audio/book-01/lesson-18/lines/02.wav",
+      "duration": 2.35
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Which platform do we need for the Blue Line?",
+      "src": "/audio/book-01/lesson-18/lines/03.wav",
+      "duration": 3.325
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "Platform 2. The stairs are on your left, beyond the ticket machines.",
+      "src": "/audio/book-01/lesson-18/lines/04.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Is there an elevator nearby?",
+      "src": "/audio/book-01/lesson-18/lines/05.wav",
+      "duration": 2.35
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "Yes. It's beside the stairs and goes to the same platform.",
+      "src": "/audio/book-01/lesson-18/lines/06.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Do we stay on the Blue Line all the way?",
+      "src": "/audio/book-01/lesson-18/lines/07.wav",
+      "duration": 3.225
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "No. Change at Central Station for the Green Line.",
+      "src": "/audio/book-01/lesson-18/lines/08.wav",
+      "duration": 3.225
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Which direction on the Green Line?",
+      "src": "/audio/book-01/lesson-18/lines/09.wav",
+      "duration": 2.375
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "Take the train toward Hill Park and get off at Museum Square.",
+      "src": "/audio/book-01/lesson-18/lines/10.wav",
+      "duration": 3.925
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "How many stops is that from here?",
+      "src": "/audio/book-01/lesson-18/lines/11.wav",
+      "duration": 3.0
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Station attendant",
+      "text": "Three stops to Central, then two more to Museum Square.",
+      "src": "/audio/book-01/lesson-18/lines/12.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Let me make sure I've got this right. First, we take the Blue Line toward Airport for three stops.",
+      "src": "/audio/book-01/lesson-18/lines/13.wav",
+      "duration": 6.025
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Station attendant",
+      "text": "Correct.",
+      "src": "/audio/book-01/lesson-18/lines/14.wav",
+      "duration": 1.225
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then we change at Central for the Green Line toward Hill Park.",
+      "src": "/audio/book-01/lesson-18/lines/15.wav",
+      "duration": 4.125
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Station attendant",
+      "text": "Right. Get off at Museum Square.",
+      "src": "/audio/book-01/lesson-18/lines/16.wav",
+      "duration": 2.325
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Which exit should we use?",
+      "src": "/audio/book-01/lesson-18/lines/17.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Station attendant",
+      "text": "Follow the signs for Exit C. The museum is across from the station.",
+      "src": "/audio/book-01/lesson-18/lines/18.wav",
+      "duration": 4.825
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "So: Blue toward Airport, change at Central, Green toward Hill Park, off at Museum Square, Exit C.",
+      "src": "/audio/book-01/lesson-18/lines/19.wav",
+      "duration": 5.675
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Station attendant",
+      "text": "Exactly.",
+      "src": "/audio/book-01/lesson-18/lines/20.wav",
+      "duration": 1.425
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Thanks. Now the map makes sense.",
+      "src": "/audio/book-01/lesson-18/lines/21.wav",
+      "duration": 2.325
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Station attendant",
+      "text": "You're welcome. Have a good visit.",
+      "src": "/audio/book-01/lesson-18/lines/22.wav",
+      "duration": 2.275
+    }
+  ]
+}
