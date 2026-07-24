@@ -1,0 +1,180 @@
+{
+  "title": "Lesson 48 - I See Your Point, But…",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Lena": "af_kore",
+    "Morgan": "bm_george",
+    "Priya": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-48/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Thanks for meeting with me. I see now that the Friday graphics were never agreed. We have a small launch budget, and I hoped the poster could be adapted quickly.",
+      "src": "/audio/book-02/lesson-48/lines/01.wav",
+      "duration": 8.7
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I see your point, but I can't commit to three extra graphics as volunteer work.",
+      "src": "/audio/book-02/lesson-48/lines/02.wav",
+      "duration": 5.35
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "I understand. Could we reduce the request to one schedule graphic? We still need something by Friday.",
+      "src": "/audio/book-02/lesson-48/lines/03.wav",
+      "duration": 5.925
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I understand why the timing matters; however, that item is still outside the one poster I agreed to make.",
+      "src": "/audio/book-02/lesson-48/lines/04.wav",
+      "duration": 6.875
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "And I should have checked with Aisha before I suggested otherwise. The Friday expectation came from my note, not from her.",
+      "src": "/audio/book-02/lesson-48/lines/05.wav",
+      "duration": 8.375
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "That's clear. Aisha, what part of the project can you agree to?",
+      "src": "/audio/book-02/lesson-48/lines/06.wav",
+      "duration": 3.725
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "What I can agree to is the original poster after the final text and permissions are approved. That commitment hasn't changed.",
+      "src": "/audio/book-02/lesson-48/lines/07.wav",
+      "duration": 7.65
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Would a simpler schedule graphic with no photographs work?",
+      "src": "/audio/book-02/lesson-48/lines/08.wav",
+      "duration": 3.725
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Not by Friday. That doesn't work for me because my current client deadlines are already fixed.",
+      "src": "/audio/book-02/lesson-48/lines/09.wav",
+      "duration": 5.875
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "I appreciate the direct answer.",
+      "src": "/audio/book-02/lesson-48/lines/10.wav",
+      "duration": 2.575
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "If you need more than the original poster, we'll need a separate brief, an agreed fee and a realistic turnaround.",
+      "src": "/audio/book-02/lesson-48/lines/11.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "I wish the launch budget were larger, but it isn't. For Friday, the center can use its existing neutral schedule template.",
+      "src": "/audio/book-02/lesson-48/lines/12.wav",
+      "duration": 7.4
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "That keeps the urgent need separate from Aisha's commitment.",
+      "src": "/audio/book-02/lesson-48/lines/13.wav",
+      "duration": 3.875
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Yes. I'll withdraw the Friday request and remove Aisha's name from that task.",
+      "src": "/audio/book-02/lesson-48/lines/14.wav",
+      "duration": 4.55
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Thank you. If funding is approved later, send the extra brief and I'll decide after reviewing it. Please don't list me as assigned before I answer.",
+      "src": "/audio/book-02/lesson-48/lines/15.wav",
+      "duration": 8.7
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Agreed. Nothing additional will be assigned without your written acceptance.",
+      "src": "/audio/book-02/lesson-48/lines/16.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "My correction also says that the original poster depends on approved text and permissions. I won't connect it to the wayfinding signs or other launch materials.",
+      "src": "/audio/book-02/lesson-48/lines/17.wav",
+      "duration": 11.375
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Good. I still want to contribute that one poster when the inputs are ready.",
+      "src": "/audio/book-02/lesson-48/lines/18.wav",
+      "duration": 4.875
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Then our confirmed version is: the center uses its template on Friday, Aisha keeps the one-poster volunteer commitment, and any extra design becomes a separate future request.",
+      "src": "/audio/book-02/lesson-48/lines/19.wav",
+      "duration": 10.85
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Exactly. I see the center's time pressure, but this is the version I can responsibly agree to.",
+      "src": "/audio/book-02/lesson-48/lines/20.wav",
+      "duration": 6.375
+    }
+  ],
+  "transfer": {
+    "title": "志愿任务请求留言（清晰英式英语）",
+    "instruction": "先听两遍，记录交付物、截止时间、预算、是否已分配、范围不足时的回应要求和回复期限。",
+    "speaker": "Morgan",
+    "src": "/audio/book-02/lesson-48/transfer.wav",
+    "duration": 30.075
+  }
+}

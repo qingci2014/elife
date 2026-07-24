@@ -1,0 +1,187 @@
+{
+  "title": "Lesson 46 - I Wish Things Were Different",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-46/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "You look as if you've rewritten that message several times.",
+      "src": "/audio/book-02/lesson-46/lines/01.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I have. I wish things were different. I want to help with the exhibition, but every extra request seems to arrive as an urgent favor.",
+      "src": "/audio/book-02/lesson-46/lines/02.wav",
+      "duration": 8.175
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What do you wish were different exactly?",
+      "src": "/audio/book-02/lesson-46/lines/03.wav",
+      "duration": 2.575
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I wish community projects had a realistic design budget from the beginning. I also wish I had more free time this week.",
+      "src": "/audio/book-02/lesson-46/lines/04.wav",
+      "duration": 7.65
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Those wishes make sense, but what is the present reality?",
+      "src": "/audio/book-02/lesson-46/lines/05.wav",
+      "duration": 3.625
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The center hasn't confirmed a budget for the extra graphics, my client work is already scheduled, and the exhibition text still isn't final.",
+      "src": "/audio/book-02/lesson-46/lines/06.wav",
+      "duration": 8.5
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So wishing doesn't mean that you can safely promise Friday.",
+      "src": "/audio/book-02/lesson-46/lines/07.wav",
+      "duration": 3.75
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Right. If only the request were smaller and the wording were ready, I could assess it quickly. But neither condition is true.",
+      "src": "/audio/book-02/lesson-46/lines/08.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What part can you change?",
+      "src": "/audio/book-02/lesson-46/lines/09.wav",
+      "duration": 1.8
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I can't create more time or approve the center's budget, but I can make my current capacity clear.",
+      "src": "/audio/book-02/lesson-46/lines/10.wav",
+      "duration": 6.325
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "What would that look like in the reply?",
+      "src": "/audio/book-02/lesson-46/lines/11.wav",
+      "duration": 2.275
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The reality is that I can still make the original poster after the approved text and permissions arrive. I can't take on three additional graphics by Friday.",
+      "src": "/audio/book-02/lesson-46/lines/12.wav",
+      "duration": 9.475
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Can you offer anything that doesn't quietly expand the work?",
+      "src": "/audio/book-02/lesson-46/lines/13.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "What I can do is review a separate written brief next week. If there is a realistic deadline and budget, I can decide then.",
+      "src": "/audio/book-02/lesson-46/lines/14.wav",
+      "duration": 7.9
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That sounds different from saying, “Maybe I'll squeeze it in.”",
+      "src": "/audio/book-02/lesson-46/lines/15.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Much different. I wish I could say yes to every useful project, but I can only promise work that I have actually assessed.",
+      "src": "/audio/book-02/lesson-46/lines/16.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Does your reply need to solve Priya's Friday problem?",
+      "src": "/audio/book-02/lesson-46/lines/17.wav",
+      "duration": 3.175
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "No. I can acknowledge it and suggest that the center use an existing neutral template if it needs something before a new agreement.",
+      "src": "/audio/book-02/lesson-46/lines/18.wav",
+      "duration": 7.9
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let's compare the options by honesty and workload. Which is the best fit?",
+      "src": "/audio/book-02/lesson-46/lines/19.wav",
+      "duration": 4.975
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Based on those criteria, the best fit is a clear no to Friday, plus an offer to review a separate brief next week. The downside is that Priya must find another short-term solution.",
+      "src": "/audio/book-02/lesson-46/lines/20.wav",
+      "duration": 10.775
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "And your actionable step?",
+      "src": "/audio/book-02/lesson-46/lines/21.wav",
+      "duration": 1.9
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Send the clarification today. My wishes explain how I feel; the message will explain what I can actually do.",
+      "src": "/audio/book-02/lesson-46/lines/22.wav",
+      "duration": 7.225
+    }
+  ]
+}

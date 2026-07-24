@@ -1,0 +1,171 @@
+{
+  "title": "Lesson 45 - I Could Use Some Advice",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-45/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I could use some advice. The arts center has asked for three extra graphics by Friday, but I only agreed to make one poster after the text and permissions are ready.",
+      "src": "/audio/book-02/lesson-45/lines/01.wav",
+      "duration": 9.975
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Do you want help deciding whether to do the extra work, or help deciding how to reply?",
+      "src": "/audio/book-02/lesson-45/lines/02.wav",
+      "duration": 5.525
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Both, really. I want to support the project, but there is no final text, no separate brief and no budget in the email.",
+      "src": "/audio/book-02/lesson-45/lines/03.wav",
+      "duration": 7.175
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Then you could ask Priya to separate the original poster from the new request.",
+      "src": "/audio/book-02/lesson-45/lines/04.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "That would make the scope clearer. I'm worried that asking about money will sound unfriendly because the project is community-based.",
+      "src": "/audio/book-02/lesson-45/lines/05.wav",
+      "duration": 7.9
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "You might want to ask about scope, deadline and budget together. That sounds like project planning, not a demand for payment.",
+      "src": "/audio/book-02/lesson-45/lines/06.wav",
+      "duration": 7.825
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "True. The deadline is also difficult. I have two client files due on Thursday.",
+      "src": "/audio/book-02/lesson-45/lines/07.wav",
+      "duration": 5.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I think you should protect work that you have already promised. A volunteer request doesn't cancel a paid commitment.",
+      "src": "/audio/book-02/lesson-45/lines/08.wav",
+      "duration": 7.475
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "So the issue isn't whether community work matters. It's whether I can responsibly add three undefined items this week.",
+      "src": "/audio/book-02/lesson-45/lines/09.wav",
+      "duration": 7.625
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Exactly. I'd avoid replying with a quick yes and trying to solve the details later.",
+      "src": "/audio/book-02/lesson-45/lines/10.wav",
+      "duration": 5.8
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "What about refusing everything now?",
+      "src": "/audio/book-02/lesson-45/lines/11.wav",
+      "duration": 3.125
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "You don't have to decide that today. First ask for the missing information. If the extra work is still unrealistic, you can decline it clearly.",
+      "src": "/audio/book-02/lesson-45/lines/12.wav",
+      "duration": 9.25
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Let's compare the advice by risk and reversibility. Asking for a written scope is low-risk and keeps the conversation open.",
+      "src": "/audio/book-02/lesson-45/lines/13.wav",
+      "duration": 7.975
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "And keeping your original one-poster commitment prevents the new request from replacing what you actually agreed to.",
+      "src": "/audio/book-02/lesson-45/lines/14.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "The downside is that Priya may still need a quick answer about Friday.",
+      "src": "/audio/book-02/lesson-45/lines/15.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then give her a time when you can respond after she clarifies the request. A clear next step is better than a vague maybe.",
+      "src": "/audio/book-02/lesson-45/lines/16.wav",
+      "duration": 8.1
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Based on that, the best fit is to ask for a separate brief today and say that I can't confirm Friday until I see the scope, deadline and budget.",
+      "src": "/audio/book-02/lesson-45/lines/17.wav",
+      "duration": 8.5
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That sounds measured. Which second piece of advice are you choosing?",
+      "src": "/audio/book-02/lesson-45/lines/18.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I'll protect the existing poster commitment and avoid promising any extra graphics until we have a separate agreement.",
+      "src": "/audio/book-02/lesson-45/lines/19.wav",
+      "duration": 7.625
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Good. The choice is yours, but now your reply can show both support and a real boundary.",
+      "src": "/audio/book-02/lesson-45/lines/20.wav",
+      "duration": 6.075
+    }
+  ]
+}
