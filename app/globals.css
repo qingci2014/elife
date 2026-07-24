@@ -142,6 +142,37 @@ button, input { font: inherit; }
 .lesson-toc a { padding:5px 0; color:var(--muted); font-size:12px; line-height:1.45; }
 .lesson-toc a:hover { color:var(--teal); }
 .lesson-article { min-width:0; }
+.audio-lab { margin:0 0 28px; padding:30px 32px; border-radius:18px; background:var(--ink); color:var(--paper-light); box-shadow:var(--shadow); }
+.audio-lab-heading { display:flex; align-items:end; justify-content:space-between; gap:24px; }
+.audio-lab-heading .eyebrow { color:#8fd2c7; }
+.audio-lab-heading h2 { margin:0; font:650 31px Georgia,"Songti SC",serif; }
+.audio-duration { color:#b9c6c3; font-size:12px; white-space:nowrap; }
+.audio-mode-tabs { display:flex; gap:6px; margin:24px 0 14px; padding:4px; border-radius:11px; background:rgba(255,255,255,.08); }
+.audio-mode-tabs button { flex:1; padding:9px 12px; border:0; border-radius:8px; background:transparent; color:#b9c6c3; cursor:pointer; font-weight:750; }
+.audio-mode-tabs button.active { background:var(--paper-light); color:var(--ink); }
+.audio-speed { display:flex; flex-wrap:wrap; align-items:center; gap:6px; margin-bottom:20px; }
+.audio-speed span { margin-right:6px; color:#b9c6c3; font-size:12px; }
+.audio-speed button, .shadow-controls button { border:1px solid rgba(255,255,255,.2); border-radius:999px; background:transparent; color:#dce5e3; cursor:pointer; }
+.audio-speed button { min-width:48px; padding:6px 9px; font-size:12px; }
+.audio-speed button.active, .shadow-controls button.active { border-color:var(--amber); background:rgba(231,183,92,.14); color:#ffe0a3; }
+.dialogue-player { padding:18px; border-radius:12px; background:rgba(255,255,255,.07); }
+.dialogue-player p { margin:0 0 12px; color:#c8d2d0; font-size:13px; }
+.dialogue-player audio { display:block; width:100%; height:44px; }
+.shadow-controls { display:flex; flex-wrap:wrap; align-items:center; gap:9px; margin-bottom:15px; }
+.shadow-controls button { padding:8px 13px; }
+.shadow-controls .shadow-primary { border-color:var(--amber); background:var(--amber); color:var(--ink); font-weight:800; }
+.follow-status { margin-left:auto; color:#b9c6c3; font-size:12px; }
+.follow-status.waiting { color:#ffe0a3; font-weight:800; }
+.shadow-script { max-height:420px; overflow-y:auto; border:1px solid rgba(255,255,255,.12); border-radius:12px; background:rgba(255,255,255,.04); }
+.shadow-line { display:grid; grid-template-columns:70px minmax(0,1fr) 36px; gap:12px; width:100%; padding:13px 14px; border:0; border-bottom:1px solid rgba(255,255,255,.09); background:transparent; color:#eaf0ee; cursor:pointer; text-align:left; line-height:1.45; }
+.shadow-line:last-child { border-bottom:0; }
+.shadow-line:hover { background:rgba(255,255,255,.07); }
+.shadow-line.active { background:rgba(231,183,92,.16); box-shadow:inset 3px 0 var(--amber); }
+.shadow-line small { color:#91a39f; text-align:right; }
+.speaker { color:#8fd2c7; font-size:11px; font-weight:850; letter-spacing:.03em; text-transform:uppercase; }
+.speaker-daniel { color:#ffd18a; }
+.speaker-barista { color:#c9b6ed; }
+.audio-loading, .audio-error { margin:14px 0 0; color:#ffd5c8; font-size:13px; }
 .lesson-intro { margin-bottom:20px; }
 .lesson-intro h1 { display:none; }
 .lesson-intro > p:first-of-type { color:var(--coral); font-weight:750; }
@@ -197,6 +228,11 @@ button, input { font: inherit; }
   .lesson-row .status { grid-column:2; justify-self:start; }
   .lesson-hero { flex-direction:column; gap:20px; }
   .lesson-shell { display:block; }
+  .audio-lab { padding:24px 20px; }
+  .audio-lab-heading { align-items:start; flex-direction:column; gap:8px; }
+  .shadow-line { grid-template-columns:60px minmax(0,1fr); }
+  .shadow-line small { display:none; }
+  .follow-status { width:100%; margin-left:0; }
   .lesson-toc { position:static; flex-direction:row; overflow-x:auto; gap:12px; margin-bottom:20px; border-bottom:1px solid var(--line); white-space:nowrap; }
   .lesson-toc strong { display:none; }
   .lesson-section { padding:26px 22px; }

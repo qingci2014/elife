@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { lessons } from "../../generated/content";
+import { LessonAudioPlayer } from "../../components/lesson-audio-player";
 
 type PageProps = { params: Promise<{ slug: string }> };
 
@@ -51,6 +52,7 @@ export default async function LessonPage({ params }: PageProps) {
             ))}
           </aside>
           <article className="lesson-article">
+            {lesson.number === 1 ? <LessonAudioPlayer /> : null}
             <div className="lesson-intro" dangerouslySetInnerHTML={{ __html: lesson.introHtml }} />
             {lesson.sections.map((section) => {
               const isAnswer = /Answer Key|参考答案|答案/.test(section.title);

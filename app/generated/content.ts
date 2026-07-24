@@ -67,7 +67,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 弱读和句子重音",
-        "html": "<blockquote>\n<p>成品音频尚未制作。本节当前只能用于朗读和录音自查，不能作为正式听力达标证据；正式版必须补充清晰自然版与真实互动版音频。</p>\n</blockquote>\n<p>英语句子不会把每个词读得一样重。表达主要信息的词通常更突出，语法功能词往往更轻。</p>\n<p>朗读下面两句，把大写部分读得更明显：</p>\n<blockquote>\n<p>I <strong>MOVED BACK</strong> last <strong>MONTH</strong>.<br>Are you still <strong>WORKING</strong> at the <strong>HOSPITAL</strong>?</p>\n</blockquote>\n<p>在自然语速中，<strong>have</strong> 和 <strong>you</strong> 往往较轻：</p>\n<blockquote>\n<p>How have you been?</p>\n</blockquote>\n<p>不要为了追求“地道”而含糊不清。先保证单词和信息清楚，再逐渐提高速度。</p>\n<h3>跟读练习</h3>\n<p>按意群停顿三次，再连起来读：</p>\n<blockquote>\n<p>I thought / you were still living / in Seattle.<br>Let me check my schedule / and get back to you.</p>\n</blockquote>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课页面已提供完整自然对话、可调语速的逐句跟读和单句循环。先完整听懂故事，再使用跟读模式模仿重音、节奏和语调。</p>\n</blockquote>\n<p>英语句子不会把每个词读得一样重。表达主要信息的词通常更突出，语法功能词往往更轻。</p>\n<p>朗读下面两句，把大写部分读得更明显：</p>\n<blockquote>\n<p>I <strong>MOVED BACK</strong> last <strong>MONTH</strong>.<br>Are you still <strong>WORKING</strong> at the <strong>HOSPITAL</strong>?</p>\n</blockquote>\n<p>在自然语速中，<strong>have</strong> 和 <strong>you</strong> 往往较轻：</p>\n<blockquote>\n<p>How have you been?</p>\n</blockquote>\n<p>不要为了追求“地道”而含糊不清。先保证单词和信息清楚，再逐渐提高速度。</p>\n<h3>跟读练习</h3>\n<p>按意群停顿三次，再连起来读：</p>\n<blockquote>\n<p>I thought / you were still living / in Seattle.<br>Let me check my schedule / and get back to you.</p>\n</blockquote>\n<hr>\n"
       },
       {
         "id": "section-7",
