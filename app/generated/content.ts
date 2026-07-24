@@ -1367,7 +1367,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — I've had与时间重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p><strong>I&#39;ve had</strong> 在自然语流中连接紧密，最重要的信息通常是症状和时间：</p>\n<blockquote>\n<p>I&#39;ve had this <strong>COUGH</strong> / for a <strong>WEEK</strong>.<br>It&#39;s been <strong>WORSE</strong> / since <strong>FRIDAY</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用不同症状替换，录三组“持续时间—开始点—变化”。回听时确认 <strong>for</strong> 后是时长，<strong>since</strong> 后是起点。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听症状持续时间、开始时间、变化和相关信息；本课训练表达，不用于自我诊断。</p>\n</blockquote>\n<p><strong>I&#39;ve had</strong> 在自然语流中连接紧密，最重要的信息通常是症状和时间：</p>\n<blockquote>\n<p>I&#39;ve had this <strong>COUGH</strong> / for a <strong>WEEK</strong>.<br>It&#39;s been <strong>WORSE</strong> / since <strong>FRIDAY</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>用不同症状替换，录三组“持续时间—开始点—变化”。回听时确认 <strong>for</strong> 后是时长，<strong>since</strong> 后是起点。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1432,7 +1432,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 建议强度来自重音和理由",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>You <strong>MIGHT</strong> want to write it down. <em>(柔和)</em><br>You <strong>SHOULD</strong> contact a professional. <em>(明确)</em><br>You&#39;d <strong>BETTER CALL NOW</strong>—the line closes in five minutes. <em>(及时后果)</em></p>\n</blockquote>\n<h3>录音</h3>\n<p>对同一非紧急情境读三个版本，随后补一个理由。回听时检查 <strong>had better</strong> 是否听起来像有明确时间后果，而不是无端威胁。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听谨慎建议与明确时限的差别；本课训练沟通，不替代专业医疗意见。</p>\n</blockquote>\n<blockquote>\n<p>You <strong>MIGHT</strong> want to write it down. <em>(柔和)</em><br>You <strong>SHOULD</strong> contact a professional. <em>(明确)</em><br>You&#39;d <strong>BETTER CALL NOW</strong>—the line closes in five minutes. <em>(及时后果)</em></p>\n</blockquote>\n<h3>录音</h3>\n<p>对同一非紧急情境读三个版本，随后补一个理由。回听时检查 <strong>had better</strong> 是否听起来像有明确时间后果，而不是无端威胁。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1497,7 +1497,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — keeps dropping的连读与重音",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<blockquote>\n<p>The Wi-Fi keeps <strong>DROPPING</strong>.<br>every <strong>TWENTY OR THIRTY MINUTES</strong><br>I&#39;ve already tried <strong>RESTARTING THE ROUTER</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>按“现象—频率—范围—步骤—结果”录45—60秒。回听时检查数字、设备和结果是否比功能词更清楚。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听故障频率、影响、已尝试步骤，以及工单号和上门时间。</p>\n</blockquote>\n<blockquote>\n<p>The Wi-Fi keeps <strong>DROPPING</strong>.<br>every <strong>TWENTY OR THIRTY MINUTES</strong><br>I&#39;ve already tried <strong>RESTARTING THE ROUTER</strong>.</p>\n</blockquote>\n<h3>录音</h3>\n<p>按“现象—频率—范围—步骤—结果”录45—60秒。回听时检查数字、设备和结果是否比功能词更清楚。</p>\n<hr>\n"
       },
       {
         "id": "section-7",
@@ -1562,7 +1562,7 @@ export const lessons: Lesson[] = [
       {
         "id": "section-6",
         "title": "6. Sound Natural — 语音消息中的信息分组",
-        "html": "<blockquote>\n<p><strong>成品音频尚未制作。</strong> 本节目前只能用于朗读、自录和互动排练，不能作为正式听力训练或陌生声音达标证据。</p>\n</blockquote>\n<p>把消息分成四个短意群：</p>\n<blockquote>\n<p><strong>WHAT HAPPENED:</strong> I locked myself out.<br><strong>WHERE:</strong> I&#39;m outside the Pine Street entrance.<br><strong>TRIED:</strong> I&#39;ve already called my neighbor.<br><strong>NEED:</strong> Could someone let me in?</p>\n</blockquote>\n<h3>录音</h3>\n<p>录45—60秒消息。回听时检查姓名、位置、请求和联系方式是否清楚，是否误说了不必要的证件号码。</p>\n<hr>\n"
+        "html": "<blockquote>\n<p>本课网页已配有完整对话、逐句播放和影子跟读。重点听事件经过、所在位置、已尝试办法和最终等待安排。</p>\n</blockquote>\n<p>把消息分成四个短意群：</p>\n<blockquote>\n<p><strong>WHAT HAPPENED:</strong> I locked myself out.<br><strong>WHERE:</strong> I&#39;m outside the Pine Street entrance.<br><strong>TRIED:</strong> I&#39;ve already called my neighbor.<br><strong>NEED:</strong> Could someone let me in?</p>\n</blockquote>\n<h3>录音</h3>\n<p>录45—60秒消息。回听时检查姓名、位置、请求和联系方式是否清楚，是否误说了不必要的证件号码。</p>\n<hr>\n"
       },
       {
         "id": "section-7",

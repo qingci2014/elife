@@ -1,0 +1,131 @@
+{
+  "title": "Lesson 23 - The Wi-Fi Keeps Dropping",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Support agent": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-23/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Support agent",
+      "text": "What problem are you having today?",
+      "src": "/audio/book-01/lesson-23/lines/01.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "The Wi-Fi keeps dropping. It disconnects every twenty or thirty minutes, then comes back after about a minute.",
+      "src": "/audio/book-01/lesson-23/lines/02.wav",
+      "duration": 6.85
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Support agent",
+      "text": "Does it happen on one device or several devices?",
+      "src": "/audio/book-01/lesson-23/lines/03.wav",
+      "duration": 3.925
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "It happens on both my laptop and phone. My client calls freeze, and large files stop uploading.",
+      "src": "/audio/book-01/lesson-23/lines/04.wav",
+      "duration": 6.5
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Support agent",
+      "text": "When did this start?",
+      "src": "/audio/book-01/lesson-23/lines/05.wav",
+      "duration": 1.875
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Yesterday afternoon. It happened six times yesterday and three times this morning.",
+      "src": "/audio/book-01/lesson-23/lines/06.wav",
+      "duration": 5.75
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Support agent",
+      "text": "What have you tried so far?",
+      "src": "/audio/book-01/lesson-23/lines/07.wav",
+      "duration": 2.2
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I've already tried restarting the router. First, I turned it off for thirty seconds. Then I turned it back on and waited for the lights to become steady.",
+      "src": "/audio/book-01/lesson-23/lines/08.wav",
+      "duration": 8.8
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Support agent",
+      "text": "Did that change anything?",
+      "src": "/audio/book-01/lesson-23/lines/09.wav",
+      "duration": 2.225
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "No. The problem is still happening. I also moved closer to the router and tested both devices.",
+      "src": "/audio/book-01/lesson-23/lines/10.wav",
+      "duration": 6.2
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Support agent",
+      "text": "Thank you. The notes are helpful. I'll run a remote line test. Please don't unplug anything while it runs.",
+      "src": "/audio/book-01/lesson-23/lines/11.wav",
+      "duration": 7.225
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Okay. What should I try next if the test doesn't find the problem?",
+      "src": "/audio/book-01/lesson-23/lines/12.wav",
+      "duration": 4.45
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Support agent",
+      "text": "I'll create a support ticket and arrange a technician visit rather than ask you to open the equipment.",
+      "src": "/audio/book-01/lesson-23/lines/13.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Could you confirm the ticket number and visit window by text?",
+      "src": "/audio/book-01/lesson-23/lines/14.wav",
+      "duration": 4.375
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Support agent",
+      "text": "Yes. The ticket is RV-4821, and the visit window is tomorrow from ten to noon.",
+      "src": "/audio/book-01/lesson-23/lines/15.wav",
+      "duration": 7.25
+    }
+  ]
+}

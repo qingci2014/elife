@@ -1,0 +1,123 @@
+{
+  "title": "Lesson 24 - I Locked Myself Out",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Property manager": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-24/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Property manager",
+      "text": "Maple Court after-hours line. What's the problem?",
+      "src": "/audio/book-01/lesson-24/lines/01.wav",
+      "duration": 3.425
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Hi, I locked myself out. I'm outside the main entrance on Pine Street.",
+      "src": "/audio/book-01/lesson-24/lines/02.wav",
+      "duration": 4.725
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Property manager",
+      "text": "Are you locked out of the building or just your apartment?",
+      "src": "/audio/book-01/lesson-24/lines/03.wav",
+      "duration": 3.275
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Both. I left my keys and building fob inside. The door closed behind me when I took the recycling downstairs.",
+      "src": "/audio/book-01/lesson-24/lines/04.wav",
+      "duration": 7.8
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Property manager",
+      "text": "Have you tried contacting anyone in the building?",
+      "src": "/audio/book-01/lesson-24/lines/05.wav",
+      "duration": 3.075
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes. I've already tried calling my neighbor Aisha, but she's away tonight. I haven't tried to force the door or climb anywhere.",
+      "src": "/audio/book-01/lesson-24/lines/06.wav",
+      "duration": 8.025
+    },
+    {
+      "id": 7,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Could someone let me in?",
+      "src": "/audio/book-01/lesson-24/lines/07.wav",
+      "duration": 1.775
+    },
+    {
+      "id": 8,
+      "part": "B",
+      "speaker": "Property manager",
+      "text": "I can send the on-call maintenance worker. It should take about twenty-five minutes.",
+      "src": "/audio/book-01/lesson-24/lines/08.wav",
+      "duration": 5.375
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Okay. My phone battery is at fifteen percent. Is there any information you need before I save the battery?",
+      "src": "/audio/book-01/lesson-24/lines/09.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Property manager",
+      "text": "Please confirm your full name and show the worker photo ID. Don't send the ID number by text.",
+      "src": "/audio/book-01/lesson-24/lines/10.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Daniel Reed. I have my photo ID with me. I'll wait under the covered entrance.",
+      "src": "/audio/book-01/lesson-24/lines/11.wav",
+      "duration": 5.325
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Property manager",
+      "text": "Good. The worker will call when arriving. If your situation becomes unsafe, call local emergency services.",
+      "src": "/audio/book-01/lesson-24/lines/12.wav",
+      "duration": 7.425
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Understood. So someone should be here in about twenty-five minutes, and I'll show photo ID.",
+      "src": "/audio/book-01/lesson-24/lines/13.wav",
+      "duration": 6.125
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Property manager",
+      "text": "Correct.",
+      "src": "/audio/book-01/lesson-24/lines/14.wav",
+      "duration": 1.225
+    }
+  ]
+}

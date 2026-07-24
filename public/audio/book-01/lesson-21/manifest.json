@@ -1,0 +1,139 @@
+{
+  "title": "Lesson 21 - I've Had This Cough for a Week",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Nurse": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-21/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Nurse",
+      "text": "What would you like help with today?",
+      "src": "/audio/book-01/lesson-21/lines/01.wav",
+      "duration": 2.425
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I've had this cough for a week. It started last Monday.",
+      "src": "/audio/book-01/lesson-21/lines/02.wav",
+      "duration": 3.625
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Nurse",
+      "text": "Has it stayed the same?",
+      "src": "/audio/book-01/lesson-21/lines/03.wav",
+      "duration": 2.025
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "No. It was dry for the first three days, but it's been worse since Friday.",
+      "src": "/audio/book-01/lesson-21/lines/04.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Nurse",
+      "text": "When does it usually get worse?",
+      "src": "/audio/book-01/lesson-21/lines/05.wav",
+      "duration": 2.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "It gets worse when I lie down at night. Warm drinks seem to make my throat feel better for a little while.",
+      "src": "/audio/book-01/lesson-21/lines/06.wav",
+      "duration": 6.85
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Nurse",
+      "text": "Have you had a fever?",
+      "src": "/audio/book-01/lesson-21/lines/07.wav",
+      "duration": 1.875
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I haven't had a fever. I checked twice yesterday and once this morning.",
+      "src": "/audio/book-01/lesson-21/lines/08.wav",
+      "duration": 4.625
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Nurse",
+      "text": "Have you noticed any shortness of breath or chest pain?",
+      "src": "/audio/book-01/lesson-21/lines/09.wav",
+      "duration": 3.675
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "No, I haven't noticed either of those.",
+      "src": "/audio/book-01/lesson-21/lines/10.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Nurse",
+      "text": "Are you taking any medicines or supplements?",
+      "src": "/audio/book-01/lesson-21/lines/11.wav",
+      "duration": 3.15
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Just my usual daily vitamin. I haven't taken anything specifically for the cough.",
+      "src": "/audio/book-01/lesson-21/lines/12.wav",
+      "duration": 5.825
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Nurse",
+      "text": "Is there anything else you want the clinician to know?",
+      "src": "/audio/book-01/lesson-21/lines/13.wav",
+      "duration": 3.625
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "That's everything I've noticed: one week, worse since Friday, mostly at night, no fever, and no trouble breathing.",
+      "src": "/audio/book-01/lesson-21/lines/14.wav",
+      "duration": 7.35
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Nurse",
+      "text": "Thank you. I'll add that to your appointment note. If your symptoms become severe or you develop an emergency warning sign, seek urgent help rather than waiting for this appointment.",
+      "src": "/audio/book-01/lesson-21/lines/15.wav",
+      "duration": 11.825
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Understood. Thank you.",
+      "src": "/audio/book-01/lesson-21/lines/16.wav",
+      "duration": 1.9
+    }
+  ]
+}
