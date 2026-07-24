@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 77 - Where Do We Want to Be in a Year?",
+  "voiceMap": {
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-77/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "A year from now, I don’t want us simply to say that we stayed busier. I want to know whether limited evening bookings can support the café without weakening the daytime service people already rely on.",
+      "start": 0.35,
+      "end": 12.175,
+      "duration": 11.825
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Then the destination is not “open more evenings.” It is “reach an evidence-based decision about a limited evening option while protecting the core business.”",
+      "start": 12.455,
+      "end": 21.58,
+      "duration": 9.125
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Exactly. What I need you to understand is that stability counts as success too. If the evidence says evenings create too much strain, choosing not to expand would still be a useful result.",
+      "start": 21.86,
+      "end": 33.96,
+      "duration": 12.1
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Good. Otherwise every milestone will quietly assume growth is the answer. What would we need to have learned by this time next year?",
+      "start": 34.24,
+      "end": 41.515,
+      "duration": 7.275
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "We’ll have compared genuine demand, direct costs, staff capacity and the effect on the following morning. We’ll also have recorded why groups chose us or decided not to book.",
+      "start": 41.795,
+      "end": 53.195,
+      "duration": 11.4
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "And at that point, we’ll be using one of three clear models: no evening bookings, occasional bookings under strict conditions or a small recurring schedule.",
+      "start": 53.475,
+      "end": 62.225,
+      "duration": 8.75
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "I like that. We are not promising the third model. We are promising that the choice will be based on more than a few enthusiastic messages.",
+      "start": 62.505,
+      "end": 70.955,
+      "duration": 8.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "A year from now, we want to be able to explain the decision to staff in one page: what we tested, what happened, what we learned and what we will do next.",
+      "start": 71.235,
+      "end": 79.685,
+      "duration": 8.45
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Can we agree that staff recovery is a success measure, not a problem to discuss after the financial numbers?",
+      "start": 79.965,
+      "end": 87.015,
+      "duration": 7.05
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Yes. If people are regularly arriving tired for the morning shift, the plan is off track even if every evening slot is booked.",
+      "start": 87.295,
+      "end": 94.72,
+      "duration": 7.425
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Let’s work backward. By the end of the first month, we’ll have classified the inquiries we already receive instead of asking customers to complete a new survey.",
+      "start": 95.85,
+      "end": 104.7,
+      "duration": 8.85
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "That keeps the first step light. We’ll be recording group size, preferred day, requested service and whether the inquiry became a booking somewhere else.",
+      "start": 104.98,
+      "end": 114.355,
+      "duration": 9.375
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "By month three, we’ll have drafted a small pilot with a budget ceiling, staffing rule, limited menu and clear stop conditions. Drafted does not mean approved.",
+      "start": 114.635,
+      "end": 123.76,
+      "duration": 9.125
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Right. During the next stage, we’ll be checking the proposal with the people who would actually work the shifts, not just with customers who like the idea.",
+      "start": 124.04,
+      "end": 133.115,
+      "duration": 9.075
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "If a pilot is approved, by month six we’ll have completed enough trial evenings to compare setup time, service time, cleanup and next-morning impact.",
+      "start": 133.395,
+      "end": 141.895,
+      "duration": 8.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "If it isn’t approved, we’ll have documented why and what evidence would justify reopening the question. A “no for now” should not disappear into memory.",
+      "start": 142.175,
+      "end": 151.925,
+      "duration": 9.75
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Our final milestone is a decision review. We’ll know we’re on track when each stage produces a record that the next stage can actually use.",
+      "start": 152.205,
+      "end": 160.155,
+      "duration": 7.95
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "From now on, let’s label every item as a goal, milestone, assumption or decision. That should stop a possible idea from appearing on the schedule as a commitment.",
+      "start": 160.435,
+      "end": 171.035,
+      "duration": 10.6
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "I’ll turn this into a one-page roadmap. Let me finish the first draft before we debate individual menu items; otherwise we’ll solve details before agreeing on the destination.",
+      "start": 171.315,
+      "end": 181.765,
+      "duration": 10.45
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Agreed. The first milestone is not an evening event. It is a reliable picture of demand and capacity, ready for a proposal discussion in four weeks.",
+      "start": 182.045,
+      "end": 192.17,
+      "duration": 10.125
+    }
+  ]
+}

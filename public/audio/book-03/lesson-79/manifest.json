@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 79 - We're Working with Limited Resources",
+  "voiceMap": {
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-79/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "We’re working with limited resources. The draft requires about twelve hundred dollars and uses all twenty extra staff-hours, but the budget ceiling is eight hundred dollars.",
+      "start": 0.35,
+      "end": 11.325,
+      "duration": 10.975
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "It has been estimated that protected staffing alone will cost six hundred and forty dollars. That figure comes from the current hourly rates and four two-and-a-half-hour evening blocks.",
+      "start": 11.605,
+      "end": 21.755,
+      "duration": 10.15
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Then labor is not the place to pretend we can save money. The proposal promised two named staff members and recovery protection.",
+      "start": 22.035,
+      "end": 30.535,
+      "duration": 8.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "I agree. Priority should be given to safe coverage and the next-morning schedule. Without those, we would be testing whether people can absorb unpaid strain, not whether the booking model works.",
+      "start": 30.815,
+      "end": 41.69,
+      "duration": 10.875
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "What accounts for the other five hundred and sixty dollars in the original estimate?",
+      "start": 41.97,
+      "end": 47.295,
+      "duration": 5.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "New printed menus and table signs are one hundred and eighty, extra menu inventory is one hundred and sixty, a booking-software add-on is one hundred and twenty, and contingency is one hundred.",
+      "start": 47.575,
+      "end": 59.5,
+      "duration": 11.925
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Which of those produces evidence we cannot get another way?",
+      "start": 59.78,
+      "end": 63.83,
+      "duration": 4.05
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "None of the printed material does. The existing booking form can collect the required details, and the trial can use the café’s current table cards.",
+      "start": 64.11,
+      "end": 72.96,
+      "duration": 8.85
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "If we remove the new printing and software, we can free up three hundred dollars. That brings the estimate down to nine hundred.",
+      "start": 73.24,
+      "end": 81.44,
+      "duration": 8.2
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "We still need to find one hundred dollars without cutting protected staff time or eliminating all contingency.",
+      "start": 81.72,
+      "end": 88.37,
+      "duration": 6.65
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "The extra inventory estimate assumes fourteen guests can choose from the full daytime pastry range. A smaller trial menu would reduce both waste and preparation.",
+      "start": 89.5,
+      "end": 99.425,
+      "duration": 9.925
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "How much has been allowed for inventory if we offer three items and require the order forty-eight hours in advance?",
+      "start": 99.705,
+      "end": 107.155,
+      "duration": 7.45
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Eighty dollars across four trials. If we reduce that line by eighty and reduce contingency by twenty, the total reaches eight hundred exactly.",
+      "start": 107.435,
+      "end": 116.185,
+      "duration": 8.75
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "The trade-off is less customer choice and less financial buffer in exchange for keeping four evidence points and protected staffing.",
+      "start": 116.465,
+      "end": 124.94,
+      "duration": 8.475
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Yes, but no allowance has been made for equipment failure or a late staff absence. If either occurs, the meeting needs authority to pause rather than exceed the ceiling automatically.",
+      "start": 125.22,
+      "end": 135.645,
+      "duration": 10.425
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Put that in the recommendation. It is expected that each trial will stay within its assigned resources, but an unexpected event should trigger review, not hidden overspending.",
+      "start": 135.925,
+      "end": 147.0,
+      "duration": 11.075
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "We also need to lower the maximum group size from fourteen to twelve. Three menu items and twelve guests fit the current preparation capacity more honestly.",
+      "start": 147.28,
+      "end": 156.58,
+      "duration": 9.3
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Does that weaken the demand test too much?",
+      "start": 156.86,
+      "end": 159.91,
+      "duration": 3.05
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "It narrows what we can learn about larger groups. In return, it lets us test the core process within the stated staffing and budget limits. That limitation should be recorded, not concealed.",
+      "start": 160.19,
+      "end": 171.265,
+      "duration": 11.075
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Then the recommendation is four smaller trials, protected labor first, existing tools, a limited menu and a pause rule. The meeting can accept that trade-off, choose fewer larger trials or reject the pilot.",
+      "start": 171.545,
+      "end": 185.145,
+      "duration": 13.6
+    }
+  ]
+}

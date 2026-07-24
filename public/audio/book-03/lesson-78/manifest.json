@@ -1,0 +1,193 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 78 - Let Me Walk You Through the Proposal",
+  "voiceMap": {
+    "Malik": "am_fenrir",
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-78/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Let me walk you through the proposal in five parts: the problem, the pilot design, the expected benefit, the main risks and the decision I’m asking for today.",
+      "start": 0.35,
+      "end": 9.325,
+      "duration": 8.975
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Before you begin, are you asking us to approve evening bookings?",
+      "start": 9.605,
+      "end": 13.98,
+      "duration": 4.375
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "No. I need you to hear me out through the risk controls first. I’m asking only whether the draft is complete enough for a resource review.",
+      "start": 14.26,
+      "end": 21.985,
+      "duration": 7.725
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "That distinction helps. What problem are we actually trying to solve?",
+      "start": 22.265,
+      "end": 26.815,
+      "duration": 4.55
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "The problem we’re trying to solve is uncertainty. We receive after-hours inquiries, but we don’t know the real demand, operating cost or effect on the next morning.",
+      "start": 27.095,
+      "end": 36.77,
+      "duration": 9.675
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "So the proposal is a way to learn, not a promise to create a new revenue line.",
+      "start": 37.05,
+      "end": 42.675,
+      "duration": 5.625
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Correct. The proposal has three operating parts: four Tuesday trials, pre-booked groups of no more than fourteen and a ninety-minute service window with a limited drinks-and-pastries menu.",
+      "start": 42.955,
+      "end": 53.68,
+      "duration": 10.725
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Why Tuesdays? Friday inquiries have been more common.",
+      "start": 53.96,
+      "end": 57.585,
+      "duration": 3.625
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Let me finish this part, and then I’ll show the day comparison. Tuesdays reduce conflict with our busiest daytime preparation, but that assumption still needs the resource sheet.",
+      "start": 57.865,
+      "end": 67.94,
+      "duration": 10.075
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "All right. Continue with the conditions before we debate the preferred day.",
+      "start": 68.22,
+      "end": 73.12,
+      "duration": 4.9
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "If we were to run four bounded trials, we could compare actual setup, service, cleanup and next-morning effects without committing to a recurring schedule.",
+      "start": 74.25,
+      "end": 82.85,
+      "duration": 8.6
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "The main benefit would be better evidence. What is the main operational risk?",
+      "start": 83.13,
+      "end": 88.305,
+      "duration": 5.175
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "The main risk is hidden labor. A ninety-minute booking could become a four-hour burden once preparation, closing and recovery are counted.",
+      "start": 88.585,
+      "end": 96.81,
+      "duration": 8.225
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "There is also cancellation risk. If a group cancels late, we may have scheduled people and prepared food without useful demand evidence.",
+      "start": 97.09,
+      "end": 106.065,
+      "duration": 8.975
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Agreed. The controls would be a booking deposit, a fixed order deadline, no hot-kitchen service, two named staff members and a stop review after the second trial.",
+      "start": 106.345,
+      "end": 115.82,
+      "duration": 9.475
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "I would add a next-morning check. If either closer is also on the opening shift, the trial should not go ahead unless the schedule has been adjusted.",
+      "start": 116.1,
+      "end": 125.725,
+      "duration": 9.625
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "That might work if the schedule can protect the recovery window. I’ll add it as a condition rather than assume a manager can always find cover.",
+      "start": 126.005,
+      "end": 134.03,
+      "duration": 8.025
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "What exactly are you asking us to decide at the end of this presentation?",
+      "start": 134.31,
+      "end": 139.035,
+      "duration": 4.725
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "I’m not asking you to agree that evening bookings are the right direction; I’m asking you to confirm that the proposal states enough conditions to price and staff honestly.",
+      "start": 139.315,
+      "end": 148.965,
+      "duration": 9.65
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Then my answer is yes with two revisions: show the day comparison and make next-morning coverage a required resource, not a hopeful note.",
+      "start": 149.245,
+      "end": 158.595,
+      "duration": 9.35
+    }
+  ]
+}

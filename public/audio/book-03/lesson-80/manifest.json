@@ -1,0 +1,201 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 80 - Could We Bring This Back to the Main Point?",
+  "voiceMap": {
+    "Malik": "am_fenrir",
+    "Noor": "af_bella",
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-80/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "We have thirty minutes and one decision: whether the revised framework is safe and useful enough to authorize planning. We are not assigning shifts or accepting bookings today.",
+      "start": 0.35,
+      "end": 10.875,
+      "duration": 10.525
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Let me summarize where we are. The one-year goal is an evidence-based operating decision, not automatic expansion. The revised proposal fits the eight-hundred-dollar and twenty-hour ceilings.",
+      "start": 11.155,
+      "end": 22.455,
+      "duration": 11.3
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Before we decide, I want the staffing assumption stated accurately. I said protected coverage was possible under some rotas; I did not say every Tuesday was easy to cover.",
+      "start": 22.735,
+      "end": 34.36,
+      "duration": 11.625
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "That’s not how your comment appeared in my first summary. I wrote “Tuesday coverage is available.” Thank you for correcting it.",
+      "start": 34.64,
+      "end": 41.365,
+      "duration": 6.725
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Can we compare the wording before we continue?",
+      "start": 41.645,
+      "end": 44.995,
+      "duration": 3.35
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "My note says, “Tuesday is workable if no closer is scheduled to open the next morning and two people volunteer for that date.” The condition matters.",
+      "start": 45.275,
+      "end": 55.2,
+      "duration": 9.925
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "I’ll correct the record to “potentially workable subject to date-specific coverage.” No shift will be treated as available until the people involved confirm it.",
+      "start": 55.48,
+      "end": 64.58,
+      "duration": 9.1
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Good. Can we hear from Malik on the revised menu and group size before Rosa responds to the cost question?",
+      "start": 64.86,
+      "end": 71.635,
+      "duration": 6.775
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Twelve guests and three preordered items protect preparation time. My remaining concern is that a late cancellation could use staff hours without producing a full trial.",
+      "start": 71.915,
+      "end": 83.39,
+      "duration": 11.475
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "The deposit reduces that risk, and a cancellation still produces limited evidence about the booking process. I would not count it as a completed service trial.",
+      "start": 83.67,
+      "end": 93.495,
+      "duration": 9.825
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "We’re moving into ideas about new signs again. Could we bring this back to the main point? Do the current controls make four smaller trials more useful than two larger ones?",
+      "start": 94.625,
+      "end": 105.275,
+      "duration": 10.65
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Four dates give us more process observations, but only if staffing is voluntary and each cancellation is labelled separately. Two larger trials would tell us more about capacity above twelve.",
+      "start": 105.555,
+      "end": 118.755,
+      "duration": 13.2
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "The evidence most relevant to this decision is whether the core process can operate inside the fixed limits. It does not need to answer the larger-group question yet.",
+      "start": 119.035,
+      "end": 128.485,
+      "duration": 9.45
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "A possible objection is that the smaller design may make the proposal look easier than a real recurring model would be.",
+      "start": 128.765,
+      "end": 136.415,
+      "duration": 7.65
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "That’s a fair point. I would qualify the conclusion by saying the pilot can test a bounded occasional-booking model only; it cannot justify a recurring or larger service.",
+      "start": 136.695,
+      "end": 147.045,
+      "duration": 10.35
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "With that limitation in the record, I support the four-trial option. What I need you to understand is that schedule consent must be a gate, not an action item someone can fill in later.",
+      "start": 147.325,
+      "end": 159.4,
+      "duration": 12.075
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Agreed. Before we move on, are we ready to decide on the framework with that gate, a review after trial two and an automatic pause if cost, hours or recovery protection would be exceeded?",
+      "start": 159.68,
+      "end": 171.855,
+      "duration": 12.175
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Yes. I’ll own the planning sheet and evidence log. Owen remains the decision owner, and Malik will check that the written schedule condition matches what staff actually confirm.",
+      "start": 172.135,
+      "end": 182.035,
+      "duration": 9.9
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "I agree, provided my review does not make me responsible for finding cover. Each person still accepts or declines a proposed shift directly.",
+      "start": 182.315,
+      "end": 192.265,
+      "duration": 9.95
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Then the framework is approved under those conditions. Is this an accurate record of the decision: up to four smaller trials over six weeks, no more than twelve guests, a limited preordered menu, eight hundred dollars, twenty extra hours, voluntary date-specific staffing, review after trial two and pause before any limit is crossed?",
+      "start": 192.545,
+      "end": 212.67,
+      "duration": 20.125
+    }
+  ],
+  "transfer": {
+    "title": "Noor's booking inquiry",
+    "instruction": "Listen twice without reading. Record the group size, requested dates, services, decision status and unknowns before giving a neutral 60-second summary.",
+    "speaker": "Noor",
+    "src": "/audio/book-03/lesson-80/transfer.wav",
+    "duration": 29.3
+  }
+}
