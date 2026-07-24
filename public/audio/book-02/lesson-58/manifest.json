@@ -1,0 +1,172 @@
+{
+  "title": "Lesson 58 - Is That How It's Usually Done?",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah",
+    "Leah": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-58/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Everyone at registration has a badge on. Is that how it’s usually done here?",
+      "src": "/audio/book-02/lesson-58/lines/01.wav",
+      "duration": 5.325
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Leah",
+      "text": "At this workshop, yes. The archive rooms require visible badges, but that’s a building rule, not a Port Mason custom.",
+      "src": "/audio/book-02/lesson-58/lines/02.wav",
+      "duration": 8.8
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Do we have to keep them on in the public café too?",
+      "src": "/audio/book-02/lesson-58/lines/03.wav",
+      "duration": 3.425
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Leah",
+      "text": "No. Only in the archive rooms and the staff corridor. You can remove them in the café.",
+      "src": "/audio/book-02/lesson-58/lines/04.wav",
+      "duration": 5.575
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Are we supposed to wait for a host before sitting down at lunch?",
+      "src": "/audio/book-02/lesson-58/lines/05.wav",
+      "duration": 3.925
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Leah",
+      "text": "No seats are assigned. People at this event usually join any table with an open chair.",
+      "src": "/audio/book-02/lesson-58/lines/06.wav",
+      "duration": 6.275
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I noticed that people were leaving the front table empty. Is that table reserved?",
+      "src": "/audio/book-02/lesson-58/lines/07.wav",
+      "duration": 5.85
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Leah",
+      "text": "It tends to stay open for speakers until the main session begins. If a host opens it, other guests can sit there.",
+      "src": "/audio/book-02/lesson-58/lines/08.wav",
+      "duration": 8.45
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So people in Port Mason always leave the best table for speakers.",
+      "src": "/audio/book-02/lesson-58/lines/09.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Leah",
+      "text": "I wouldn’t generalize from one workshop. It’s safer to say that participants here tend to leave that table open.",
+      "src": "/audio/book-02/lesson-58/lines/10.wav",
+      "duration": 7.725
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "What about recording an interview? Do we have to ask the host first?",
+      "src": "/audio/book-02/lesson-58/lines/11.wav",
+      "duration": 4.65
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Leah",
+      "text": "You need permission from each person you record. Taking written notes is okay unless a speaker asks you to stop.",
+      "src": "/audio/book-02/lesson-58/lines/12.wav",
+      "duration": 7.75
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Is it okay if I photograph a presentation slide instead?",
+      "src": "/audio/book-02/lesson-58/lines/13.wav",
+      "duration": 4.225
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Leah",
+      "text": "It depends on the session. If you see a no-photography sign, don’t take a picture. Otherwise, ask before the session starts.",
+      "src": "/audio/book-02/lesson-58/lines/14.wav",
+      "duration": 8.675
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "What’s the simplest way to check without interrupting anyone?",
+      "src": "/audio/book-02/lesson-58/lines/15.wav",
+      "duration": 4.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Leah",
+      "text": "Ask, “Is it okay if I take a photo of the slides?” A host can answer before the speaker begins.",
+      "src": "/audio/book-02/lesson-58/lines/16.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me check that I understand. Badges are required in archive rooms, lunch seating is usually flexible, and recording depends on individual permission.",
+      "src": "/audio/book-02/lesson-58/lines/17.wav",
+      "duration": 10.525
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Leah",
+      "text": "Exactly. One is a rule, one is a common practice, and one requires a person-specific answer.",
+      "src": "/audio/book-02/lesson-58/lines/18.wav",
+      "duration": 7.35
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "That distinction is useful for visitors. It tells us what to do without pretending every event works the same way.",
+      "src": "/audio/book-02/lesson-58/lines/19.wav",
+      "duration": 8.0
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Leah",
+      "text": "Right. Describe this setting accurately, and leave room for another setting to be different.",
+      "src": "/audio/book-02/lesson-58/lines/20.wav",
+      "duration": 6.175
+    }
+  ]
+}
