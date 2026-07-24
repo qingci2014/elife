@@ -19,6 +19,7 @@
 npm run dev
 npm run typecheck
 npm run build
+npm run build:edgeone
 npm test
 ```
 
@@ -32,6 +33,8 @@ EdgeOne 项目接入 `main` 分支后，每次发布按以下顺序进行：
 2. 双击 `publish-edgeone.cmd`；
 3. 脚本先运行完整测试，再确认工作区没有遗漏，最后通过 HTTP/1.1 推送 `main`；
 4. EdgeOne 检测到新提交后自动构建和部署。
+
+EdgeOne 使用 Next.js 预设，构建命令为 `npm run build:edgeone`，输出目录为 `.next`。默认的 `npm run build` 继续用于现有 Vinext/Sites 构建。
 
 脚本不会自动暂存或提交文件，避免把无关改动带到线上。
 

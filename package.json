@@ -9,6 +9,7 @@
     "content": "node scripts/generate-content.mjs",
     "dev": "node scripts/generate-content.mjs && vinext dev",
     "build": "node scripts/generate-content.mjs && vinext build",
+    "build:edgeone": "node scripts/generate-content.mjs && next build",
     "start": "vinext start",
     "typecheck": "tsc --noEmit --incremental false",
     "test": "npm run typecheck && npm run build && node --test tests/rendered-html.test.mjs",
