@@ -18,15 +18,15 @@ type AudioManifest = {
 };
 
 const rates = [0.75, 0.9, 1, 1.15, 1.25];
-const manifestUrl = "/audio/book-01/lesson-01/manifest.json";
-
 function formatTime(seconds: number) {
   const minutes = Math.floor(seconds / 60);
   const remainder = Math.round(seconds % 60).toString().padStart(2, "0");
   return `${minutes}:${remainder}`;
 }
 
-export function LessonAudioPlayer() {
+export function LessonAudioPlayer({ lessonNumber }: { lessonNumber: number }) {
+  const lessonKey = `lesson-${lessonNumber.toString().padStart(2, "0")}`;
+  const manifestUrl = `/audio/book-01/${lessonKey}/manifest.json`;
   const [manifest, setManifest] = useState<AudioManifest | null>(null);
   const [loadError, setLoadError] = useState(false);
   const [mode, setMode] = useState<"dialogue" | "shadow">("dialogue");
@@ -40,17 +40,31 @@ export function LessonAudioPlayer() {
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    fetch(manifestUrl)
+    const controller = new AbortController();
+    clearFollowTimer();
+    lineAudioRef.current?.pause();
+    fullAudioRef.current?.pause();
+    setManifest(null);
+    setLoadError(false);
+    setCurrentIndex(0);
+    setRunning(false);
+    setWaiting(false);
+
+    fetch(manifestUrl, { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error("Audio manifest failed to load");
         return response.json() as Promise<AudioManifest>;
       })
       .then(setManifest)
-      .catch(() => setLoadError(true));
+      .catch((error: Error) => {
+        if (error.name !== "AbortError") setLoadError(true);
+      });
 
     const savedRate = Number(window.localStorage.getItem("english-audio-rate"));
     if (rates.includes(savedRate)) setRate(savedRate);
-  }, []);
+
+    return () => controller.abort();
+  }, [manifestUrl]);
 
   useEffect(() => {
     if (fullAudioRef.current) fullAudioRef.current.playbackRate = rate;
@@ -127,9 +141,9 @@ export function LessonAudioPlayer() {
       <div className="audio-lab-heading">
         <div>
           <p className="eyebrow">LISTEN &amp; SHADOW</p>
-          <h2 id="lesson-audio-heading">第一课配音</h2>
+          <h2 id="lesson-audio-heading">第{lessonNumber}课配音</h2>
         </div>
-        <span className="audio-duration">20句 · 约 {formatTime(totalDuration)}</span>
+        <span className="audio-duration">{manifest?.lines.length ?? "—"}句 · 约 {formatTime(totalDuration)}</span>
       </div>
 
       <div className="audio-mode-tabs" aria-label="播放方式">
@@ -166,7 +180,7 @@ export function LessonAudioPlayer() {
             onPlay={() => stopShadowing()}
             preload="metadata"
             ref={fullAudioRef}
-            src={manifest?.fullSrc ?? "/audio/book-01/lesson-01/dialogue.wav"}
+            src={manifest?.fullSrc ?? `/audio/book-01/${lessonKey}/dialogue.wav`}
           >
             你的浏览器不支持音频播放。
           </audio>

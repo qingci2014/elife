@@ -1,0 +1,236 @@
+{
+  "title": "Lesson 4 - Sorry, What Was That?",
+  "voiceMap": {
+    "Announcement": "af_bella",
+    "Daniel": "am_fenrir",
+    "Nina": "af_nicole"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-04/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Hello?",
+      "src": "/audio/book-01/lesson-04/lines/01.wav",
+      "duration": 1.175
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "Hi, is this Daniel? This is Nina Cole from Harbor Street Arts Center. I'm calling about Saturday's neighborhood photo walk.",
+      "src": "/audio/book-01/lesson-04/lines/02.wav",
+      "duration": 12.625
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Sorry, what was that? I couldn't hear you.",
+      "src": "/audio/book-01/lesson-04/lines/03.wav",
+      "duration": 2.625
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "This is Nina Cole, from Harbor Street Arts Center.",
+      "src": "/audio/book-01/lesson-04/lines/04.wav",
+      "duration": 5.25
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Sorry, I didn't catch your last name.",
+      "src": "/audio/book-01/lesson-04/lines/05.wav",
+      "duration": 2.475
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "Cole. C-O-L-E.",
+      "src": "/audio/book-01/lesson-04/lines/06.wav",
+      "duration": 2.225
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Thanks. Maya told me about the photo walk. Is it still at ten?",
+      "src": "/audio/book-01/lesson-04/lines/07.wav",
+      "duration": 4.125
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "It starts at ten fifteen now.",
+      "src": "/audio/book-01/lesson-04/lines/08.wav",
+      "duration": 3.025
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Did you say ten fifteen or ten fifty?",
+      "src": "/audio/book-01/lesson-04/lines/09.wav",
+      "duration": 2.825
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "Ten fifteen—one-five.",
+      "src": "/audio/book-01/lesson-04/lines/10.wav",
+      "duration": 2.8
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Got it. Just to check, you mean we're not meeting at the café anymore?",
+      "src": "/audio/book-01/lesson-04/lines/11.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "That's right. Please meet us inside the arts center, by the front desk.",
+      "src": "/audio/book-01/lesson-04/lines/12.wav",
+      "duration": 7.3
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Let me make sure I've got this right: Nina Cole, Saturday at ten fifteen, inside the arts center by the front desk.",
+      "src": "/audio/book-01/lesson-04/lines/13.wav",
+      "duration": 7.7
+    },
+    {
+      "id": 14,
+      "part": "A",
+      "speaker": "Nina",
+      "text": "Exactly.",
+      "src": "/audio/book-01/lesson-04/lines/14.wav",
+      "duration": 1.775
+    },
+    {
+      "id": 15,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Great. Thanks for clearing that up.",
+      "src": "/audio/book-01/lesson-04/lines/15.wav",
+      "duration": 2.2
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "Daniel?",
+      "src": "/audio/book-01/lesson-04/lines/16.wav",
+      "duration": 1.6
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Yes. Hi, Nina. Sorry I'm a few minutes late. My bus was late.",
+      "src": "/audio/book-01/lesson-04/lines/17.wav",
+      "duration": 4.075
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "No worries. We haven't started yet.",
+      "src": "/audio/book-01/lesson-04/lines/18.wav",
+      "duration": 3.925
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Great. Have you organized many of these walks?",
+      "src": "/audio/book-01/lesson-04/lines/19.wav",
+      "duration": 2.85
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "Yes. We organized six last year. Have you joined one before?",
+      "src": "/audio/book-01/lesson-04/lines/20.wav",
+      "duration": 6.525
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "No, I haven't, but I've taken photos around Riverton since I moved back. I used to take pictures much more often.",
+      "src": "/audio/book-01/lesson-04/lines/21.wav",
+      "duration": 7.775
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "Nice. Are you still taking a lot of pictures?",
+      "src": "/audio/book-01/lesson-04/lines/22.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 23,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "I don't take as many anymore. Work's been busy, but I want to take more.",
+      "src": "/audio/book-01/lesson-04/lines/23.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 24,
+      "part": "B",
+      "speaker": "Announcement",
+      "text": "Everyone, we're meeting in Gallery B.",
+      "src": "/audio/book-01/lesson-04/lines/24.wav",
+      "duration": 3.1
+    },
+    {
+      "id": 25,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Sorry, did she say Gallery B or D?",
+      "src": "/audio/book-01/lesson-04/lines/25.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 26,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "Gallery B, right across from the front desk.",
+      "src": "/audio/book-01/lesson-04/lines/26.wav",
+      "duration": 4.55
+    },
+    {
+      "id": 27,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Got it. Thanks.",
+      "src": "/audio/book-01/lesson-04/lines/27.wav",
+      "duration": 1.55
+    },
+    {
+      "id": 28,
+      "part": "B",
+      "speaker": "Nina",
+      "text": "Come on. We should go in.",
+      "src": "/audio/book-01/lesson-04/lines/28.wav",
+      "duration": 2.525
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import { lessons } from "../../generated/content";
 import { LessonAudioPlayer } from "../../components/lesson-audio-player";
 
 type PageProps = { params: Promise<{ slug: string }> };
+const audioLessons = new Set([1, 2, 3, 4]);
 
 export function generateStaticParams() {
   return lessons.map((lesson) => ({ slug: lesson.slug }));
@@ -52,7 +53,7 @@ export default async function LessonPage({ params }: PageProps) {
             ))}
           </aside>
           <article className="lesson-article">
-            {lesson.number === 1 ? <LessonAudioPlayer /> : null}
+            {audioLessons.has(lesson.number) ? <LessonAudioPlayer lessonNumber={lesson.number} /> : null}
             <div className="lesson-intro" dangerouslySetInnerHTML={{ __html: lesson.introHtml }} />
             {lesson.sections.map((section) => {
               const isAnswer = /Answer Key|参考答案|答案/.test(section.title);

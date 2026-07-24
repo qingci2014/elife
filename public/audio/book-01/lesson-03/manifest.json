@@ -1,0 +1,163 @@
+{
+  "title": "Lesson 3 - I'm Running Late",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-03/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Are you close? We're meeting at Corner Table at 6:15, right?",
+      "src": "/audio/book-01/lesson-03/lines/01.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes, but I'm running late. I'm still on my way—I'm on the bus, but traffic isn't moving.",
+      "src": "/audio/book-01/lesson-03/lines/02.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "How far away are you?",
+      "src": "/audio/book-01/lesson-03/lines/03.wav",
+      "duration": 1.9
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I should be there around 6:35. Maybe 6:40. I'm sorry.",
+      "src": "/audio/book-01/lesson-03/lines/04.wav",
+      "duration": 4.925
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "That only gives us a few minutes. I'm helping with an evening workshop at 7:00.",
+      "src": "/audio/book-01/lesson-03/lines/05.wav",
+      "duration": 6.65
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Right, I forgot. We don't have to meet at the café. Can we meet at the arts center instead?",
+      "src": "/audio/book-01/lesson-03/lines/06.wav",
+      "duration": 5.65
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "That works for me. I can stay here. Can you get here by 6:30?",
+      "src": "/audio/book-01/lesson-03/lines/07.wav",
+      "duration": 4.525
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Let me check the route and get back to you in a minute.",
+      "src": "/audio/book-01/lesson-03/lines/08.wav",
+      "duration": 3.2
+    },
+    {
+      "id": 9,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "The next stop is on Harbor Street. I'll get off there and walk. I should be at the north entrance in about twenty minutes.",
+      "src": "/audio/book-01/lesson-03/lines/09.wav",
+      "duration": 7.375
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Great. I'll wait here, then. Text me when you're five minutes away.",
+      "src": "/audio/book-01/lesson-03/lines/10.wav",
+      "duration": 4.4
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Okay. Sorry I didn't message sooner.",
+      "src": "/audio/book-01/lesson-03/lines/11.wav",
+      "duration": 2.475
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Thanks for telling me. Please let me know earlier next time.",
+      "src": "/audio/book-01/lesson-03/lines/12.wav",
+      "duration": 3.95
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "You're right. Sorry about that.",
+      "src": "/audio/book-01/lesson-03/lines/13.wav",
+      "duration": 1.95
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Update: I'm five minutes away.",
+      "src": "/audio/book-01/lesson-03/lines/14.wav",
+      "duration": 2.325
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Got it. I'm heading downstairs now.",
+      "src": "/audio/book-01/lesson-03/lines/15.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Just to check, you mean the north entrance on Harbor Street?",
+      "src": "/audio/book-01/lesson-03/lines/16.wav",
+      "duration": 3.625
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Exactly—not the main entrance by the parking lot. We can talk in the lobby before my workshop starts.",
+      "src": "/audio/book-01/lesson-03/lines/17.wav",
+      "duration": 6.95
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Got it. Thanks for changing the plan. See you in five.",
+      "src": "/audio/book-01/lesson-03/lines/18.wav",
+      "duration": 3.4
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "See you soon.",
+      "src": "/audio/book-01/lesson-03/lines/19.wav",
+      "duration": 1.525
+    }
+  ]
+}
