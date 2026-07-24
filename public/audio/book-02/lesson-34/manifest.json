@@ -5,14 +5,14 @@
     "Lena": "af_kore"
   },
   "sampleRate": 24000,
-  "fullSrc": "/audio/book-02/lesson-34/dialogue.wav",
+  "fullSrc": "/audio/book-02/lesson-34/dialogue.mp3",
   "lines": [
     {
       "id": 1,
       "part": "A",
       "speaker": "Daniel",
       "text": "By the time I got there, all twelve review copies were already on the wall. For one second, I thought I'd brought the wrong candidate list.",
-      "src": "/audio/book-02/lesson-34/lines/01.wav",
+      "src": "/audio/book-02/lesson-34/lines/01.mp3",
       "duration": 8.5
     },
     {
@@ -20,7 +20,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I had the same reaction. I was opening the upstairs rooms when Jules, the morning assistant, offered to help with the board.",
-      "src": "/audio/book-02/lesson-34/lines/02.wav",
+      "src": "/audio/book-02/lesson-34/lines/02.mp3",
       "duration": 8.35
     },
     {
@@ -28,7 +28,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What had you done before he started?",
-      "src": "/audio/book-02/lesson-34/lines/03.wav",
+      "src": "/audio/book-02/lesson-34/lines/03.mp3",
       "duration": 2.3
     },
     {
@@ -36,7 +36,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Before that, I'd printed the temporary number cards and put your folder on the table. Then I went downstairs to let a class in.",
-      "src": "/audio/book-02/lesson-34/lines/04.wav",
+      "src": "/audio/book-02/lesson-34/lines/04.mp3",
       "duration": 8.65
     },
     {
@@ -44,7 +44,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "And Jules put up the copies while you were downstairs?",
-      "src": "/audio/book-02/lesson-34/lines/05.wav",
+      "src": "/audio/book-02/lesson-34/lines/05.mp3",
       "duration": 3.4
     },
     {
@@ -52,7 +52,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Right. A few minutes later, I came back and saw him finishing the last row. At first, everything looked neat. That's when I realized the old bookshop photo was under number eight, not number three.",
-      "src": "/audio/book-02/lesson-34/lines/06.wav",
+      "src": "/audio/book-02/lesson-34/lines/06.mp3",
       "duration": 12.4
     },
     {
@@ -60,7 +60,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "It turned out that he had sorted the copies by file name.",
-      "src": "/audio/book-02/lesson-34/lines/07.wav",
+      "src": "/audio/book-02/lesson-34/lines/07.mp3",
       "duration": 3.6
     },
     {
@@ -68,7 +68,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Exactly. He thought the numbers in the file names were our candidate numbers.",
-      "src": "/audio/book-02/lesson-34/lines/08.wav",
+      "src": "/audio/book-02/lesson-34/lines/08.mp3",
       "duration": 5.125
     },
     {
@@ -76,7 +76,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That makes sense. Those file names show the scan order. I'd already written the real candidate number on the back of each copy before I left the folder here yesterday.",
-      "src": "/audio/book-02/lesson-34/lines/09.wav",
+      "src": "/audio/book-02/lesson-34/lines/09.mp3",
       "duration": 10.55
     },
     {
@@ -84,7 +84,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Good. Just as I was about to take everything down, I noticed the numbers on the backs. We can fix the order without guessing.",
-      "src": "/audio/book-02/lesson-34/lines/10.wav",
+      "src": "/audio/book-02/lesson-34/lines/10.mp3",
       "duration": 7.925
     },
     {
@@ -92,7 +92,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So the sorting had happened before you noticed the first mismatch.",
-      "src": "/audio/book-02/lesson-34/lines/11.wav",
+      "src": "/audio/book-02/lesson-34/lines/11.mp3",
       "duration": 3.925
     },
     {
@@ -100,7 +100,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Yes. Then I stopped Jules before he added any working notes. We checked two copies together, but I waited for you before changing the whole board.",
-      "src": "/audio/book-02/lesson-34/lines/12.wav",
+      "src": "/audio/book-02/lesson-34/lines/12.mp3",
       "duration": 9.65
     },
     {
@@ -108,7 +108,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Thanks. Let's turn them over one row at a time and match them to the candidate list.",
-      "src": "/audio/book-02/lesson-34/lines/13.wav",
+      "src": "/audio/book-02/lesson-34/lines/13.mp3",
       "duration": 5.1
     },
     {
@@ -116,7 +116,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "And let's keep the temporary cards separate from the permission records. I don't want an internal number to look like an approval.",
-      "src": "/audio/book-02/lesson-34/lines/14.wav",
+      "src": "/audio/book-02/lesson-34/lines/14.mp3",
       "duration": 8.1
     },
     {
@@ -124,7 +124,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Agreed. In the end, nothing was lost or damaged. We only need to restore the sequence and write a clearer instruction for the next review session.",
-      "src": "/audio/book-02/lesson-34/lines/15.wav",
+      "src": "/audio/book-02/lesson-34/lines/15.mp3",
       "duration": 9.45
     },
     {
@@ -132,7 +132,7 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I'll tell Jules what happened. He was trying to help, and the folder didn't explain the two numbering systems.",
-      "src": "/audio/book-02/lesson-34/lines/16.wav",
+      "src": "/audio/book-02/lesson-34/lines/16.mp3",
       "duration": 7.075
     },
     {
@@ -140,7 +140,7 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I'll add a cover sheet: “Use the number on the back. File names show scan order only.”",
-      "src": "/audio/book-02/lesson-34/lines/17.wav",
+      "src": "/audio/book-02/lesson-34/lines/17.mp3",
       "duration": 5.925
     }
   ]

@@ -28,6 +28,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
   const lessonKey = `lesson-${lessonNumber.toString().padStart(2, "0")}`;
   const bookKey = `book-${bookNumber.toString().padStart(2, "0")}`;
   const manifestUrl = `/audio/${bookKey}/${lessonKey}/manifest.json`;
+  const dialogueExtension = bookNumber === 1 ? "wav" : "mp3";
   const [manifest, setManifest] = useState<AudioManifest | null>(null);
   const [loadError, setLoadError] = useState(false);
   const [mode, setMode] = useState<"dialogue" | "shadow">("dialogue");
@@ -181,7 +182,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
             onPlay={() => stopShadowing()}
             preload="metadata"
             ref={fullAudioRef}
-            src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.wav`}
+            src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.${dialogueExtension}`}
           >
             你的浏览器不支持音频播放。
           </audio>
