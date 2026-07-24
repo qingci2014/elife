@@ -1,0 +1,173 @@
+{
+  "title": "Lesson 52 - Here's What We Agreed",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore",
+    "Priya": "af_jessica",
+    "Sam": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-52/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Let's finish with one version everyone can repeat. Daniel, where are we now?",
+      "src": "/audio/book-02/lesson-52/lines/01.wav",
+      "duration": 4.6
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I've been revising the three feedback locations. So far, I've added the purpose line and the numbered handoff; the contact table is in progress.",
+      "src": "/audio/book-02/lesson-52/lines/02.wav",
+      "duration": 9.725
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "I've checked the new wording against the clarified brief. The audience, one-page limit and five operational sections are unchanged.",
+      "src": "/audio/book-02/lesson-52/lines/03.wav",
+      "duration": 9.05
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "I've confirmed that the accessible side entrance opens at eight thirty. The role-based extensions in the contact chain are also correct.",
+      "src": "/audio/book-02/lesson-52/lines/04.wav",
+      "duration": 8.825
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Good. Here's what we agreed: Daniel will upload version 0.8 by two, including the three-row contact table.",
+      "src": "/audio/book-02/lesson-52/lines/05.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Agreed. Does version 0.8 also need the backup greeter's name?",
+      "src": "/audio/book-02/lesson-52/lines/06.wav",
+      "duration": 4.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Not yet. Use the role label “backup greeter” until the assignment is confirmed.",
+      "src": "/audio/book-02/lesson-52/lines/07.wav",
+      "duration": 4.825
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "I see your point about avoiding a blank, but we should mark the name as the only open point.",
+      "src": "/audio/book-02/lesson-52/lines/08.wav",
+      "duration": 6.075
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Sam",
+      "text": "That works. The role and handoff process are confirmed even if the person is not.",
+      "src": "/audio/book-02/lesson-52/lines/09.wav",
+      "duration": 5.475
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Then Lena owns the wording check at three, and Sam owns the logistics verification at three fifteen.",
+      "src": "/audio/book-02/lesson-52/lines/10.wav",
+      "duration": 6.3
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Who signs off after those checks?",
+      "src": "/audio/book-02/lesson-52/lines/11.wav",
+      "duration": 2.3
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "I will give final approval by four. This depends on both checks being recorded in the file comments.",
+      "src": "/audio/book-02/lesson-52/lines/12.wav",
+      "duration": 5.975
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "What happens if the backup name is still unknown at four?",
+      "src": "/audio/book-02/lesson-52/lines/13.wav",
+      "duration": 3.8
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "The internal review can close with the role label. The only open point is the person's name, due from me Friday at ten.",
+      "src": "/audio/book-02/lesson-52/lines/14.wav",
+      "duration": 7.25
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "And distribution?",
+      "src": "/audio/book-02/lesson-52/lines/15.wav",
+      "duration": 1.75
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "I will send the final PDF only to the two opening-hour greeters by Friday noon. It is not a public handout.",
+      "src": "/audio/book-02/lesson-52/lines/16.wav",
+      "duration": 7.0
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me reformulate the full chain: I upload version 0.8 by two; Lena checks wording at three; Sam verifies logistics at three fifteen; Priya signs off by four and fills the backup name by Friday at ten.",
+      "src": "/audio/book-02/lesson-52/lines/17.wav",
+      "duration": 15.1
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Then Priya sends the PDF by noon. The approved scope stays internal, one page and operational only.",
+      "src": "/audio/book-02/lesson-52/lines/18.wav",
+      "duration": 7.35
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Correct. I'll send a meeting summary today so nobody treats a suggestion or placeholder as a finished assignment.",
+      "src": "/audio/book-02/lesson-52/lines/19.wav",
+      "duration": 6.55
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Sam",
+      "text": "Good. The summary should link version 0.8 and state that it supersedes the earlier draft after sign-off.",
+      "src": "/audio/book-02/lesson-52/lines/20.wav",
+      "duration": 7.375
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Lesson 51 - The Feedback Wasn't Very Clear",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Priya": "af_jessica",
+    "Riley": "am_liam"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-51/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Thanks for reviewing it. Could you be more specific about what feels cold in the opening?",
+      "src": "/audio/book-02/lesson-51/lines/01.wav",
+      "duration": 5.6
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "The heading says “Greeter Instructions,” and the first line begins with a rule. It doesn't explain why the role matters.",
+      "src": "/audio/book-02/lesson-51/lines/02.wav",
+      "duration": 6.85
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "What would “warmer” look like in practice?",
+      "src": "/audio/book-02/lesson-51/lines/03.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Keep the instructions, but start with one welcome line: “Thanks for helping visitors find the side gallery confidently.”",
+      "src": "/audio/book-02/lesson-51/lines/04.wav",
+      "duration": 7.0
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That's clear. Can you give me an example of what feels impractical in the middle?",
+      "src": "/audio/book-02/lesson-51/lines/05.wav",
+      "duration": 4.925
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "The break handoff is a paragraph. A volunteer scanning a phone may not see the sequence quickly.",
+      "src": "/audio/book-02/lesson-51/lines/06.wav",
+      "duration": 5.7
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Are you suggesting that I turn it into numbered steps?",
+      "src": "/audio/book-02/lesson-51/lines/07.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Yes—who contacts the backup, where the handoff happens and when the first person can leave.",
+      "src": "/audio/book-02/lesson-51/lines/08.wav",
+      "duration": 5.1
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "So the change you're asking for is a three-step handoff, not more information.",
+      "src": "/audio/book-02/lesson-51/lines/09.wav",
+      "duration": 5.2
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Priya",
+      "text": "Exactly.",
+      "src": "/audio/book-02/lesson-51/lines/10.wav",
+      "duration": 1.35
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Your third note says the contacts feel busy. Is the issue the number of contacts or the layout?",
+      "src": "/audio/book-02/lesson-51/lines/11.wav",
+      "duration": 6.55
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "The layout. The names, roles and extensions are all in one sentence.",
+      "src": "/audio/book-02/lesson-51/lines/12.wav",
+      "duration": 4.35
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Would a small table with the columns “Situation,” “Contact role” and “Extension” solve it?",
+      "src": "/audio/book-02/lesson-51/lines/13.wav",
+      "duration": 6.125
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Yes. Keep the three roles, but separate them visually.",
+      "src": "/audio/book-02/lesson-51/lines/14.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Let me summarize the feedback to make sure I've got it right. You suggested adding one purpose line, asked me to turn the handoff paragraph into three numbered steps, and recommended a three-row contact table.",
+      "src": "/audio/book-02/lesson-51/lines/15.wav",
+      "duration": 13.55
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "Correct. I also pointed out that none of those changes adds new scope.",
+      "src": "/audio/book-02/lesson-51/lines/16.wav",
+      "duration": 4.175
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. That's specific enough to act on. I'll revise those three locations and leave the approved content unchanged.",
+      "src": "/audio/book-02/lesson-51/lines/17.wav",
+      "duration": 7.775
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "When can I see the new version?",
+      "src": "/audio/book-02/lesson-51/lines/18.wav",
+      "duration": 2.5
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "By two tomorrow. Lena can check the wording at three, and Sam can verify the access and contact details before final sign-off.",
+      "src": "/audio/book-02/lesson-51/lines/19.wav",
+      "duration": 8.9
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Priya",
+      "text": "That works. Please show the changes in comments so we can verify that each note was addressed.",
+      "src": "/audio/book-02/lesson-51/lines/20.wav",
+      "duration": 5.35
+    }
+  ],
+  "transfer": {
+    "title": "语音反馈（陌生美式男声）",
+    "instruction": "先听两遍，记录页码、具体问题、两项修改、不变范围和修订期限。",
+    "speaker": "Riley",
+    "src": "/audio/book-02/lesson-51/transfer.wav",
+    "duration": 22.675
+  }
+}

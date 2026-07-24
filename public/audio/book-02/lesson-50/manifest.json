@@ -1,0 +1,179 @@
+{
+  "title": "Lesson 50 - Can We Clarify the Brief?",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Lena": "af_kore"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-02/lesson-50/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Can we clarify the brief before I revise the layout? Priya's note says, “Make it friendly, include everything volunteers need and keep it short.”",
+      "src": "/audio/book-02/lesson-50/lines/01.wav",
+      "duration": 9.05
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Yes. We don't know whether “volunteers” means only the opening-hour greeters or everyone working that day.",
+      "src": "/audio/book-02/lesson-50/lines/02.wav",
+      "duration": 7.0
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Could you confirm who the primary audience is? That's question one.",
+      "src": "/audio/book-02/lesson-50/lines/03.wav",
+      "duration": 4.55
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "We also need the delivery format. Do they want a one-page PDF, a mobile page or both?",
+      "src": "/audio/book-02/lesson-50/lines/04.wav",
+      "duration": 6.725
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Question two: could you confirm whether the final deliverable is a mobile-friendly one-page PDF?",
+      "src": "/audio/book-02/lesson-50/lines/05.wav",
+      "duration": 6.825
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "And “everything they need” could become unlimited. When you say must-have information, do you mean arrival time, entrance, station, break handoff and contact chain?",
+      "src": "/audio/book-02/lesson-50/lines/06.wav",
+      "duration": 10.95
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That's question three. I also need to know what “short” means.",
+      "src": "/audio/book-02/lesson-50/lines/07.wav",
+      "duration": 4.025
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "Ask for a page or word limit rather than guessing.",
+      "src": "/audio/book-02/lesson-50/lines/08.wav",
+      "duration": 3.425
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Question four: is there a maximum length we should work to?",
+      "src": "/audio/book-02/lesson-50/lines/09.wav",
+      "duration": 3.75
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Lena",
+      "text": "The last gap is approval. Who has final approval, and who only verifies logistics?",
+      "src": "/audio/book-02/lesson-50/lines/10.wav",
+      "duration": 6.025
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Priya has replied. The audience is only the opening-hour greeters.",
+      "src": "/audio/book-02/lesson-50/lines/11.wav",
+      "duration": 4.1
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "What format did she confirm?",
+      "src": "/audio/book-02/lesson-50/lines/12.wav",
+      "duration": 2.275
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "One mobile-friendly PDF, one page, ideally under three hundred words.",
+      "src": "/audio/book-02/lesson-50/lines/13.wav",
+      "duration": 5.4
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "And the must-haves?",
+      "src": "/audio/book-02/lesson-50/lines/14.wav",
+      "duration": 1.65
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Arrival time, accessible entrance, service-desk station, break handoff and a role-based contact chain. No exhibition content or personal phone numbers.",
+      "src": "/audio/book-02/lesson-50/lines/15.wav",
+      "duration": 10.775
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Who signs off?",
+      "src": "/audio/book-02/lesson-50/lines/16.wav",
+      "duration": 1.575
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Priya has final content approval. Sam verifies access and facilities details; he doesn't approve the whole document.",
+      "src": "/audio/book-02/lesson-50/lines/17.wav",
+      "duration": 7.9
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "Let me make sure I've got this right. The brief is a one-page internal PDF for opening-hour greeters, under three hundred words, with five operational sections. Priya approves it, and Sam checks only logistics.",
+      "src": "/audio/book-02/lesson-50/lines/18.wav",
+      "duration": 14.425
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Exactly. The internal-review deadline is still Thursday at four; public distribution isn't part of this task.",
+      "src": "/audio/book-02/lesson-50/lines/19.wav",
+      "duration": 7.5
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Lena",
+      "text": "I see your point about stating that boundary. If anyone needs more than the internal sheet, we'll need a separate brief.",
+      "src": "/audio/book-02/lesson-50/lines/20.wav",
+      "duration": 7.95
+    },
+    {
+      "id": 21,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. Now I can revise the right document instead of making an attractive answer to the wrong question.",
+      "src": "/audio/book-02/lesson-50/lines/21.wav",
+      "duration": 6.5
+    }
+  ]
+}
