@@ -1,0 +1,155 @@
+{
+  "title": "Lesson 5 - Whose Turn Is It?",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-05/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Before we start the day, we need to decide who's doing what. The laundry, bathroom, groceries, dishes, and recycling are all still on the list.",
+      "src": "/audio/book-01/lesson-05/lines/01.wav",
+      "duration": 9.125
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Right. Whose turn is it to clean the bathroom?",
+      "src": "/audio/book-01/lesson-05/lines/02.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I think it's your turn to clean it. I did it last weekend.",
+      "src": "/audio/book-01/lesson-05/lines/03.wav",
+      "duration": 3.8
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "You're right. And I thought you were supposed to take the recycling downstairs.",
+      "src": "/audio/book-01/lesson-05/lines/04.wav",
+      "duration": 4.75
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I am. I also have to pick up the groceries before noon.",
+      "src": "/audio/book-01/lesson-05/lines/05.wav",
+      "duration": 4.075
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Sorry, what was that? I didn't catch the time.",
+      "src": "/audio/book-01/lesson-05/lines/06.wav",
+      "duration": 3.4
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Before noon. The pickup time is between eleven and twelve.",
+      "src": "/audio/book-01/lesson-05/lines/07.wav",
+      "duration": 4.125
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Got it. I have to finish my lesson plans this morning, but I can take the recycling down first if that helps.",
+      "src": "/audio/book-01/lesson-05/lines/08.wav",
+      "duration": 6.9
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That would help, thanks. Then you're taking the recycling.",
+      "src": "/audio/book-01/lesson-05/lines/09.wav",
+      "duration": 3.425
+    },
+    {
+      "id": 10,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Thanks. I'm supposed to start the laundry, right?",
+      "src": "/audio/book-01/lesson-05/lines/10.wav",
+      "duration": 3.2
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Yes, and I'm doing the dishes after breakfast.",
+      "src": "/audio/book-01/lesson-05/lines/11.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Just to check, you mean unloading the clean dishes first?",
+      "src": "/audio/book-01/lesson-05/lines/12.wav",
+      "duration": 3.675
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Exactly. Then I'll load the breakfast dishes. Do you want to trade the bathroom for the laundry?",
+      "src": "/audio/book-01/lesson-05/lines/13.wav",
+      "duration": 5.8
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "No, let's keep those two as they are. You have three tasks, and I have two, but the grocery trip takes longer.",
+      "src": "/audio/book-01/lesson-05/lines/14.wav",
+      "duration": 6.975
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Fair enough. So you're picking up the groceries and doing the laundry, and I'm cleaning the bathroom, doing the dishes, and taking out the recycling, right?",
+      "src": "/audio/book-01/lesson-05/lines/15.wav",
+      "duration": 8.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Almost. We need to fold the laundry together after lunch.",
+      "src": "/audio/book-01/lesson-05/lines/16.wav",
+      "duration": 3.8
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Let me make sure I've got this right: I have the bathroom, dishes, and recycling. You have the groceries and laundry. We fold everything together.",
+      "src": "/audio/book-01/lesson-05/lines/17.wav",
+      "duration": 8.6
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That's it. Now the list is clear.",
+      "src": "/audio/book-01/lesson-05/lines/18.wav",
+      "duration": 2.5
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Lesson 6 - We're Having People Over",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Daniel": "am_fenrir",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-06/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Ben and I are having a few people over tomorrow. Would you like to come over for dinner?",
+      "src": "/audio/book-01/lesson-06/lines/01.wav",
+      "duration": 5.55
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That sounds great. What time?",
+      "src": "/audio/book-01/lesson-06/lines/02.wav",
+      "duration": 2.225
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Six thirty.",
+      "src": "/audio/book-01/lesson-06/lines/03.wav",
+      "duration": 1.65
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That works for me. How many people are coming?",
+      "src": "/audio/book-01/lesson-06/lines/04.wav",
+      "duration": 2.975
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Six, including you: Ben, our daughter, me, two neighbors, and you.",
+      "src": "/audio/book-01/lesson-06/lines/05.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Hi, Daniel. Let's make a list now that we know the head count.",
+      "src": "/audio/book-01/lesson-06/lines/06.wav",
+      "duration": 4.225
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Sure. Can I bring anything?",
+      "src": "/audio/book-01/lesson-06/lines/07.wav",
+      "duration": 1.85
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "We could use some sparkling water.",
+      "src": "/audio/book-01/lesson-06/lines/08.wav",
+      "duration": 2.875
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Sure. How many bottles do you need?",
+      "src": "/audio/book-01/lesson-06/lines/09.wav",
+      "duration": 2.375
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Two.",
+      "src": "/audio/book-01/lesson-06/lines/10.wav",
+      "duration": 0.675
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Did you say two or three?",
+      "src": "/audio/book-01/lesson-06/lines/11.wav",
+      "duration": 1.95
+    },
+    {
+      "id": 12,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Two. We already have a few bottles of juice.",
+      "src": "/audio/book-01/lesson-06/lines/12.wav",
+      "duration": 3.05
+    },
+    {
+      "id": 13,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "How much ice do we have?",
+      "src": "/audio/book-01/lesson-06/lines/13.wav",
+      "duration": 2.225
+    },
+    {
+      "id": 14,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Not much. There's only a little in the freezer.",
+      "src": "/audio/book-01/lesson-06/lines/14.wav",
+      "duration": 3.225
+    },
+    {
+      "id": 15,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I can bring one bag of ice too.",
+      "src": "/audio/book-01/lesson-06/lines/15.wav",
+      "duration": 2.375
+    },
+    {
+      "id": 16,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Thanks. Do we have any salad ingredients?",
+      "src": "/audio/book-01/lesson-06/lines/16.wav",
+      "duration": 3.275
+    },
+    {
+      "id": 17,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "We have some lettuce, but we don't have any tomatoes.",
+      "src": "/audio/book-01/lesson-06/lines/17.wav",
+      "duration": 3.35
+    },
+    {
+      "id": 18,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Then I'll buy a few tomatoes. How many pizzas do we need?",
+      "src": "/audio/book-01/lesson-06/lines/18.wav",
+      "duration": 4.1
+    },
+    {
+      "id": 19,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Let's order three large pizzas. We only need a few snacks after that.",
+      "src": "/audio/book-01/lesson-06/lines/19.wav",
+      "duration": 4.85
+    },
+    {
+      "id": 20,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Let me check: two bottles of sparkling water and one bag of ice.",
+      "src": "/audio/book-01/lesson-06/lines/20.wav",
+      "duration": 4.325
+    },
+    {
+      "id": 21,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Right. That's everything.",
+      "src": "/audio/book-01/lesson-06/lines/21.wav",
+      "duration": 2.375
+    },
+    {
+      "id": 22,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Thanks for having me. Dinner was great.",
+      "src": "/audio/book-01/lesson-06/lines/22.wav",
+      "duration": 2.8
+    },
+    {
+      "id": 23,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "I'm glad you came. There's only a little salad left.",
+      "src": "/audio/book-01/lesson-06/lines/23.wav",
+      "duration": 3.575
+    },
+    {
+      "id": 24,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "The list worked: three pizzas, some salad, a few snacks, and enough to drink.",
+      "src": "/audio/book-01/lesson-06/lines/24.wav",
+      "duration": 5.1
+    },
+    {
+      "id": 25,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "And no unopened bags of food.",
+      "src": "/audio/book-01/lesson-06/lines/25.wav",
+      "duration": 2.35
+    },
+    {
+      "id": 26,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Exactly. We bought what we needed.",
+      "src": "/audio/book-01/lesson-06/lines/26.wav",
+      "duration": 2.65
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Lesson 8 - That's Not What I Meant",
+  "voiceMap": {
+    "Ben": "am_onyx",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-08/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "I thought you were taking care of the living room.",
+      "src": "/audio/book-01/lesson-08/lines/01.wav",
+      "duration": 2.925
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "I did. I vacuumed, put the books away, and cleaned the coffee table.",
+      "src": "/audio/book-01/lesson-08/lines/02.wav",
+      "duration": 4.675
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "It looks great, but that's not what I meant. We still need places for six people to sit.",
+      "src": "/audio/book-01/lesson-08/lines/03.wav",
+      "duration": 5.7
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Oh. I thought “take care of the living room” meant clean it.",
+      "src": "/audio/book-01/lesson-08/lines/04.wav",
+      "duration": 3.95
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That's fair. Maybe I wasn't clear. What I meant was, could you set up the room for everyone?",
+      "src": "/audio/book-01/lesson-08/lines/05.wav",
+      "duration": 5.7
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "So, are you saying we need two more chairs?",
+      "src": "/audio/book-01/lesson-08/lines/06.wav",
+      "duration": 3.325
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Exactly. Do we have any folding chairs in the closet?",
+      "src": "/audio/book-01/lesson-08/lines/07.wav",
+      "duration": 3.7
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "We have one. I can bring in a chair from the desk, too.",
+      "src": "/audio/book-01/lesson-08/lines/08.wav",
+      "duration": 3.975
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That gives us six. Would you mind moving those boxes away from the window?",
+      "src": "/audio/book-01/lesson-08/lines/09.wav",
+      "duration": 4.775
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Ben",
+      "text": "Not at all.",
+      "src": "/audio/book-01/lesson-08/lines/10.wav",
+      "duration": 1.225
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Who's supposed to pick up the food—you or me?",
+      "src": "/audio/book-01/lesson-08/lines/11.wav",
+      "duration": 3.65
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Me. You don't have to do that. Let me put it another way: you set up the room and put the drinks in the fridge, and I'll pick up the food.",
+      "src": "/audio/book-01/lesson-08/lines/12.wav",
+      "duration": 8.025
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Sorry, I misunderstood. I thought I was picking up the food and you were getting the drinks.",
+      "src": "/audio/book-01/lesson-08/lines/13.wav",
+      "duration": 5.425
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Then my first message really wasn't clear.",
+      "src": "/audio/book-01/lesson-08/lines/14.wav",
+      "duration": 3.025
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Let me make sure I've got this right. I need to set up six seats, move the boxes, and put some water in the fridge. You're picking up the food.",
+      "src": "/audio/book-01/lesson-08/lines/15.wav",
+      "duration": 8.15
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Right. We only need a little ice, so I'll get that on my way back.",
+      "src": "/audio/book-01/lesson-08/lines/16.wav",
+      "duration": 4.125
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Ben",
+      "text": "Good. I'll write it on the list this time.",
+      "src": "/audio/book-01/lesson-08/lines/17.wav",
+      "duration": 3.15
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Please do. “Take care of it” is not much of a list.",
+      "src": "/audio/book-01/lesson-08/lines/18.wav",
+      "duration": 3.65
+    }
+  ]
+}

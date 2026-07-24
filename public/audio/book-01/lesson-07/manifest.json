@@ -1,0 +1,139 @@
+{
+  "title": "Lesson 7 - Could You Keep It Down?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daniel": "am_fenrir"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-01/lesson-07/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Hi, Aisha. I'm sorry to bother you, but could you keep the music down a little?",
+      "src": "/audio/book-01/lesson-07/lines/01.wav",
+      "duration": 4.975
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Oh, sure. Is it coming through the wall?",
+      "src": "/audio/book-01/lesson-07/lines/02.wav",
+      "duration": 3.15
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes. The bass is pretty strong in my living room. I'm recording a short presentation for work around nine.",
+      "src": "/audio/book-01/lesson-07/lines/03.wav",
+      "duration": 7.05
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I'm sorry. I didn't realize it was that loud. I'm checking the sound for an animation, and I put the speaker right against this wall.",
+      "src": "/audio/book-01/lesson-07/lines/04.wav",
+      "duration": 7.575
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That explains it. Would you mind moving the speaker to the other side of the room?",
+      "src": "/audio/book-01/lesson-07/lines/05.wav",
+      "duration": 4.9
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Not at all. I can put it on my desk. Could I play it quietly for another twenty minutes? I need to check two more sections.",
+      "src": "/audio/book-01/lesson-07/lines/06.wav",
+      "duration": 7.1
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "That should work. Is there any chance you could use headphones after nine?",
+      "src": "/audio/book-01/lesson-07/lines/07.wav",
+      "duration": 4.55
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Yes. I have a wired pair somewhere. Let me make sure I've got this right: low volume until nine, then headphones.",
+      "src": "/audio/book-01/lesson-07/lines/08.wav",
+      "duration": 6.9
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Exactly. And I'll message you if I can still hear it.",
+      "src": "/audio/book-01/lesson-07/lines/09.wav",
+      "duration": 3.4
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Please do. Sorry about that.",
+      "src": "/audio/book-01/lesson-07/lines/10.wav",
+      "duration": 2.725
+    },
+    {
+      "id": 11,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "No problem. Thanks for understanding.",
+      "src": "/audio/book-01/lesson-07/lines/11.wav",
+      "duration": 2.65
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I moved the speaker earlier, and I'm using headphones now. Can you still hear anything?",
+      "src": "/audio/book-01/lesson-07/lines/12.wav",
+      "duration": 5.5
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "No, it's quiet now. Thanks for sticking to the plan.",
+      "src": "/audio/book-01/lesson-07/lines/13.wav",
+      "duration": 3.45
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Of course. I didn't want to make it harder for you to record.",
+      "src": "/audio/book-01/lesson-07/lines/14.wav",
+      "duration": 3.825
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "The recording is about to start, so the timing is perfect. Thanks, Aisha.",
+      "src": "/audio/book-01/lesson-07/lines/15.wav",
+      "duration": 4.95
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "You're welcome. Good luck with your presentation.",
+      "src": "/audio/book-01/lesson-07/lines/16.wav",
+      "duration": 3.6
+    }
+  ]
+}
