@@ -16,6 +16,14 @@ async function generatedLessons() {
   return JSON.parse(source.slice(start + marker.length).trim().replace(/;$/, ""));
 }
 
+async function generatedAudioVersions() {
+  const source = await readFile(new URL("../app/generated/audio-versions.ts", import.meta.url), "utf8");
+  const marker = "export const audioVersions: Record<number, string> = ";
+  const start = source.indexOf(marker);
+  assert.ok(start >= 0, "generated audio version data should exist");
+  return JSON.parse(source.slice(start + marker.length).trim().replace(/;$/, ""));
+}
+
 async function render(pathname) {
   return worker.fetch(
     new Request(`http://localhost${pathname}`, {
@@ -202,6 +210,17 @@ test("ships shared-WAV segment manifests for all published lessons", async () =>
   assert.equal(lesson96.voiceMap?.Nadia, "bf_emma");
   assert.equal(lesson96.transfer?.src, "/audio/book-03/lesson-96/transfer.wav");
   assert.ok((await readFile(new URL("lesson-96/transfer.wav", audioRoot))).length > 44);
+});
+
+test("content-versions every manifest and WAV URL to prevent mixed browser caches", async () => {
+  const versions = await generatedAudioVersions();
+  assert.equal(Object.keys(versions).length, 96);
+  for (let number = 1; number <= 96; number += 1) {
+    assert.match(versions[number], /^[a-f0-9]{16}$/, `Lesson ${number} should have a content-derived audio version`);
+  }
+
+  const html = await htmlFor("/lessons/03-im-running-late");
+  assert.match(html, new RegExp(`/audio/book-01/lesson-03/dialogue\\.wav\\?v=${versions[3]}`));
 });
 
 test("does not ship MP3 files", async () => {

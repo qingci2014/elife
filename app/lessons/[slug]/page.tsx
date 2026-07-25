@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { lessons } from "../../generated/content";
+import { audioVersions } from "../../generated/audio-versions";
 import { LessonAudioPlayer } from "../../components/lesson-audio-player";
 
 type PageProps = { params: Promise<{ slug: string }> };
@@ -53,7 +54,14 @@ export default async function LessonPage({ params }: PageProps) {
             ))}
           </aside>
           <article className="lesson-article">
-            {audioLessons.has(lesson.number) ? <LessonAudioPlayer key={`${lesson.book}-${lesson.number}`} lessonNumber={lesson.number} bookNumber={lesson.book} /> : null}
+            {audioLessons.has(lesson.number) ? (
+              <LessonAudioPlayer
+                assetVersion={audioVersions[lesson.number]}
+                bookNumber={lesson.book}
+                key={`${lesson.book}-${lesson.number}-${audioVersions[lesson.number]}`}
+                lessonNumber={lesson.number}
+              />
+            ) : null}
             <div className="lesson-intro" dangerouslySetInnerHTML={{ __html: lesson.introHtml }} />
             {lesson.sections.map((section) => {
               const isAnswer = /Answer Key|参考答案|答案/.test(section.title);

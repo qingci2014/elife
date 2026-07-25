@@ -33,10 +33,16 @@ function formatTime(seconds: number) {
   return `${minutes}:${remainder}`;
 }
 
-export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: number; bookNumber: number }) {
+function withAssetVersion(src: string, assetVersion: string) {
+  const separator = src.includes("?") ? "&" : "?";
+  return `${src}${separator}v=${encodeURIComponent(assetVersion)}`;
+}
+
+export function LessonAudioPlayer({ lessonNumber, bookNumber, assetVersion }: { lessonNumber: number; bookNumber: number; assetVersion: string }) {
   const lessonKey = `lesson-${lessonNumber.toString().padStart(2, "0")}`;
   const bookKey = `book-${bookNumber.toString().padStart(2, "0")}`;
-  const manifestUrl = `/audio/${bookKey}/${lessonKey}/manifest.json`;
+  const fallbackFullSrc = `/audio/${bookKey}/${lessonKey}/dialogue.wav`;
+  const manifestUrl = withAssetVersion(`/audio/${bookKey}/${lessonKey}/manifest.json`, assetVersion);
   const [manifest, setManifest] = useState<AudioManifest | null>(null);
   const [loadError, setLoadError] = useState(false);
   const [mode, setMode] = useState<"dialogue" | "shadow">("dialogue");
@@ -164,6 +170,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
 
   const currentLine = manifest?.lines[currentIndex];
   const totalDuration = manifest?.lines.reduce((total, line) => total + line.duration, 0) ?? 0;
+  const fullAudioSrc = withAssetVersion(manifest?.fullSrc ?? fallbackFullSrc, assetVersion);
 
   return (
     <section className="audio-lab" aria-labelledby="lesson-audio-heading">
@@ -210,7 +217,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
               onPlay={() => stopShadowing()}
               preload="metadata"
               ref={fullAudioRef}
-              src={manifest?.fullSrc ?? `/audio/${bookKey}/${lessonKey}/dialogue.wav`}
+              src={fullAudioSrc}
             >
               你的浏览器不支持音频播放。
             </audio>
@@ -220,7 +227,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
               <p className="eyebrow">UNFAMILIAR VOICE TRANSFER</p>
               <h3>{manifest.transfer.title}</h3>
               <p>{manifest.transfer.instruction}</p>
-              <audio controls preload="metadata" src={manifest.transfer.src}>
+              <audio controls preload="metadata" src={withAssetVersion(manifest.transfer.src, assetVersion)}>
                 你的浏览器不支持音频播放。
               </audio>
             </div>
@@ -250,7 +257,7 @@ export function LessonAudioPlayer({ lessonNumber, bookNumber }: { lessonNumber: 
             onTimeUpdate={handleLineProgress}
             preload="metadata"
             ref={lineAudioRef}
-            src={manifest?.fullSrc}
+            src={manifest ? fullAudioSrc : undefined}
           />
 
           <div className="shadow-script">
