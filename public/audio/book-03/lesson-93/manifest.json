@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 93 - How Likely Is That?",
+  "voiceMap": {
+    "Malik": "am_fenrir",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-93/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "What we know is that thirty-six places are booked across four dates: eight, ten, nine and nine. Each date has two employees who confirmed it directly.",
+      "start": 0.35,
+      "end": 9.125,
+      "duration": 8.775
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "We also know that five hundred and twenty dollars is committed and twelve extra staff-hours are scheduled. That leaves a maximum margin of two hundred and eighty dollars and eight hours.",
+      "start": 9.405,
+      "end": 21.455,
+      "duration": 12.05
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "The most likely scenario is that all four evenings run within the framework, because every current booking fits the menu, capacity and staffing rules.",
+      "start": 21.735,
+      "end": 30.46,
+      "duration": 8.725
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "I agree that it is the baseline, but “most likely” does not mean guaranteed. A late cancellation or illness could still change one date.",
+      "start": 30.74,
+      "end": 39.94,
+      "duration": 9.2
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "There’s a reasonable chance that one evening needs a small adjustment. Two groups asked whether they could reduce their final number up to forty-eight hours before service.",
+      "start": 40.22,
+      "end": 49.87,
+      "duration": 9.65
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "If a group reduces its number before the food-order cutoff, Rosa will update the order and the event can continue. If it happens later, some food cost may remain.",
+      "start": 50.15,
+      "end": 61.25,
+      "duration": 11.1
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "The evidence suggests that a minor booking change is more plausible than a full cancellation, but four dates are still a very small sample.",
+      "start": 61.53,
+      "end": 69.805,
+      "duration": 8.275
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "We can rule out accepting more than twelve people under this framework. We can’t rule out a group asking, so the reply template needs to state the limit.",
+      "start": 70.085,
+      "end": 79.81,
+      "duration": 9.725
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "A staffing failure is possible, but not especially likely, because every date currently has two confirmations and one optional backup contact.",
+      "start": 80.09,
+      "end": 88.74,
+      "duration": 8.65
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Be careful with “backup.” That person agreed to receive a call, not to work automatically. If one confirmed employee withdraws, the date pauses unless another person accepts it directly.",
+      "start": 89.02,
+      "end": 101.67,
+      "duration": 12.65
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "The least likely scenario is that several problems occur together and threaten both the cost and hour ceilings.",
+      "start": 102.8,
+      "end": 109.125,
+      "duration": 6.325
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "It may be the least likely, but it has the highest impact. If extra cleanup, food waste and a late staffing change combine, the remaining margin could disappear quickly.",
+      "start": 109.405,
+      "end": 120.405,
+      "duration": 11.0
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "The risk increases if we add off-menu requests or treat a late cancellation as a reason to extend the event. Neither action is allowed.",
+      "start": 120.685,
+      "end": 129.035,
+      "duration": 8.35
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "And if projected spending reaches eight hundred dollars or projected hours reach twenty, the next event will be paused before the limit is crossed.",
+      "start": 129.315,
+      "end": 138.865,
+      "duration": 9.55
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "How likely is that under the current bookings? I’d call it unlikely, based on committed costs and scheduled hours, but not impossible.",
+      "start": 139.145,
+      "end": 146.695,
+      "duration": 7.55
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "That is defensible. What we don’t know yet is the actual cleanup time, final attendance or whether the three-item menu prevents last-minute preparation.",
+      "start": 146.975,
+      "end": 157.175,
+      "duration": 10.2
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Then the safest conclusion is that the framework has enough recorded margin to begin, provided that every gate remains active.",
+      "start": 157.455,
+      "end": 165.255,
+      "duration": 7.8
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Yes. The briefing should not say the trial is low-risk overall. It should say which scenario is more likely, which one matters most and what triggers a pause.",
+      "start": 165.535,
+      "end": 175.785,
+      "duration": 10.25
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "I’ll list a baseline, an adjustment scenario and a combined-pressure scenario, with evidence and actions beside each one.",
+      "start": 176.065,
+      "end": 183.465,
+      "duration": 7.4
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Good. After the second evening, we’ll replace these estimates with recorded cost, time, attendance and recovery evidence before continuing.",
+      "start": 183.745,
+      "end": 192.67,
+      "duration": 8.925
+    }
+  ]
+}

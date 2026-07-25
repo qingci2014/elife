@@ -1,0 +1,201 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 96 - So, Where Do We Go from Here?",
+  "voiceMap": {
+    "Malik": "am_fenrir",
+    "Nadia": "bf_emma",
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-96/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "So, where do we go from here? The decision we’re making today is whether to close the old trial, authorize more testing or begin a separate recurring-service proposal.",
+      "start": 0.35,
+      "end": 10.7,
+      "duration": 10.35
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Given what we know, the four events complied with the recorded scope: thirty-four attendees, seven hundred and forty-six dollars, eighteen point two five extra hours and no recovery breach.",
+      "start": 10.98,
+      "end": 21.205,
+      "duration": 10.225
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "What we don’t know is whether larger or more varied groups would behave similarly, or whether staff capacity would remain stable across a recurring calendar.",
+      "start": 21.485,
+      "end": 31.835,
+      "duration": 10.35
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "The evidence suggests the checklist and midpoint review improved control. We can rule out saying the framework was ignored, but we can’t rule out different pressures at a larger scale.",
+      "start": 32.115,
+      "end": 43.49,
+      "duration": 11.375
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Here’s the short version: the bounded process worked in this sample, one setup problem was corrected, and the record does not establish a case for monthly evenings.",
+      "start": 43.77,
+      "end": 53.145,
+      "duration": 9.375
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Both of us agree that the direct-consent rule should remain in any unusual schedule. Where we differed was whether another immediate evening sample was worth the opportunity cost.",
+      "start": 53.425,
+      "end": 65.25,
+      "duration": 11.825
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Has that difference been resolved, or do we need to record two recommendations?",
+      "start": 65.53,
+      "end": 70.98,
+      "duration": 5.45
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "I now recommend stopping. Even if another round produced useful evidence, the unanswered question is not urgent enough to displace daytime work or recovery time.",
+      "start": 71.26,
+      "end": 81.135,
+      "duration": 9.875
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "I agree. There are trade-offs either way, but closing now is reversible: a genuinely new demand pattern could support a new proposal later.",
+      "start": 81.415,
+      "end": 90.565,
+      "duration": 9.15
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "Then are we ready to decide, with the old framework closed rather than left quietly available?",
+      "start": 90.845,
+      "end": 96.995,
+      "duration": 6.15
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Yes. What we’re not deciding is that evening bookings can never be considered again. We’re deciding that no more dates can be scheduled under the old trial framework.",
+      "start": 98.125,
+      "end": 107.1,
+      "duration": 8.975
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "The next step is to archive the four event files and retain only the preorder cutoff, final-number check, cleanup log and direct-consent rule for unusual schedules.",
+      "start": 107.38,
+      "end": 118.63,
+      "duration": 11.25
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Who owns each closure action, and when will it be complete?",
+      "start": 118.91,
+      "end": 122.91,
+      "duration": 4.0
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "I’ll update the daytime group checklist and attach three use examples by August thirty-first. I’ll also mark the evening planning sheet closed today.",
+      "start": 123.19,
+      "end": 131.865,
+      "duration": 8.675
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "I’ll verify that the staffing note says direct acceptance, not assumed availability, and confirm the archived rota contains no unnecessary personal details.",
+      "start": 132.145,
+      "end": 143.62,
+      "duration": 11.475
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "I’ll sign the decision record. By this time next year, the old trial will have been closed, and staff will still be using the protected confirmation process.",
+      "start": 143.9,
+      "end": 153.85,
+      "duration": 9.95
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "A future evening proposal may be reviewed only if it identifies a new demand pattern, a fresh resource limit, date-specific consent and evidence that cannot be collected through daytime bookings.",
+      "start": 154.13,
+      "end": 165.805,
+      "duration": 11.675
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "That is a reopening threshold, not a promise to reopen. No inquiry, silence or old approval will count as acceptance.",
+      "start": 166.085,
+      "end": 174.61,
+      "duration": 8.525
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Let me summarize where we are: the old trial is complete and closed; no standing evening service is approved; four daytime process controls remain; any future evening idea starts as a new proposal.",
+      "start": 174.89,
+      "end": 188.59,
+      "duration": 13.7
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "That’s a fair summary. Please send the written record to us today so we can correct anything misunderstood before you archive the final version.",
+      "start": 188.87,
+      "end": 197.07,
+      "duration": 8.2
+    }
+  ],
+  "transfer": {
+    "title": "Nadia's independent completion review",
+    "instruction": "Listen twice without reading. Record the four verified trial results, the process improvements supported by the evidence, the conclusions that remain unsupported and the conditions for any future review before giving a sourced 60-second summary.",
+    "speaker": "Nadia",
+    "src": "/audio/book-03/lesson-96/transfer.wav",
+    "duration": 44.475
+  }
+}

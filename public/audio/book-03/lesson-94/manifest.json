@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 94 - By This Time Next Year…",
+  "voiceMap": {
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-94/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "The record is complete: thirty-four people attended across four evenings. We spent seven hundred and forty-six dollars and used eighteen point two five extra staff-hours.",
+      "start": 0.35,
+      "end": 10.425,
+      "duration": 10.075
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "So by the final review, we have completed everything the old framework authorized without crossing a ceiling.",
+      "start": 10.705,
+      "end": 17.605,
+      "duration": 6.9
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Yes. What stayed with me was the second evening’s cleanup. It ran twenty-five minutes beyond our estimate, although the next morning’s opener had not worked the event.",
+      "start": 17.885,
+      "end": 27.11,
+      "duration": 9.225
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "I found the midpoint review effective because you removed the separate welcome-table setup before evening three. The final two cleanups then stayed inside the revised estimate.",
+      "start": 27.39,
+      "end": 38.665,
+      "duration": 11.275
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "I wouldn’t say that proves the new setup will always work, but it gives us a recorded adjustment instead of a guess.",
+      "start": 38.945,
+      "end": 45.57,
+      "duration": 6.625
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "What will have changed by this time next year even if we stop evening events?",
+      "start": 45.85,
+      "end": 50.65,
+      "duration": 4.8
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "By then, we’ll have added the preorder cutoff, final-number check and cleanup log to our daytime group-booking process.",
+      "start": 50.93,
+      "end": 57.63,
+      "duration": 6.7
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "And staff will still be confirming any unusual schedule directly rather than being assigned through a general availability note.",
+      "start": 57.91,
+      "end": 66.535,
+      "duration": 8.625
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "Correct. Those are process improvements supported by the trial; they do not depend on approving another evening program.",
+      "start": 66.815,
+      "end": 73.84,
+      "duration": 7.025
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "We’re aiming to finish that daytime update by the end of next month, and we’ll know it is in use when three daytime group files contain the new checklist.",
+      "start": 74.12,
+      "end": 83.37,
+      "duration": 9.25
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "If we approve no further evening service, by this time next year the four trial files will have been archived as a completed experiment.",
+      "start": 84.5,
+      "end": 92.475,
+      "duration": 7.975
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "If we approve another bounded round, we may have collected more varied evidence by then, but staff will still be reviewing every date separately.",
+      "start": 92.755,
+      "end": 101.905,
+      "duration": 9.15
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "A standing monthly service is different. At that point, we would be operating a recurring commitment, not repeating the same limited test.",
+      "start": 102.185,
+      "end": 110.235,
+      "duration": 8.05
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "The current evidence does not support writing “we will be running monthly evenings next year.” That would announce a decision we have not made.",
+      "start": 110.515,
+      "end": 119.115,
+      "duration": 8.6
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "Then the planning update should use two columns: outcomes expected under any option, and outcomes that depend on the final decision.",
+      "start": 119.395,
+      "end": 127.195,
+      "duration": 7.8
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Good. By the end of the trade-off meeting, we’ll have chosen whether to stop, repeat a bounded test or propose a new recurring model.",
+      "start": 127.475,
+      "end": 135.575,
+      "duration": 8.1
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "That choice could change if the record contains an error. I’ll attach the four attendance sheets, cost totals and signed rota confirmations for checking.",
+      "start": 135.855,
+      "end": 144.255,
+      "duration": 8.4
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "What we don’t know yet is whether demand would continue beyond these groups or whether repeated evenings would remain within the same staffing margin.",
+      "start": 144.535,
+      "end": 153.51,
+      "duration": 8.975
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "So the safest one-year statement is that we’ll have improved the daytime booking process and closed the old trial record; any new evening activity remains conditional.",
+      "start": 153.79,
+      "end": 163.54,
+      "duration": 9.75
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Exactly. A future plan should show direction and checkpoints without turning an undecided branch into a promise.",
+      "start": 163.82,
+      "end": 171.045,
+      "duration": 7.225
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 95 - There Are Trade-offs Either Way",
+  "voiceMap": {
+    "Malik": "am_fenrir",
+    "Owen": "am_adam",
+    "Rosa": "af_jessica"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-95/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "There are trade-offs either way. If we stop now, we protect staff recovery and avoid another evening commitment, but we learn nothing about more varied groups.",
+      "start": 0.35,
+      "end": 10.375,
+      "duration": 10.025
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "On the one hand, the four-event process stayed inside its limits. On the other hand, the sample was narrow: thirty-four attendees, one menu format and no group larger than ten.",
+      "start": 10.655,
+      "end": 20.705,
+      "duration": 10.05
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "Even if another bounded round stayed within twenty extra hours, it would still use time that could support daytime service or planned maintenance.",
+      "start": 20.985,
+      "end": 30.485,
+      "duration": 9.5
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "That’s true. A second round would solve part of the evidence gap, but it would also ask staff to repeat late work without proving a recurring model.",
+      "start": 30.765,
+      "end": 39.065,
+      "duration": 8.3
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "What about a monthly service? The main benefit would be a clearer offer for groups and more observations over time.",
+      "start": 39.345,
+      "end": 46.745,
+      "duration": 7.4
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "The main risk is that a pilot gate becomes a routine expectation. Date-specific consent is easier to protect for four trials than for an open-ended calendar.",
+      "start": 47.025,
+      "end": 58.15,
+      "duration": 11.125
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "We’re working with limited resources. Priority should be given to reliable daytime service unless evening evidence is strong enough to justify displacing it.",
+      "start": 58.43,
+      "end": 67.93,
+      "duration": 9.5
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Owen",
+      "text": "The question is whether the additional evidence from option B is worth the staff time and opportunity cost.",
+      "start": 68.21,
+      "end": 75.335,
+      "duration": 7.125
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Malik",
+      "text": "For me, it is not yet. The trial showed that a very small model can be controlled; it did not reveal a problem that only another immediate round can answer.",
+      "start": 75.615,
+      "end": 86.315,
+      "duration": 10.7
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Rosa",
+      "text": "I agree about timing, although I place more weight on preserving the learning. We should keep the checklist and data structure even if we stop evening events.",
+      "start": 86.595,
+      "end": 95.22,
+      "duration": 8.625
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Looking back, what would have happened if we had accepted Noor’s original request for eighteen people on six nights?",
+      "start": 96.35,
+      "end": 102.875,
+      "duration": 6.525
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "It would have exceeded the guest, date, duration and menu scope before the trial began. We would not have been testing the approved model.",
+      "start": 103.155,
+      "end": 110.755,
+      "duration": 7.6
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "If we hadn’t required direct schedule confirmation, a general note might have been mistaken for consent. That explains why the gate mattered; it doesn’t mean anyone would certainly have been forced to work.",
+      "start": 111.035,
+      "end": 123.885,
+      "duration": 12.85
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "If we had kept the separate welcome table after the long second cleanup, we might have used more staff time in the final two events.",
+      "start": 124.165,
+      "end": 131.715,
+      "duration": 7.55
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "Those counterfactuals identify useful controls, but they do not prove that every future event would fail without them.",
+      "start": 131.995,
+      "end": 139.92,
+      "duration": 7.925
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Exactly. The pressure was shared, while the decisions remained separate. Rosa managed the operating plan, each employee accepted a date, and you owned the framework decision.",
+      "start": 140.2,
+      "end": 151.475,
+      "duration": 11.275
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "My recommendation is to close the old trial and not approve a standing monthly service. Keep the daytime checklist, and treat any future evening idea as a new proposal.",
+      "start": 151.755,
+      "end": 161.855,
+      "duration": 10.1
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Owen",
+      "text": "That gives up immediate evidence from option B. Is the lost learning acceptable?",
+      "start": 162.135,
+      "end": 167.785,
+      "duration": 5.65
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Rosa",
+      "text": "I think so. We have enough evidence to improve daytime bookings, while the unresolved question is not urgent. New demand or new capacity could justify a fresh review later.",
+      "start": 168.065,
+      "end": 178.815,
+      "duration": 10.75
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Malik",
+      "text": "Then the trade-off is clear: we give up immediate evening expansion and additional data in exchange for predictable recovery, protected daytime capacity and an honest end to the pilot.",
+      "start": 179.095,
+      "end": 191.395,
+      "duration": 12.3
+    }
+  ]
+}
