@@ -174,14 +174,14 @@ for (const line of mapText.split(/\r?\n/)) {
       const migratedHeadingsAreValid =
         content.sections.length !== 11 ||
         (content.sections[2]?.title === "3. 中文译文" &&
-          content.sections[3]?.title === "4. Read, Notice, Understand");
+          /^4\. (?:Read|Listen), Notice, Understand$/.test(content.sections[3]?.title || ""));
       if (
         !sectionCountIsSupported ||
         sectionNumbers.some((value, index) => value !== expectedSections[index]) ||
         !migratedHeadingsAreValid
       ) {
         throw new Error(
-          `${path.relative(manuscriptRoot, file)} is marked complete but does not contain a supported numbered H2 sequence. Eleven-section lessons must use 3. 中文译文 and 4. Read, Notice, Understand.`,
+          `${path.relative(manuscriptRoot, file)} is marked complete but does not contain a supported numbered H2 sequence. Eleven-section lessons must use 3. 中文译文 followed by a Read/Listen, Notice, Understand section.`,
         );
       }
     }
