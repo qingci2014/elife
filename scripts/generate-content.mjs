@@ -60,7 +60,13 @@ async function generateAudioVersions() {
     const hash = createHash("sha256");
     for (const filename of files) {
       hash.update(filename);
-      hash.update(await fs.readFile(path.join(lessonDirectory, filename)));
+      const filePath = path.join(lessonDirectory, filename);
+      if (filename.endsWith(".json")) {
+        const json = JSON.parse(await fs.readFile(filePath, "utf8"));
+        hash.update(JSON.stringify(json));
+      } else {
+        hash.update(await fs.readFile(filePath));
+      }
     }
     versions[number] = hash.digest("hex").slice(0, 16);
   }
