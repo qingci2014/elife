@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 89 - Here's the Short Version",
+  "voiceMap": {
+    "Keira": "af_sarah",
+    "Robin": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-89/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "I have twelve notes from the briefing, but the volunteers only have ninety seconds before the desk opens. Here’s the short version: the catalog is moving to a new system next month.",
+      "start": 0.35,
+      "end": 12.1,
+      "duration": 11.75
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "That is too definite. The library is preparing a test migration next month. A full move has not been approved.",
+      "start": 12.38,
+      "end": 20.455,
+      "duration": 8.075
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Good catch. The main point is that a batch of three hundred public records will be copied into a test system during the week beginning May twelfth.",
+      "start": 20.735,
+      "end": 29.435,
+      "duration": 8.7
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Yes. The old catalog will remain available in read-only mode, so visitors can still search it while the test is checked.",
+      "start": 29.715,
+      "end": 37.89,
+      "duration": 8.175
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "The part that matters for front-desk volunteers is what visitors will see. They may be invited to try a separate test search, but normal access will continue through the old catalog.",
+      "start": 38.17,
+      "end": 49.82,
+      "duration": 11.65
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Also say that no original images or descriptions are being deleted. Copying records for a test is not the same as replacing the source archive.",
+      "start": 50.1,
+      "end": 60.5,
+      "duration": 10.4
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "In practical terms, volunteers should use the old catalog for service requests and give the test link only to visitors who choose to provide search feedback.",
+      "start": 60.78,
+      "end": 71.08,
+      "duration": 10.3
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Correct. Feedback is optional and should concern search results, not personal account details.",
+      "start": 71.36,
+      "end": 78.185,
+      "duration": 6.825
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Do they need the names of all seven mapped fields and the three checksum stages?",
+      "start": 78.465,
+      "end": 83.49,
+      "duration": 5.025
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "No. Those details explain how the team will test accuracy, but volunteers only need to know that the sample will be checked before any wider decision.",
+      "start": 83.77,
+      "end": 93.845,
+      "duration": 10.075
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "I’ve left out the vendor history, the export file names and the rejected color schemes. None changes what volunteers do next month.",
+      "start": 94.975,
+      "end": 104.05,
+      "duration": 9.075
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "That is sensible. Keep the number of records, the test week, the read-only source, the optional feedback and the fact that full migration is undecided.",
+      "start": 104.33,
+      "end": 114.255,
+      "duration": 9.925
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "What about the twelve hundred restricted records?",
+      "start": 114.535,
+      "end": 117.735,
+      "duration": 3.2
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Mention that they are outside this test. Do not say they failed or were excluded permanently; their access rules need a separate review.",
+      "start": 118.015,
+      "end": 127.165,
+      "duration": 9.15
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Then the short version shouldn’t change “not included in this batch” to “will never be moved.”",
+      "start": 127.445,
+      "end": 133.095,
+      "duration": 5.65
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Exactly. It also should not say the new search is faster. The test will measure search accuracy and response time; we do not have results yet.",
+      "start": 133.375,
+      "end": 143.4,
+      "duration": 10.025
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Let me try the full ninety seconds: three hundred public records, one test week, old search still available, optional feedback, restricted records outside scope and no full-migration decision.",
+      "start": 143.68,
+      "end": 156.255,
+      "duration": 12.575
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Add who to contact if a visitor sees a wrong date or missing creator name: send the item number to the archive desk rather than editing anything at the front desk.",
+      "start": 156.535,
+      "end": 167.41,
+      "duration": 10.875
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "So one action line, one open issue and no technical tour. That is much clearer than reading my twelve notes in order.",
+      "start": 167.69,
+      "end": 175.74,
+      "duration": 8.05
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Yes. A useful summary follows the listener’s task, but every sentence must still be traceable to the longer briefing.",
+      "start": 176.02,
+      "end": 184.145,
+      "duration": 8.125
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 91 - Let Me Put That in Plain English",
+  "voiceMap": {
+    "Mateo": "am_fenrir",
+    "Robin": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-91/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Mateo",
+      "text": "The formal note says, “Once an immutable export has been generated, a checksum is calculated and the source object is retained outside the import environment.”",
+      "start": 0.35,
+      "end": 10.8,
+      "duration": 10.45
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Let me put that in plain English. First, a fixed copy of the selected records is made, and the original catalog is left unchanged.",
+      "start": 11.08,
+      "end": 20.08,
+      "duration": 9.0
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Mateo",
+      "text": "Good. The checksum does not prove that every description is correct. It helps us detect whether the exported file changes unexpectedly after it is created.",
+      "start": 20.36,
+      "end": 30.585,
+      "duration": 10.225
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "In other words, it checks whether we are still working with the same package of data, not whether every fact inside the package is true.",
+      "start": 30.865,
+      "end": 39.44,
+      "duration": 8.575
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Mateo",
+      "text": "Exactly. Next, each old field is matched to a place in the test system: creator to creator, date to date and item number to item number.",
+      "start": 39.72,
+      "end": 49.27,
+      "duration": 9.55
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Think of it as matching columns on two forms. The analogy helps with structure, although real fields can contain rules that a paper form does not show.",
+      "start": 49.55,
+      "end": 59.625,
+      "duration": 10.075
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Mateo",
+      "text": "After the mapping has been applied, the three hundred records are imported into a separate test area.",
+      "start": 59.905,
+      "end": 66.255,
+      "duration": 6.35
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "What happens first is copying and checking the package; what happens next is matching the fields and loading the test copy.",
+      "start": 66.535,
+      "end": 74.335,
+      "duration": 7.8
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Mateo",
+      "text": "Then automated checks look for missing item numbers, impossible date formats and record-count differences.",
+      "start": 74.615,
+      "end": 81.64,
+      "duration": 7.025
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "You don’t need to run those checks yourself; the project team runs them. Volunteers only report a visible error with the item number.",
+      "start": 81.92,
+      "end": 90.695,
+      "duration": 8.775
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Mateo",
+      "text": "Records that fail a structural check are flagged and set aside. They are not silently corrected or deleted.",
+      "start": 91.825,
+      "end": 99.125,
+      "duration": 7.3
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "So “flagged” means the team stops that item for review, not that the source record has been judged wrong.",
+      "start": 99.405,
+      "end": 106.33,
+      "duration": 6.925
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Mateo",
+      "text": "Correct. Some accurate historical descriptions use unusual dates or names, so a warning may identify an exception rather than an error.",
+      "start": 106.61,
+      "end": 116.235,
+      "duration": 9.625
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "The important limit is that automated checks can find patterns and missing fields, but a person must decide whether the content makes sense.",
+      "start": 116.515,
+      "end": 125.615,
+      "duration": 9.1
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Mateo",
+      "text": "A sample is also reviewed manually against the unchanged source. If a mapping rule caused repeated errors, the test batch would be rejected and rebuilt.",
+      "start": 125.895,
+      "end": 136.27,
+      "duration": 10.375
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Does “rejected” mean the archive is lost?",
+      "start": 136.55,
+      "end": 139.35,
+      "duration": 2.8
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Mateo",
+      "text": "No. Only that test import is discarded. Because the source was not overwritten, the team can correct the rule and create another test.",
+      "start": 139.63,
+      "end": 148.005,
+      "duration": 8.375
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Then my analogy needs a warning: it is like checking a copied packing list against the original, but the system also applies field rules that a packing list does not.",
+      "start": 148.285,
+      "end": 158.385,
+      "duration": 10.1
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Mateo",
+      "text": "That works. An analogy should illuminate one relationship and then state where the comparison stops.",
+      "start": 158.665,
+      "end": 164.965,
+      "duration": 6.3
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "My final version will give five steps, the volunteer action and three limits. That is plain English without pretending the process is effortless or foolproof.",
+      "start": 165.245,
+      "end": 175.72,
+      "duration": 10.475
+    }
+  ]
+}

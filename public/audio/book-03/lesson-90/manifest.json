@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 90 - The Two Experts Don't Quite Agree",
+  "voiceMap": {
+    "Keira": "af_sarah",
+    "Robin": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-90/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "My first note says, “Imani recommends a phased migration, but Julian wants a single cutover.” It sounds as if they disagree about everything.",
+      "start": 0.35,
+      "end": 9.875,
+      "duration": 9.525
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "They do not. Both experts agree that the original archive must remain unchanged, every imported batch must be checked and a rollback copy must exist before public access changes.",
+      "start": 10.155,
+      "end": 22.855,
+      "duration": 12.7
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "They also agree that the three-hundred-record test should happen before any full decision.",
+      "start": 23.135,
+      "end": 29.035,
+      "duration": 5.9
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Yes. According to Imani, the test should be followed by several small batches so mapping errors can be isolated and corrected before the next batch.",
+      "start": 29.315,
+      "end": 39.19,
+      "duration": 9.875
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Julian argues that a long parallel period creates duplicate staff work and two changing versions of the catalog.",
+      "start": 39.47,
+      "end": 47.32,
+      "duration": 7.85
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Where they differ is the stage after the test, not whether accuracy or rollback matters.",
+      "start": 47.6,
+      "end": 53.975,
+      "duration": 6.375
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Imani places more weight on limiting the size of any one error. Julian places more weight on limiting the time staff must operate two systems.",
+      "start": 54.255,
+      "end": 63.73,
+      "duration": 9.475
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "That is a better comparison than “cautious expert versus fast expert.” Both are managing risk; they prioritize different kinds.",
+      "start": 64.01,
+      "end": 73.21,
+      "duration": 9.2
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Does Julian dismiss the risk of mapping errors?",
+      "start": 73.49,
+      "end": 76.74,
+      "duration": 3.25
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "No. His note proposes a forty-eight-hour public freeze, a complete validation run and a prepared rollback. He thinks concentrated checking is more controllable than repeated small cutovers.",
+      "start": 77.02,
+      "end": 90.07,
+      "duration": 13.05
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "That doesn’t necessarily contradict Imani’s preservation rule. He accepts the same unchanged source copy and validation requirement.",
+      "start": 91.2,
+      "end": 99.975,
+      "duration": 8.775
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Correct. Imani questions whether one validation weekend gives staff enough time to spot subtle description errors across different collections.",
+      "start": 100.255,
+      "end": 109.78,
+      "duration": 9.525
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "The disagreement turns on whether smaller error exposure is worth several weeks of parallel work.",
+      "start": 110.06,
+      "end": 116.635,
+      "duration": 6.575
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "And our current briefing does not estimate the staffing cost of parallel work or the rate of subtle errors in the test batch.",
+      "start": 116.915,
+      "end": 125.465,
+      "duration": 8.55
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "So I cannot conclude that either approach is cheaper or safer overall.",
+      "start": 125.745,
+      "end": 130.395,
+      "duration": 4.65
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Right. You can report which risk each approach reduces and which new burden it creates.",
+      "start": 130.675,
+      "end": 136.9,
+      "duration": 6.225
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Here’s the short version for the meeting: both experts require an unchanged source, validation and rollback. Imani supports staged batches to contain errors; Julian supports one controlled cutover to reduce parallel work.",
+      "start": 137.18,
+      "end": 151.905,
+      "duration": 14.725
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Add the evidence gap: the test must tell us about error type and review time before the trade-off can be assessed.",
+      "start": 152.185,
+      "end": 159.985,
+      "duration": 7.8
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "I’ve left out their software preferences because neither recommendation depends on a specific brand in this exercise.",
+      "start": 160.265,
+      "end": 167.89,
+      "duration": 7.625
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Good. A neutral synthesis gives decision-makers the shared floor, the real hinge and the missing evidence—not a winner chosen by the summarizer.",
+      "start": 168.17,
+      "end": 177.995,
+      "duration": 9.825
+    }
+  ]
+}

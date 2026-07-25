@@ -116,7 +116,7 @@ test("renders unwritten lessons as honest plan pages", async (t) => {
 });
 
 test("ships shared-WAV segment manifests for all published lessons", async () => {
-  for (let number = 1; number <= 88; number += 1) {
+  for (let number = 1; number <= 92; number += 1) {
     const book = Math.ceil(number / 32);
     const audioRoot = new URL(`../public/audio/book-${String(book).padStart(2, "0")}/`, import.meta.url);
     const lesson = `lesson-${String(number).padStart(2, "0")}`;
@@ -164,6 +164,12 @@ test("ships shared-WAV segment manifests for all published lessons", async () =>
   assert.equal(lesson88.voiceMap?.Mara, "af_aoede");
   assert.equal(lesson88.transfer?.src, "/audio/book-03/lesson-88/transfer.wav");
   assert.ok((await readFile(new URL("lesson-88/transfer.wav", audioRoot))).length > 44);
+
+  const lesson92 = JSON.parse(await readFile(new URL("lesson-92/manifest.json", audioRoot), "utf8"));
+  assert.equal(lesson92.transfer?.speaker, "Sofia");
+  assert.equal(lesson92.voiceMap?.Sofia, "af_bella");
+  assert.equal(lesson92.transfer?.src, "/audio/book-03/lesson-92/transfer.wav");
+  assert.ok((await readFile(new URL("lesson-92/transfer.wav", audioRoot))).length > 44);
 });
 
 test("does not ship MP3 files", async () => {

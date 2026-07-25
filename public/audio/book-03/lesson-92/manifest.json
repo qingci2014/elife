@@ -1,0 +1,200 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 92 - What We Know—and What We Don't",
+  "voiceMap": {
+    "Keira": "af_sarah",
+    "Robin": "am_puck",
+    "Sofia": "af_bella"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-92/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "What we know is that all three hundred selected public records were copied into the separate test area and the source catalog remained unchanged.",
+      "start": 0.35,
+      "end": 9.475,
+      "duration": 9.125
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "The log also shows eighteen structural warnings: twelve unusual but valid date formats, four missing creator fields and two duplicate item numbers.",
+      "start": 9.755,
+      "end": 20.655,
+      "duration": 10.9
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "Can we say eighteen records were wrong?",
+      "start": 20.935,
+      "end": 23.56,
+      "duration": 2.625
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "No. We can rule out that interpretation because twelve warnings were confirmed as valid exceptions. Four records lacked creator data in the source, and the two duplicate numbers require further review.",
+      "start": 23.84,
+      "end": 37.265,
+      "duration": 13.425
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "The evidence suggests the automated checks found useful review targets, but it does not give us an eighteen-record error rate.",
+      "start": 37.545,
+      "end": 45.82,
+      "duration": 8.275
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Correct. In the sixty-record manual sample, fifty-seven test records matched the source exactly and three had title-punctuation differences caused by one mapping rule.",
+      "start": 46.1,
+      "end": 57.775,
+      "duration": 11.675
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "That rule has now been corrected, and the same sixty records passed a second comparison.",
+      "start": 58.055,
+      "end": 63.98,
+      "duration": 5.925
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "Yes, but I’d be careful about saying the full catalog will therefore migrate accurately. This sample did not include restricted records or every description pattern.",
+      "start": 64.26,
+      "end": 75.21,
+      "duration": 10.95
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Robin",
+      "text": "What we don’t know yet is how many additional mapping patterns appear in the remaining records.",
+      "start": 75.49,
+      "end": 81.465,
+      "duration": 5.975
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Keira",
+      "text": "We also do not know whether the test response time will hold during peak public use.",
+      "start": 81.745,
+      "end": 87.695,
+      "duration": 5.95
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "The median response time was 1.4 seconds across 120 prepared searches. Can we call the new search fast?",
+      "start": 88.825,
+      "end": 97.275,
+      "duration": 8.45
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Only for those searches in that test environment. We can’t rule out slower performance with more users, larger indexes or different queries.",
+      "start": 97.555,
+      "end": 107.03,
+      "duration": 9.475
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "Staff recorded eleven hours of parallel review. The examples don’t represent a full migration, so multiplying eleven hours by the number of batches would be unreliable.",
+      "start": 107.31,
+      "end": 119.21,
+      "duration": 11.9
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Exactly. Both experts agree that the safeguards worked as designed in this test. Where they differ is still the post-test migration sequence.",
+      "start": 119.49,
+      "end": 128.865,
+      "duration": 9.375
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "The safest conclusion is that the process protected the source and identified a correctable mapping rule in this batch.",
+      "start": 129.145,
+      "end": 136.645,
+      "duration": 7.5
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Add that the test does not yet establish the best full-migration strategy, total staff time, restricted-record handling or peak performance.",
+      "start": 136.925,
+      "end": 146.425,
+      "duration": 9.5
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "A more accurate way to put the recommendation is: run a second, more varied public-record batch before choosing between phased and single cutover.",
+      "start": 146.705,
+      "end": 156.605,
+      "duration": 9.9
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "That may reduce some uncertainty, but it will not answer the restricted-record question. That requires a separate access review.",
+      "start": 156.885,
+      "end": 165.81,
+      "duration": 8.925
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Robin",
+      "text": "I’ll mark the completed batch and corrected rule as closed; migration sequence, scaling and restricted access remain open.",
+      "start": 166.09,
+      "end": 174.74,
+      "duration": 8.65
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Keira",
+      "text": "Good. The brief should let a reader see the evidence, the inference, the exceptions and the next decision without treating caution as failure.",
+      "start": 175.02,
+      "end": 184.045,
+      "duration": 9.025
+    }
+  ],
+  "transfer": {
+    "title": "Sofia's independent review message",
+    "instruction": "Listen twice without reading. Record the two confirmed results, why eighteen warnings are not eighteen errors, the limited performance result and the two recommended next steps before giving a sourced 60-second summary.",
+    "speaker": "Sofia",
+    "src": "/audio/book-03/lesson-92/transfer.wav",
+    "duration": 44.525
+  }
+}
