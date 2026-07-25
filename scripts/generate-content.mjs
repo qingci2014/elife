@@ -165,23 +165,17 @@ for (const line of mapText.split(/\r?\n/)) {
         const match = section.title.match(/^(\d+)\./);
         return match ? Number(match[1]) : null;
       });
-      // Translation migration is published four lessons at a time. During the
-      // migration, legacy lessons have ten sections and migrated lessons have
-      // the final eleven-section structure. Once all 96 lessons are migrated,
-      // this compatibility branch is removed and eleven becomes mandatory.
-      const sectionCountIsSupported = content.sections.length === 10 || content.sections.length === 11;
-      const expectedSections = Array.from({ length: content.sections.length }, (_, index) => index + 1);
-      const migratedHeadingsAreValid =
-        content.sections.length !== 11 ||
-        (content.sections[2]?.title === "3. 中文译文" &&
-          /^4\. (?:Read|Listen), Notice, Understand$/.test(content.sections[3]?.title || ""));
+      const expectedSections = Array.from({ length: 11 }, (_, index) => index + 1);
+      const requiredHeadingsAreValid =
+        content.sections[2]?.title === "3. 中文译文" &&
+        /^4\. (?:Read|Listen), Notice, Understand$/.test(content.sections[3]?.title || "");
       if (
-        !sectionCountIsSupported ||
+        content.sections.length !== 11 ||
         sectionNumbers.some((value, index) => value !== expectedSections[index]) ||
-        !migratedHeadingsAreValid
+        !requiredHeadingsAreValid
       ) {
         throw new Error(
-          `${path.relative(manuscriptRoot, file)} is marked complete but does not contain a supported numbered H2 sequence. Eleven-section lessons must use 3. 中文译文 followed by a Read/Listen, Notice, Understand section.`,
+          `${path.relative(manuscriptRoot, file)} is marked complete but does not contain the required 11-section H2 sequence with 3. 中文译文 followed by 4. Read/Listen, Notice, Understand.`,
         );
       }
     }

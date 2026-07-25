@@ -78,6 +78,15 @@ test("serves all 96 lesson routes and lists 32 lessons in each book", async () =
   const lessons = await generatedLessons();
   assert.equal(lessons.length, 96);
   assert.equal(new Set(lessons.map((lesson) => lesson.slug)).size, 96);
+  for (const lesson of lessons) {
+    assert.equal(lesson.sections.length, 11, `Lesson ${lesson.number} should have 11 top-level sections`);
+    assert.equal(lesson.sections[2]?.title, "3. 中文译文", `Lesson ${lesson.number} should have a standalone translation section`);
+    assert.match(
+      lesson.sections[3]?.title ?? "",
+      /^4\. (?:Read|Listen), Notice, Understand$/,
+      `Lesson ${lesson.number} should keep Read/Listen, Notice, Understand as section 4`,
+    );
+  }
 
   for (const book of [1, 2, 3]) {
     const html = await htmlFor(`/books/${book}`);
@@ -98,6 +107,12 @@ test("serves all 96 lesson routes and lists 32 lessons in each book", async () =
   );
   responses.forEach((response, index) => {
     assert.equal(response.status, 200, `/lessons/${lessons[index].slug} should render`);
+  });
+
+  const renderedLessons = await Promise.all(responses.map((response) => response.text()));
+  renderedLessons.forEach((html, index) => {
+    assert.match(html, /<details[^>]*class="answer-section translation-section"/, `Lesson ${lessons[index].number} should render a collapsible translation`);
+    assert.match(html, /3\. 中文译文/, `Lesson ${lessons[index].number} should render the translation heading`);
   });
 });
 
