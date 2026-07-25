@@ -57,6 +57,15 @@ export default async function LessonPage({ params }: PageProps) {
             <div className="lesson-intro" dangerouslySetInnerHTML={{ __html: lesson.introHtml }} />
             {lesson.sections.map((section) => {
               const isAnswer = /Answer Key|参考答案|答案/.test(section.title);
+              const isTranslation = /^3\. 中文译文$/.test(section.title);
+              if (isTranslation) {
+                return (
+                  <details className="answer-section translation-section" id={section.id} key={section.id}>
+                    <summary>{section.title}<span>需要时展开</span></summary>
+                    <div className="markdown-body" dangerouslySetInnerHTML={{ __html: section.html }} />
+                  </details>
+                );
+              }
               if (isAnswer) {
                 return (
                   <details className="answer-section" id={section.id} key={section.id}>

@@ -67,6 +67,9 @@ test("renders a completed lesson with contents, answers, and navigation", async 
   assert.match(html, /Lesson 1 — Long Time No See/);
   assert.match(html, /本课目录/);
   assert.match(html, /完整课文/);
+  assert.match(html, /<details[^>]*class="answer-section translation-section"/);
+  assert.match(html, /3\. 中文译文/);
+  assert.match(html, /4\. Read, Notice, Understand/);
   assert.match(html, /<details[^>]*class="answer-section"/);
   assert.match(html, /href="\/lessons\/02-what-have-you-been-up-to"/);
 });
