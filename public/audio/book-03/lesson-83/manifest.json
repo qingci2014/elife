@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 83 - What Are Our Options at This Point?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daria": "af_sarah"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-83/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "The preliminary assessment is in. The bracket damage is consistent with force from the lower-right corner, and the protective insert was displaced. The report still cannot identify when that happened.",
+      "start": 0.35,
+      "end": 13.325,
+      "duration": 12.975
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "So responsibility remains undetermined, but the physical findings support that the external damage and bent bracket may be connected.",
+      "start": 13.605,
+      "end": 22.255,
+      "duration": 8.65
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "Correct. What are our options at this point? One option would be a same-model replacement delivered by Tuesday at five, with the damaged unit collected during the same visit.",
+      "start": 22.535,
+      "end": 33.935,
+      "duration": 11.4
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Would the proposed damage hold remain paused, and would there be any new delivery or rental charge?",
+      "start": 34.215,
+      "end": 40.69,
+      "duration": 6.475
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "The hold would remain paused, there would be no extra delivery charge and your two-day rental window would reset to Wednesday and Thursday if the replacement arrived Tuesday. Claims would issue a final account decision within five business days.",
+      "start": 40.97,
+      "end": 56.145,
+      "duration": 15.175
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "That would resolve the equipment problem if delivery happens on time, but not the uncertainty about the hold.",
+      "start": 56.425,
+      "end": 63.525,
+      "duration": 7.1
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "A second option is a smaller substitute delivered this afternoon, with a forty-dollar rental credit and no damage hold. Its color range is narrower than the model you selected.",
+      "start": 63.805,
+      "end": 76.005,
+      "duration": 12.2
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "That rules it out for the detailed color review, although it could handle ordinary slides. What is the third option?",
+      "start": 76.285,
+      "end": 83.485,
+      "duration": 7.2
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "Full cancellation and refund today. We would arrange collection tomorrow and release every proposed amount, but you would need to source another display yourself.",
+      "start": 83.765,
+      "end": 94.34,
+      "duration": 10.575
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Our top priority is a color-accurate display by Tuesday evening. The same-model replacement is the best available option if its dispatch can be confirmed early enough.",
+      "start": 94.62,
+      "end": 105.27,
+      "duration": 10.65
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I could accept the replacement provided that dispatch is confirmed in writing by Tuesday noon and delivery remains scheduled for no later than five.",
+      "start": 106.4,
+      "end": 115.425,
+      "duration": 9.025
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "We can make noon the confirmation gate. If inventory cannot confirm by then, what fallback would you want?",
+      "start": 115.705,
+      "end": 123.055,
+      "duration": 7.35
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "If dispatch isn’t confirmed by noon, I’d need to cancel for a full refund rather than wait until the end of the day and lose time to find another unit.",
+      "start": 123.335,
+      "end": 132.56,
+      "duration": 9.225
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "That is workable. Before you choose, I should explain the claim timeline: the paused hold will be removed within five business days unless Claims sends specific written evidence supporting customer-caused damage.",
+      "start": 132.84,
+      "end": 146.54,
+      "duration": 13.7
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "I need that condition in writing, along with the fact that accepting a replacement does not determine responsibility for the original damage.",
+      "start": 146.82,
+      "end": 155.545,
+      "duration": 8.725
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "Agreed. The replacement solves access to equipment; it does not close the cause review. The technical report, photographs and handoff records will remain in case CVR-2086.",
+      "start": 155.825,
+      "end": 168.625,
+      "duration": 12.8
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "We also need to allow time for the collection. Can the same driver collect the damaged unit only after the replacement has been checked for visible condition?",
+      "start": 168.905,
+      "end": 178.38,
+      "duration": 9.475
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "Yes. You may record the new package condition before signing, and the original unit will not be removed until you confirm the replacement can stand safely.",
+      "start": 178.66,
+      "end": 189.085,
+      "duration": 10.425
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Then I choose the same-model replacement with the noon confirmation gate, five o’clock delivery target, same-visit collection and automatic cancellation fallback.",
+      "start": 189.365,
+      "end": 199.24,
+      "duration": 9.875
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "I’ll send the conditional agreement now. Please reply only if the scope, deadlines or claim wording differs from what we have agreed.",
+      "start": 199.52,
+      "end": 208.07,
+      "duration": 8.55
+    }
+  ]
+}

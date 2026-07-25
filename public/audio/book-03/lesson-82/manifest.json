@@ -1,0 +1,193 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 82 - Who's Responsible for the Damage?",
+  "voiceMap": {
+    "Aisha": "af_nova",
+    "Daria": "af_sarah",
+    "Leo": "am_puck"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-82/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "We are reviewing responsibility, not assuming it. Can we hear from Leo on what was inspected, packed and recorded before the courier collected the unit?",
+      "start": 0.35,
+      "end": 10.35,
+      "duration": 10.0
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Leo",
+      "text": "The unit passed a basic power and screen check at 7:18 Monday. We had the mounting bracket inspected visually, and the checklist records no visible bend.",
+      "start": 10.63,
+      "end": 21.78,
+      "duration": 11.15
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Was the item photographed from every side before it was packed?",
+      "start": 22.06,
+      "end": 26.385,
+      "duration": 4.325
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Leo",
+      "text": "No. The 7:24 image shows the screen, front of the stand and left side. The lower-right bracket area is partly hidden by the base.",
+      "start": 26.665,
+      "end": 36.115,
+      "duration": 9.45
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "Who packed it, and was the protective insert checked?",
+      "start": 36.395,
+      "end": 40.245,
+      "duration": 3.85
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Leo",
+      "text": "A warehouse technician packed it at 7:31. The box was sealed and scanned at 7:42, but the checklist confirms only that the standard insert was present, not its exact position.",
+      "start": 40.525,
+      "end": 54.025,
+      "duration": 13.5
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "Then the dispatch record supports a basic inspection and sealed box, but it does not show the bracket clearly or prove the insert was aligned.",
+      "start": 54.305,
+      "end": 62.88,
+      "duration": 8.575
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Leo",
+      "text": "That is correct. We had the package collected by the courier at 8:05. Their handoff scan reports no exception, but it has no photograph.",
+      "start": 63.16,
+      "end": 72.91,
+      "duration": 9.75
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Daria",
+      "text": "The delivery image at 10:18 shows a crease near the lower-right corner. Aisha’s receipt also records visible damage before unpacking.",
+      "start": 73.19,
+      "end": 83.19,
+      "duration": 10.0
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Aisha",
+      "text": "I had it delivered by the courier ClearView selected. I did not arrange a separate carrier or move the sealed box to another address.",
+      "start": 83.47,
+      "end": 91.645,
+      "duration": 8.175
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "What evidence is responsibility currently based on? We have a limited dispatch image, a clean handoff scan without a photo, a damaged-box delivery record and customer images taken fourteen minutes later.",
+      "start": 92.775,
+      "end": 106.975,
+      "duration": 14.2
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Leo",
+      "text": "Taken together, those records suggest the bracket could have been bent before packing or during transit. They do not show the exact moment of damage.",
+      "start": 107.255,
+      "end": 116.83,
+      "duration": 9.575
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Could it have been damaged after delivery but before I photographed it?",
+      "start": 117.11,
+      "end": 121.61,
+      "duration": 4.5
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "That possibility cannot be excluded by time alone, but the sealed-box note, short interval and your decision not to power it on all remain relevant. Possibility is not evidence that you caused it.",
+      "start": 121.89,
+      "end": 135.415,
+      "duration": 13.525
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Leo",
+      "text": "The unit needs to be assessed by a technician. The bracket, protective insert and impact marks may show whether the force came through the damaged corner.",
+      "start": 135.695,
+      "end": 145.695,
+      "duration": 10.0
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Will that assessment decide who is responsible?",
+      "start": 145.975,
+      "end": 149.625,
+      "duration": 3.65
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "It may narrow the likely stage, but one inspection may not identify a person or prove a single cause. Responsibility hasn’t been determined yet.",
+      "start": 149.905,
+      "end": 160.33,
+      "duration": 10.425
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Leo",
+      "text": "I also need to correct one phrase in the warehouse note. “Bracket inspected” could sound more complete than the actual visual check shown in the photo.",
+      "start": 160.61,
+      "end": 170.285,
+      "duration": 9.675
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Daria",
+      "text": "Are we ready to determine responsibility? No. We are ready to authorize technical assessment, preserve the charge pause and compare the report with every earlier record.",
+      "start": 170.565,
+      "end": 182.015,
+      "duration": 11.45
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Aisha",
+      "text": "Is that an accurate record: dispatch condition is only partly documented, transit condition has a gap and customer-caused damage has not been established?",
+      "start": 182.295,
+      "end": 192.02,
+      "duration": 9.725
+    }
+  ]
+}

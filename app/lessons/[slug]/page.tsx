@@ -5,7 +5,7 @@ import { lessons } from "../../generated/content";
 import { LessonAudioPlayer } from "../../components/lesson-audio-player";
 
 type PageProps = { params: Promise<{ slug: string }> };
-const audioLessons = new Set(Array.from({ length: 80 }, (_, index) => index + 1));
+const audioLessons = new Set(Array.from({ length: 84 }, (_, index) => index + 1));
 
 export function generateStaticParams() {
   return lessons.map((lesson) => ({ slug: lesson.slug }));
