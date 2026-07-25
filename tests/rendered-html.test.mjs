@@ -123,10 +123,18 @@ test("ships shared-WAV segment manifests for all published lessons", async () =>
     const manifest = JSON.parse(await readFile(new URL(`${lesson}/manifest.json`, audioRoot), "utf8"));
     const dialogue = await stat(new URL(`${lesson}/dialogue.wav`, audioRoot));
     const dialogueDuration = (dialogue.size - 44) / (manifest.sampleRate * 2);
+    const shippedEntries = await readdir(new URL(`${lesson}/`, audioRoot), { withFileTypes: true });
+    const shippedWavs = shippedEntries
+      .filter((entry) => entry.isFile() && entry.name.toLowerCase().endsWith(".wav"))
+      .map((entry) => entry.name)
+      .sort();
+    const expectedWavs = manifest.transfer ? ["dialogue.wav", "transfer.wav"] : ["dialogue.wav"];
 
     assert.equal(manifest.formatVersion, 2, `${lesson} should use segment manifests`);
     assert.ok(manifest.lines.length > 0, `${lesson} should include line segment metadata`);
     assert.ok(dialogue.size > 44, `${lesson} should include a non-empty WAV dialogue`);
+    assert.deepEqual(shippedWavs, expectedWavs, `${lesson} should not ship duplicate per-line WAV files`);
+    assert.equal(shippedEntries.some((entry) => entry.isDirectory() && entry.name === "lines"), false, `${lesson} should not ship a legacy lines directory`);
     let previousEnd = 0;
     for (const line of manifest.lines) {
       assert.equal(typeof line.start, "number", `${lesson} line ${line.id} should include a start time`);
