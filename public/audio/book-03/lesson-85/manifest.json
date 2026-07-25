@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 85 - Was That Supposed to Be Funny?",
+  "voiceMap": {
+    "Daniel": "am_fenrir",
+    "Grace": "af_sarah"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-85/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "The host said, “The washing machine gave the most emotional performance.” Was that supposed to be funny, or did I miss some film term?",
+      "start": 0.35,
+      "end": 9.1,
+      "duration": 8.75
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "I think that was meant as a joke. A machine cannot literally perform, and she paused before “emotional” while the audience was already smiling.",
+      "start": 9.38,
+      "end": 18.73,
+      "duration": 9.35
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "So the clue was the personification, plus the pause and the reaction in the room.",
+      "start": 19.01,
+      "end": 24.66,
+      "duration": 5.65
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Right. None of those clues alone proves her intention, but together they make the playful reading fairly strong.",
+      "start": 24.94,
+      "end": 31.665,
+      "duration": 6.725
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "The director’s budget comment was clearer: “We had three coins and a sandwich.” Obviously they spent more than that.",
+      "start": 31.945,
+      "end": 39.62,
+      "duration": 7.675
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Yes, that was deliberate exaggeration. He laughed, then immediately gave the real figure as roughly twelve hundred dollars.",
+      "start": 39.9,
+      "end": 48.175,
+      "duration": 8.275
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I couldn’t tell if the actor was joking when she said, “Great. Another night shoot.” Her voice was completely flat, and the question before it did not create an obvious contrast.",
+      "start": 48.455,
+      "end": 60.155,
+      "duration": 11.7
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Neither could I. She could have been playfully copying her tired reaction, or she might have been describing genuine frustration after several difficult nights of filming.",
+      "start": 60.435,
+      "end": 70.91,
+      "duration": 10.475
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Maybe I’m reading too much into it. The audience laughed, but perhaps they knew something from an earlier answer.",
+      "start": 71.19,
+      "end": 78.54,
+      "duration": 7.35
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Daniel",
+      "text": "Exactly. Audience laughter is evidence about reception, not proof of what she privately meant.",
+      "start": 78.82,
+      "end": 85.17,
+      "duration": 6.35
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Would it have sounded rude if I had asked, “Was that supposed to be funny?”",
+      "start": 86.3,
+      "end": 91.45,
+      "duration": 5.15
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "It could have, especially with a sharp falling tone. A softer version would be, “Sorry, I couldn’t tell if that was playful or serious.”",
+      "start": 91.73,
+      "end": 100.68,
+      "duration": 8.95
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Or, “Could you say what you meant by ‘another night shoot’?” That asks about the words without accusing her of sarcasm.",
+      "start": 100.96,
+      "end": 108.81,
+      "duration": 7.85
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Yes. She might answer that she enjoyed the work but was exhausted by the schedule. Both feelings can be true.",
+      "start": 109.09,
+      "end": 116.165,
+      "duration": 7.075
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I’m following up in writing with the host about our recap. I should not label that line as sarcasm.",
+      "start": 116.445,
+      "end": 123.445,
+      "duration": 7.0
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "My understanding is that the first two examples had explicit comic cues, while the third remained ambiguous.",
+      "start": 123.725,
+      "end": 131.4,
+      "duration": 7.675
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I’ll write: “The discussion included two clear exaggerations and one line whose tone we could not confidently classify.”",
+      "start": 131.68,
+      "end": 140.105,
+      "duration": 8.425
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "Good. Then add, “Please correct anything I have misunderstood about the actor’s comment.”",
+      "start": 140.385,
+      "end": 145.985,
+      "duration": 5.6
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "That keeps the observation, our interpretation and the unknown separate.",
+      "start": 146.265,
+      "end": 151.615,
+      "duration": 5.35
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Daniel",
+      "text": "And that is the useful habit: notice the clues, describe your confidence and ask when the distinction matters.",
+      "start": 151.895,
+      "end": 158.895,
+      "duration": 7.0
+    }
+  ]
+}

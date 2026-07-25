@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 86 - It Stayed With Me",
+  "voiceMap": {
+    "Grace": "af_sarah",
+    "Maya": "af_heart"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-86/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "You mentioned `The Last Light On` twice this morning. What stayed with you—the story, the acting or the way it was filmed?",
+      "start": 0.35,
+      "end": 7.9,
+      "duration": 7.55
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "What stayed with me was a quiet choice near the middle. An exhausted customer finds that someone has folded the clothes she left behind, but nobody claims credit.",
+      "start": 8.18,
+      "end": 18.98,
+      "duration": 10.8
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "What is the basic premise? I do not need the whole plot, just enough to understand that moment.",
+      "start": 19.26,
+      "end": 25.185,
+      "duration": 5.925
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Set in a nearly empty laundromat after midnight, the film follows a night attendant and three customers whose problems overlap for about an hour.",
+      "start": 25.465,
+      "end": 35.115,
+      "duration": 9.65
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "That sounds as if it could become overly sentimental. Did the film tell you exactly how to feel?",
+      "start": 35.395,
+      "end": 41.895,
+      "duration": 6.5
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "I wouldn’t say it was sentimental. What I appreciated most was its restraint: the camera stayed on the folded clothes while ordinary machine noise continued.",
+      "start": 42.175,
+      "end": 52.85,
+      "duration": 10.675
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "So the sound design mattered as much as the action.",
+      "start": 53.13,
+      "end": 56.805,
+      "duration": 3.675
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Yes. I found the scene effective because nobody gave a speech about kindness. The action was small enough to feel believable.",
+      "start": 57.085,
+      "end": 65.26,
+      "duration": 8.175
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Maya",
+      "text": "Having expected a dramatic reveal, were you disappointed when nobody took credit?",
+      "start": 65.54,
+      "end": 70.94,
+      "duration": 5.4
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Surprisingly, no. Having expected a reveal, I was more affected by the lack of one. It made the care feel less like a performance.",
+      "start": 71.22,
+      "end": 80.445,
+      "duration": 9.225
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Was the rest of the film as strong, or are you remembering one excellent scene?",
+      "start": 81.575,
+      "end": 86.6,
+      "duration": 5.025
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "The pacing was uneven in the first five minutes. I found two early pauses longer than necessary, although they helped establish the empty space.",
+      "start": 86.88,
+      "end": 96.605,
+      "duration": 9.725
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "That distinction helps. You are not saying the whole film was perfect because one scene worked.",
+      "start": 96.885,
+      "end": 102.81,
+      "duration": 5.925
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Exactly. I wouldn’t say everyone will respond to it the same way, but the middle section earned my attention instead of demanding it.",
+      "start": 103.09,
+      "end": 112.09,
+      "duration": 9.0
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Did the discussion afterward change your view?",
+      "start": 112.37,
+      "end": 115.245,
+      "duration": 2.875
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "It clarified one production choice. The director said the machines were recorded in the actual location, which explains why the room never sounds completely silent.",
+      "start": 115.525,
+      "end": 126.45,
+      "duration": 10.925
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "To confirm our conversation, the recommendation is based on restrained acting and sound, not on a complicated plot.",
+      "start": 126.73,
+      "end": 134.63,
+      "duration": 7.9
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Yes. The following point remains open: whether the slow opening will work for you. The strengths are the middle scene, the sound design and the refusal to explain every feeling.",
+      "start": 134.91,
+      "end": 146.385,
+      "duration": 11.475
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Maya",
+      "text": "Please send me the repeat-screening time. I’ll decide after I check the train schedule.",
+      "start": 146.665,
+      "end": 152.04,
+      "duration": 5.375
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I will. Please confirm receipt by six, because the free seats are released after that; the message is only an invitation, not a reservation in your name.",
+      "start": 152.32,
+      "end": 163.02,
+      "duration": 10.7
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "formatVersion": 2,
+  "title": "Lesson 87 - It's Hard to Translate",
+  "voiceMap": {
+    "Grace": "af_sarah",
+    "Lin": "af_nicole"
+  },
+  "sampleRate": 24000,
+  "fullSrc": "/audio/book-03/lesson-87/dialogue.wav",
+  "lines": [
+    {
+      "id": 1,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "One audience member said the laundromat had `人情味`. I wrote “human kindness,” but I am not sure that captures what she meant.",
+      "start": 0.35,
+      "end": 8.35,
+      "duration": 8.0
+    },
+    {
+      "id": 2,
+      "part": "A",
+      "speaker": "Lin",
+      "text": "There isn’t a single equivalent for `人情味`. Before choosing an English phrase, what example did she give?",
+      "start": 8.63,
+      "end": 17.855,
+      "duration": 9.225
+    },
+    {
+      "id": 3,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "She mentioned the attendant keeping the last light on, the customer folding someone else’s clothes and nobody asking for praise.",
+      "start": 18.135,
+      "end": 26.435,
+      "duration": 8.3
+    },
+    {
+      "id": 4,
+      "part": "A",
+      "speaker": "Lin",
+      "text": "Then, by `人情味`, I think she meant a felt quality of human warmth and ordinary care in the shared space.",
+      "start": 26.715,
+      "end": 36.49,
+      "duration": 9.775
+    },
+    {
+      "id": 5,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "Would “kindness” be wrong?",
+      "start": 36.77,
+      "end": 39.27,
+      "duration": 2.5
+    },
+    {
+      "id": 6,
+      "part": "A",
+      "speaker": "Lin",
+      "text": "Not wrong, but narrower. It names helpful behavior. In this context, `人情味` also describes the atmosphere created by several small actions and relationships.",
+      "start": 39.55,
+      "end": 55.7,
+      "duration": 16.15
+    },
+    {
+      "id": 7,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "What about “the human touch”?",
+      "start": 55.98,
+      "end": 58.58,
+      "duration": 2.6
+    },
+    {
+      "id": 8,
+      "part": "A",
+      "speaker": "Lin",
+      "text": "It’s close to “the human touch,” but that phrase can also mean a personal detail added to a service or system. Here the viewer was responding to mutual care, not customer-service design.",
+      "start": 58.86,
+      "end": 78.51,
+      "duration": 19.65
+    },
+    {
+      "id": 9,
+      "part": "A",
+      "speaker": "Grace",
+      "text": "So a rough translation would be “a sense of human warmth and care.”",
+      "start": 78.79,
+      "end": 83.79,
+      "duration": 5.0
+    },
+    {
+      "id": 10,
+      "part": "A",
+      "speaker": "Lin",
+      "text": "Yes, provided that we present it as a contextual paraphrase, not the permanent English definition of the word.",
+      "start": 84.07,
+      "end": 95.52,
+      "duration": 11.45
+    },
+    {
+      "id": 11,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "Should we keep the Chinese word in the English recap and explain it in brackets?",
+      "start": 96.65,
+      "end": 102.125,
+      "duration": 5.475
+    },
+    {
+      "id": 12,
+      "part": "B",
+      "speaker": "Lin",
+      "text": "We could if the term itself matters to the discussion. But transliteration alone would leave many readers with sound and no meaning.",
+      "start": 102.405,
+      "end": 115.93,
+      "duration": 13.525
+    },
+    {
+      "id": 13,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "What matters here is the viewer’s interpretation of the film, so the explanation may be more useful than the original term.",
+      "start": 116.21,
+      "end": 124.385,
+      "duration": 8.175
+    },
+    {
+      "id": 14,
+      "part": "B",
+      "speaker": "Lin",
+      "text": "I agree. You could write: “One viewer described the laundromat as having a sense of human warmth—an atmosphere created by small, unclaimed acts of care.”",
+      "start": 124.665,
+      "end": 140.09,
+      "duration": 15.425
+    },
+    {
+      "id": 15,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "That connects the phrase to evidence. It also avoids saying the film represents how an entire culture understands community.",
+      "start": 140.37,
+      "end": 148.895,
+      "duration": 8.525
+    },
+    {
+      "id": 16,
+      "part": "B",
+      "speaker": "Lin",
+      "text": "Exactly. The comment came from one viewer about one fictional setting. It may resonate more widely, but the event did not collect evidence about a whole group.",
+      "start": 149.175,
+      "end": 165.65,
+      "duration": 16.475
+    },
+    {
+      "id": 17,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "What stayed with me was the same action, though I called it restrained rather than warm.",
+      "start": 165.93,
+      "end": 171.755,
+      "duration": 5.825
+    },
+    {
+      "id": 18,
+      "part": "B",
+      "speaker": "Lin",
+      "text": "Those are compatible evaluations. You focused on the filmmaking method; the viewer focused on the social feeling produced by the scene.",
+      "start": 172.035,
+      "end": 185.21,
+      "duration": 13.175
+    },
+    {
+      "id": 19,
+      "part": "B",
+      "speaker": "Grace",
+      "text": "I found the comparison useful because it shows why a one-word substitution would lose either the atmosphere or the concrete care.",
+      "start": 185.49,
+      "end": 194.19,
+      "duration": 8.7
+    },
+    {
+      "id": 20,
+      "part": "B",
+      "speaker": "Lin",
+      "text": "Then your final note can include the rough translation, the example and the limit: useful in this context, not exact in every context.",
+      "start": 194.47,
+      "end": 209.12,
+      "duration": 14.65
+    }
+  ]
+}
