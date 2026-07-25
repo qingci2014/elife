@@ -113,16 +113,16 @@
       "speaker": "Daniel",
       "text": "I've uploaded version 0.6 to the internal folder. It has one page, five numbered steps and role-based contacts instead of personal numbers.",
       "start": 61.88,
-      "end": 72.63,
-      "duration": 10.75
+      "end": 72.68,
+      "duration": 10.8
     },
     {
       "id": 13,
       "part": "B",
       "speaker": "Lena",
       "text": "And what have you been doing about the missing information?",
-      "start": 72.91,
-      "end": 76.46,
+      "start": 72.96,
+      "end": 76.51,
       "duration": 3.55
     },
     {
@@ -130,8 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I've asked Sam to confirm the entrance time, and Priya is checking which volunteer can cover the first break.",
-      "start": 76.74,
-      "end": 83.415,
+      "start": 76.79,
+      "end": 83.465,
       "duration": 6.675
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "When will you know whether those inputs are available?",
-      "start": 83.695,
-      "end": 87.045,
+      "start": 83.745,
+      "end": 87.095,
       "duration": 3.35
     },
     {
@@ -148,8 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Sam said he'd reply by three today. Priya will update the volunteer field by ten tomorrow.",
-      "start": 87.325,
-      "end": 93.5,
+      "start": 87.375,
+      "end": 93.55,
       "duration": 6.175
     },
     {
@@ -157,8 +157,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I see your point about keeping the review moving, but a blank contact box won't work for the final version.",
-      "start": 93.78,
-      "end": 100.855,
+      "start": 93.83,
+      "end": 100.905,
       "duration": 7.075
     },
     {
@@ -166,17 +166,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Agreed. What I can agree to is a review draft today with a clearly marked placeholder. If we need the final PDF, we'll need both inputs first.",
-      "start": 101.135,
-      "end": 111.11,
-      "duration": 9.975
+      "start": 101.185,
+      "end": 111.31,
+      "duration": 10.125
     },
     {
       "id": 19,
       "part": "B",
       "speaker": "Lena",
       "text": "What's your next checkpoint?",
-      "start": 111.39,
-      "end": 113.315,
+      "start": 111.59,
+      "end": 113.515,
       "duration": 1.925
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I'll post another status update at three thirty: completed changes, remaining blocker and whether tomorrow's four o'clock review is still on track.",
-      "start": 113.595,
-      "end": 123.42,
+      "start": 113.795,
+      "end": 123.62,
       "duration": 9.825
     },
     {
@@ -193,8 +193,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Perfect. That gives us progress, evidence, a dependency and a next update—not just “I've been working on it.”",
-      "start": 123.7,
-      "end": 131.15,
+      "start": 123.9,
+      "end": 131.35,
       "duration": 7.45
     }
   ]

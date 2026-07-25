@@ -122,16 +122,16 @@
       "speaker": "Maya",
       "text": "Then the original record reports several changes together. Does it use the word `prove`?",
       "start": 76.06,
-      "end": 81.91,
-      "duration": 5.85
+      "end": 81.785,
+      "duration": 5.725
     },
     {
       "id": 14,
       "part": "B",
       "speaker": "Marcus",
       "text": "No. It says the team lead “believed the shorter format helped maintain focus.” That is an attributed interpretation, not a controlled causal result.",
-      "start": 82.19,
-      "end": 90.965,
+      "start": 82.065,
+      "end": 90.84,
       "duration": 8.775
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "How did QuickWork summarize it?",
-      "start": 91.245,
-      "end": 93.595,
+      "start": 91.12,
+      "end": 93.47,
       "duration": 2.35
     },
     {
@@ -148,26 +148,26 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "“A support team reduced overdue work by forty percent after switching to shorter meetings.” It kept one team and `after`, but omitted the agenda and owner list.",
-      "start": 93.875,
-      "end": 103.4,
-      "duration": 9.525
+      "start": 93.75,
+      "end": 103.25,
+      "duration": 9.5
     },
     {
       "id": 17,
       "part": "B",
       "speaker": "Maya",
       "text": "WorkBright then changed `overdue work` to `missed deadlines`, one support team to a general rule, and `after` to `proves that`.",
-      "start": 103.68,
-      "end": 112.005,
-      "duration": 8.325
+      "start": 103.53,
+      "end": 111.505,
+      "duration": 7.975
     },
     {
       "id": 18,
       "part": "B",
       "speaker": "Marcus",
       "text": "We seem to agree that the numerical calculation is traceable, while the population, measure and causal strength expanded at each step.",
-      "start": 112.285,
-      "end": 120.21,
+      "start": 111.785,
+      "end": 119.71,
       "duration": 7.925
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "For now, let’s label the sources precisely: social claim, newsletter summary and customer story—not post, article and study as if they were equivalent.",
-      "start": 120.49,
-      "end": 131.065,
+      "start": 119.99,
+      "end": 130.565,
       "duration": 10.575
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "I’ll summarize what we’ve found: the earliest record describes one team, eight weeks, bundled process changes and a drop from ten to six overdue action items. I haven’t found a study showing that fifteen-minute meetings alone cut missed deadlines across other teams, organizations or kinds of work.",
-      "start": 131.345,
-      "end": 147.645,
+      "start": 130.845,
+      "end": 147.145,
       "duration": 16.3
     }
   ]

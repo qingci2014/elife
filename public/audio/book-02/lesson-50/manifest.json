@@ -41,25 +41,25 @@
       "speaker": "Lena",
       "text": "We also need the delivery format. Do they want a one-page PDF, a mobile page or both?",
       "start": 21.79,
-      "end": 28.515,
-      "duration": 6.725
+      "end": 28.64,
+      "duration": 6.85
     },
     {
       "id": 5,
       "part": "A",
       "speaker": "Daniel",
       "text": "Question two: could you confirm whether the final deliverable is a mobile-friendly one-page PDF?",
-      "start": 28.795,
-      "end": 35.62,
-      "duration": 6.825
+      "start": 28.92,
+      "end": 35.92,
+      "duration": 7.0
     },
     {
       "id": 6,
       "part": "A",
       "speaker": "Lena",
       "text": "And “everything they need” could become unlimited. When you say must-have information, do you mean arrival time, entrance, station, break handoff and contact chain?",
-      "start": 35.9,
-      "end": 46.85,
+      "start": 36.2,
+      "end": 47.15,
       "duration": 10.95
     },
     {
@@ -67,8 +67,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "That's question three. I also need to know what “short” means.",
-      "start": 47.13,
-      "end": 51.155,
+      "start": 47.43,
+      "end": 51.455,
       "duration": 4.025
     },
     {
@@ -76,8 +76,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Ask for a page or word limit rather than guessing.",
-      "start": 51.435,
-      "end": 54.86,
+      "start": 51.735,
+      "end": 55.16,
       "duration": 3.425
     },
     {
@@ -85,8 +85,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Question four: is there a maximum length we should work to?",
-      "start": 55.14,
-      "end": 58.89,
+      "start": 55.44,
+      "end": 59.19,
       "duration": 3.75
     },
     {
@@ -94,8 +94,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "The last gap is approval. Who has final approval, and who only verifies logistics?",
-      "start": 59.17,
-      "end": 65.195,
+      "start": 59.47,
+      "end": 65.495,
       "duration": 6.025
     },
     {
@@ -103,8 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Priya has replied. The audience is only the opening-hour greeters.",
-      "start": 66.325,
-      "end": 70.425,
+      "start": 66.625,
+      "end": 70.725,
       "duration": 4.1
     },
     {
@@ -112,8 +112,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "What format did she confirm?",
-      "start": 70.705,
-      "end": 72.98,
+      "start": 71.005,
+      "end": 73.28,
       "duration": 2.275
     },
     {
@@ -121,17 +121,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "One mobile-friendly PDF, one page, ideally under three hundred words.",
-      "start": 73.26,
-      "end": 78.66,
-      "duration": 5.4
+      "start": 73.56,
+      "end": 79.06,
+      "duration": 5.5
     },
     {
       "id": 14,
       "part": "B",
       "speaker": "Lena",
       "text": "And the must-haves?",
-      "start": 78.94,
-      "end": 80.59,
+      "start": 79.34,
+      "end": 80.99,
       "duration": 1.65
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Arrival time, accessible entrance, service-desk station, break handoff and a role-based contact chain. No exhibition content or personal phone numbers.",
-      "start": 80.87,
-      "end": 91.645,
+      "start": 81.27,
+      "end": 92.045,
       "duration": 10.775
     },
     {
@@ -148,8 +148,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Who signs off?",
-      "start": 91.925,
-      "end": 93.5,
+      "start": 92.325,
+      "end": 93.9,
       "duration": 1.575
     },
     {
@@ -157,8 +157,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Priya has final content approval. Sam verifies access and facilities details; he doesn't approve the whole document.",
-      "start": 93.78,
-      "end": 101.68,
+      "start": 94.18,
+      "end": 102.08,
       "duration": 7.9
     },
     {
@@ -166,17 +166,17 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Let me make sure I've got this right. The brief is a one-page internal PDF for opening-hour greeters, under three hundred words, with five operational sections. Priya approves it, and Sam checks only logistics.",
-      "start": 101.96,
-      "end": 116.385,
-      "duration": 14.425
+      "start": 102.36,
+      "end": 117.21,
+      "duration": 14.85
     },
     {
       "id": 19,
       "part": "B",
       "speaker": "Daniel",
       "text": "Exactly. The internal-review deadline is still Thursday at four; public distribution isn't part of this task.",
-      "start": 116.665,
-      "end": 124.165,
+      "start": 117.49,
+      "end": 124.99,
       "duration": 7.5
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "I see your point about stating that boundary. If anyone needs more than the internal sheet, we'll need a separate brief.",
-      "start": 124.445,
-      "end": 132.395,
+      "start": 125.27,
+      "end": 133.22,
       "duration": 7.95
     },
     {
@@ -193,8 +193,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. Now I can revise the right document instead of making an attractive answer to the wrong question.",
-      "start": 132.675,
-      "end": 139.175,
+      "start": 133.5,
+      "end": 140.0,
       "duration": 6.5
     }
   ]

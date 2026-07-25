@@ -14,16 +14,16 @@
       "speaker": "Lena",
       "text": "Are you close? We're meeting at Corner Table at 6:15, right?",
       "start": 0.35,
-      "end": 4.7,
-      "duration": 4.35
+      "end": 4.75,
+      "duration": 4.4
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Daniel",
       "text": "Yes, but I'm running late. I'm still on my way—I'm on the bus, but traffic isn't moving.",
-      "start": 4.98,
-      "end": 10.53,
+      "start": 5.03,
+      "end": 10.58,
       "duration": 5.55
     },
     {
@@ -31,8 +31,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "How far away are you?",
-      "start": 10.81,
-      "end": 12.71,
+      "start": 10.86,
+      "end": 12.76,
       "duration": 1.9
     },
     {
@@ -40,26 +40,26 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I should be there around 6:35. Maybe 6:40. I'm sorry.",
-      "start": 12.99,
-      "end": 17.915,
-      "duration": 4.925
+      "start": 13.04,
+      "end": 17.99,
+      "duration": 4.95
     },
     {
       "id": 5,
       "part": "A",
       "speaker": "Lena",
       "text": "That only gives us a few minutes. I'm helping with an evening workshop at 7:00.",
-      "start": 18.195,
-      "end": 24.845,
-      "duration": 6.65
+      "start": 18.27,
+      "end": 24.245,
+      "duration": 5.975
     },
     {
       "id": 6,
       "part": "A",
       "speaker": "Daniel",
       "text": "Right, I forgot. We don't have to meet at the café. Can we meet at the arts center instead?",
-      "start": 25.125,
-      "end": 30.775,
+      "start": 24.525,
+      "end": 30.175,
       "duration": 5.65
     },
     {
@@ -67,17 +67,17 @@
       "part": "A",
       "speaker": "Lena",
       "text": "That works for me. I can stay here. Can you get here by 6:30?",
-      "start": 31.055,
-      "end": 35.58,
-      "duration": 4.525
+      "start": 30.455,
+      "end": 35.03,
+      "duration": 4.575
     },
     {
       "id": 8,
       "part": "A",
       "speaker": "Daniel",
       "text": "Let me check the route and get back to you in a minute.",
-      "start": 35.86,
-      "end": 39.06,
+      "start": 35.31,
+      "end": 38.51,
       "duration": 3.2
     },
     {
@@ -85,8 +85,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "The next stop is on Harbor Street. I'll get off there and walk. I should be at the north entrance in about twenty minutes.",
-      "start": 40.19,
-      "end": 47.565,
+      "start": 39.64,
+      "end": 47.015,
       "duration": 7.375
     },
     {
@@ -94,8 +94,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Great. I'll wait here, then. Text me when you're five minutes away.",
-      "start": 47.845,
-      "end": 52.245,
+      "start": 47.295,
+      "end": 51.695,
       "duration": 4.4
     },
     {
@@ -103,8 +103,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Okay. Sorry I didn't message sooner.",
-      "start": 52.525,
-      "end": 55.0,
+      "start": 51.975,
+      "end": 54.45,
       "duration": 2.475
     },
     {
@@ -112,8 +112,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thanks for telling me. Please let me know earlier next time.",
-      "start": 55.28,
-      "end": 59.23,
+      "start": 54.73,
+      "end": 58.68,
       "duration": 3.95
     },
     {
@@ -121,8 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "You're right. Sorry about that.",
-      "start": 59.51,
-      "end": 61.46,
+      "start": 58.96,
+      "end": 60.91,
       "duration": 1.95
     },
     {
@@ -130,8 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Update: I'm five minutes away.",
-      "start": 61.74,
-      "end": 64.065,
+      "start": 61.19,
+      "end": 63.515,
       "duration": 2.325
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Got it. I'm heading downstairs now.",
-      "start": 64.345,
-      "end": 66.845,
+      "start": 63.795,
+      "end": 66.295,
       "duration": 2.5
     },
     {
@@ -148,8 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Just to check, you mean the north entrance on Harbor Street?",
-      "start": 67.125,
-      "end": 70.75,
+      "start": 66.575,
+      "end": 70.2,
       "duration": 3.625
     },
     {
@@ -157,8 +157,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Exactly—not the main entrance by the parking lot. We can talk in the lobby before my workshop starts.",
-      "start": 71.03,
-      "end": 77.98,
+      "start": 70.48,
+      "end": 77.43,
       "duration": 6.95
     },
     {
@@ -166,8 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Got it. Thanks for changing the plan. See you in five.",
-      "start": 78.26,
-      "end": 81.66,
+      "start": 77.71,
+      "end": 81.11,
       "duration": 3.4
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "See you soon.",
-      "start": 81.94,
-      "end": 83.465,
+      "start": 81.39,
+      "end": 82.915,
       "duration": 1.525
     }
   ]

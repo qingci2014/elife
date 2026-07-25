@@ -23,16 +23,16 @@
       "speaker": "Daniel",
       "text": "If we’d left when the host gave the early-exit reminder at 4:05, we would’ve caught the 4:25 tram.",
       "start": 6.43,
-      "end": 14.53,
-      "duration": 8.1
+      "end": 14.38,
+      "duration": 7.95
     },
     {
       "id": 3,
       "part": "A",
       "speaker": "Grace",
       "text": "Yes, but at the time we didn’t know the final Q&A would continue until 4:15.",
-      "start": 14.81,
-      "end": 21.51,
+      "start": 14.66,
+      "end": 21.36,
       "duration": 6.7
     },
     {
@@ -40,8 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Looking back, staying until 4:18 left us only seven minutes to reach the tram stop.",
-      "start": 21.79,
-      "end": 27.715,
+      "start": 21.64,
+      "end": 27.565,
       "duration": 5.925
     },
     {
@@ -49,8 +49,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I don’t regret hearing the last answer, but it had a transport consequence. We walked out at 4:20 and missed the tram.",
-      "start": 27.995,
-      "end": 36.07,
+      "start": 27.845,
+      "end": 35.92,
       "duration": 8.075
     },
     {
@@ -58,8 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The journey app shows that there was a 4:30 local bus from the stop beside the center.",
-      "start": 36.35,
-      "end": 42.3,
+      "start": 36.2,
+      "end": 42.15,
       "duration": 5.95
     },
     {
@@ -67,8 +67,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That bus wasn’t on our paper map. If we’d checked the live board before leaving, we would’ve taken it.",
-      "start": 42.58,
-      "end": 49.255,
+      "start": 42.43,
+      "end": 49.105,
       "duration": 6.675
     },
     {
@@ -76,17 +76,17 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "It was due here at 5:02, so it would have given us eight minutes for the connection.",
-      "start": 49.535,
-      "end": 55.21,
-      "duration": 5.675
+      "start": 49.385,
+      "end": 54.685,
+      "duration": 5.3
     },
     {
       "id": 9,
       "part": "A",
       "speaker": "Grace",
       "text": "That would have changed the result. Simply walking faster after 4:20 probably wouldn’t have been enough.",
-      "start": 55.49,
-      "end": 62.865,
+      "start": 54.965,
+      "end": 62.34,
       "duration": 7.375
     },
     {
@@ -94,17 +94,17 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Agreed. The useful alternatives were leaving at 4:05 or checking live departures before we walked to the tram.",
-      "start": 63.145,
-      "end": 71.145,
-      "duration": 8.0
+      "start": 62.62,
+      "end": 70.37,
+      "duration": 7.75
     },
     {
       "id": 11,
       "part": "B",
       "speaker": "Grace",
       "text": "We should also record what we knew at the time. The printed program said the workshop ended at four.",
-      "start": 72.275,
-      "end": 78.925,
+      "start": 71.5,
+      "end": 78.15,
       "duration": 6.65
     },
     {
@@ -112,8 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "And the paper map showed only the tram route. We chose that route with incomplete information.",
-      "start": 79.205,
-      "end": 85.555,
+      "start": 78.43,
+      "end": 84.78,
       "duration": 6.35
     },
     {
@@ -121,8 +121,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "It doesn’t help to blame either of us for not using a bus we didn’t know about.",
-      "start": 85.835,
-      "end": 91.135,
+      "start": 85.06,
+      "end": 90.36,
       "duration": 5.3
     },
     {
@@ -130,8 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Right. Still, we could have checked a live source when the session ran late.",
-      "start": 91.415,
-      "end": 95.665,
+      "start": 90.64,
+      "end": 94.89,
       "duration": 4.25
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "That’s a fair process lesson. It’s different from saying one person caused the whole problem.",
-      "start": 95.945,
-      "end": 102.245,
+      "start": 95.17,
+      "end": 101.47,
       "duration": 6.3
     },
     {
@@ -148,17 +148,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Let’s write it precisely: the Q&A overran, we left at 4:20, and our old map omitted the 4:30 bus.",
-      "start": 102.525,
-      "end": 110.75,
-      "duration": 8.225
+      "start": 101.75,
+      "end": 109.9,
+      "duration": 8.15
     },
     {
       "id": 17,
       "part": "B",
       "speaker": "Grace",
       "text": "Then add the counterfactual: if we’d checked live departures at the door, we would’ve seen a workable connection.",
-      "start": 111.03,
-      "end": 118.205,
+      "start": 110.18,
+      "end": 117.355,
       "duration": 7.175
     },
     {
@@ -166,8 +166,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "For the next trip, our trigger can be “ten minutes behind plan means check live options.”",
-      "start": 118.485,
-      "end": 124.11,
+      "start": 117.635,
+      "end": 123.26,
       "duration": 5.625
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Good. Now we need another way home, not another argument about the train that has already left.",
-      "start": 124.39,
-      "end": 130.99,
+      "start": 123.54,
+      "end": 130.14,
       "duration": 6.6
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I’ll open the current departure board, and we’ll compare the remaining routes against our actual priorities.",
-      "start": 131.27,
-      "end": 137.795,
+      "start": 130.42,
+      "end": 136.945,
       "duration": 6.525
     }
   ]

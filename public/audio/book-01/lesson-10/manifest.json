@@ -69,16 +69,16 @@
       "speaker": "Lena",
       "text": "Two weeks ago. Aisha was looking for Room 204 when I saw her in the lobby.",
       "start": 21.73,
-      "end": 27.33,
-      "duration": 5.6
+      "end": 27.405,
+      "duration": 5.675
     },
     {
       "id": 8,
       "part": "A",
       "speaker": "Aisha",
       "text": "And Lena was putting up direction signs when I came in. I asked her where the class was.",
-      "start": 27.61,
-      "end": 33.31,
+      "start": 27.685,
+      "end": 33.385,
       "duration": 5.7
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "One of my signs was pointing toward the wrong stairs, so my answer wasn't very helpful.",
-      "start": 33.59,
-      "end": 39.59,
+      "start": 33.665,
+      "end": 39.665,
       "duration": 6.0
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "We were walking upstairs when we noticed the mistake.",
-      "start": 39.87,
-      "end": 43.445,
+      "start": 39.945,
+      "end": 43.52,
       "duration": 3.575
     },
     {
@@ -104,8 +104,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What happened then?",
-      "start": 43.725,
-      "end": 45.275,
+      "start": 43.8,
+      "end": 45.35,
       "duration": 1.55
     },
     {
@@ -113,8 +113,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "We fixed the sign and found the right room.",
-      "start": 45.555,
-      "end": 48.305,
+      "start": 45.63,
+      "end": 48.38,
       "duration": 2.75
     },
     {
@@ -122,8 +122,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "How did that go?",
-      "start": 48.585,
-      "end": 50.21,
+      "start": 48.66,
+      "end": 50.285,
       "duration": 1.625
     },
     {
@@ -131,8 +131,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Fine. We laughed about it and talked on the way. The workshop started a few minutes later.",
-      "start": 50.49,
-      "end": 55.965,
+      "start": 50.565,
+      "end": 56.04,
       "duration": 5.475
     },
     {
@@ -140,8 +140,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "So that's how you met.",
-      "start": 56.245,
-      "end": 57.995,
+      "start": 56.32,
+      "end": 58.07,
       "duration": 1.75
     },
     {
@@ -149,8 +149,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Exactly.",
-      "start": 58.275,
-      "end": 59.95,
+      "start": 58.35,
+      "end": 60.025,
       "duration": 1.675
     },
     {
@@ -158,8 +158,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "What were you talking about?",
-      "start": 60.23,
-      "end": 61.98,
+      "start": 60.305,
+      "end": 62.055,
       "duration": 1.75
     },
     {
@@ -167,8 +167,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Mostly design work and why I signed up for the class.",
-      "start": 62.26,
-      "end": 66.26,
+      "start": 62.335,
+      "end": 66.335,
       "duration": 4.0
     },
     {
@@ -176,8 +176,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "I asked about her freelance work, and she asked about the center. That was our whole conversation.",
-      "start": 66.54,
-      "end": 73.065,
+      "start": 66.615,
+      "end": 73.14,
       "duration": 6.525
     },
     {
@@ -185,8 +185,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "I was imagining a secret project that everyone knew about except me.",
-      "start": 73.345,
-      "end": 78.02,
+      "start": 73.42,
+      "end": 78.095,
       "duration": 4.675
     },
     {
@@ -194,8 +194,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Sorry to disappoint you. We recognized each other, that's all.",
-      "start": 78.3,
-      "end": 82.775,
+      "start": 78.375,
+      "end": 82.85,
       "duration": 4.475
     },
     {
@@ -203,8 +203,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "No secret project. Just one workshop, one wrong sign, and a short conversation.",
-      "start": 83.055,
-      "end": 88.93,
+      "start": 83.13,
+      "end": 89.005,
       "duration": 5.875
     },
     {
@@ -212,8 +212,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Still—small world. My neighbor and my cousin met before I introduced them.",
-      "start": 89.21,
-      "end": 94.46,
+      "start": 89.285,
+      "end": 94.535,
       "duration": 5.25
     },
     {
@@ -221,8 +221,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Now you know.",
-      "start": 94.74,
-      "end": 96.565,
+      "start": 94.815,
+      "end": 96.64,
       "duration": 1.825
     }
   ]

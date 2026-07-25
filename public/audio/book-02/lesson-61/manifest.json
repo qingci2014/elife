@@ -15,16 +15,16 @@
       "speaker": "Daniel",
       "text": "We have three feedback methods: a large-print paper checklist, a QR form, or a short facilitated debrief. Which one makes more sense for this rehearsal?",
       "start": 0.35,
-      "end": 10.9,
-      "duration": 10.55
+      "end": 10.95,
+      "duration": 10.6
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Aisha",
       "text": "Before we choose, what are our criteria?",
-      "start": 11.18,
-      "end": 14.305,
+      "start": 11.23,
+      "end": 14.355,
       "duration": 3.125
     },
     {
@@ -32,8 +32,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "No personal device should be required, comments should identify an exact location, and collection should finish within fifteen minutes.",
-      "start": 14.585,
-      "end": 24.035,
+      "start": 14.635,
+      "end": 24.085,
       "duration": 9.45
     },
     {
@@ -41,17 +41,17 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "We also have only one facilitator. Compared with paper, the QR form is cheaper and faster to submit.",
-      "start": 24.315,
-      "end": 31.765,
-      "duration": 7.45
+      "start": 24.365,
+      "end": 31.915,
+      "duration": 7.55
     },
     {
       "id": 5,
       "part": "A",
       "speaker": "Aisha",
       "text": "That’s true, but it requires a phone and a stable connection. The paper checklist works without either.",
-      "start": 32.045,
-      "end": 38.47,
+      "start": 32.195,
+      "end": 38.62,
       "duration": 6.425
     },
     {
@@ -59,8 +59,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "The paper version costs eighteen dollars to print and takes about three minutes per tester. Its main advantage is that people can mark the route map directly.",
-      "start": 38.75,
-      "end": 49.225,
+      "start": 38.9,
+      "end": 49.375,
       "duration": 10.475
     },
     {
@@ -68,17 +68,17 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "The downside is later data entry. With the QR form, the results would already be organized by location.",
-      "start": 49.505,
-      "end": 57.355,
-      "duration": 7.85
+      "start": 49.655,
+      "end": 57.53,
+      "duration": 7.875
     },
     {
       "id": 8,
       "part": "A",
       "speaker": "Aisha",
       "text": "The facilitated debrief could produce more detailed explanations, whereas a checklist might produce shorter answers.",
-      "start": 57.635,
-      "end": 65.035,
+      "start": 57.81,
+      "end": 65.21,
       "duration": 7.4
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "It takes about five minutes per person, though. Three separate conversations would use the whole fifteen-minute collection window.",
-      "start": 65.315,
-      "end": 73.665,
+      "start": 65.49,
+      "end": 73.84,
       "duration": 8.35
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "And a group debrief would be quicker, but one person’s comments might influence the others.",
-      "start": 73.945,
-      "end": 79.645,
+      "start": 74.12,
+      "end": 79.82,
       "duration": 5.7
     },
     {
@@ -104,26 +104,26 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "So the paper checklist meets the device and location criteria better than the QR form.",
-      "start": 80.775,
-      "end": 86.7,
-      "duration": 5.925
+      "start": 80.95,
+      "end": 86.95,
+      "duration": 6.0
     },
     {
       "id": 12,
       "part": "B",
       "speaker": "Daniel",
       "text": "The QR form performs better on cost and data entry. Neither option is better on every criterion.",
-      "start": 86.98,
-      "end": 94.58,
-      "duration": 7.6
+      "start": 87.23,
+      "end": 94.955,
+      "duration": 7.725
     },
     {
       "id": 13,
       "part": "B",
       "speaker": "Grace",
       "text": "Exactly. Our top priority is collecting location-specific comments without requiring a personal device.",
-      "start": 94.86,
-      "end": 102.835,
+      "start": 95.235,
+      "end": 103.21,
       "duration": 7.975
     },
     {
@@ -131,17 +131,17 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "That rules out using QR as the only method for this rehearsal.",
-      "start": 103.115,
-      "end": 107.965,
-      "duration": 4.85
+      "start": 103.49,
+      "end": 108.29,
+      "duration": 4.8
     },
     {
       "id": 15,
       "part": "B",
       "speaker": "Daniel",
       "text": "What about the debrief? It gives richer detail than paper.",
-      "start": 108.245,
-      "end": 112.145,
+      "start": 108.57,
+      "end": 112.47,
       "duration": 3.9
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Yes, but it leaves no time margin. We need to allow time for instructions and one late tester.",
-      "start": 112.425,
-      "end": 119.225,
+      "start": 112.75,
+      "end": 119.55,
       "duration": 6.8
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Because the checklist meets the two highest-priority criteria, it makes more sense as the default.",
-      "start": 119.505,
-      "end": 125.855,
+      "start": 119.83,
+      "end": 126.18,
       "duration": 6.35
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Therefore, my recommendation is paper for the rehearsal, with one optional spoken follow-up question.",
-      "start": 126.135,
-      "end": 132.985,
+      "start": 126.46,
+      "end": 133.31,
       "duration": 6.85
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "On balance, that is the best available option for this thirty-minute session, not necessarily for the public event.",
-      "start": 133.265,
-      "end": 141.09,
+      "start": 133.59,
+      "end": 141.415,
       "duration": 7.825
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Agreed. Let’s confirm the printing cost and large-print layout before we treat the recommendation as final.",
-      "start": 141.37,
-      "end": 147.895,
+      "start": 141.695,
+      "end": 148.22,
       "duration": 6.525
     }
   ]

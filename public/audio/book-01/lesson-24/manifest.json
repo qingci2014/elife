@@ -95,25 +95,25 @@
       "speaker": "Property manager",
       "text": "Please confirm your full name and show the worker photo ID. Don't send the ID number by text.",
       "start": 48.695,
-      "end": 55.52,
-      "duration": 6.825
+      "end": 55.27,
+      "duration": 6.575
     },
     {
       "id": 11,
       "part": "B",
       "speaker": "Daniel",
       "text": "Daniel Reed. I have my photo ID with me. I'll wait under the covered entrance.",
-      "start": 55.8,
-      "end": 61.125,
-      "duration": 5.325
+      "start": 55.55,
+      "end": 60.9,
+      "duration": 5.35
     },
     {
       "id": 12,
       "part": "B",
       "speaker": "Property manager",
       "text": "Good. The worker will call when arriving. If your situation becomes unsafe, call local emergency services.",
-      "start": 61.405,
-      "end": 68.83,
+      "start": 61.18,
+      "end": 68.605,
       "duration": 7.425
     },
     {
@@ -121,17 +121,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Understood. So someone should be here in about twenty-five minutes, and I'll show photo ID.",
-      "start": 69.11,
-      "end": 75.235,
-      "duration": 6.125
+      "start": 68.885,
+      "end": 74.76,
+      "duration": 5.875
     },
     {
       "id": 14,
       "part": "B",
       "speaker": "Property manager",
       "text": "Correct.",
-      "start": 75.515,
-      "end": 76.74,
+      "start": 75.04,
+      "end": 76.265,
       "duration": 1.225
     }
   ]

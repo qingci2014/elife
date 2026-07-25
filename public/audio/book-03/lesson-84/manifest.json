@@ -15,16 +15,16 @@
       "speaker": "Daria",
       "text": "I’m calling before I close CVR-2086. The replacement was returned Thursday at 4:40, the proposed hold was removed Wednesday at 8:55 and no damage fee will be charged.",
       "start": 0.35,
-      "end": 14.55,
-      "duration": 14.2
+      "end": 14.325,
+      "duration": 13.975
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Aisha",
       "text": "Thank you. I also completed the client review on Wednesday. I’m following up in writing because the automated email describes the replacement as “accepted in settlement of the damage charge.”",
-      "start": 14.83,
-      "end": 26.255,
+      "start": 14.605,
+      "end": 26.03,
       "duration": 11.425
     },
     {
@@ -32,8 +32,8 @@
       "part": "A",
       "speaker": "Daria",
       "text": "That is not an accurate description. There was no damage charge to settle, and you accepted the replacement as an operational remedy while the cause review continued.",
-      "start": 26.535,
-      "end": 37.26,
+      "start": 26.31,
+      "end": 37.035,
       "duration": 10.725
     },
     {
@@ -41,8 +41,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "That’s not how the phone agreement was explained to me either. Can we compare the automated sentence with the conditional agreement and final claims note?",
-      "start": 37.54,
-      "end": 46.39,
+      "start": 37.315,
+      "end": 46.165,
       "duration": 8.85
     },
     {
@@ -50,8 +50,8 @@
       "part": "A",
       "speaker": "Daria",
       "text": "Yes. The conditional agreement says the replacement did not determine responsibility. The final note says the physical evidence was insufficient to classify the damage as customer-caused.",
-      "start": 46.67,
-      "end": 59.57,
+      "start": 46.445,
+      "end": 59.345,
       "duration": 12.9
     },
     {
@@ -59,8 +59,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Does the final note say the courier caused it?",
-      "start": 59.85,
-      "end": 63.375,
+      "start": 59.625,
+      "end": 63.15,
       "duration": 3.525
     },
     {
@@ -68,8 +68,8 @@
       "part": "A",
       "speaker": "Daria",
       "text": "No. It says the damage pattern is consistent with compression through the lower-right corner, but the records do not establish the exact stage or responsible party.",
-      "start": 63.655,
-      "end": 74.78,
+      "start": 63.43,
+      "end": 74.555,
       "duration": 11.125
     },
     {
@@ -77,8 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Then the written correction should include both limits: no customer damage charge and no finding against a specific courier or warehouse employee.",
-      "start": 75.06,
-      "end": 83.935,
+      "start": 74.835,
+      "end": 83.71,
       "duration": 8.875
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Daria",
       "text": "Agreed. Let me summarize where we are: service access was restored, both units were returned, the account was corrected and the cause remains unassigned.",
-      "start": 84.215,
-      "end": 94.84,
+      "start": 83.99,
+      "end": 94.615,
       "duration": 10.625
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Before we move on, please add that the Wednesday–Thursday rental window and all transport were provided without an extra charge.",
-      "start": 95.12,
-      "end": 103.17,
+      "start": 94.895,
+      "end": 102.945,
       "duration": 8.05
     },
     {
@@ -104,8 +104,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "I’ll replace the automated phrase with: “A same-model replacement was provided as an interim service remedy. No customer damage charge was applied.”",
-      "start": 104.3,
-      "end": 114.875,
+      "start": 104.075,
+      "end": 114.65,
       "duration": 10.575
     },
     {
@@ -113,8 +113,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "My understanding is that the case can now close even though the company did not identify the exact damage stage. Is that correct?",
-      "start": 115.155,
-      "end": 123.73,
+      "start": 114.93,
+      "end": 123.505,
       "duration": 8.575
     },
     {
@@ -122,8 +122,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "Correct. Closing the service case records the account decision and completed remedy; it does not create a technical finding the evidence cannot support.",
-      "start": 124.01,
-      "end": 134.51,
+      "start": 123.785,
+      "end": 134.285,
       "duration": 10.5
     },
     {
@@ -131,8 +131,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The following points should be marked closed: replacement delivery, damaged-unit collection, rental-window reset, replacement return and removal of the proposed hold.",
-      "start": 134.79,
-      "end": 144.44,
+      "start": 134.565,
+      "end": 144.215,
       "duration": 9.65
     },
     {
@@ -140,8 +140,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "The only non-finding is responsibility for the original damage. There are no remaining customer actions or amounts due under this order.",
-      "start": 144.72,
-      "end": 154.195,
+      "start": 144.495,
+      "end": 153.97,
       "duration": 9.475
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Could we bring this back to the main point of the final email? A reader should know what happened, what was decided and what was not decided without reopening every phone call.",
-      "start": 154.475,
-      "end": 164.3,
+      "start": 154.25,
+      "end": 164.075,
       "duration": 9.825
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "Then the email will contain a six-line timeline, the evidence conclusion, the account decision, the non-finding and a request for correction within two business days.",
-      "start": 164.58,
-      "end": 175.755,
+      "start": 164.355,
+      "end": 175.53,
       "duration": 11.175
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Please correct anything I have misunderstood: the technical report narrowed the mechanism, Claims found insufficient evidence for customer-caused damage and ClearView chose not to charge me.",
-      "start": 176.035,
-      "end": 187.435,
+      "start": 175.81,
+      "end": 187.21,
       "duration": 11.4
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "That is accurate. I’ll send the final case record today and keep the correction channel open for two business days before the file becomes read-only.",
-      "start": 187.715,
-      "end": 197.665,
+      "start": 187.49,
+      "end": 197.44,
       "duration": 9.95
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Is that an accurate record of the decision? The service dispute is closed, no money or action remains due from me and the exact damage responsibility was not determined.",
-      "start": 197.945,
-      "end": 208.77,
+      "start": 197.72,
+      "end": 208.545,
       "duration": 10.825
     }
   ],

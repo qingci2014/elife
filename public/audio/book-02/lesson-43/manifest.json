@@ -15,16 +15,16 @@
       "speaker": "Lena",
       "text": "Hi, I'm calling about invoice 618. We were charged twice for the same service visit.",
       "start": 0.35,
-      "end": 7.425,
-      "duration": 7.075
+      "end": 6.825,
+      "duration": 6.475
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Billing agent",
       "text": "I'm sorry about that. Could you tell me what appears on the statement?",
-      "start": 7.705,
-      "end": 12.28,
+      "start": 7.105,
+      "end": 11.68,
       "duration": 4.575
     },
     {
@@ -32,17 +32,17 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Two charges of one hundred forty dollars were posted on Tuesday. They have different transaction numbers, but both refer to invoice 618.",
-      "start": 12.56,
-      "end": 23.26,
-      "duration": 10.7
+      "start": 11.96,
+      "end": 22.185,
+      "duration": 10.225
     },
     {
       "id": 4,
       "part": "A",
       "speaker": "Billing agent",
       "text": "And only one invoice was issued?",
-      "start": 23.54,
-      "end": 26.215,
+      "start": 22.465,
+      "end": 25.14,
       "duration": 2.675
     },
     {
@@ -50,8 +50,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Correct. This invoice was already paid by the first transaction. The itemized invoice lists one call-out fee, one hour of labor and standard fasteners. The total is one hundred forty dollars.",
-      "start": 26.495,
-      "end": 40.42,
+      "start": 25.42,
+      "end": 39.345,
       "duration": 13.925
     },
     {
@@ -59,8 +59,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "Let me check the payment record. Please hold for a moment.",
-      "start": 40.7,
-      "end": 44.725,
+      "start": 39.625,
+      "end": 43.65,
       "duration": 4.025
     },
     {
@@ -68,8 +68,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "Of course.",
-      "start": 45.005,
-      "end": 46.43,
+      "start": 43.93,
+      "end": 45.355,
       "duration": 1.425
     },
     {
@@ -77,8 +77,8 @@
       "part": "A",
       "speaker": "Billing agent",
       "text": "Thank you for waiting. I can see that the first payment was processed normally. The second payment was processed during a terminal retry, but no second invoice or visit was created.",
-      "start": 46.71,
-      "end": 59.01,
+      "start": 45.635,
+      "end": 57.935,
       "duration": 12.3
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Lena",
       "text": "So the evidence shows one valid payment and one duplicate charge.",
-      "start": 59.29,
-      "end": 63.84,
+      "start": 58.215,
+      "end": 62.765,
       "duration": 4.55
     },
     {
@@ -95,8 +95,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Yes. A refund has been issued for the duplicate one hundred forty dollars.",
-      "start": 64.97,
-      "end": 70.395,
+      "start": 63.895,
+      "end": 69.32,
       "duration": 5.425
     },
     {
@@ -104,8 +104,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "When will it be credited to the arts center's card?",
-      "start": 70.675,
-      "end": 74.075,
+      "start": 69.6,
+      "end": 73.0,
       "duration": 3.4
     },
     {
@@ -113,8 +113,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "It should be credited within three to five business days. The exact posting time is controlled by the card provider.",
-      "start": 74.355,
-      "end": 82.455,
+      "start": 73.28,
+      "end": 81.38,
       "duration": 8.1
     },
     {
@@ -122,8 +122,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Could you confirm that in writing, including which transaction was refunded?",
-      "start": 82.735,
-      "end": 87.785,
+      "start": 81.66,
+      "end": 86.71,
       "duration": 5.05
     },
     {
@@ -131,8 +131,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Certainly. A confirmation email will be sent today. It will include the refunded transaction number, the amount, today's processing date and a refund reference.",
-      "start": 88.065,
-      "end": 99.415,
+      "start": 86.99,
+      "end": 98.34,
       "duration": 11.35
     },
     {
@@ -140,8 +140,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Will the original payment or invoice be changed?",
-      "start": 99.695,
-      "end": 102.97,
+      "start": 98.62,
+      "end": 101.895,
       "duration": 3.275
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "No. The original invoice remains paid. Only the duplicate transaction is being reversed.",
-      "start": 103.25,
-      "end": 110.075,
+      "start": 102.175,
+      "end": 109.0,
       "duration": 6.825
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Good. If the credit hasn't appeared after five business days, what should we provide?",
-      "start": 110.355,
-      "end": 115.83,
+      "start": 109.28,
+      "end": 114.755,
       "duration": 5.475
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Billing agent",
       "text": "Reply to the confirmation email with the refund reference and a current statement screenshot. Please hide unrelated transactions and full card details.",
-      "start": 116.11,
-      "end": 127.085,
+      "start": 115.035,
+      "end": 126.01,
       "duration": 10.975
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Lena",
       "text": "Thank you. I'll wait for the written confirmation and follow up only if the stated window passes.",
-      "start": 127.365,
-      "end": 133.665,
+      "start": 126.29,
+      "end": 132.59,
       "duration": 6.3
     }
   ],
@@ -186,6 +186,6 @@
     "instruction": "先听两遍，记录发票、金额、卡片末四位、参考号、到账窗口和超期后的动作。",
     "speaker": "Harper",
     "src": "/audio/book-02/lesson-43/transfer.wav",
-    "duration": 26.875
+    "duration": 26.625
   }
 }

@@ -149,16 +149,16 @@
       "speaker": "Daria",
       "text": "Agreed. The replacement solves access to equipment; it does not close the cause review. The technical report, photographs and handoff records will remain in case CVR-2086.",
       "start": 155.825,
-      "end": 168.625,
-      "duration": 12.8
+      "end": 169.025,
+      "duration": 13.2
     },
     {
       "id": 17,
       "part": "B",
       "speaker": "Aisha",
       "text": "We also need to allow time for the collection. Can the same driver collect the damaged unit only after the replacement has been checked for visible condition?",
-      "start": 168.905,
-      "end": 178.38,
+      "start": 169.305,
+      "end": 178.78,
       "duration": 9.475
     },
     {
@@ -166,8 +166,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "Yes. You may record the new package condition before signing, and the original unit will not be removed until you confirm the replacement can stand safely.",
-      "start": 178.66,
-      "end": 189.085,
+      "start": 179.06,
+      "end": 189.485,
       "duration": 10.425
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Then I choose the same-model replacement with the noon confirmation gate, five o’clock delivery target, same-visit collection and automatic cancellation fallback.",
-      "start": 189.365,
-      "end": 199.24,
+      "start": 189.765,
+      "end": 199.64,
       "duration": 9.875
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Daria",
       "text": "I’ll send the conditional agreement now. Please reply only if the scope, deadlines or claim wording differs from what we have agreed.",
-      "start": 199.52,
-      "end": 208.07,
+      "start": 199.92,
+      "end": 208.47,
       "duration": 8.55
     }
   ]

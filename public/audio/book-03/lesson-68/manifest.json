@@ -52,16 +52,16 @@
       "speaker": "Maya",
       "text": "So stability depends on the terms, not the word `collective`.",
       "start": 32.92,
-      "end": 37.17,
-      "duration": 4.25
+      "end": 37.095,
+      "duration": 4.175
     },
     {
       "id": 6,
       "part": "A",
       "speaker": "Aisha",
       "text": "Exactly. The third says, “If you need so many boundaries, you probably aren’t a team player.” In my case, clear boundaries are what would let me contribute reliably without neglecting existing commitments.",
-      "start": 37.45,
-      "end": 49.175,
+      "start": 37.375,
+      "end": 49.1,
       "duration": 11.725
     },
     {
@@ -69,8 +69,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "I wouldn’t generalize from one person’s preferred boundaries to their ability to collaborate. The better question is whether the boundaries are compatible with the team’s actual needs.",
-      "start": 49.455,
-      "end": 61.03,
+      "start": 49.38,
+      "end": 60.955,
       "duration": 11.575
     },
     {
@@ -78,8 +78,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "And asking is not demanding that every condition be accepted.",
-      "start": 61.31,
-      "end": 65.835,
+      "start": 61.235,
+      "end": 65.76,
       "duration": 4.525
     },
     {
@@ -87,8 +87,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "The fourth comment assumes that requesting a six-week draft means I have basically decided to join.",
-      "start": 66.115,
-      "end": 72.89,
+      "start": 66.04,
+      "end": 72.815,
       "duration": 6.775
     },
     {
@@ -96,8 +96,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Can we agree on this much: reading a draft creates information, not consent?",
-      "start": 73.17,
-      "end": 78.82,
+      "start": 73.095,
+      "end": 78.745,
       "duration": 5.65
     },
     {
@@ -105,8 +105,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Yes. We seem to agree that no work begins unless both sides later accept written terms. We still disagree—Northline and I may still disagree—about schedule, fee or client boundaries after reading them.",
-      "start": 79.95,
-      "end": 92.125,
+      "start": 79.875,
+      "end": 92.05,
       "duration": 12.175
     },
     {
@@ -114,8 +114,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "For now, let’s keep the next step small: receive the discussion draft, check it against your value map and ask questions.",
-      "start": 92.405,
-      "end": 100.105,
+      "start": 92.33,
+      "end": 100.03,
       "duration": 7.7
     },
     {
@@ -123,8 +123,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "You can revisit the trial only when the counted hours, decision rights, fee, review point and exit terms are clear.",
-      "start": 100.385,
-      "end": 108.66,
+      "start": 100.31,
+      "end": 108.585,
       "duration": 8.275
     },
     {
@@ -132,8 +132,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The last comment says, “People who care about balance are less ambitious.” That one bothers me most.",
-      "start": 108.94,
-      "end": 115.415,
+      "start": 108.865,
+      "end": 115.34,
       "duration": 6.475
     },
     {
@@ -141,8 +141,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "It may describe a particular speaker’s definition of ambition, but it doesn’t show what another person is willing to build over time.",
-      "start": 115.695,
-      "end": 123.945,
+      "start": 115.62,
+      "end": 123.87,
       "duration": 8.25
     },
     {
@@ -150,8 +150,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Looking back, many turning points involve changing a definition, as Maya did with useful work. A changed definition is not evidence of less commitment.",
-      "start": 124.225,
-      "end": 134.925,
+      "start": 124.15,
+      "end": 134.85,
       "duration": 10.7
     },
     {
@@ -159,8 +159,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "For me, ambition includes producing work I can sustain and stand behind. Although growth matters, constant availability is not the only evidence of it.",
-      "start": 135.205,
-      "end": 145.13,
+      "start": 135.13,
+      "end": 145.055,
       "duration": 9.925
     },
     {
@@ -168,8 +168,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Then your response can follow one pattern: name the assumption, acknowledge the limited possibility, add the missing condition and give your case without making a new generalization.",
-      "start": 145.41,
-      "end": 157.36,
+      "start": 145.335,
+      "end": 157.285,
       "duration": 11.95
     },
     {
@@ -177,8 +177,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I’ll summarize what we’ve decided: you are willing to read one nonbinding draft; you have not accepted an arrangement; and your reasons belong to your current circumstances.",
-      "start": 157.64,
-      "end": 169.04,
+      "start": 157.565,
+      "end": 168.965,
       "duration": 11.4
     },
     {
@@ -186,8 +186,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Good. I’ll reply with that wording and six questions. If the draft cannot protect the minimum conditions, I can decline without claiming that collectives never work.",
-      "start": 169.32,
-      "end": 179.27,
+      "start": 169.245,
+      "end": 179.195,
       "duration": 9.95
     }
   ],

@@ -32,16 +32,16 @@
       "speaker": "Aisha",
       "text": "Thirty-five minutes. The new departure time is 10:55, and the estimated arrival is 12:05.",
       "start": 6.81,
-      "end": 14.26,
-      "duration": 7.45
+      "end": 13.91,
+      "duration": 7.1
     },
     {
       "id": 4,
       "part": "A",
       "speaker": "Daniel",
       "text": "The platform number is flashing too.",
-      "start": 14.54,
-      "end": 17.015,
+      "start": 14.19,
+      "end": 16.665,
       "duration": 2.475
     },
     {
@@ -49,8 +49,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Yes. The departure has been moved to Platform 7. Platform 4 is closed for maintenance.",
-      "start": 17.295,
-      "end": 23.595,
+      "start": 16.945,
+      "end": 23.245,
       "duration": 6.3
     },
     {
@@ -58,8 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Good catch. I was looking at the time, not the platform.",
-      "start": 23.875,
-      "end": 27.425,
+      "start": 23.525,
+      "end": 27.075,
       "duration": 3.55
     },
     {
@@ -67,8 +67,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "What are our options?",
-      "start": 28.555,
-      "end": 30.18,
+      "start": 28.205,
+      "end": 29.83,
       "duration": 1.625
     },
     {
@@ -76,17 +76,17 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "We can wait for the direct train, or take the 10:35 local and change at East Gate.",
-      "start": 30.46,
-      "end": 36.535,
-      "duration": 6.075
+      "start": 30.11,
+      "end": 35.985,
+      "duration": 5.875
     },
     {
       "id": 9,
       "part": "B",
       "speaker": "Daniel",
       "text": "When would the local route arrive?",
-      "start": 36.815,
-      "end": 39.04,
+      "start": 36.265,
+      "end": 38.49,
       "duration": 2.225
     },
     {
@@ -94,26 +94,26 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "At 12:20, if the connection is on time.",
-      "start": 39.32,
-      "end": 43.195,
-      "duration": 3.875
+      "start": 38.77,
+      "end": 42.595,
+      "duration": 3.825
     },
     {
       "id": 11,
       "part": "B",
       "speaker": "Daniel",
       "text": "Is the 10:35 local definitely on time?",
-      "start": 43.475,
-      "end": 47.1,
-      "duration": 3.625
+      "start": 42.875,
+      "end": 46.4,
+      "duration": 3.525
     },
     {
       "id": 12,
       "part": "B",
       "speaker": "Aisha",
       "text": "It is right now, but the connection at East Gate is only eight minutes.",
-      "start": 47.38,
-      "end": 51.98,
+      "start": 46.68,
+      "end": 51.28,
       "duration": 4.6
     },
     {
@@ -121,8 +121,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That's not much time if the station is busy.",
-      "start": 52.26,
-      "end": 55.01,
+      "start": 51.56,
+      "end": 54.31,
       "duration": 2.75
     },
     {
@@ -130,8 +130,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Then waiting is still faster, and we won't have to change trains with our bags.",
-      "start": 55.29,
-      "end": 60.315,
+      "start": 54.59,
+      "end": 59.615,
       "duration": 5.025
     },
     {
@@ -139,17 +139,17 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Agreed. I'll let our host know. How about: “Our train has been delayed by thirty-five minutes. We're staying on the direct service and should arrive at 12:05.”",
-      "start": 60.595,
-      "end": 70.245,
-      "duration": 9.65
+      "start": 59.895,
+      "end": 69.345,
+      "duration": 9.45
     },
     {
       "id": 16,
       "part": "B",
       "speaker": "Daniel",
       "text": "Add the new platform in case she checks the train status.",
-      "start": 70.525,
-      "end": 74.175,
+      "start": 69.625,
+      "end": 73.275,
       "duration": 3.65
     },
     {
@@ -157,8 +157,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Done. Now let's go to Platform 7.",
-      "start": 74.455,
-      "end": 77.73,
+      "start": 73.555,
+      "end": 76.83,
       "duration": 3.275
     }
   ]

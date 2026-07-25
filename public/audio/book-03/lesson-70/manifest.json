@@ -41,16 +41,16 @@
       "speaker": "Maya",
       "text": "Why call that `likely` rather than simply `possible`?",
       "start": 27.14,
-      "end": 30.665,
-      "duration": 3.525
+      "end": 30.44,
+      "duration": 3.3
     },
     {
       "id": 5,
       "part": "A",
       "speaker": "Marcus",
       "text": "The notes connect two recovered items directly to owner clarification. That is still limited evidence, but it links a mechanism to specific cases.",
-      "start": 30.945,
-      "end": 40.145,
+      "start": 30.72,
+      "end": 39.92,
       "duration": 9.2
     },
     {
@@ -58,8 +58,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "We can’t rule out the written agenda either. The team began circulating it before meetings in week three, and the count fell again afterward.",
-      "start": 40.425,
-      "end": 49.175,
+      "start": 40.2,
+      "end": 48.95,
       "duration": 8.75
     },
     {
@@ -67,8 +67,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "That doesn’t necessarily mean the agenda caused the fall. Week four rose from eight to nine even though the agenda was already in use.",
-      "start": 49.455,
-      "end": 57.03,
+      "start": 49.23,
+      "end": 56.805,
       "duration": 7.575
     },
     {
@@ -76,8 +76,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "True. The result may depend on how consistently the team used all three changes, not on whether a document technically existed.",
-      "start": 57.31,
-      "end": 65.86,
+      "start": 57.085,
+      "end": 65.635,
       "duration": 8.55
     },
     {
@@ -85,8 +85,8 @@
       "part": "A",
       "speaker": "Marcus",
       "text": "There is also a workload note: incoming requests were lower in weeks seven and eight.",
-      "start": 66.14,
-      "end": 71.39,
+      "start": 65.915,
+      "end": 71.165,
       "duration": 5.25
     },
     {
@@ -94,8 +94,8 @@
       "part": "A",
       "speaker": "Maya",
       "text": "Then lower workload is a plausible contributor to the final count of six. Do we know whether the size of the action items changed?",
-      "start": 71.67,
-      "end": 80.07,
+      "start": 71.445,
+      "end": 79.845,
       "duration": 8.4
     },
     {
@@ -103,8 +103,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "No. The log counts items, not effort, urgency or project importance. Six large overdue items could represent more work than ten small ones.",
-      "start": 81.2,
-      "end": 90.1,
+      "start": 80.975,
+      "end": 89.875,
       "duration": 8.9
     },
     {
@@ -112,8 +112,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "So the measurement choice matters. What can we still say with reasonable confidence?",
-      "start": 90.38,
-      "end": 95.68,
+      "start": 90.155,
+      "end": 95.455,
       "duration": 5.3
     },
     {
@@ -121,8 +121,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "Over eight weeks, the recorded count fell from ten to six while meeting length, agenda use, ownership and follow-up changed. That trend is directly documented.",
-      "start": 95.96,
-      "end": 105.31,
+      "start": 95.735,
+      "end": 105.085,
       "duration": 9.35
     },
     {
@@ -130,8 +130,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "And what is more tentative?",
-      "start": 105.59,
-      "end": 107.79,
+      "start": 105.365,
+      "end": 107.565,
       "duration": 2.2
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "The shorter format may have contributed, but the evidence cannot separate its effect from the other changes or lower late-period workload.",
-      "start": 108.07,
-      "end": 116.145,
+      "start": 107.845,
+      "end": 115.92,
       "duration": 8.075
     },
     {
@@ -148,8 +148,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Could the first week have been unusually bad?",
-      "start": 116.425,
-      "end": 119.525,
+      "start": 116.2,
+      "end": 119.3,
       "duration": 3.1
     },
     {
@@ -157,8 +157,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "We can’t rule that out because there is no earlier baseline. Comparing only week one and week eight may exaggerate a normal fluctuation.",
-      "start": 119.805,
-      "end": 127.98,
+      "start": 119.58,
+      "end": 127.755,
       "duration": 8.175
     },
     {
@@ -166,8 +166,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "That may be true. However, the middle weeks mostly move downward, so the pattern is not based on the endpoints alone.",
-      "start": 128.26,
-      "end": 135.91,
+      "start": 128.035,
+      "end": 135.685,
       "duration": 7.65
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Marcus",
       "text": "A more accurate conclusion is: this team’s bundled process change was followed by fewer recorded overdue items, and shorter meetings are one plausible contributor.",
-      "start": 136.19,
-      "end": 146.015,
+      "start": 135.965,
+      "end": 145.79,
       "duration": 9.825
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Maya",
       "text": "Good. We can revisit causal weight only if we obtain a longer baseline, stable workload measures or a comparison that changes one feature at a time.",
-      "start": 146.295,
-      "end": 156.695,
+      "start": 146.07,
+      "end": 156.47,
       "duration": 10.4
     }
   ]

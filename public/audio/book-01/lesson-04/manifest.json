@@ -60,16 +60,16 @@
       "speaker": "Nina",
       "text": "Cole. C-O-L-E.",
       "start": 25.9,
-      "end": 28.125,
-      "duration": 2.225
+      "end": 28.325,
+      "duration": 2.425
     },
     {
       "id": 7,
       "part": "A",
       "speaker": "Daniel",
       "text": "Thanks. Maya told me about the photo walk. Is it still at ten?",
-      "start": 28.405,
-      "end": 32.53,
+      "start": 28.605,
+      "end": 32.73,
       "duration": 4.125
     },
     {
@@ -77,8 +77,8 @@
       "part": "A",
       "speaker": "Nina",
       "text": "It starts at ten fifteen now.",
-      "start": 32.81,
-      "end": 35.835,
+      "start": 33.01,
+      "end": 36.035,
       "duration": 3.025
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Did you say ten fifteen or ten fifty?",
-      "start": 36.115,
-      "end": 38.94,
+      "start": 36.315,
+      "end": 39.14,
       "duration": 2.825
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Nina",
       "text": "Ten fifteen—one-five.",
-      "start": 39.22,
-      "end": 42.02,
+      "start": 39.42,
+      "end": 42.22,
       "duration": 2.8
     },
     {
@@ -104,8 +104,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Got it. Just to check, you mean we're not meeting at the café anymore?",
-      "start": 42.3,
-      "end": 46.65,
+      "start": 42.5,
+      "end": 46.85,
       "duration": 4.35
     },
     {
@@ -113,8 +113,8 @@
       "part": "A",
       "speaker": "Nina",
       "text": "That's right. Please meet us inside the arts center, by the front desk.",
-      "start": 46.93,
-      "end": 54.23,
+      "start": 47.13,
+      "end": 54.43,
       "duration": 7.3
     },
     {
@@ -122,8 +122,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Let me make sure I've got this right: Nina Cole, Saturday at ten fifteen, inside the arts center by the front desk.",
-      "start": 54.51,
-      "end": 62.21,
+      "start": 54.71,
+      "end": 62.41,
       "duration": 7.7
     },
     {
@@ -131,8 +131,8 @@
       "part": "A",
       "speaker": "Nina",
       "text": "Exactly.",
-      "start": 62.49,
-      "end": 64.265,
+      "start": 62.69,
+      "end": 64.465,
       "duration": 1.775
     },
     {
@@ -140,8 +140,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Great. Thanks for clearing that up.",
-      "start": 64.545,
-      "end": 66.745,
+      "start": 64.745,
+      "end": 66.945,
       "duration": 2.2
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "Daniel?",
-      "start": 67.875,
-      "end": 69.475,
+      "start": 68.075,
+      "end": 69.675,
       "duration": 1.6
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Yes. Hi, Nina. Sorry I'm a few minutes late. My bus was late.",
-      "start": 69.755,
-      "end": 73.83,
+      "start": 69.955,
+      "end": 74.03,
       "duration": 4.075
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "No worries. We haven't started yet.",
-      "start": 74.11,
-      "end": 78.035,
+      "start": 74.31,
+      "end": 78.235,
       "duration": 3.925
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Great. Have you organized many of these walks?",
-      "start": 78.315,
-      "end": 81.165,
+      "start": 78.515,
+      "end": 81.365,
       "duration": 2.85
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "Yes. We organized six last year. Have you joined one before?",
-      "start": 81.445,
-      "end": 87.97,
+      "start": 81.645,
+      "end": 88.17,
       "duration": 6.525
     },
     {
@@ -194,8 +194,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "No, I haven't, but I've taken photos around Riverton since I moved back. I used to take pictures much more often.",
-      "start": 88.25,
-      "end": 96.025,
+      "start": 88.45,
+      "end": 96.225,
       "duration": 7.775
     },
     {
@@ -203,8 +203,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "Nice. Are you still taking a lot of pictures?",
-      "start": 96.305,
-      "end": 100.63,
+      "start": 96.505,
+      "end": 100.83,
       "duration": 4.325
     },
     {
@@ -212,8 +212,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I don't take as many anymore. Work's been busy, but I want to take more.",
-      "start": 100.91,
-      "end": 105.685,
+      "start": 101.11,
+      "end": 105.885,
       "duration": 4.775
     },
     {
@@ -221,8 +221,8 @@
       "part": "B",
       "speaker": "Announcement",
       "text": "Everyone, we're meeting in Gallery B.",
-      "start": 105.965,
-      "end": 109.065,
+      "start": 106.165,
+      "end": 109.265,
       "duration": 3.1
     },
     {
@@ -230,8 +230,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Sorry, did she say Gallery B or D?",
-      "start": 109.345,
-      "end": 111.995,
+      "start": 109.545,
+      "end": 112.195,
       "duration": 2.65
     },
     {
@@ -239,8 +239,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "Gallery B, right across from the front desk.",
-      "start": 112.275,
-      "end": 116.825,
+      "start": 112.475,
+      "end": 117.025,
       "duration": 4.55
     },
     {
@@ -248,8 +248,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Got it. Thanks.",
-      "start": 117.105,
-      "end": 118.655,
+      "start": 117.305,
+      "end": 118.855,
       "duration": 1.55
     },
     {
@@ -257,8 +257,8 @@
       "part": "B",
       "speaker": "Nina",
       "text": "Come on. We should go in.",
-      "start": 118.935,
-      "end": 121.46,
+      "start": 119.135,
+      "end": 121.66,
       "duration": 2.525
     }
   ]

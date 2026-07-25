@@ -122,16 +122,16 @@
       "speaker": "Daniel",
       "text": "Yes. I'll send it again as both a document and a PDF, so you can compare them.",
       "start": 57.41,
-      "end": 63.01,
-      "duration": 5.6
+      "end": 63.16,
+      "duration": 5.75
     },
     {
       "id": 14,
       "part": "B",
       "speaker": "Marcus",
       "text": "Thanks. If I haven't replied by four, please follow up. I may be in a meeting.",
-      "start": 63.29,
-      "end": 67.765,
+      "start": 63.44,
+      "end": 67.915,
       "duration": 4.475
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Will do. I'll put “Updated welcome section” in the subject line.",
-      "start": 68.045,
-      "end": 72.345,
+      "start": 68.195,
+      "end": 72.495,
       "duration": 4.3
     }
   ]

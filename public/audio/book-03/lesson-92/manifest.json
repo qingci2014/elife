@@ -105,16 +105,16 @@
       "speaker": "Robin",
       "text": "The median response time was 1.4 seconds across 120 prepared searches. Can we call the new search fast?",
       "start": 88.825,
-      "end": 97.275,
-      "duration": 8.45
+      "end": 97.225,
+      "duration": 8.4
     },
     {
       "id": 12,
       "part": "B",
       "speaker": "Keira",
       "text": "Only for those searches in that test environment. We can’t rule out slower performance with more users, larger indexes or different queries.",
-      "start": 97.555,
-      "end": 107.03,
+      "start": 97.505,
+      "end": 106.98,
       "duration": 9.475
     },
     {
@@ -122,8 +122,8 @@
       "part": "B",
       "speaker": "Robin",
       "text": "Staff recorded eleven hours of parallel review. The examples don’t represent a full migration, so multiplying eleven hours by the number of batches would be unreliable.",
-      "start": 107.31,
-      "end": 119.21,
+      "start": 107.26,
+      "end": 119.16,
       "duration": 11.9
     },
     {
@@ -131,8 +131,8 @@
       "part": "B",
       "speaker": "Keira",
       "text": "Exactly. Both experts agree that the safeguards worked as designed in this test. Where they differ is still the post-test migration sequence.",
-      "start": 119.49,
-      "end": 128.865,
+      "start": 119.44,
+      "end": 128.815,
       "duration": 9.375
     },
     {
@@ -140,8 +140,8 @@
       "part": "B",
       "speaker": "Robin",
       "text": "The safest conclusion is that the process protected the source and identified a correctable mapping rule in this batch.",
-      "start": 129.145,
-      "end": 136.645,
+      "start": 129.095,
+      "end": 136.595,
       "duration": 7.5
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Keira",
       "text": "Add that the test does not yet establish the best full-migration strategy, total staff time, restricted-record handling or peak performance.",
-      "start": 136.925,
-      "end": 146.425,
+      "start": 136.875,
+      "end": 146.375,
       "duration": 9.5
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Robin",
       "text": "A more accurate way to put the recommendation is: run a second, more varied public-record batch before choosing between phased and single cutover.",
-      "start": 146.705,
-      "end": 156.605,
+      "start": 146.655,
+      "end": 156.555,
       "duration": 9.9
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Keira",
       "text": "That may reduce some uncertainty, but it will not answer the restricted-record question. That requires a separate access review.",
-      "start": 156.885,
-      "end": 165.81,
+      "start": 156.835,
+      "end": 165.76,
       "duration": 8.925
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Robin",
       "text": "I’ll mark the completed batch and corrected rule as closed; migration sequence, scaling and restricted access remain open.",
-      "start": 166.09,
-      "end": 174.74,
+      "start": 166.04,
+      "end": 174.69,
       "duration": 8.65
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Keira",
       "text": "Good. The brief should let a reader see the evidence, the inference, the exceptions and the next decision without treating caution as failure.",
-      "start": 175.02,
-      "end": 184.045,
+      "start": 174.97,
+      "end": 183.995,
       "duration": 9.025
     }
   ],
@@ -195,6 +195,6 @@
     "instruction": "Listen twice without reading. Record the two confirmed results, why eighteen warnings are not eighteen errors, the limited performance result and the two recommended next steps before giving a sourced 60-second summary.",
     "speaker": "Sofia",
     "src": "/audio/book-03/lesson-92/transfer.wav",
-    "duration": 44.525
+    "duration": 44.925
   }
 }

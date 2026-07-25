@@ -15,16 +15,16 @@
       "speaker": "Daniel",
       "text": "Suppose we tried a two-stage method: a three-question paper checklist at the exit and an optional QR follow-up later.",
       "start": 0.35,
-      "end": 8.725,
-      "duration": 8.375
+      "end": 8.925,
+      "duration": 8.575
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Aisha",
       "text": "What would the second stage add that the paper form doesn’t already collect?",
-      "start": 9.005,
-      "end": 13.905,
+      "start": 9.205,
+      "end": 14.105,
       "duration": 4.9
     },
     {
@@ -32,8 +32,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "If people had another twenty-four hours, they might remember a detail after leaving the building.",
-      "start": 14.185,
-      "end": 20.26,
+      "start": 14.385,
+      "end": 20.46,
       "duration": 6.075
     },
     {
@@ -41,17 +41,17 @@
       "part": "A",
       "speaker": "Grace",
       "text": "That might work if the QR form asked only two reflection questions. A second full checklist would create duplicate work.",
-      "start": 20.54,
-      "end": 29.065,
-      "duration": 8.525
+      "start": 20.74,
+      "end": 29.315,
+      "duration": 8.575
     },
     {
       "id": 5,
       "part": "A",
       "speaker": "Aisha",
       "text": "What if someone used only the paper form?",
-      "start": 29.345,
-      "end": 32.67,
+      "start": 29.595,
+      "end": 32.92,
       "duration": 3.325
     },
     {
@@ -59,17 +59,17 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Their response would still be complete. The QR stage would be optional, not a missing half of the process.",
-      "start": 32.95,
-      "end": 39.75,
-      "duration": 6.8
+      "start": 33.2,
+      "end": 40.05,
+      "duration": 6.85
     },
     {
       "id": 7,
       "part": "A",
       "speaker": "Grace",
       "text": "If we used one anonymous symbol on both forms, we could compare immediate and later comments without collecting names.",
-      "start": 40.03,
-      "end": 48.255,
+      "start": 40.33,
+      "end": 48.555,
       "duration": 8.225
     },
     {
@@ -77,8 +77,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "One possible consequence is that people could think the symbol identifies them.",
-      "start": 48.535,
-      "end": 53.985,
+      "start": 48.835,
+      "end": 54.285,
       "duration": 5.45
     },
     {
@@ -86,8 +86,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Then we would need a short privacy note explaining that the three symbols are random and contain no personal information.",
-      "start": 54.265,
-      "end": 62.49,
+      "start": 54.565,
+      "end": 62.79,
       "duration": 8.225
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "Or we could avoid linking the forms at all. We would lose the comparison, but the process would be simpler.",
-      "start": 62.77,
-      "end": 69.795,
+      "start": 63.07,
+      "end": 70.095,
       "duration": 7.025
     },
     {
@@ -104,8 +104,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I’d prefer the simpler version. If we added tracking before we knew we needed it, we would create an unnecessary privacy concern.",
-      "start": 70.925,
-      "end": 79.3,
+      "start": 71.225,
+      "end": 79.6,
       "duration": 8.375
     },
     {
@@ -113,17 +113,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Fair point. Suppose the paper form collected the route location, and the optional QR form collected only later reflections.",
-      "start": 79.58,
-      "end": 88.03,
-      "duration": 8.45
+      "start": 79.88,
+      "end": 88.68,
+      "duration": 8.8
     },
     {
       "id": 13,
       "part": "B",
       "speaker": "Grace",
       "text": "In that case, we wouldn’t try to match one person’s two responses. We would compare the kinds of detail each method produces.",
-      "start": 88.31,
-      "end": 96.96,
+      "start": 88.96,
+      "end": 97.61,
       "duration": 8.65
     },
     {
@@ -131,8 +131,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The downside is extra analysis time. We would have two small sets of comments instead of one.",
-      "start": 97.24,
-      "end": 103.64,
+      "start": 97.89,
+      "end": 104.29,
       "duration": 6.4
     },
     {
@@ -140,17 +140,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "We could test it by making one paper prototype and one two-question QR prototype, then asking three staff members to use both.",
-      "start": 103.92,
-      "end": 112.97,
-      "duration": 9.05
+      "start": 104.57,
+      "end": 113.745,
+      "duration": 9.175
     },
     {
       "id": 16,
       "part": "B",
       "speaker": "Grace",
       "text": "If the same testers used both, we could inspect the response types, but we couldn’t measure natural format preference.",
-      "start": 113.25,
-      "end": 121.375,
+      "start": 114.025,
+      "end": 122.15,
       "duration": 8.125
     },
     {
@@ -158,8 +158,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Exactly. The test would answer “What detail does each form invite?” not “Which method would visitors choose?”",
-      "start": 121.655,
-      "end": 128.305,
+      "start": 122.43,
+      "end": 129.08,
       "duration": 6.65
     },
     {
@@ -167,8 +167,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That’s a useful limit. I’ll draft the two prototypes, but I won’t publish or distribute them.",
-      "start": 128.585,
-      "end": 134.535,
+      "start": 129.36,
+      "end": 135.31,
       "duration": 5.95
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "If the drafts stay anonymous and use only generic route content, I’ll review the questions tomorrow.",
-      "start": 134.815,
-      "end": 142.015,
+      "start": 135.59,
+      "end": 142.79,
       "duration": 7.2
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "Good. We’re agreeing to examine a prototype, not to adopt a two-stage public system.",
-      "start": 142.295,
-      "end": 147.87,
+      "start": 143.07,
+      "end": 148.645,
       "duration": 5.575
     }
   ]

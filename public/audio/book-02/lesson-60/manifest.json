@@ -78,16 +78,16 @@
       "speaker": "Grace",
       "text": "It reaches Riverton at 8:05 and costs twelve dollars extra. That fits all three limits.",
       "start": 57.71,
-      "end": 64.385,
-      "duration": 6.675
+      "end": 64.66,
+      "duration": 6.95
     },
     {
       "id": 9,
       "part": "A",
       "speaker": "Daniel",
       "text": "We need to allow time for the transfer slip. The note says to collect it from Bay 3 before boarding.",
-      "start": 64.665,
-      "end": 71.44,
+      "start": 64.94,
+      "end": 71.715,
       "duration": 6.775
     },
     {
@@ -95,8 +95,8 @@
       "part": "A",
       "speaker": "Grace",
       "text": "And boarding closes at 5:35, so our decision deadline is earlier than the 5:40 departure time.",
-      "start": 71.72,
-      "end": 79.47,
+      "start": 71.995,
+      "end": 79.745,
       "duration": 7.75
     },
     {
@@ -104,8 +104,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "That’s not how I remembered the first notice. I thought the coach left from Bay 5.",
-      "start": 80.6,
-      "end": 86.3,
+      "start": 80.875,
+      "end": 86.575,
       "duration": 5.7
     },
     {
@@ -113,8 +113,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "The record now shows Bay 7. You may be mixing up the coach bay with the slip counter at Bay 3.",
-      "start": 86.58,
-      "end": 93.505,
+      "start": 86.855,
+      "end": 93.78,
       "duration": 6.925
     },
     {
@@ -122,8 +122,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "You’re right. Looking back, I combined two numbers from the same announcement.",
-      "start": 93.785,
-      "end": 98.385,
+      "start": 94.06,
+      "end": 98.66,
       "duration": 4.6
     },
     {
@@ -131,8 +131,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Is it usually enough to collect one transfer slip for both of us, or do we each need one?",
-      "start": 98.665,
-      "end": 104.915,
+      "start": 98.94,
+      "end": 105.19,
       "duration": 6.25
     },
     {
@@ -140,8 +140,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "It depends on the ticket, so let’s not assume. We need to confirm the connection at the service desk.",
-      "start": 105.195,
-      "end": 111.445,
+      "start": 105.47,
+      "end": 111.72,
       "duration": 6.25
     },
     {
@@ -149,8 +149,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "I’ll ask whether the coach is still on time, whether we need two slips, and whether twelve dollars is the total supplement.",
-      "start": 111.725,
-      "end": 119.65,
+      "start": 112.0,
+      "end": 119.925,
       "duration": 7.925
     },
     {
@@ -158,17 +158,17 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "I’ll confirm Bay 7 and the 5:35 boarding cutoff. If we’d kept relying on the first number we remembered, we would’ve waited at the wrong bay.",
-      "start": 119.93,
-      "end": 130.105,
-      "duration": 10.175
+      "start": 120.205,
+      "end": 130.43,
+      "duration": 10.225
     },
     {
       "id": 18,
       "part": "B",
       "speaker": "Grace",
       "text": "The desk confirms two slips, twelve dollars total, Bay 7, and a 5:35 cutoff. The regional train is still due at 6:35.",
-      "start": 130.385,
-      "end": 140.535,
+      "start": 130.71,
+      "end": 140.86,
       "duration": 10.15
     },
     {
@@ -176,8 +176,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Then the coach connection is our main plan, and the 9:10 direct train is our backup.",
-      "start": 140.815,
-      "end": 146.69,
+      "start": 141.14,
+      "end": 147.015,
       "duration": 5.875
     },
     {
@@ -185,8 +185,8 @@
       "part": "B",
       "speaker": "Grace",
       "text": "Agreed. Let’s collect the slips now and be at Bay 7 by 5:28 rather than using every minute of the margin.",
-      "start": 146.97,
-      "end": 155.245,
+      "start": 147.295,
+      "end": 155.57,
       "duration": 8.275
     }
   ],
@@ -195,6 +195,6 @@
     "instruction": "先听两遍，记录取消原因、仍有效的车票、凭条领取点、乘车站台、停止登车时间和备用直达列车。",
     "speaker": "Ellis",
     "src": "/audio/book-02/lesson-60/transfer.wav",
-    "duration": 32.8
+    "duration": 33.1
   }
 }

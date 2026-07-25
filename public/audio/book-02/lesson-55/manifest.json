@@ -14,16 +14,16 @@
       "speaker": "Aisha",
       "text": "I sent the preview ten minutes ago, but the client says there was no file. I forgot to attach the PDF.",
       "start": 0.35,
-      "end": 7.225,
-      "duration": 6.875
+      "end": 7.075,
+      "duration": 6.725
     },
     {
       "id": 2,
       "part": "A",
       "speaker": "Daniel",
       "text": "Did you remember to include the shared link?",
-      "start": 7.505,
-      "end": 10.255,
+      "start": 7.355,
+      "end": 10.105,
       "duration": 2.75
     },
     {
@@ -31,8 +31,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Yes, I remembered to paste it below my message. But the client says access is denied.",
-      "start": 10.535,
-      "end": 16.21,
+      "start": 10.385,
+      "end": 16.06,
       "duration": 5.675
     },
     {
@@ -40,8 +40,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Did you grant view access to the client's address?",
-      "start": 16.49,
-      "end": 19.59,
+      "start": 16.34,
+      "end": 19.44,
       "duration": 3.1
     },
     {
@@ -49,8 +49,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I don't remember changing the access settings. I opened the link before sending it, so I thought it worked.",
-      "start": 19.87,
-      "end": 26.27,
+      "start": 19.72,
+      "end": 26.12,
       "duration": 6.4
     },
     {
@@ -58,8 +58,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "You were already signed in. Try opening it in a private window.",
-      "start": 26.55,
-      "end": 30.9,
+      "start": 26.4,
+      "end": 30.75,
       "duration": 4.35
     },
     {
@@ -67,8 +67,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "I've tried that now. It asks me to sign in to my own workspace, so the client can't use it with the access I sent.",
-      "start": 31.18,
-      "end": 38.255,
+      "start": 31.03,
+      "end": 38.105,
       "duration": 7.075
     },
     {
@@ -76,8 +76,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Stop editing the slides for a minute to check the recipient address and permission level.",
-      "start": 38.535,
-      "end": 44.085,
+      "start": 38.385,
+      "end": 43.935,
       "duration": 5.55
     },
     {
@@ -85,8 +85,8 @@
       "part": "A",
       "speaker": "Aisha",
       "text": "Good point. I don't want to stop editing completely; I just need to pause and verify the delivery.",
-      "start": 44.365,
-      "end": 50.54,
+      "start": 44.215,
+      "end": 50.39,
       "duration": 6.175
     },
     {
@@ -94,8 +94,8 @@
       "part": "A",
       "speaker": "Daniel",
       "text": "Exactly. You're stopping to check one detail, not stopping the work for good.",
-      "start": 50.82,
-      "end": 55.795,
+      "start": 50.67,
+      "end": 55.645,
       "duration": 4.975
     },
     {
@@ -103,8 +103,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "The address is correct. I've granted that named account view access and tested the link while signed out.",
-      "start": 56.925,
-      "end": 63.525,
+      "start": 56.775,
+      "end": 63.375,
       "duration": 6.6
     },
     {
@@ -112,8 +112,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "What about the attachment?",
-      "start": 63.805,
-      "end": 65.68,
+      "start": 63.655,
+      "end": 65.53,
       "duration": 1.875
     },
     {
@@ -121,17 +121,17 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I've attached a read-only PDF as a backup. I also remembered to rename the file “approved preview v3.”",
-      "start": 65.96,
-      "end": 73.385,
-      "duration": 7.425
+      "start": 65.81,
+      "end": 73.61,
+      "duration": 7.8
     },
     {
       "id": 14,
       "part": "B",
       "speaker": "Daniel",
       "text": "Your email subject still says “Draft 2.”",
-      "start": 73.665,
-      "end": 76.615,
+      "start": 73.89,
+      "end": 76.84,
       "duration": 2.95
     },
     {
@@ -139,8 +139,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "You're right. I stopped using vague file names last month, but I forgot to update the subject line this time.",
-      "start": 76.895,
-      "end": 83.645,
+      "start": 77.12,
+      "end": 83.87,
       "duration": 6.75
     },
     {
@@ -148,8 +148,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Try adding one sentence that identifies the only current version.",
-      "start": 83.925,
-      "end": 88.45,
+      "start": 84.15,
+      "end": 88.675,
       "duration": 4.525
     },
     {
@@ -157,17 +157,17 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "How about: “The attached PDF and the link below both contain approved preview version 3”?",
-      "start": 88.73,
-      "end": 94.83,
-      "duration": 6.1
+      "start": 88.955,
+      "end": 95.205,
+      "duration": 6.25
     },
     {
       "id": 18,
       "part": "B",
       "speaker": "Daniel",
       "text": "Clear. Also acknowledge the earlier mistakes rather than asking the client to search again.",
-      "start": 95.11,
-      "end": 100.935,
+      "start": 95.485,
+      "end": 101.31,
       "duration": 5.825
     },
     {
@@ -175,8 +175,8 @@
       "part": "B",
       "speaker": "Aisha",
       "text": "I'll write: “Sorry—the previous message had no attachment, and the link did not include your access. Both issues are fixed below.”",
-      "start": 101.215,
-      "end": 109.04,
+      "start": 101.59,
+      "end": 109.415,
       "duration": 7.825
     },
     {
@@ -184,8 +184,8 @@
       "part": "B",
       "speaker": "Daniel",
       "text": "Good. Send it once, then check the sent copy and wait for confirmation instead of creating another version.",
-      "start": 109.32,
-      "end": 115.995,
+      "start": 109.695,
+      "end": 116.37,
       "duration": 6.675
     }
   ]
